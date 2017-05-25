@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+
+    {% include header.html %}
+
+    <main class="load">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <!-- endinject -->
+
+  <!-- for cloudcannon -->
+  {% if jekyll.environment == 'production' %}
+    <script src=/assets/javascript/index.js></script>
+  {% endif %}
+   <!-- end -->
+
+  </body>
+
+  {% if page.class %}
+    {% include js-{{page.class}}.html %}
+  {% endif %}
+
+</html>

@@ -1,0 +1,457 @@
+.agency {
+
+  .nav-link.agency a {
+    border-bottom: 3px solid $myred;
+  }
+
+  .intro.banner { 
+    @include banner();
+    text-align: center;
+    @include media($mobile-down) {
+      padding-top: rem(60) !important;
+      padding-bottom: rem(60) !important;
+      @include pad(0 1rem);
+      h2 {
+        @include span-columns(1 of 1);
+        font-family: "MillerDisplay Light";
+        font-size: rem(36);
+        color: $mygray;
+      }
+    }
+    @include media($desktop-up) {
+      padding-top: rem(120) !important;
+      padding-bottom: rem(90) !important;
+      h2 {
+        @include span-columns(9 of 15);
+        @include shift(3); 
+        font-family: "MillerDisplay Light";
+        font-size: rem(36);
+        color: $mygray;
+      } 
+    }
+  } 
+ 
+  .services.banner { 
+    @include banner();
+    text-align: center;
+    @include media($mobile-down) {
+      padding-top: rem(60) !important;
+      // padding-bottom: rem(90) !important;
+      background-color: #eee;
+      .inner {
+        @include outer-container();
+        h2 {
+          @include span-columns(1 of 1);
+          font-family: "MillerDisplay Light";
+          font-size: rem(36);
+          color: $mygray;
+          padding-left: 1rem;
+          padding-right: 1rem;
+        }
+        .service-inner {
+          @include span-columns(1 of 1);
+          margin-top: rem(60);
+          text-align: center; 
+          background-color: $text;
+          h5 {
+            font-family: FranklinGothicURW-Dem;
+            color: $mygray;
+            background-color: #030303;
+            margin-bottom: 0;
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            position: relative;
+            &:after {
+                content:'';
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                margin: 0 auto;
+                width: 0;
+                height: 0;
+                border-top: solid 15px #030303;
+                border-left: solid 15px transparent;
+                border-right: solid 15px transparent;
+            }
+          }
+          .service {
+            // width: 33.33%;
+            height: 100%;
+            background-color: $text;
+            float: left;
+            padding: rem(60) rem(30) rem(30);
+            p.headline {
+              font-family: MillerDisplay; 
+              font-size: rem(24);
+              line-height: 1.4;
+              text-transform: uppercase;
+              font-style: italic;
+              margin-bottom: rem(30);
+              color: #fff;
+              letter-spacing: .15em;
+            }
+            p { 
+              font-family: "Miller Text"; 
+              color: $mygray;
+              font-size: rem(18);
+            }
+          }
+        }
+      }
+    }
+    @include media($desktop-up) {
+      padding-top: rem(120) !important;
+      padding-bottom: rem(120) !important;
+      background-color: #eee;
+      .inner {
+        @include outer-container();
+        h2 {
+          @include span-columns(9 of 15);
+          @include shift(3); 
+          font-family: "MillerDisplay Light";
+          font-size: rem(36);
+          color: $mygray;
+        }
+        .service-inner {
+          @include span-columns(15 of 15);
+          // @include shift(2); 
+          margin-top: rem(60);
+          text-align: center; 
+          background-color: $text;
+          h5 {
+            font-family: FranklinGothicURW-Dem;
+            color: $mygray;
+            background-color: #030303;
+            margin-bottom: 0;
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            position: relative;
+            &:after {
+                content:'';
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                margin: 0 auto;
+                width: 0;
+                height: 0;
+                border-top: solid 15px #030303;
+                border-left: solid 15px transparent;
+                border-right: solid 15px transparent;
+            }
+          }
+          .service {
+            width: 33.33%;
+            height: 100%;
+            background-color: $text;
+            float: left;
+            padding: rem(60) rem(30) rem(30);
+            &:first-of-type {
+              padding-left: rem(60);  
+            }
+            &:last-of-type {
+              padding-right: rem(60);  
+            }
+            p.headline {
+              font-family: MillerDisplay; 
+              font-size: rem(24);
+              line-height: 1.4;
+              text-transform: uppercase;
+              font-style: italic;
+              margin-bottom: rem(30);
+              color: #fff;
+              letter-spacing: .15em;
+            }
+            p { 
+              font-family: "Miller Text"; 
+              color: $mygray;
+              font-size: rem(18);
+            }
+          }
+        }
+      }
+    }
+
+    
+  }
+
+  .about.banner { 
+    @include banner();
+    text-align: center;
+    @include media($mobile-down) {
+      padding-top: rem(90) !important;
+      padding-bottom: rem(60) !important;
+      h2 {
+        @include span-columns(1 of 1);
+        font-family: "MillerDisplay Light";
+        font-size: rem(36);
+        color: $mygray;
+        &.top {
+          margin-bottom: 1.5em;
+        }
+        &.bottom {
+          margin-top: 1em;
+        }
+      }
+      .wrapper {
+        // @include shift(2);
+        @include span-columns(1 of 1);
+        .col-1, .col-2 {
+          @include span-columns(1 of 1);
+          text-align: left;
+          // width: 50%;
+          font-family: FranklinGothicURW-Boo;
+          color: $mygray;
+        }
+      }
+    }
+    @include media($desktop-up) {
+      padding-top: rem(120) !important;
+      padding-bottom: rem(90) !important;
+      h2 {
+        @include span-columns(9 of 15);
+        @include shift(3); 
+        font-family: "MillerDisplay Light";
+        font-size: rem(36);
+        color: $mygray;
+        &.top {
+          margin-bottom: 1.5em;
+        }
+        &.bottom {
+          margin-top: 1em;
+        }
+      }
+      .wrapper {
+        @include shift(2);
+        @include span-columns(11 of 15);
+        .col-1, .col-2 {
+          float: left;
+          text-align: left;
+          width: 50%;
+          font-family: FranklinGothicURW-Boo;
+          color: $mygray;
+        }
+        .col-1 {
+          padding-right: .5rem;
+        }
+        .col-2 {
+          padding-left: .5rem;
+        }
+      }
+    }
+  } 
+
+  .team.banner {
+    @include banner();
+    text-align: center;
+    padding-top: rem(120) !important;
+    padding-bottom: rem(120) !important;
+    background-color: #eee;
+    h1 {
+      margin-bottom: rem(60);
+    }
+    @include media($mobile-down) {
+      .people-wrapper {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        @include span-columns(1 of 1);
+        // @include shift(3);
+        .person {
+          @include span-columns(1 of 1);
+          position: relative;
+          background-color: #FFF;
+          padding: rem(10);
+          margin-bottom: rem(20);
+          text-align: center;
+          img {
+            max-height: 50vh;
+            margin-top: rem(40);
+            margin-bottom: rem(40);
+          }
+          .name {
+            font-family: "Miller Text";
+            font-size: rem(24);
+            color: $text;
+            margin-bottom: 0;
+          }
+          .title {
+            font-family: FranklinGothicURW-Boo;
+            font-size: rem(11);
+            color: $text;
+            text-transform: uppercase;
+          }
+          .intro {
+            font-family: "Miller Text";
+            font-size: rem(14);
+            color: $text;
+          }
+          .bio {
+            @include transition(all .3s ease); 
+            // height: rem(40);
+            // width: rem(125);
+            display: inline;
+            background-color: transparent;
+            border: 1px solid $mygray;
+            border-radius: 0px;
+            margin-top: 1rem;
+            margin-bottom: rem(20);
+            height: rem(30);
+            border-radius: 25px;
+            padding: .1rem 1.5rem 0 1.5rem;
+            p {
+              @include transition(all .3s ease);
+              margin-bottom: 0;
+              font-family: FranklinGothicURW-Boo;
+              font-size: rem(9);
+              color: $mygray;
+              letter-spacing: .15em;
+              text-transform: uppercase;
+              font-weight: 500;
+            }
+            &:hover {
+              color: #030303;
+              border: 1px solid $mygray; 
+              background-color: $mygray;
+            }
+            &:hover p {
+              color: #fff;
+            }
+            &:active {
+              color: #030303;
+              border: 1px solid #000; 
+              background-color: #000;
+            }
+            &:active p {
+              color: #fff;
+            }
+          }
+        }
+        .person:hover {
+          .bio {
+            color: #030303;
+            border: 1px solid $mygray; 
+            background-color: $mygray;
+            p {
+              color: #fff;
+            }
+          }
+        }
+        .person:nth-of-type(3n) {
+          @include omega();
+        }
+      }
+    }
+    @include media($desktop-up) {
+      .people-wrapper {
+        @include span-columns(9 of 15);
+        @include shift(3);
+        .person {
+          @include span-columns(3 of 9);
+          position: relative;
+          background-color: #FFF;
+          padding: rem(10);
+          margin-bottom: rem(20);
+          text-align: center;
+          img {
+            margin-bottom: rem(40);
+          }
+          .name {
+            font-family: "Miller Text";
+            font-size: rem(24);
+            line-height: 1.2em;
+            color: $text;
+            margin-bottom: 0;
+          }
+          .title {
+            font-family: FranklinGothicURW-Boo;
+            font-size: rem(11);
+            color: $text;
+            text-transform: uppercase;
+          }
+          .intro {
+            font-family: "Miller Text";
+            font-size: rem(14);
+            color: $text;
+          }
+          .bio {
+            @include transition(all .3s ease); 
+            // height: rem(40);
+            // width: rem(125);
+            display: inline;
+            background-color: transparent;
+            border: 1px solid $mygray;
+            border-radius: 0px;
+            margin-top: 1rem;
+            margin-bottom: rem(20);
+            height: rem(30);
+            border-radius: 25px;
+            padding: .1rem 1.5rem 0 1.5rem;
+            p {
+              @include transition(all .3s ease);
+              margin-bottom: 0;
+              font-family: FranklinGothicURW-Boo;
+              font-size: rem(9);
+              color: $mygray;
+              letter-spacing: .15em;
+              text-transform: uppercase;
+              font-weight: 500;
+            }
+            &:hover {
+              color: #030303;
+              border: 1px solid $mygray; 
+              background-color: $mygray;
+            }
+            &:hover p {
+              color: #fff;
+            }
+            &:active {
+              color: #030303;
+              border: 1px solid #000; 
+              background-color: #000;
+            }
+            &:active p {
+              color: #fff;
+            }
+          }
+        }
+        .person:hover {
+          .bio {
+            color: #030303;
+            border: 1px solid $mygray; 
+            background-color: $mygray;
+            p {
+              color: #fff;
+            }
+          }
+        }
+        .person:nth-of-type(3n) {
+          @include omega();
+        }
+      }
+    }
+  }
+
+
+
+
+
+
+
+
+
+  .full.split {
+    .split.banner {
+      @include split-banner();
+      .split-right .arrow {
+        // fill: #fff !important;
+      }
+      .split-right {
+        h5, h3 {
+          color: #fff;
+        }
+      }
+    }    
+  } 
+
+}

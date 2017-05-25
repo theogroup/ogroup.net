@@ -1,0 +1,49 @@
+# Title, decription, tagline and URL for your site
+# Can be used in your theme by calling 'site.title' and so on
+title: Boilerplate
+description: This is zombocom. You can do anything at zombocom, anything at all.
+url: http://www.example.com
+
+# CloudCannon uses these:
+source: src
+destination: dist
+exclude:
+
+
+
+collections:
+
+defaults:
+  -
+    scope:
+      path: "cms.md"
+    values:
+      layout: "cms"
+      permalink: "/cms/"
+      _hide_content: true
+  -
+    scope:
+      path: "about.html"
+    values:
+      class: about
+      layout: default
+      permalink: "/about/"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      class: project
+      layout: default
+      permalink: "/work/:slug/"
+
+
+# Extending Jekyll
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  # - jekyll-redirect-from
+  # - jekyll-polyglot
+  # - jekyll-paginate
+  # - jekyll-archives
+  # - jekyll-feed
