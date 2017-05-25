@@ -32,5 +32,5 @@ content_blocks:
       - image:
     grid_image:
       image:
-contact_tagline
+contact_tagline:
 ---
