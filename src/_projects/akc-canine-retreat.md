@@ -18,6 +18,7 @@ content_blocks:
         image_banner_text_color:
         image_banner_text:
       split_banner:
+        split_banner_image: 
         image_align:
         split_banner_headline_line_1:
         split_banner_headline_line_2:
@@ -43,6 +44,7 @@ content_blocks:
         image_banner_text_color:
         image_banner_text:
       split_banner:
+        split_banner_image:
         image_align: left
         split_banner_headline_line_1: A New Tradition
         split_banner_headline_line_2:
