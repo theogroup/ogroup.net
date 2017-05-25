@@ -9,9 +9,10 @@ source: src
 destination: dist
 exclude:
 
-
-
 collections:
+  projects:
+    output: true
+    permalink: /work/:slug/
 
 defaults:
   -
@@ -35,8 +36,6 @@ defaults:
     values:
       class: project
       layout: default
-      permalink: "/work/:slug/"
-
 
 # Extending Jekyll
 gems:
