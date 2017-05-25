@@ -32,5 +32,5 @@ content_blocks:
       gallery:
         - image:
       grid_image:
-        image: /uploads/akc-grid-image-3.png
+        image:
 contact_tagline
