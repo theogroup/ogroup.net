@@ -29,7 +29,7 @@ content_blocks:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
     gallery:
-      - image
+      - image:
     grid_image:
       image:
 contact_tagline
