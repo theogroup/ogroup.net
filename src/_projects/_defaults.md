@@ -1,7 +1,9 @@
 title:
 client:
-features_image:
+featured_image:
 vimeo_id:
+vimeo_width:
+vimeo_height:
 headline:
 headline_text_color: '#000000'
 overview:

@@ -6,7 +6,7 @@ const size = require('gulp-size');
 
 // 'gulp images' -- optimizes and caches your images
 gulp.task('images', () =>
-  gulp.src('src/images/**/*')
+  gulp.src('src/assets/images/**/*')
     // .pipe(cache(imagemin([
     //   imagemin.gifsicle({interlaced: true}),
     //   imagemin.jpegtran({progressive: true}),

@@ -1,0 +1,206 @@
+---
+layout: default
+---
+
+
+{% if page.vimeo_id %}
+  <section class="video full">
+    <div class="header-video">
+      <img src="{{ page.featured_image }}"
+             class="header-video__media"
+             data-video-url="https://vimeo.com/{{ page.vimeo_id  }}"
+             data-video-id="{{ page.vimeo_id }}"
+             data-video-width="{{ page.vimeo_width }}"
+             data-video-height="{{ page.vimeo_height }}">
+
+      <div class="inner">
+        <div class="inner-2">
+          <h2 class="headline" {% if page.headline_text_color %}style="color: {{page.headline_text_color}}"{% endif %}>{{ page.headline }}</h2>
+          <div class="play">
+          <!-- <h1>test</h1> -->
+            <a href="" class="header-video__play-trigger" id="header-video__play-trigger"><img src="/assets/images/play.svg" alt="" class="svg"></a>
+          </div>
+
+        </div>
+      </div>
+
+      <button type="button" class="header-video__close-trigger modal-close" id="header-video__close-trigger"></button>
+    </div>
+  </section>
+{% else %}
+  <section id="backstretch" class="full">
+    <div class="inner-wrapper">
+      <div class="inner">
+        <h2 class="headline" {% if page.headline_text_color %}style="color: {{page.headline_text_color}}"{% else %}style="color: 'white'"{% endif %}>{{ page.headline }}</h2>
+      </div>
+    </div>
+    <img src="/assets/images/scroll.svg" alt="" class="svg scroll">
+  </section>
+{% endif %}
+
+{% for block in page.content_blocks %}
+  {% assign text_banner_length = block.text_banner.text_banner_text | size %}
+  {% if text_banner_length  > 1 %}
+    <section class="full" {% if block.text_banner.text_banner_background_color %}style="background-color: {{block.text_banner.text_banner_background_color}}"{% endif %}>
+      <div class="banner arrow" {% if block.text_banner.text_banner_background_color %}style="background-color: {{block.text_banner.text_banner_background_color}}"{% endif %}>
+        <div class="inner-wrapper">
+          <div class="inner">
+            <h2 class="headline" {% if block.text_banner.text_banner_color %}style="color: {{block.text_banner.text_banner_color}}"{% else %}style="color: white"{% endif %}>{{ block.text_banner.text_banner_text }}</h2>
+          </div>
+        </div>
+      </div>
+    </section>
+  {% elsif block.image_banner.image_banner_image %}
+    <section class="full">
+      <div class="banner photo" style="background-image: url({{ block.image_banner.image_banner_image }}); background-position: center center; background-size: cover">
+        <div class="inner-wrapper">
+          <div class="inner">
+            <h2 class="headline" {% if block.image_banner.image_banner_text_color %}style="color: {{block.image_banner.image_banner_text_color}}"{% endif %}>{{ block.image_banner.image_banner_text }}</h2>
+          </div>
+        </div>
+      </div>
+    </section>
+  {% elsif block.grid_image.image %}
+    <section class="grid image-wrapper">
+      <div class="banner grid-image"><img src="{{ block.grid_image.image }}" alt=""></div>
+    </section>
+  {% elsif block.split_banner.split_banner_image %}
+    <section class="grid">
+      <div class="banner dual">
+          {% if block.split_banner.image_align == "left" %}
+          <div class="image-first">
+            <img class="image" src="{{ block.split_banner.split_banner_image }}" alt="">
+          </div>
+          <div class="wrapper">
+            <div class="text text-second">
+              <p class="headline">{{ block.split_banner.split_banner_headline_line_1 }}</p>
+              <p class="headline">{{ block.split_banner.split_banner_headline_line_2 }}</p>
+              <p class="text">{{ block.split_banner.split_banner_text }}</p>
+            </div>
+          </div>
+          {% elsif block.split_banner.image_align == "right" %}
+          <div class="wrapper">
+            <div class="text text-first">
+              <p class="headline">{{ block.split_banner.split_banner_headline_line_1 }}</p>
+              <p class="headline">{{ block.split_banner.split_banner_headline_line_2 }}</p>
+              <p class="text">{{ block.split_banner.split_banner_text }}</p>
+            </div>
+            <div class="image-second">
+              <img class="image" src="{{ block.split_banner.split_banner_image }}" alt="">
+            </div>
+          </div>
+          {% endif %}
+      </div>
+    </section>
+  {% elsif block.text_on_image_banner.text_on_image_banner_image %}
+    <section class="full">
+      <div class="banner text_on_image" data-text_on_image="scroll"
+      style="background-image: url({{ block.text_on_image_banner.text_on_image_banner_image }}); background-position: center center">
+        {% if block.text_on_image_banner.text_on_image_banner_text %}
+        <div class="inner-wrapper">
+
+            {% if block.text_on_image_banner.text_align == "left" %}
+            <div class="inner left">
+              <p class="headline" {% if block.text_on_image_banner.text_on_image_banner_text_color %}style="color: {{block.text_on_image_banner.text_on_image_banner_text_color}}"{% endif %}>{{ block.text_on_image_banner.text_on_image_banner_headline_line_1 }}</p>
+              <p class="headline" {% if block.text_on_image_banner.text_on_image_banner_text_color %}style="color: {{block.text_on_image_banner.text_on_image_banner_text_color}}"{% endif %}>{{ block.text_on_image_banner.text_on_image_banner_headline_line_2 }}</p>
+              <p class="text" {% if block.text_on_image_banner.text_on_image_banner_text_color %}style="color: {{block.text_on_image_banner.text_on_image_banner_text_color}}"{% endif %}>{{ block.text_on_image_banner.text_on_image_banner_text }}</p>
+            </div>
+            {% elsif block.text_on_image_banner.text_align == "right" %}
+            <div class="inner right">
+              <p class="headline" {% if block.text_on_image_banner.text_on_image_banner_text_color %}style="color: {{block.text_on_image_banner.text_on_image_banner_text_color}}"{% endif %}>{{ block.text_on_image_banner.text_on_image_banner_headline_line_1 }}</p>
+              <p class="headline" {% if block.text_on_image_banner.text_on_image_banner_text_color %}style="color: {{block.text_on_image_banner.text_on_image_banner_text_color}}"{% endif %}>{{ block.text_on_image_banner.text_on_image_banner_headline_line_2 }}</p>
+              <p class="text" {% if block.text_on_image_banner.text_on_image_banner_text_color %}style="color: {{block.text_on_image_banner.text_on_image_banner_text_color}}"{% endif %}>{{ block.text_on_image_banner.text_on_image_banner_text }}</p>
+            </div>
+            {% endif %}
+
+        </div>
+        {% endif %}
+      </div>
+    </section>
+  {% elsif block.gallery.image[0] %}
+    <section class="full">
+      <div class="gallery flickity">
+        {% for image in block.gallery %}
+        <div class="gallery-cell" style="background-image: url({{ image }}); background-position: center center; background-size: cover"></div>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+{% endfor %}
+
+
+
+<section class="split full">
+  <div class="split banner">
+    <div class="split split-left">
+    <a href="/contact">
+      <h5>Contact</h5>
+      <h3>{{ page.contact_tagline }} {{ page.client }}.</h3>
+      <div class="arrow-wrapper">
+        <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+      </div>
+    </a>
+    </div>
+   {% assign projects = site.projects | sort:"sort_order" %}
+     {% for project in projects %}
+       {% if project.title == page.title %}
+         {% continue %}
+       {% else %}
+         {% if forloop.last %}
+           <div class="split-right" style="background-image: url({{projects[0].featured_image}}); background-size: cover; background-position: center center">
+             <a href="">
+               <h5>Next Case Study</h5>
+               <h3>{{ projects[0].overview }}</h3>
+               <div class="arrow-wrapper">
+                 <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+               </div>
+             </a>
+           </div>
+         {% else %}
+           {% assign next_i = forloop.index0 | plus: 1 %}
+           <div class="split-right" style="background-image: url({{projects[next_i].featured_image}}); background-size: cover; background-position: center center">
+             <a href="">
+               <h5>Next Case Study</h5>
+               <h3>{{ projects[next_i].overview }}</h3>
+               <div class="arrow-wrapper">
+                 <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+               </div>
+             </a>
+           </div>
+         {% endif %}
+       {% endif %}
+     {% endfor %}
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

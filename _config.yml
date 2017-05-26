@@ -35,7 +35,7 @@ defaults:
       type: "projects"
     values:
       class: project
-      layout: default
+      layout: project
 
 # Extending Jekyll
 gems:
