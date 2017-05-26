@@ -1,3 +1,4 @@
+---
 title: "Merritt"
 client: "Merritt"
 featured_image: /uploads/merritt-featured-image.jpg
@@ -36,3 +37,4 @@ content_blocks:
       grid_image:
         image:
 contact_tagline: Let’s talk about the work we did for
+---
