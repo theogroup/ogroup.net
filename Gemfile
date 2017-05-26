@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'jekyll'
+gem 'jekyll', '3.4.0'
 gem 'redcarpet'
 # gem 'neat' # only needed to install neat files
 

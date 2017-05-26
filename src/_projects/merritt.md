@@ -1,5 +1,5 @@
-title: Merritt
-client: Merritt
+title: "Merritt"
+client: "Merritt"
 featured_image: /uploads/merritt-featured-image.jpg
 vimeo_id: 210996011
 vimeo_width: 640

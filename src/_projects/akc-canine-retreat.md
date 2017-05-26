@@ -1,6 +1,6 @@
 ---
-title: AKC Canine Retreat
-client: AKC Canine Retreat
+title: "AKC Canine Retreat"
+client: "AKC Canine Retreat"
 featured_image: /uploads/akc-featured-image.png
 vimeo_id:
 vimeo_width: 640
