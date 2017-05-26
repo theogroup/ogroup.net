@@ -9,6 +9,8 @@ source: src
 destination: dist
 exclude:
 
+header_logo: '/assets/images/header_logo.svg'
+
 collections:
   projects:
     output: true
