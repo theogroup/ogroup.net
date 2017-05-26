@@ -41,7 +41,7 @@ content_blocks:
       text_banner_background_color:
     image_banner:
       image_banner_image: /uploads/merritt-image-banner-1.jpg
-      image_banner_text_color: '#000000'
+      image_banner_text_color: '#ffffff'
       image_banner_text: 'Our creative strategy delivered instant credibility for the Merritt brand, and simplified the decision to choose Merritt over their competitors.'
     split_banner:
       split_banner_image:
