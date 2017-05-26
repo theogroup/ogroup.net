@@ -187,8 +187,8 @@ content_blocks:
       image: /uploads/merritt-grid-image-3.jpg
   - text_banner:
       text_banner_text: We concepted and shot a stunning video that reflects Merritt’s vision for the future of the category.
-      text_banner_color: #fff
-      text_banner_background_color: #202020
+      text_banner_color:
+      text_banner_background_color:
     image_banner:
       image_banner_image:
       image_banner_text_color:
@@ -260,6 +260,56 @@ content_blocks:
       - image:
     grid_image:
       image: /uploads/merritt-grid-image-5.gif
+  - text_banner:
+      text_banner_text: A motion graphics piece dynamically tells the brand story.
+      text_banner_color: '#ffffff'
+      text_banner_background_color: '#202020'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
