@@ -309,7 +309,7 @@ content_blocks:
     gallery:
       - image:
     grid_image:
-      image:
+      image: /uploads/merritt-grid-image-6.gif
 contact_tagline: Let’s talk about the work we did for
 ---
 
