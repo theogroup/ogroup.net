@@ -110,6 +110,31 @@ content_blocks:
       - image:
     grid_image:
       image: /uploads/merritt-grid-image-2.jpg
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/merritt-split-banner-image-1.jpg
+      image_align: right
+      split_banner_headline_line_1: The new branding and website transcend price.
+      split_banner_headline_line_2:
+      split_banner_text: 'Merritt is the top millwork company in the US and within the top 10 around the world. Project management is a key part of what separates Merritt, however it is their dedication to perfection that has helped them earn their reputation.'
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
