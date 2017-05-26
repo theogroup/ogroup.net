@@ -14,7 +14,7 @@ header_logo: '/assets/images/header_logo.svg'
 collections:
   projects:
     output: true
-    permalink: /work/:slug/
+    permalink: "/work/:slug/"
 
 defaults:
   -
