@@ -11,9 +11,9 @@ overview: In the Know—A campaign to represent a new take on what a luxury Miam
 sort_order: 0
 content_blocks:
   - text_banner:
-      text_banner_text:
-      text_banner_color:
-      text_banner_background_color:
+      text_banner_text: Where the luxury of The Ritz-Carlton meets the feel of a neighborhood.
+      text_banner_color: '#000000'
+      text_banner_background_color: '#c2d6ef'
     image_banner:
       image_banner_image:
       image_banner_text_color:
