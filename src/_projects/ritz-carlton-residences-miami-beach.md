@@ -60,6 +60,31 @@ content_blocks:
       - image:
     grid_image:
       image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/ritz-split-1.jpg
+      image_align: left
+      split_banner_headline_line_1: A new take on what a luxury Miami home can be.
+      split_banner_headline_line_2:
+      split_banner_text: 'Lionheart Capital, the project developers, needed to create an advertising campaign, marketing collateral and sales tools that would connect with consumers.'
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
