@@ -187,8 +187,8 @@ content_blocks:
       image: /uploads/merritt-grid-image-3.jpg
   - text_banner:
       text_banner_text: We concepted and shot a stunning video that reflects Merritt’s vision for the future of the category.
-      text_banner_color:
-      text_banner_background_color:
+      text_banner_color: white
+      text_banner_background_color: '#202020'
     image_banner:
       image_banner_image:
       image_banner_text_color:

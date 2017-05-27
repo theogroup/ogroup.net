@@ -1,3 +1,4 @@
+---
 title:
 client:
 featured_image:
@@ -34,4 +35,5 @@ content_blocks:
       - image:
     grid_image:
       image:
-contact_tagline:
+contact_tagline: Let’s talk about the work we did for
+---

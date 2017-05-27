@@ -143,12 +143,12 @@ layout: default
     </div>
    {% assign projects = site.projects | sort:"sort_order" %}
      {% for project in projects %}
-       {% if project.title == page.title %}
+       {% if project.title != page.title %}
          {% continue %}
        {% else %}
          {% if forloop.last %}
            <div class="split-right" style="background-image: url({{projects[0].featured_image}}); background-size: cover; background-position: center center">
-             <a href="">
+             <a href="{{ projects[0].url }}">
                <h5>Next Case Study</h5>
                <h3>{{ projects[0].overview }}</h3>
                <div class="arrow-wrapper">
@@ -159,7 +159,7 @@ layout: default
          {% else %}
            {% assign next_i = forloop.index0 | plus: 1 %}
            <div class="split-right" style="background-image: url({{projects[next_i].featured_image}}); background-size: cover; background-position: center center">
-             <a href="">
+             <a href="{{ projects[next_i].url }}">
                <h5>Next Case Study</h5>
                <h3>{{ projects[next_i].overview }}</h3>
                <div class="arrow-wrapper">
