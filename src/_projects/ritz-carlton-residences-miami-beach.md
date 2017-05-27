@@ -36,13 +36,13 @@ content_blocks:
     grid_image:
       image:
   - text_banner:
-      text_banner_text: Our strategy separates The Ritz-Carlton Residences Miami Beach by leveraging the privacy and location that make the property so unique and appealing.
-      text_banner_color: '#ffffff'
-      text_banner_background_color: '#000000'
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
     image_banner:
-      image_banner_image:
-      image_banner_text_color:
-      image_banner_text:
+      image_banner_image: /uploads/ritz-image-1.jpg
+      image_banner_text_color: '#ffffff'
+      image_banner_text: Our strategy separates The Ritz-Carlton Residences Miami Beach by leveraging the privacy and location that make the property so unique and appealing.
     split_banner:
       split_banner_image:
       image_align:
