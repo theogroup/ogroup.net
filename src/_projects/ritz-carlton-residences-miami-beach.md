@@ -1,14 +1,14 @@
 ---
-title:
-client:
-featured_image:
+title: Ritz-Carlton Residences Miami Beach
+client: Ritz-Carlton
+featured_image: /uploads/ritz-featured-image.jpg
 vimeo_id:
 vimeo_width:
 vimeo_height:
-headline:
-headline_text_color: '#000000'
-overview:
-sort_order: 5
+headline: Miami’s Modern Oasis
+headline_text_color: '#ffffff'
+overview: In the Know—A campaign to represent a new take on what a luxury Miami home can be.
+sort_order: 0
 content_blocks:
   - text_banner:
       text_banner_text:
@@ -35,5 +35,7 @@ content_blocks:
       - image:
     grid_image:
       image:
-contact_tagline:
+contact_tagline: Let’s talk about the work we did for
 ---
+
+
