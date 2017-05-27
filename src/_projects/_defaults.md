@@ -1,3 +1,4 @@
+---
 title:
 client:
 featured_image:
@@ -35,3 +36,4 @@ content_blocks:
     grid_image:
       image:
 contact_tagline:
+---
