@@ -157,7 +157,10 @@ content_blocks:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
     gallery:
-      - image:
+      - image: /uploads/ritz-gallery-1.jpg
+      - image: /uploads/ritz-gallery-2.jpg
+      - image: /uploads/ritz-gallery-3.jpg
+      - image: /uploads/ritz-gallery-4.jpg
     grid_image:
       image:
 contact_tagline: Let’s talk about the work we did for
