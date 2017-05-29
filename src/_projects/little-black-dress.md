@@ -210,6 +210,81 @@ content_blocks:
       - image:
     grid_image:
       image: /uploads/lbd-grid-4.jpg
+  - text_banner:
+      text_banner_text: The Little Black Dress Wines lifestyle isn’t exactly basic.
+      text_banner_color: '#000000'
+      text_banner_background_color: '#edd4d7'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/lbd-split-2.jpg
+      image_align: right
+      split_banner_headline_line_1: Inspired by fashion
+      split_banner_headline_line_2: brands she loves
+      split_banner_text: 'Inspired by fashion and beauty brands, the new LBD website and photography create a lifestyle context for the brand. It treats the wine as an aspirational accessory to every moment, whether it be a low-key catch-up or a spontaneous party.'
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
