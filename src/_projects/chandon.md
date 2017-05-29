@@ -25,7 +25,7 @@ content_blocks:
       split_banner_headline_line_2:
       split_banner_text:
     text_on_image_banner:
-      text_on_image_banner_image:
+      text_on_image_banner_image: /uploads/chandon-text-on-image-1.png
       text_on_image_banner_text_color: '#212121'
       text_align: right
       text_on_image_banner_headline_line_1: Festive not formal
