@@ -1,7 +1,7 @@
 ---
 title: Chandon
 client: Chandon
-featured_image: 'http://lh3.googleusercontent.com/PNEOSajDpm-eXdg-ih4v-4mbfc8I5iqcPyMkBaJ2WMmECAyb4u_Qi4LsxsatUDpEpJAydLtC3OBqeaaFIgZKz8HQqu0IfA=s1440'
+featured_image: /uploads/chandon-featured-image.png
 vimeo_id:
 vimeo_width:
 vimeo_height:
