@@ -239,6 +239,81 @@ content_blocks:
       - image:
     grid_image:
       image:
+  - text_banner:
+      text_banner_text: Create a new foundation to build from.
+      text_banner_color: '#ffffff'
+      text_banner_background_color: '#000000'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/cm-split-4.jpg
+      image_align: left
+      split_banner_headline_line_1: THE CAPTAIN’S SPIRIT
+      split_banner_headline_line_2: LIVES ON.
+      split_banner_text: Ultimately the work that we did was just the beginning. The new voice and tone was communicated through the brand book and embraced by other partners to execute across a range of platforms.
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image: /uploads/cm-image-4.jpg
+      image_banner_text_color: '#ffffff'
+      image_banner_text: '"We took one look and immediately sent several kits to the global president in the UK, so your amazing work has literally started to travel around the world."'
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
