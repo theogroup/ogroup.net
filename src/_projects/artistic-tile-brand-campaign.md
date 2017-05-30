@@ -260,6 +260,81 @@ content_blocks:
       - image:
     grid_image:
       image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/art-split-4.jpg
+      image_align: right
+      split_banner_headline_line_1: 'Unified Digital & Print Communications'
+      split_banner_headline_line_2:
+      split_banner_text: 'A brand is only as strong as its weakest point of execution. With an extensive catalog of products and two diverse audiences of consumers and trade, Artistic Tile needed a beautiful and unified communications system. We tailored materials to focus on collections or specific product attributes, delivering unified themes for the brand to utilize.'
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image: /uploads/art-grid-4.jpg
+  - text_banner:
+      text_banner_text: '“The new campaign has elevated Artistic Tile; it aligns with other high-end advertisers we feature, and speaks directly to our target audience.” —Stacy Piano, Lifestyle Director at Veranda Magazine'
+      text_banner_color: '#ffffff'
+      text_banner_background_color: '#8e8b86'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
