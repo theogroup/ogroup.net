@@ -164,6 +164,81 @@ content_blocks:
       - image: /uploads/cm-gallery-1.jpg
     grid_image:
       image:
+  - text_banner:
+      text_banner_text: Introduce Spiced Rum to the brown spirit enthusiasts.
+      text_banner_color: '#ffffff'
+      text_banner_background_color: '#000000'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image: /uploads/cm-image-3.jpg
+      image_banner_text_color: '#ffffff'
+      image_banner_text: Rum so fierce it could kill Satan himself.
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/cm-split-3.jpg
+      image_align: right
+      split_banner_headline_line_1: THE TASTE OF BLACK.
+      split_banner_headline_line_2:
+      split_banner_text: 'The gatekeeper kit and brand book emphasize that this Spiced Rum actually drinks like a whiskey. The captain is recast as a force to be reckoned with. The addition of the whiskey stones drive home the point that this rum has been reformulated for sophisticated flavor, capable of replacing other brown spirits.'
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
