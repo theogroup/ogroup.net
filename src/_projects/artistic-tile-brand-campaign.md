@@ -1,14 +1,14 @@
 ---
 title: Artistic Tile Brand Campaign
-client:
-featured_image:
+client: Artistic Tile
+featured_image: /uploads/artistic-featured.jpg
 vimeo_id:
 vimeo_width:
 vimeo_height:
-headline:
-headline_text_color: '#000000'
-overview:
-sort_order: 5
+headline: Absolutely worth it.
+headline_text_color: '#0e0e0e'
+overview: Absolutely Worth It—a campaign to shift perception and elevate tile as a luxury product.
+sort_order: 4
 content_blocks:
   - text_banner:
       text_banner_text:
@@ -37,3 +37,5 @@ content_blocks:
       image:
 contact_tagline: Let’s talk about the work we did for
 ---
+
+
