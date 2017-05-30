@@ -114,6 +114,56 @@ content_blocks:
       - image: /uploads/km-gallery-5.jpg
     grid_image:
       image:
+  - text_banner:
+      text_banner_text: Do more than sell jewelry.
+      text_banner_color: '#ffffff'
+      text_banner_background_color: '#606066'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/km-split-2.jpg
+      image_align: left
+      split_banner_headline_line_1: A BEAUTIFUL CAMPAIGN.
+      split_banner_headline_line_2: A BOLD CULTURAL STANCE.
+      split_banner_text: Sustainability is at the forefront of the brand’s business practices and communications. The striking campaign platform provided an important opportunity to drive both brand and environmental awareness.
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery:
+      - image:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
