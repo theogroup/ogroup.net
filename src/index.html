@@ -2,7 +2,6 @@
 layout: default
 class: home
 description: The Branding and Design Agency for Luxury Brands
-tagline: 'Anyone can tell you where luxury came from. As a creative agency, we work with clients to shape where it’s headed.'
 header_headline: 'Luxury creative for brands of all kinds. View our reel.'
 header_headline_text_color: '#ffffff'
 intro_tagline: 'Anyone can tell you where luxury came from. As a creative agency, we work with clients to shape where it’s headed.'
@@ -49,3 +48,41 @@ header_background_image: /uploads/home_header_background.jpg
     </section>
   {% endif %}
 
+  <section class="grid">
+    <div class="intro hero">
+      <div class="square">
+        <div class="headline-wrapper">
+          <h5>rethink</h5>
+          <h1 class="headline">Luxury</h1>
+        </div>
+      </div>
+      <div class="tagline-wrapper">
+        <h2>{{ page.intro_tagline }}</h2>
+      </div>
+    </div>
+
+    <div class="projects banner arrow">
+      <div class="inner-wrapper">
+        <div class="inner">
+          <h5>featured work</h5>
+          <h1 class="headline">Case Studies</h1>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="full">
+    {% assign projects = site.projects | where:'show_on_homepage','true' | sort: 'sort_order' %}
+    {% for project in projects  %}
+    <div class="showcase" style="background-image: url({{ project.featured_image }}); background-position: center center">
+     <a href="{{ project.url }}">
+      <div class="inner-wrapper">
+        <div class="inner">
+          <h5>{{ project.client }}</h5>
+          <h2>{{ project.overview }}</h2>
+            <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+        </div>
+      </div>
+     </a>
+    </div>
+   {% endfor %}
