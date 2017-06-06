@@ -12,6 +12,97 @@ vimeo:
   vimeo_width: 640
   vimeo_height: 360
 header_background_image: /uploads/home_header_background.jpg
+logos:
+  - name: Hennessy
+    logo:
+    percentage_height:
+  - name: The Pierre
+    logo:
+    percentage_height:
+  - name: Salvatore Ferragamo
+    logo:
+    percentage_height:
+  - name: Langham Place
+    logo:
+    percentage_height:
+  - name: Lacoste
+    logo:
+    percentage_height:
+  - name: Diageo
+    logo:
+    percentage_height:
+  - name: Marriott International
+    logo:
+    percentage_height:
+  - name: Crown Royal
+    logo:
+    percentage_height:
+  - name: Chef Michael White
+    logo:
+    percentage_height:
+  - name: Godiva
+    logo:
+    percentage_height:
+  - name: Kimberly McDonald
+    logo:
+    percentage_height:
+  - name: Glenmorangie
+    logo:
+    percentage_height:
+  - name: Bizzi & Partners Development
+    logo:
+    percentage_height:
+  - name: Garrard
+    logo:
+    percentage_height:
+  - name: Donald J Pliner
+    logo:
+    percentage_height:
+  - name: Effy
+    logo:
+    percentage_height:
+  - name: Captain Morgan Black
+    logo: 90
+    percentage_height:
+  - name: Artistic Tile
+    logo:
+    percentage_height: 110
+  - name: Belvedere
+    logo:
+    percentage_height:
+  - name: Ai Fiori
+    logo:
+    percentage_height:
+  - name: Altamarea
+    logo:
+    percentage_height:
+  - name: Acqualina
+    logo:
+    percentage_height:
+  - name: Assael
+    logo:
+    percentage_height:
+  - name: Fetzer
+    logo:
+    percentage_height:
+  - name: Robert Marc
+    logo:
+    percentage_height:
+  - name: Remy Martin
+    logo:
+    percentage_height:
+  - name: Reinhold
+    logo:
+    percentage_height:
+  - name: Piaget
+    logo:
+    percentage_height:
+  - name: Moet & Chandon
+    logo:
+    percentage_height:
+  - name: The Ritz-Carlton Residences Miami Beach
+    logo:
+    percentage_height:
 ---
   {% if page.vimeo.vimeo_id.size > 2 %}
     <section class="video full">
@@ -86,3 +177,28 @@ header_background_image: /uploads/home_header_background.jpg
      </a>
     </div>
    {% endfor %}
+   </section>
+
+   <section class="grid">
+     <div class="about hero">
+       <div class="tagline-wrapper">
+         <h2>{{ page.work_tagline }}</h2>
+       </div>
+       <div class="button-wrapper">
+         <a href="/work"><button><p>more work</p></button></a>
+         <a href="/agency"><button><p>agency</p></button></a>
+       </div>
+     </div>
+   </section>
+
+   <section id="clients" class="clients full">
+     <div class="projects banner">
+       <h5>Experience</h5>
+       <h1 class="headline">Featured Clients</h1>
+     </div>
+     <div class="logos">
+       {% for logo in page.logos %}
+       <div class="logo"><img src="{{ logo.image }}" style="height: {{ logo.percentage_height }}%"></div>
+       {% endfor %}
+     </div>
+   </section>
