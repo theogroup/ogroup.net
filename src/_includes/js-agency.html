@@ -1,0 +1,67 @@
+<script>
+  (function() {
+    var $grid = $('.grid').masonry({
+      itemSelector: '.grid-item',
+      percentPosition: true,
+      columnWidth: '.grid-sizer'
+    });
+    // layout Isotope after each image loads
+    $grid.imagesLoaded().progress( function() {
+      $grid.masonry();
+    });
+
+
+   $(".modal-state").on("change", function() {
+     if ($(this).is(":checked")) {
+       $("body").addClass("modal-open");
+     } else {
+       $("body").removeClass("modal-open");
+     }
+   });
+
+   $(".modal-fade-screen, .modal-close").on("click", function() {
+     $(".modal-state:checked").prop("checked", false).change();
+   });
+
+   $(".modal-inner").on("click", function(e) {
+     e.stopPropagation();
+   });
+
+  })();
+
+
+
+  enquire.register("screen and (min-width: 1000px)", {
+    match : function() {
+        var windowWidth = $(window).width();
+        // on load
+
+        setTimeout(function(){ //otherwise height is wrong
+
+          var peopleHeight = [];
+          $('div.person').each(function(){
+            var height = $(this).outerHeight();
+            peopleHeight.push(height);
+          });
+          var maxPersonHeight = Math.max.apply(Math, peopleHeight);
+          $('.person').each(function(){
+            $(this).css('height', maxPersonHeight + 'px');
+          });
+
+        }, 200);
+
+        // on resize
+        window.onresize = function(){
+          // actual resize? http://tinyurl.com/qaoajzu
+          if ($(window).width() != windowWidth) {
+
+            location.reload();
+
+          }
+
+        }
+    },
+    unmatch : function() {
+    }
+  })
+</script>

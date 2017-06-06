@@ -25,11 +25,11 @@ defaults:
       _hide_content: true
   -
     scope:
-      path: "about.html"
+      path: "agency.html"
     values:
-      class: about
+      class: agency
       layout: default
-      permalink: "/about/"
+      permalink: "/agency/"
   -
     scope:
       path: ""

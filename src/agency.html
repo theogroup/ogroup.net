@@ -1,0 +1,131 @@
+---
+purpose_headline: Rethink Luxury
+purpose_text: Luxury is a powerful tool. It can elevate, alter, inspire. It can cement a brand’s legacy in the hearts and minds of consumers.
+services_headline: What we do
+services_text: We help brands develop a point of view, and create an emotional connection with people who value aesthetic and experience.
+branding: We live in a world where luxury, price and category are no longer directly related. Branding is built on a strategic foundation that provides the framework for targeted creative. It’s about a tightly woven brand experience exceeding expectations.
+campaigns: We form a nuanced understanding of a brand’s position in order to launch the latest campaign. Whether the ask is to build excitement around a new product launch or to disrupt a category with luxury-level creative, we love this type of work.
+special_projects: Sometimes we take on work that doesn’t quite fit into Branding or Campaigns. From a global spirits conglomerate who needs help rethinking category norms, to a start-up with big brand aspiration, we’d love to talk about your crazy idea.
+about_text_1: We think differently. We always have. About the development of strategy and creative. About client relationships. About luxury.
+about_text_2: Founded in 1986, The O Group is an independently owned creative agency headquartered in New York City and Seattle. Our focus from the beginning has been to reimagine how luxury brands are shaped. Many people can identify where luxury came from.
+about_text_3: Our highly strategic and creative teams work collaboratively with every client.  We have developed a proven, results-oriented process that insures success and delivers work that inspires.
+contact_tagline: Let’s talk about luxury.
+---
+
+<section class="grid">
+  <div class="intro banner">
+    <h5>purpose</h5>
+    <h1 class="headline">{{ page.purpose_headline }}</h1>
+    <h2>{{ page.purpose_text }}</h2>
+  </div>
+</section>
+
+<section class="full">
+  <div class="services banner">
+    <div class="inner-wrapper">
+      <div class="inner">
+        <h5>services</h5>
+        <h1 class="headline">{{ page.services_headline }}</h1>
+        <h2>{{ page.services_text }}</h2>
+        <div class="service-inner">
+          <h5>Strategy guides everything</h5>
+          <div class="service">
+            <p class="headline">branding</p>
+            <p>{{ page.branding }}</p>
+          </div>
+          <div class="service">
+          <p class="headline">campaigns</p>
+            <p>{{ page.campaigns }}</p>
+          </div>
+          <div class="service">
+          <p class="headline">special projects</p>
+            <p>{{ page.special_projects }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="grid">
+  <div class="about banner">
+    <div class="inner-wrapper">
+      <div class="inner">
+        <h5>about</h5>
+        <h1 class="headline">30 Years</h1>
+        <h2 class="top">{{ page.about_text_1 }}</h2>
+        <div class="wrapper">
+          <p class="col-1">{{ page.about_text_2  }}</p>
+          <p class="col-2">{{ page.about_text_3  }}</p>
+        </div>
+        <!-- <h2 class="bottom">{{ page.about_text_4 }}</h2> -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- <section class="full">
+  <div class="team banner">
+    <div class="inner">
+      <h5>people</h5>
+      <h1 class="headline">Meet the team</h1>
+    </div>
+    <div class="people-wrapper">
+      {% for person in page.team %}
+        <div class="person">
+          <img src="{{ person.preview_photo.url }}">
+          <p class="name">{{ person.name }}</p>
+          <p class="title">{{ person.title }}</p>
+          <p class="intro">{{ person.intro }}</p>
+          <button class="bio"><p>bio</p></button>
+
+          <div class="modal">
+            <label for="modal-{{ loop.index }}">
+            </label>
+            <input class="modal-state" id="modal-{{ loop.index }}" type="checkbox" />
+            <div class="modal-fade-screen">
+              <div class="modal-inner">
+                <div class="modal-close" for="modal-{{ loop.index }}"></div>
+                <div class="modal-image" style="background-image: url({{ person.preview_photo.url }}); background-size: cover"></div>
+                <div class="modal-text">
+                  <div class="modal-text-inner">
+                    <p class="name">{{ person.name }}</p>
+                    <p class="title">{{ person.title }}</p>
+                    {{ person.bio|safe }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section> -->
+
+{% assign casestudies = site.projects | sort:'sort_order' %}
+{% assign casestudy = casestudies[0] %}
+
+<section class="split full">
+  <div class="split banner">
+    <div class="split split-left">
+    <a href="/contact">
+      <h5>Contact</h5>
+      <h3>{{ page.contact_tagline }}</h3>
+      <div class="arrow-wrapper">
+        <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+      </div>
+    </a>
+    </div>
+    <div class="split-right" style="background-image: url({{ casestudy.featured_image }}); background-size: cover;">
+      <a href="{{ casestudy.url }}">
+        <h5>Case Study</h5>
+        <h3>{{ casestudy.overview }}</h3>
+        <div class="arrow-wrapper">
+          <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
