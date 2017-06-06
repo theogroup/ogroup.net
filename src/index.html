@@ -198,7 +198,7 @@ logos:
      </div>
      <div class="logos">
        {% for logo in page.logos %}
-       <div class="logo"><img src="{{ logo.image }}" style="height: {{ logo.percentage_height }}%"></div>
+       <div class="logo"><img src="{{ logo.logo_path }}" {% if logo.percentage_height %}style="height: {{ logo.percentage_height }}%" {% else %}style="height: 100%"{% endif %}></div>
        {% endfor %}
      </div>
    </section>
