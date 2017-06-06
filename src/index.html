@@ -1,21 +1,51 @@
 ---
 layout: default
 class: home
-descripton: 'Anyone can tell you where luxury came from. As a creative agency, we work with clients to shape where it’s headed.'
+description: The Branding and Design Agency for Luxury Brands
+tagline: 'Anyone can tell you where luxury came from. As a creative agency, we work with clients to shape where it’s headed.'
 header_headline: 'Luxury creative for brands of all kinds. View our reel.'
 header_headline_text_color: '#ffffff'
 intro_tagline: 'Anyone can tell you where luxury came from. As a creative agency, we work with clients to shape where it’s headed.'
 work_tagline: 'We’ve been through 30 years of bling and busts. We’ve seen a lot. Done a lot. And learned a lot.​'
 contact_tagline: 'Let’s talk about luxury.'
-vimeo_id: 159985308
+vimeo:
+  vimeo_id: 159985308
+  vimeo_width: 640
+  vimeo_height: 360
 header_background_image: /uploads/home_header_background.jpg
 ---
+  {% if page.vimeo.vimeo_id.size > 2 %}
+    <section class="video full">
+      <div class="header-video">
+        <img src="{{ page.header_background_image }}"
+               class="header-video__media"
+               data-video-url="https://www.vimeo.com/{{ page.vimeo.vimeo_id }}"
+               data-video-id="{{ page.vimeo.vimeo_id }}"
+               data-video-width="{{ page.vimeo.vimeo.width }}"
+               data-video-height="{{ page.vimeo.vimeo.height }}">
 
-  <section class="body">
+        <div class="inner">
+          <div class="inner-2">
+            <h2 class="headline" {% if page.header_headline_text_color %}style="color: {{page.header_headline_text_color}}"{% endif %}>{{ page.header_headline }}</h2>
+            <div class="play">
+            <!-- <h1>test</h1> -->
+              <a href="" class="header-video__play-trigger" id="header-video__play-trigger"><img src="/assets/images/play.svg" alt="" class="svg"></a>
+            </div>
 
-    <h1>Hello World.</h1>
+          </div>
+        </div>
 
-
-
-  </section>
+        <button type="button" class="header-video__close-trigger modal-close" id="header-video__close-trigger"></button>
+      </div>
+    </section>
+  {% else if page.header_background_image %}
+    <section id="backstretch" class="full">
+      <div class="inner-wrapper">
+        <div class="inner">
+          <h2 class="headline" {% if page.header_headline_text_color %}style="color: {{page.header_headline_text_color}}"{% endif %}>{{ page.header_headline }}</h2>
+        </div>
+      </div>
+      <img src="/assets/images/scroll.svg" alt="" class="svg scroll">
+    </section>
+  {% endif %}
 

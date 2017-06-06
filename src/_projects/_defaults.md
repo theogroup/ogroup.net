@@ -1,6 +1,7 @@
 ---
 title:
 client:
+show_on_homepage: false
 featured_image:
 vimeo_id:
 vimeo_width:

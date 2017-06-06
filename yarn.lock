@@ -3718,6 +3718,10 @@ node-uuid@~1.4.7:
   dependencies:
     abbrev "1"
 
+normalize-opentype.css@^0.2.4:
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/normalize-opentype.css/-/normalize-opentype.css-0.2.4.tgz#d4dd3b1dd4932292e4f2eee05e3f524eaa2e4095"
+
 normalize-package-data@^2.3.2, normalize-package-data@^2.3.4:
   version "2.3.5"
   resolved "https://registry.yarnpkg.com/normalize-package-data/-/normalize-package-data-2.3.5.tgz#8d924f142960e1777e7ffe170543631cc7cb02df"

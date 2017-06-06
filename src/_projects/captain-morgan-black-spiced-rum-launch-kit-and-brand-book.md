@@ -1,6 +1,7 @@
 ---
 title: Captain Morgan Black Spiced Rum Launch Kit and Brand Book
 client: Captain Morgan
+show_on_homepage: false
 featured_image: /uploads/cm-featured.jpg
 vimeo_id:
 vimeo_width:
