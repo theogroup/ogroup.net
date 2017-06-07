@@ -14,7 +14,7 @@ sections:
     quote:
     video:
   - text_markdown: |-
-      **Sailing vs Owning**
+      ***Sailing vs Owning***
 
       Younger members of the ultra-wealthy elite seem to find ownership restrictive, while the older ultra-wealthy are becoming trepidatious about purchases of this magnitude due to how financially demanding it is after the initial purchase. What this means is that although the novelty of owning a yacht has lost its luster, it does not really signal the end for the super yacht industry. In fact, this might be the time for a rebirth. Luxury consumers have become more careful with retail purchases over the past seven years, but if the statistics from Eventbrite’s “Fueling The Experiential Economy" report are anything to go by, the future of yachting lies in experiences and not ownership. As it stands there has been an increase in fractional yacht ownership, but even this method of ownership is somewhat limiting in terms of offerings and experiences. Most importantly, it is ownership, not an experience.​
     image:
