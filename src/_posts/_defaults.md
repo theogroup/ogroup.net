@@ -10,4 +10,5 @@ sections:
     image:
     quote:
     video:
+contact_tagline: "Let's start a conversation about luxury."
 ---

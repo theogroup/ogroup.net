@@ -214,6 +214,16 @@ logos:
          </div>
        </a>
        </div>
-      <!-- blog link goes here -->
+      <div class="split split-right">
+        {% assign post = site.posts | last %}
+        <a href="{{post.url}}">
+          <h5>Blog</h5>
+          <h3>{{ post.title }}</h3>
+          <p><span>by </span>{% if post.author %}{{ post.author }}{% else %} The O Group{% endif %}</p>
+          <div class="arrow-wrapper">
+            <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+          </div>
+        </a>
+      </div>
      </div>
    </section>

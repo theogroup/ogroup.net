@@ -49,10 +49,11 @@ careers_email:
 <section class="split full">
   <div class="split banner">
     <div class="split split-left">
-    <a href="">
+    {% assign post = site.posts | last %}
+    <a href="{{post.url}}">
       <h5>Blog</h5>
-      <h3>tk</h3>
-      <p><span>by </span>tk</p>
+      <h3>{{ post.title }}</h3>
+      <p><span>by </span>{% if post.author %}{{ post.author }}{% else %} The O Group{% endif %}</p>
       <div class="arrow-wrapper">
         <img src="/assets/images/red-arrow.png" alt="" class="arrow">
       </div>
