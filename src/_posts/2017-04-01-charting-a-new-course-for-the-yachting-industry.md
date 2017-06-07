@@ -5,7 +5,7 @@ featured_image: /uploads/charting-new-course-featured-image.jpg
 intro_markdown: In a previous post called “Keeping the luxury boating industry afloat” we started talking about the luxury boating industry; this post aims to touch on what the future could look like for the industry.​
 author:
 sections:
-  - text_markdown: 'There was a dramatic upward turn in the economy from 2013 and even luxury purchases like super yachts saw a spike that year and the following year too. However, since then there’s been a steady decline in super yacht sales according to data collected by BOAT magazine.​'
+  - text_markdown: 'There was a dramatic upward turn in the economy from 2013 and even luxury purchases like super yachts saw a spike that year and the following year too. However, since then there’s been a steady decline in super yacht sales according to data collected by [BOAT](http://www.boatinternational.com/yacht-market-intelligence/superyacht-industry-data/superyacht-sales-data/superyachts-sold-in-2010--25667) magazine.​'
     image:
     quote:
     video:
