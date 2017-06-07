@@ -1,5 +1,6 @@
 ---
 title: Charting A New Course For The Yachting Industry
+publish_date:
 featured: false
 featured_image: /uploads/charting-new-course-featured-image.jpg
 intro_markdown: In a previous post called “Keeping the luxury boating industry afloat” we started talking about the luxury boating industry; this post aims to touch on what the future could look like for the industry.​
