@@ -160,7 +160,32 @@ archive:
   </div>
 </section>
 
-
+<section class="full">
+  <div class="grid">
+    <div id-"archive" class="grid-sizer"></div>
+    {% for item in page.archive %}
+      <div class="grid-item">
+        <img class="lazy" src="{{ item.image }}" alt="">
+        <div class="modal">
+          <label for="modal-{{ loop.index }}">
+            <!-- <div class="modal-trigger">Click for Modal</div> -->
+            <p class="modal-content">{{ item.caption }}</p>
+          </label>
+          <input class="modal-state" id="modal-{{ loop.index }}" type="checkbox" />
+          <div class="modal-fade-screen">
+            <div class="modal-wrapper">
+              <div class="modal-inner">
+                <div class="modal-close" for="modal-{{ loop.index }}"></div>
+                <img  class="lazy" src="{{ item.image }}" alt="">
+                <p class="modal-content">{{ item.caption }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
 
 <section class="split full">
   <div class="split banner">

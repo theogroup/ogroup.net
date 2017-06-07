@@ -17,9 +17,13 @@
       threshold: 200
     });
 
-    $('img.lazy').load(function() {
-        masonry_update();
-    });
+    // $('img.lazy').load(function() {
+    //     masonry_update();
+    // });
+
+    $('img.lazy').on('load', function() {
+      masonry_update();
+     });
 
     function masonry_update() {
         var $grid = $('.grod');
