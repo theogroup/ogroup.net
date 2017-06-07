@@ -1,0 +1,71 @@
+---
+banner_image: /uploads/contact.jpg
+headline: Headquartered in New York City.
+headline_color: '#ffffff'
+address_line_1: 150 West 30th Street, Suite 1201
+address_line_2: New York, NY 10001
+new_business_info:
+new_business_email: info@ogroup.net
+general_info: 'For general inquiries, partnerships and collaborations, speaking engagements and the like email us at:'
+general_email: info@ogroup.net
+careers_info: Our agency is currently not hiring, but we encourage you to check back in the future as we update our site anytime we have new job openings.
+careers_email:
+---
+
+<section class="full">
+  <div class="banner photo" style="background-image: url({{ page.banner_image }}); background-position: center center">
+    <div class="inner-wrapper">
+      <div class="inner">
+        <h2 class="headline" style="color:{{page.headline_color}}">{{ page.headline }}</h2>
+        }
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="grid">
+  <div class="contact-info">
+    <h5>address</h5>
+    <h3>{{page.address_line_1}}</h3>
+    <h3>{{page.address_line_2}}</h3>
+    <a target="_blank" href="https://www.google.com/maps/place/The+O+Group/@40.7480502,-73.994132,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259ae2afe2c45:0xaa33e492a6145095!8m2!3d40.7480462!4d-73.9919433"><button class="map"><p>view map</p></button></a>
+    <h5>phone</h5>
+    <h3>{{site.data.locations[0].phone}}</h3>
+  </div>
+  <div class="contact-details">
+    <p class="headline">new business</p>
+    <h3>{{page.new_business_info}} {% if page.new_business_email %}<span><a href="mailto:{{ page.new_business_email }}">{{ page.new_business_email }}</a></span>{% endif %}</h3>
+    <p class="headline">general</p>
+    <h3>{{page.general_info}} {% if page.general_email %}<span><a href="mailto:{{ page.general_email }}">{{ page.general_email }}</a></span>{% endif %}</h3>
+    <p class="headline">careers</p>
+    <h3>{{page.careers_info}} {% if page.careers_email %}<span><a href="{{ page.careers_email }}">{{ page.careers_email }}</a></span>{% endif %}</h3>
+  </div>
+</section>
+
+
+{% assign casestudies = site.projects | sort:'sort_order' %}
+{% assign casestudy = casestudies[0] %}
+
+<section class="split full">
+  <div class="split banner">
+    <div class="split split-left">
+    <a href="">
+      <h5>Blog</h5>
+      <h3>tk</h3>
+      <p><span>by </span>tk</p>
+      <div class="arrow-wrapper">
+        <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+      </div>
+    </a>
+    </div>
+    <div class="split-right" style="background-image: url({{ casestudy.featured_image }}); background-size: cover;">
+      <a href="{{ casestudy.url}}">
+        <h5>Case Study</h5>
+        <h3>{{ casestudy.overview }}</h3>
+        <div class="arrow-wrapper">
+          <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+        </div>
+      </a>
+    </div>
+  </div>
+</section>

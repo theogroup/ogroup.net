@@ -1,0 +1,53 @@
+<script>
+  (function() {
+    var $grid = $('.grid').masonry({
+      itemSelector: '.grid-item',
+      percentPosition: true,
+      columnWidth: '.grid-sizer'
+    });
+    // layout Isotope after each image loads
+    $grid.imagesLoaded().progress( function() {
+      $grid.masonry();
+    });
+
+    //lazyload
+    $("img.lazy").lazyload({
+      effect: 'fadeIn',
+      effectspeed: 1000,
+      threshold: 200
+    });
+
+    $('img.lazy').load(function() {
+        masonry_update();
+    });
+
+    function masonry_update() {
+        var $grid = $('.grod');
+        $grid.imagesLoaded(function(){
+            $grid.masonry({
+                itemSelector: '.grid_item',　
+                isFitWidth: true,　
+                columnWidth: '.grid-sizer'
+            });
+        });
+     }
+
+
+   $(".modal-state").on("change", function() {
+     if ($(this).is(":checked")) {
+       $("body").addClass("modal-open");
+     } else {
+       $("body").removeClass("modal-open");
+     }
+   });
+
+   $(".modal-fade-screen, .modal-close").on("click", function() {
+     $(".modal-state:checked").prop("checked", false).change();
+   });
+
+   $(".modal-inner").on("click", function(e) {
+     e.stopPropagation();
+   });
+
+  })();
+</script>

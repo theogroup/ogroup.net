@@ -1,0 +1,74 @@
+---
+headline: A feeling. An aesthetic. A behavior. Exceeding all expectations.
+archive_intro: An archive collection of our finest work over the years.
+contact_tagline: Let’s start a conversation about luxury.
+agency_tagline: Who we are, and what we do.
+archive:
+  - image:
+    caption:
+---
+<section class="grid">
+  <div class="intro hero">
+    <div class="tagline-wrapper">
+      <h2>{{ page.headline }}</h2>
+    </div>
+  </div>
+</section>
+
+<section class="full">
+  {% assign work = site.projects | sort:'sort_order' %}
+  {% for project in work %}
+  <div class="showcase" style="background-image: url({{ project.featured_image }}); background-position: center center">
+   <a href="{{ project.url }}">
+    <div class="inner-wrapper">
+      <div class="inner">
+        <h5>{{ project.client }}</h5>
+        <h2>{{ project.overview }}</h2>
+        <!-- <div class="arrow-wrapper">  -->
+          <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+        <!-- </div> -->
+      </div>
+    </div>
+   </a>
+  </div>
+ {% endfor %}
+</section>
+
+<section class="grid">
+  <div class="past hero">
+    <div class="square">
+      <div class="headline-wrapper">
+        <h5>luxury is</h5>
+        <h1 class="headline">timeless</h1>
+      </div>
+    </div>
+    <div class="tagline-wrapper">
+      <h2>{{ page.archive_intro }}</h2>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="split full">
+  <div class="split banner">
+    <div class="split split-left">
+    <a href="/contact">
+      <h5>Contact</h5>
+      <h3>{{ page.contact_tagline }}</h3>
+      <div class="arrow-wrapper">
+        <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+      </div>
+    </a>
+    </div>
+    <div class="split-right">
+      <a href="/agency">
+        <h5>Agency</h5>
+        <h3>{{ page.agency_tagline }}</h3>
+        <div class="arrow-wrapper">
+          <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+        </div>
+      </a>
+    </div>
+  </div>
+</section>

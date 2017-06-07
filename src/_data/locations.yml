@@ -1,2 +1,3 @@
-- name: new york
-  address: "150 West 30th Street, Suite 1201, New York, NY 10001"
+- name: newyork
+  address: '150 West 30th Street, Suite 1201, New York, NY 10001'
+  phone: '212.398.0100'

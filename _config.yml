@@ -1,7 +1,7 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
-title: Boilerplate
-description: This is zombocom. You can do anything at zombocom, anything at all.
+title: The O Group
+description: The O Group is an independent New York City creative agency focused on rethinking luxury. Advertising. Branding. Campaigns. Web Design. Strategy.
 url: http://www.example.com
 
 # CloudCannon uses these:
@@ -30,6 +30,20 @@ defaults:
       class: agency
       layout: default
       permalink: "/agency/"
+  -
+    scope:
+      path: "work.html"
+    values:
+      class: work
+      layout: default
+      permalink: "/work/"
+  -
+    scope:
+      path: "contact.html"
+    values:
+      class: contact
+      layout: default
+      permalink: "/contact/"
   -
     scope:
       path: ""
