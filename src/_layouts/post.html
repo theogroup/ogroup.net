@@ -1,0 +1,86 @@
+---
+layout: default
+---
+
+<section class="full">
+  <div class="banner photo" style="background-image: url({{ page.featured_image }}); background-position: center center">
+    <div class="inner-wrapper">
+    </div>
+  </div>
+</section>
+
+<section class="grid">
+  <div class="post-intro-wrapper">
+    <div class="links">
+    {% if page.author.image %}
+      <img class="author" src="{{ page.author.image }}" alt="">
+    {% endif %}
+      <h5>WRITTEN</h5>
+      <p>{{ page.publish_date | date: "%m/%d/%Y" }}</p>
+    </div>
+    <div class="intro">
+      <a href="{{ post.url }}"><h2>{{page.title}} </h2></a>
+      {% if page.author.image %}
+      <p class="byline"><span>by </span>{{ page.author.name }}</p>
+      {% endif %}
+      {{ page.intro_markdown | markdownify }}
+    </div>
+  </div>
+</section>
+
+{% for section in page.sections %}
+<section class="grid">
+ {% if section.text_markdown %}
+  <div class="post-body-wrapper">
+  <!-- <div class="space"></div> -->
+    <div class="text-section">
+      {{ section.text_markdown | markdownify }}
+    </div>
+  </div>
+  {% else if section.image %}
+  <div class="post-image-wrapper">
+    <div class="image-section">
+      <img src="{{ section.image }}" alt="">
+    </div>
+  </div>
+  {% else if section.video_id %}
+  <div class="post-video-wrapper">
+    <div class="image-section">
+      <iframe src="https://player.vimeo.com/video/{{ video_id }}?color=d20337" width="{{video_width}}" height="{{video_height}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+  {% else if section.quote %}
+  <div class="post-quote-wrapper">
+    <div class="quote-section">
+      <h1>{{ section.quote }}</h1>
+    </div>
+  </div>
+  {% endif %}
+</section>
+{% endfor %}
+
+{% assign casestudies = site.projects | sort:'sort_order' %}
+{% assign casestudy = casestudies[0] %}
+
+<section class="split full">
+  <div class="split banner">
+    <div class="split split-left">
+    <a href="/contact">
+      <h5>Contact</h5>
+      <h3>{{ page.contact_tagline }}</h3>
+      <div class="arrow-wrapper">
+        <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+      </div>
+    </a>
+    </div>
+    <div class="split-right" style="background-image: url({{ casestudy.featured_image }}); background-size: cover;">
+      <a href="{{ casestudy.url }}">
+        <h5>Case Study</h5>
+        <h3>{{ casestudy.overview }}</h3>
+        <div class="arrow-wrapper">
+          <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
