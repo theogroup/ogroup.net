@@ -7,5 +7,6 @@ gem 'redcarpet'
 # jekyll plugins
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
+gem 'jekyll-paginate-v2'
 # gem 'jekyll-redirect-from'
 # gem 'jekyll-polyglot'

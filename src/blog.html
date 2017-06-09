@@ -1,6 +1,113 @@
 ---
 layout: default
+class: blog
+pagination:
+  enabled: true
+contact_tagline: "Let's start a conversation about luxury."
 ---
-{% for post in site.posts %}
-  <a href="{{post.url}}"><p>{{post.title}}</p></a>
-{% endfor %}
+{% assign posts = site.posts | sort:'publish_date' | reverse %}
+{% assign featured = posts | where:'featured','true' %}
+{% assign first = posts | first %}
+{% assign projects = site.projects | sort:'sort_order' %}
+{% assign casestudy = projects | first %}
+
+
+<section class="full">
+  <div class="banner photo" style="background-image: url({{ first.featured_image }}); background-position: center center">
+  </div>
+</section>
+
+<section class="grid">
+  <div class="posts-wrapper">
+    {% for post in posts %}
+    <hr>
+    <div class="image" style="background-image: url({{ post.featured_image }}); background-size: cover; background-position: center center"><a href="{{ post.url }}"></a></div>
+    <div class="links">
+      {% if post.author.image %}
+      <img class="author" src="{{ post.author.image }}" alt="">
+      {% else %}
+      <img class="author" src="/assets/images/blog-logo.jpg" alt="">
+      {% endif %}
+      <h5>WRITTEN</h5>
+      <p>{{ post.publish_date | date: "%m/%d/%Y" }}</p>
+    </div>
+    <div class="intro">
+      <a href="{{ post.url }}"><h2>{{post.title}} </h2></a>
+      {% if post.author.image %}
+      <p class="byline"><span>by </span>{{ post.author.name }}</p>
+      {% else %}
+      <p class="byline"><span>by </span>The O Group</p>
+      {% endif %}
+      {{ post.intro_markdown | markdownify }}
+      <a href="{{ post.url }}">
+        <h3>Read More</h3>
+        <div class="arrow-wrapper">
+          <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  <div class="rail">
+<!--     <form action="/search-results/" class="search-form" method="get" data-search-index="false">
+      <input type="text" placeholder="search posts" id="tipue_search_input" name="q">
+    </form> -->
+    <div class="tags">
+      <h5>Tags</h5>
+      <a href="/blog"><button class="tag-button selected"><p class="tag">all</p></button></a>
+      {% for tag in site.tags %}
+        <a href="{{tag.url}}"><button class="tag-button"><p class="tag">{{tag.name}}</p></button></a>
+      {% endfor %}
+    </div>
+    <div class="featured">
+      <h5>Featured Posts</h5>
+      {% for post in featured %}
+      <div class="featured-post">`
+        <a href="{{post.url}}"><img src="{{ post.featured_image }}"></a>
+        <a href="{{post.url}}"><h2>{{ post.name }}</h2></a>
+        <p class="byline"><span>by </span>{{ post.author.name }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="split full">
+  <div class="split banner">
+    <div class="split split-left">
+    <a href="">
+      <h5>Contact</h5>
+      <h3>{{ page.contact_tagline }}</h3>
+      <div class="arrow-wrapper">
+        <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+      </div>
+    </a>
+    </div>
+    <div class="split-right" style="background-image: url({{ casestudy.featured_image }}); background-size: cover;">
+      <a href="{{ casestudy.url }}">
+        <h5>Case Study</h5>
+        <h3>{{ casestudy.overview }}</h3>
+        <div class="arrow-wrapper">
+          <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+
+{% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+      </li>
+      {% endif %}
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+  {% endif %}
