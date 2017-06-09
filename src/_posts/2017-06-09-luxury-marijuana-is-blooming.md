@@ -14,12 +14,20 @@ sections:
 
 
 
+
+
+
+
       “From a branding perspective, the legal cannabis landscape is maturing
       incredibly fast,” says Denver-based Strategy Director Jacob Lake.
       “Traditional CPG marketers and designers are migrating to work on this
       burgeoning category and they’re bringing that elevated skillset to an
       industry that was previously pretty fly-by-night in terms of design and
       brand fundamentals.”
+
+
+
+
 
 
 
@@ -40,9 +48,17 @@ sections:
 
 
 
+
+
+
+
       Some new entities have already begun paving the way for more luxury
       marijuana-focused brands to enter the space, and nearly every aspect of
       marijuana culture is experiencing some element of high-end branding.
+
+
+
+
 
 
 
@@ -59,6 +75,10 @@ sections:
 
 
 
+
+
+
+
       When it comes to edibles, a few brands have taken an upscale approach to
       their products. D&eacute;fonc&eacute; Choclatier, for instance, comes
       across as a high-end, luxury chocolate artisan. From its elegant packaging,
@@ -66,6 +86,10 @@ sections:
       products, one might mistake the brand for being just another premium
       chocolate producer. Inside their gorgeous exterior, however,
       D&eacute;fonc&eacute;’s creations pack a marijuana boost.
+
+
+
+
 
 
 
@@ -85,6 +109,10 @@ sections:
 
 
 
+
+
+
+
       “The cannabis industry is leading a soaring growth trajectory over the next
       10 years and I think it will find itself in a similar situation as the beer
       business has recently,” says Lake. “Ultimately, I think the luxury echelon
@@ -93,6 +121,10 @@ sections:
       runs, packaging and brand collaborations and even specific genetics or
       strains that are coveted for their rarity, potency or pedigree. As
       legalization continues, I think the high end opportunities are bountiful.”
+
+
+
+
 
 
 
