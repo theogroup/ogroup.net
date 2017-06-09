@@ -1,5 +1,6 @@
 ---
 title:
+publish_date:
 featured: false
 featured_image:
 intro_markdown: >-
