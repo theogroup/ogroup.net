@@ -2,7 +2,7 @@
 title: 'Q & O with Bob Shullman'
 publish_date: 2017-03-09 00:00:00
 featured: false
-featured_image:
+featured_image: /uploads/blog-5-featured.png
 intro_markdown: 'I sat down with renowned market researcher, strategy consultant and CEO of The Shullman Research Center, Bob Shullman to have a Q & O about emerging trends amongst luxury consumers in 2017 and the elements that influenced them.​'
 author:
 sections:
@@ -17,6 +17,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **There is a stark contrast in how Baby Boomers, Gen-X and Millennials view
       luxury and which luxury brands they covet. What in your opinion have been
       the most influential factors in this difference?**
@@ -25,7 +37,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Bob:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -44,6 +80,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       The other thing that has had an influence is the 2008 economic plunge.
       Millennials are starting with rocks around their necks and that is going to
       determine how they see luxury and how they purchase it. The economic
@@ -54,7 +102,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Orit:**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -67,7 +139,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Bob:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +184,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Orit:**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -102,7 +222,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Bob:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -120,7 +264,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Orit:**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -134,7 +302,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Bob:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -159,7 +351,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Orit:**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -171,7 +387,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Bob:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
