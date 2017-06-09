@@ -14,6 +14,10 @@ sections:
 
 
 
+
+
+
+
       **Carmen:**&nbsp;I am Cuban born but was raised in the U.S., and grew up
       with the stories of the paradise that was wrecked and left behind.
       Ironically, I didn’t leave the U.S. until my 40’s and I know immigrants in
@@ -25,7 +29,15 @@ sections:
 
 
 
+
+
+
+
       **O:**&nbsp;What are the most vital elements to making travel luxurious?
+
+
+
+
 
 
 
@@ -42,9 +54,17 @@ sections:
 
 
 
+
+
+
+
       **O:**&nbsp;After a decade of indulging in opulent travel, do you prefer an
       experience that has been curated for you or do you like to have more
       control over your trip?
+
+
+
+
 
 
 
@@ -61,7 +81,15 @@ sections:
 
 
 
+
+
+
+
       **O:**&nbsp;What have you observed as the latest trends in luxury travel?
+
+
+
+
 
 
 
@@ -80,8 +108,16 @@ sections:
 
 
 
+
+
+
+
       **O:**&nbsp;Think back to your first decadent trip- how has luxury travel
       changed between then and now?
+
+
+
+
 
 
 
@@ -101,7 +137,15 @@ sections:
 
 
 
+
+
+
+
       **O:**&nbsp;How do you go about choosing your next destination?
+
+
+
+
 
 
 
@@ -119,7 +163,15 @@ sections:
 
 
 
+
+
+
+
       **O:**&nbsp;What does Rethink Luxury mean to you?
+
+
+
+
 
 
 
