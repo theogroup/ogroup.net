@@ -15,7 +15,7 @@ sections:
     quote:
     video:
   - text_markdown:
-    image:
+    image: /uploads/blog-4-2.jpg
     quote:
     video:
   - text_markdown: >-
