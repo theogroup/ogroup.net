@@ -1,6 +1,6 @@
 ---
 title: Social Impact Unleashed
-featured: false
+featured: true
 featured_image:
 intro_markdown:
 author:
@@ -11,3 +11,5 @@ sections:
     video:
 contact_tagline: "Let's start a conversation about luxury."
 ---
+
+
