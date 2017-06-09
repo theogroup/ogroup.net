@@ -1,5 +1,6 @@
 ---
 title: Social Impact Unleashed
+publish_date:
 featured: true
 featured_image:
 intro_markdown:
