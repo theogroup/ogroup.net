@@ -18,10 +18,18 @@ sections:
 
 
 
+
+
+
+
       This desire to stay on trend has led to the creation of many monthly
       clothing subscription services, which run the gamut from basic to high
       fashion. These services give men a chance to try out some of the latest
       fashions while eliminating a common reaction – buyer’s remorse.
+
+
+
+
 
 
 
@@ -33,6 +41,10 @@ sections:
       Rather than worry over potential erosion, apparel brands and retailers
       should use subscription services as inspiration for connecting with today’s
       consumers.
+
+
+
+
 
 
 
@@ -53,6 +65,10 @@ sections:
 
 
 
+
+
+
+
       Another aspect of the subscription service that resonates with consumers is
       the convenience factor. After subscribers input some preferences, the
       services will curate their monthly box. Why can’t retailers and brands
@@ -65,6 +81,10 @@ sections:
 
 
 
+
+
+
+
       Fashion brands should always leverage the power of their history and
       heritage to connect with shoppers. Despite the trend of on-demand, curated
       style, consumers will continue to be drawn to brands that have an authentic
@@ -72,6 +92,10 @@ sections:
       aspect especially, as consumers view brands with a distinct heritage as
       being higher quality. And, of course, higher quality means being able to
       command a higher price point.
+
+
+
+
 
 
 
