@@ -18,6 +18,10 @@ sections:
 
 
 
+
+
+
+
       "The "What is your Euro moment" concept leverages the idea of moments in
       time, but in a way that should resonate with passionate fans. There are
       specific football moments that will live on forever – not just for the
@@ -37,6 +41,10 @@ sections:
       around the world will continue to be exposed to the brand. Hublot will be
       a part of stories, plays and moments that will be shared and debated in
       pubs, on fields and in homes around the world for years to come."
+
+
+
+
 
 
 
