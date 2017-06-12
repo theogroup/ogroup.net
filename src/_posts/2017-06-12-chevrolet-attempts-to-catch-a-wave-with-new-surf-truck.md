@@ -15,6 +15,10 @@ sections:
 
 
 
+
+
+
+
       But what happens when automotive brands hone in a very specific segment of
       drivers? It can be a risky maneuver, but has the potential to pay off big
       time.
@@ -23,9 +27,17 @@ sections:
 
 
 
+
+
+
+
       Take Chevy’s new truck collaboration with surf brand Hurley. Together, they
       leveraged insights drawn from surfers to create a vehicle that attempts to
       make the process of getting to and from the beach a little less painful.
+
+
+
+
 
 
 
@@ -41,8 +53,16 @@ sections:
 
 
 
+
+
+
+
       The functionality Hurley is speaking about covers a lot of the issues that
       every surfer faces:&nbsp;
+
+
+
+
 
 
 
@@ -56,8 +76,16 @@ sections:
 
 
 
+
+
+
+
       The roof rack has built-in bungee cords designed specifically to lash down
       boards.
+
+
+
+
 
 
 
@@ -70,8 +98,16 @@ sections:
 
 
 
+
+
+
+
       Waterproof seats with covers made out of a type of neoprene to protect from
       saltwater damage.
+
+
+
+
 
 
 
@@ -87,9 +123,17 @@ sections:
 
 
 
+
+
+
+
       So what can a luxury automotive brand learn from this? These manufacturers
       already take into account their drivers’ specific wants and needs, and
       adjust the experience within their vehicles accordingly.
+
+
+
+
 
 
 
@@ -104,11 +148,19 @@ sections:
 
 
 
+
+
+
+
       But why not take it a step further? Consider the power of a strategic
       partnership with an entity that connects with a segment of a vehicle’s
       drivers. Can you imagine a luxury vehicle whose audio system has been tuned
       to the uncompromising specs of legendary sound engineer and producer Rick
       Rubin?
+
+
+
+
 
 
 
