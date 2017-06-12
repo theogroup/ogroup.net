@@ -19,7 +19,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **The First Move**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -37,6 +61,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       In 2013 Adidas announced their Season 1 Yeezy clothing and footwear
       collaboration with Kanye West. It seems that this past year the hype around
       the "Adidas Yeezy 350 Boost" finally spilled beyond the sneakerhead
@@ -46,6 +82,18 @@ sections:
       women’s. When I later realized what I’d been coveting I remember
       thinking—regardless of the collaboration—the product design is totally
       on-trend.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,7 +128,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Slay, Collabs, Slay**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -107,10 +179,34 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Adidas’ #heretocreate campaign’s ultra-digestible video content is
       inspirational, entertaining and leaves you wanting more—fitting as it’s
       seeming more and more clear that video, specifically on mobile, is the
       future of marketing.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -128,7 +224,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **What does the future look like?**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -139,6 +259,18 @@ sections:
       important step in that direction by bringing back the Stan Smith Original
       in early 2014 (Originally released in 1964; Branding Journal has a really
       great article about the strategy behind that shoe here.)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
