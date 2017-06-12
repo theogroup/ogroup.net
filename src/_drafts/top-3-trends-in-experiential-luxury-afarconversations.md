@@ -1,0 +1,14 @@
+---
+title: 'Top 3 Trends in Experiential Luxury: #AfarConversations'
+publish_date:
+featured: false
+featured_image:
+intro_markdown:
+author:
+sections:
+  - text_markdown:
+    image:
+    quote:
+    video:
+contact_tagline: "Let's start a conversation about luxury."
+---
