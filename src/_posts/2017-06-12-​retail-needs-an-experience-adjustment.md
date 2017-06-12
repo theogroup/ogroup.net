@@ -17,11 +17,19 @@ sections:
 
 
 
+
+
+
+
       Will online shopping serve as the coffin nail for brick and mortar retail?
       Despite many pundits vigorously nodding their heads at this notion, there
       are many reasons to believe that in-store retail will continue into the
       foreseeable future – at least for the brands that adapt their in store
       experiences to reflect the continually changing landscape.
+
+
+
+
 
 
 
@@ -35,6 +43,10 @@ sections:
 
 
 
+
+
+
+
       Take the personalized experience that comes from shopping online. After
       a few clicks and products added to carts, websites get a pretty good
       understanding of what their visitors are interested in, and can react
@@ -42,6 +54,10 @@ sections:
       users’ needs, following up with remarketing campaigns and abandoned cart
       email discounts, these “gentle” reminders give shoppers incentive to pull
       the trigger on a purchase.
+
+
+
+
 
 
 
@@ -60,6 +76,10 @@ sections:
 
 
 
+
+
+
+
       Perhaps it’s as simple as bridging the online and in-store experience for
       consumers. We know that consumers are doing more research on products
       before purchasing, which means they are visiting multiple websites and
@@ -72,11 +92,19 @@ sections:
 
 
 
+
+
+
+
       It’s also worth mentioning the other parts of the online shopping
       experience that consumers love – hassle free returns, honest “peer”
       reviews, and judgment free purchasing. Some of these may be more difficult
       to implement in-store, but that shouldn’t stop retailers from attempting to
       get shoppers back inside their locations.
+
+
+
+
 
 
 
