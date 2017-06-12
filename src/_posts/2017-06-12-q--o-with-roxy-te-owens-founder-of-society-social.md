@@ -17,9 +17,17 @@ intro_markdown: >-
 
 
 
+
+
+
+
   Society Social's colorful collection of bar carts, cocktail tables, and
   entertaining accouterments aplenty has caught the eye of many, including HGTV,
   Lonny, House Beautiful, and Southern Living.
+
+
+
+
 
 
 
@@ -36,10 +44,18 @@ sections:
 
 
 
+
+
+
+
       **Roxy:**&nbsp;I'm an ex-corporate rat racer, turned self-proclaimed dream
       chaser! Right out of Parsons The New School, I eagerly started my career as
       a fashion buyer. Despite being 100% confident I had made the right career
       choice, I quickly found that cubicle life was not for me.
+
+
+
+
 
 
 
@@ -55,8 +71,16 @@ sections:
 
 
 
+
+
+
+
       **Orit:** Where did the idea for Society Social come from? And where does
       the name come from?
+
+
+
+
 
 
 
@@ -75,7 +99,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:** What was the first item you created?
+
+
+
+
 
 
 
@@ -98,7 +130,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:** What is the inspiration behind your designs?
+
+
+
+
 
 
 
@@ -114,6 +154,10 @@ sections:
 
 
 
+
+
+
+
       These are values I instill into each Society Social piece. Home furnishings
       inspired by shared celebrations whether big or small. From the booze-tastic
       bar carts for the ultimate hostess to the stylish, yet affordable sofas
@@ -124,7 +168,15 @@ sections:
 
 
 
+
+
+
+
       **Orit**: What are some of your favorite Luxury brands and why?
+
+
+
+
 
 
 
@@ -137,8 +189,16 @@ sections:
 
 
 
+
+
+
+
       Loeffler Randall—I have a closet full! These shoes are stylish, timeless,
       and undoubtedly well made.
+
+
+
+
 
 
 
@@ -153,7 +213,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:** What is it like working with your brother?
+
+
+
+
 
 
 
@@ -168,7 +236,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:** How has social media impacted the growth of Society Social?
+
+
+
+
 
 
 
@@ -184,7 +260,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:** Tell us what’s next?
+
+
+
+
 
 
 
@@ -199,7 +283,15 @@ sections:
 
 
 
+
+
+
+
       Photo credits:
+
+
+
+
 
 
 
@@ -211,7 +303,15 @@ sections:
 
 
 
+
+
+
+
       Elizabeth Shrier: Roxy and brother San San
+
+
+
+
 
 
 
