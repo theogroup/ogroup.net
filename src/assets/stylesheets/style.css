@@ -8083,4 +8083,10 @@ body.guide main {
   .wh-search-paginate li.active a {
     color: #ccc; }
 
+.previous {
+  margin-right: 1rem; }
+
+.next {
+  margin-left: 1rem; }
+
 /*# sourceMappingURL=style.css.map */
