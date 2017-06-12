@@ -22,6 +22,10 @@ sections:
 
 
 
+
+
+
+
       **Ivy:** I’ve been an artist my entire life and there are so many
       similarities to makeup. I utilize principles like color theory, symmetry,
       balance and proportion everyday in my work. A face is just a living,
@@ -31,8 +35,16 @@ sections:
 
 
 
+
+
+
+
       <br>**O**: The beauty industry is worth over $200 billion dollars, in this
       competitive market, what sets apart a luxury beauty product from the rest?
+
+
+
+
 
 
 
@@ -48,8 +60,16 @@ sections:
 
 
 
+
+
+
+
       <br>**O:** You have very particular and rigorous litmus tests for new
       products, what would you say are the hallmarks of good makeup products?
+
+
+
+
 
 
 
@@ -67,8 +87,16 @@ sections:
 
 
 
+
+
+
+
       <br>**O:** What in your opinion sets a luxury makeup apart artist from the
       rest?
+
+
+
+
 
 
 
@@ -84,8 +112,16 @@ sections:
 
 
 
+
+
+
+
       <br>**O:** What sort of effect has social media had on the makeup
       industry?
+
+
+
+
 
 
 
@@ -102,8 +138,16 @@ sections:
 
 
 
+
+
+
+
       **O:** What in your opinion are the most important beauty items that one
       should have regardless of current trends?
+
+
+
+
 
 
 
@@ -120,7 +164,15 @@ sections:
 
 
 
+
+
+
+
       **O:** What does Rethink Luxury mean to you?
+
+
+
+
 
 
 
