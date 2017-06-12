@@ -17,7 +17,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Finally the beauty world is catching up.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -47,6 +71,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       DJ, influencer, entrepreneur, fitness guru and Beautified Co-founder Hannah
       Bronfman is totally my girl crush. She’s the friend with advice you never
       knew you needed. Via Beautified she has introduced me to the antioxidant
@@ -57,9 +93,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       An inspiring motivator in her own right, she preaches a much-needed ‘be the
       best version of yourself’ mantra while leading strategy for brand
       integration and partnerships for Beautified.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -92,9 +152,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Another one of my favorite features? You pay for your entire service (and
       tip!) through the app. No more awkward loitering at the counter, no more
       fumbling for cash.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -119,10 +203,34 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Not only is the pure functionality of this app a godsend, but the interface
       design is on point too. Working in the world of branding, I’m partial to
       great design. In the luxury creative space, less is more. Beautified does
       not disappoint. All in all, the app is beautiful, simple and easy-to-use.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -134,9 +242,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       All you need to #getbeautified is download the app. Right now it’s only
       available for iOS (sorry not sorry Android) and only available in New York
       City.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
