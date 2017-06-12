@@ -20,6 +20,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       When done properly, good retail environments are literally built around
       brand experience. Successful property management companies and retailers
       are dedicated to location, the economics of the deal, and building out
@@ -34,6 +46,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Just like your website, logo, social media and other assets, your office
       space communicates with prospects and clients or consumers. Your choice of
       headquarters is a part of your brand. If your brand is fun, collaborative
@@ -43,6 +67,18 @@ sections:
       rational and emotional responses, so carefully controlling that experience
       for team members, prospects and clients can provide an impressive nudge in
       the right direction – or be a disappointing let down.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -67,6 +103,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Just as we do on creative work for our clients. I recommend you articulate
       how your office space addresses your Category, Culture and Consumers or
       Clients. A redesign or move can be exciting. A new space can symbolize
@@ -74,6 +122,18 @@ sections:
       new ways to enhance your process. Breakout spaces, working walls, audio
       visual equipment, client meeting space and amenities all must be carefully
       considered to ensure proper alignment.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -89,6 +149,18 @@ sections:
       processes and services to better suit the times. We’ve looked closely at
       what we have to offer, reorganized the structure of our team and have
       targeted a new clientele via an agency repositioning.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
