@@ -15,6 +15,10 @@ sections:
 
 
 
+
+
+
+
       "When Ben Stiller and Owen Wilson appeared unannounced at the Valentino
       show for the first time in 2015, there was a sense of surprise, delight and
       self-effacing humor from the luxury fashion community, which often—just
@@ -34,6 +38,10 @@ sections:
       just about every of-the-moment fashion, Hollywood and music celeb and will
       likely expose new audiences to the Valentino brand, growing its
       aspirational following and propping up its actual ready-to-wear business."
+
+
+
+
 
 
 
