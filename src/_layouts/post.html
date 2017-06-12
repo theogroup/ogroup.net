@@ -3,8 +3,8 @@ layout: default
 ---
 
 <section class="full">
-  {% if page.page.featured_image %}{{ page.featured_image }}{% else %}{{ /uploads/blog-default.png }}{% endif %}
-  <div class="banner photo" style="background-image: url({{ page.featured_image }}); background-position: center center">
+
+  <div class="banner photo" style="background-image: {% if page.featured_image %}url({{ page.featured_image }}){% else %}/uploads/blog-default.png{% endif %}; background-position: center center">
     <div class="inner-wrapper">
     </div>
   </div>
@@ -50,10 +50,10 @@ layout: default
       <iframe src="https://player.vimeo.com/video/{{ video_id }}?color=d20337" width="{{video_width}}" height="{{video_height}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
   </div>
-  {% else if section.quote %}
+  {% else if section.quote_markdown %}
   <div class="post-quote-wrapper">
     <div class="quote-section">
-      <h1>{{ section.quote }}</h1>
+      <h1>{{ section.quote_markdown | mardownify }}</h1>
     </div>
   </div>
   {% endif %}

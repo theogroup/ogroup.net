@@ -7,7 +7,7 @@ contact_tagline: "Let's start a conversation about luxury."
 ---
 {% assign posts = site.posts | sort:'publish_date' | reverse %}
 {% assign featured = posts | where:'featured','true' %}
-{% assign first = posts | first %}
+{% assign first = paginator.posts | first %}
 {% assign projects = site.projects | sort:'sort_order' %}
 {% assign casestudy = projects | first %}
 
@@ -21,7 +21,7 @@ contact_tagline: "Let's start a conversation about luxury."
   <div class="posts-wrapper">
     {% for post in paginator.posts %}
     <hr>
-    <div class="image" style="background-image: url({{ post.featured_image }}); background-size: cover; background-position: center center"><a href="{{ post.url }}"></a></div>
+    <div class="image" style="background-image: url({% if post.featured_image %}{{post.featured_image}}{% else %}/uploads/blog-default.png{% endif %}); background-size: cover; background-position: center center"><a href="{{ post.url }}"></a></div>
     <div class="links">
       {% if post.author.image %}
       <img class="author" src="{{ post.author.image }}" alt="">
@@ -61,9 +61,9 @@ contact_tagline: "Let's start a conversation about luxury."
     </div>
     <div class="featured">
       <h5>Featured Posts</h5>
-      {% for post in featured | limit: 5 %}
+      {% for post in featured limit:5 %}
       <div class="featured-post">
-        <a href="{{post.url}}"><img src="{{ post.featured_image }}"></a>
+        <a href="{{post.url}}"><img src="{% if post.featured_image %}{{post.featured_image}}{% else %}/uploads/blog-default.png{% endif %}"></a>
         <a href="{{post.url}}"><h2>{{ post.name }}</h2></a>
         {% if post.author.image %}
         <p class="byline"><span>by </span>{{ post.author.name }}</p>
