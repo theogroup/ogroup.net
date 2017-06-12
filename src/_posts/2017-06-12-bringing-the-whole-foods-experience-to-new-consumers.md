@@ -17,6 +17,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       The way the world perceives premium and luxury goods and services has
       changed drastically, providing the perfect opportunity for this launch. We
       are firm believers that price does not necessarily correlate with premium
@@ -43,11 +55,35 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Whole Foods has helped create a monumental shift in how consumers approach
       shopping for groceries. From encouraging consumers to understand where
       their food comes from, to providing access to obscure and hard-to-find
       produce to their local market, the chain has elevated the grocery shopping
       experience to something for which people are willing to pay a premium.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -64,8 +100,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Best of all for their Millennial target, the prices will be reasonable.
       After all, living well (even on a budget) is the greatest luxury of all.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
