@@ -15,8 +15,16 @@ sections:
 
 
 
+
+
+
+
       "If the leader of the free world needs help picking out jeans, chances are
       the rest of us could use a style tip or five."
+
+
+
+
 
 
 
