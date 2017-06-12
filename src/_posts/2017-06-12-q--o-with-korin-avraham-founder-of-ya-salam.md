@@ -21,6 +21,10 @@ sections:
 
 
 
+
+
+
+
       **Korin:**&nbsp;I am a very passionate person; I love life, and eating it
       in big mouthful bites. I'm always looking for the zen between adventures.Ya
       Salam today is not "just" a blog, it's a full-time business that combines
@@ -34,6 +38,10 @@ sections:
 
 
 
+
+
+
+
       **Orit:**&nbsp;From lawyer to fashion blogger, tell us more about how that
       came about.
 
@@ -41,8 +49,16 @@ sections:
 
 
 
+
+
+
+
       **Kori:**&nbsp;It wasn't an easy decision... But it felt like the right
       one.
+
+
+
+
 
 
 
@@ -60,9 +76,17 @@ sections:
 
 
 
+
+
+
+
       **Orit:**&nbsp;When you decided to blog about your love of fashion and
       travel did you think you would be the #1 bloggers to watch, and recognized
       in publications like Italian Vogue, Harper's Bazaar and many more?
+
+
+
+
 
 
 
@@ -77,8 +101,16 @@ sections:
 
 
 
+
+
+
+
       **Orit:**&nbsp;To date what was your favorite campaign you have done and
       why?
+
+
+
+
 
 
 
@@ -94,6 +126,10 @@ sections:
 
 
 
+
+
+
+
       **Orit:**&nbsp;What are your thoughts on where traditional luxury measures
       with up and coming designers and what do you see down the pipeline for
       traditional luxury brands?
@@ -102,9 +138,17 @@ sections:
 
 
 
+
+
+
+
       **Korin:**&nbsp;I think everything in life as well as luxury has to move,
       to change and be reborn- that for me is part of the meaning of life.
       Sometimes the rule, is rule breaking.
+
+
+
+
 
 
 
@@ -125,7 +169,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:**&nbsp;What does Luxury mean to you?
+
+
+
+
 
 
 
@@ -137,7 +189,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:**&nbsp;Tell us what’s next?
+
+
+
+
 
 
 
