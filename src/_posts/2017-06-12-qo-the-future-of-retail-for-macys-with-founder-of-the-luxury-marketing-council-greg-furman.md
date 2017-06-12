@@ -18,8 +18,16 @@ sections:
 
 
 
+
+
+
+
       If you know Greg, you’ll know he’s never short of an opinion on this
       industry. So let’s get to it!
+
+
+
+
 
 
 
@@ -44,6 +52,10 @@ sections:
       segmentation capabilities and marketing. Consider that America is vastly
       over-stored with 43 square feet of retail for every person versus 9 square
       feet of retail in the UK, the second largest in terms of retail space.
+
+
+
+
 
 
 
@@ -79,6 +91,10 @@ sections:
   - text_markdown: >-
       I’m not so sure it’s sprawling square footage and lots of inventory
       anymore.
+
+
+
+
 
 
 
