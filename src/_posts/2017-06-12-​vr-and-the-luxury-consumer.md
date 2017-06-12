@@ -16,12 +16,20 @@ sections:
 
 
 
+
+
+
+
       Let’s examine the aforementioned brands. All three offer in-store VR
       experiences at select shops around the globe. Charlotte Tilbury’s
       experience led by Kate Moss may also be enjoyed online for those equipped
       with the proper gadgetry. Tilbury’s move into VR was to promote her first
       fragrance, Scent of a Dream, whereas Hilfiger and Dior promoted recent
       fashion shows.
+
+
+
+
 
 
 
@@ -40,6 +48,10 @@ sections:
 
 
 
+
+
+
+
       Dior expertly met all three points by taking guests backstage, with an
       emphasis on exclusivity. The behind-the-scenes experience is truly
       exclusive with the prepping of models and expert makeup artistry that may
@@ -49,6 +61,10 @@ sections:
       was designed by an in-house team. This ensures an aesthetically appropriate
       device with an emphasis on quality, hallmarks expected from a luxury firm
       in fashion.
+
+
+
+
 
 
 
