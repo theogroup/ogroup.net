@@ -14,7 +14,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **"Brand" is no longer everything.**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -29,7 +53,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Experience Versus Stuff.**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -43,7 +91,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Small Luxury Brands Gaining Traction.**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -63,7 +135,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **The Rise of Global.**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,10 +176,34 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: I think Tom Schoenwaelder (Chief Commercial Officer at Doblin,
       the innovation and design arm of Deloitte) shared an opinion in the WWD
       article which really gets at the core of this conversation, including the
       specific consumer trends Greg pointed out above:
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -106,6 +226,18 @@ sections:
       really understand their hearts and minds. What makes them tick. Where and
       how they spend their money outside of your brand, and perhaps more
       importantly, how they choose to spend their most valuable resource: time.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
