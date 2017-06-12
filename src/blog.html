@@ -61,7 +61,7 @@ contact_tagline: "Let's start a conversation about luxury."
     </div>
     <div class="featured">
       <h5>Featured Posts</h5>
-      {% for post in featured %}
+      {% for post in featured | limit: 5 %}
       <div class="featured-post">
         <a href="{{post.url}}"><img src="{{ post.featured_image }}"></a>
         <a href="{{post.url}}"><h2>{{ post.name }}</h2></a>

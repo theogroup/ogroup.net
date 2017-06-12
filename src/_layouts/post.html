@@ -3,6 +3,7 @@ layout: default
 ---
 
 <section class="full">
+  {% if page.page.featured_image %}{{ page.featured_image }}{% else %}{{ /uploads/blog-default.png }}{% endif %}
   <div class="banner photo" style="background-image: url({{ page.featured_image }}); background-position: center center">
     <div class="inner-wrapper">
     </div>
