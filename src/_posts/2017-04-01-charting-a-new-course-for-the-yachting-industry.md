@@ -41,18 +41,6 @@ sections:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       In marketing, we often refer to uncharted territories as “blue water.”
       Perhaps the time has come for the yachting industry to start exploring
       their own blue water by offering luxury consumers new, curated experiences.
@@ -62,6 +50,10 @@ sections:
       boating industry, the success of which won’t solely depend on sales.​
     image:
     quote:
+    video:
+  - text_markdown:
+    image:
+    quote: THIS IS A QUOTE
     video:
 contact_tagline: "Let's start a conversation about luxury."
 ---
