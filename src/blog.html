@@ -13,7 +13,7 @@ contact_tagline: "Let's start a conversation about luxury."
 
 
 <section class="full">
-  <div class="banner photo" style="background-image: url({{ first.featured_image }}); background-position: center center">
+  <div class="banner photo" style="background-image: url({% if first.featured_image %}{{first.featured_image}}{% else %}/uploads/blog-default.png{% endif %}); background-position: center center">
   </div>
 </section>
 
