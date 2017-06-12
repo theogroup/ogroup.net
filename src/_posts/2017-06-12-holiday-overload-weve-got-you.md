@@ -9,7 +9,10 @@ sections:
   - text_markdown:
     image:
     quote:
-    video: '115005806'
+    video:
+      video_id: '115005806'
+      video_width:
+      video_height:
   - text_markdown: 'To help you survive the holiday season: a short video if you need a laugh. Here’s to ringing in 2015 with a smile.​'
     image:
     quote:

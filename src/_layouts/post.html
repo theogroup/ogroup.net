@@ -47,7 +47,7 @@ layout: default
   {% elsif section.video %}
   <div class="post-video-wrapper">
     <div class="image-section">
-      <iframe src="https://player.vimeo.com/video/{{ video }}?color=d20337" width="{{video_width}}" height="{{video_height}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      <iframe src="https://player.vimeo.com/video/{{ section.video.video_id }}?color=d20337" width="{{section.video.video_width}}" height="{{section.video.video_height}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
   </div>
   {% elsif section.quote %}
