@@ -1,6 +1,6 @@
 ---
 title: Etro fortifies artistic identity through eclectic community
-publish_date:
+publish_date: 2016-01-04 00:00:00
 featured: false
 featured_image: /uploads/blog-25-f.png
 intro_markdown: 'Our Client Services Director, Tina Masciadrelli, comments in industry publication Luxury Daily on Italian luxury brand Etro’s latest concept, "The Circle of Poets."​'
@@ -27,6 +27,54 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       "The concept brings together a group of the most talented people to
       highlight incredible work in the art world—echoing the Etro mindset that
       the whole is greater than the sum of its parts. Allowing consumers to
@@ -34,6 +82,54 @@ sections:
       relevance. By inviting user-generated content, Etro is able to tap into the
       lifestyle of their most loyal consumers and identify what inspires them and
       what might keep them coming back to the brand."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
