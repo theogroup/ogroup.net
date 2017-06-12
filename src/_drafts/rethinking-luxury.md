@@ -1,6 +1,6 @@
 ---
 title: Rethinking Luxury
-publish_date:
+publish_date: 2016-01-19 00:00:00
 featured: false
 featured_image: /uploads/blog-31-f.jpg
 intro_markdown: |-
@@ -86,7 +86,7 @@ sections:
 
 
 
-      #RethinkLuxury​
+      # &nbsp;
     image:
     quote:
     video:
