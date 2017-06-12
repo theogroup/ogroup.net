@@ -17,9 +17,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **1980:**&nbsp;Your Mom is out for drinks with her girlfriends and they
       order glasses of "white zinfandel." The name for that dark pink wine
       varietal is never spoken again by any millennial.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -34,6 +58,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **1990:&nbsp;**Beverage industry movers and shakers pick up on the rise of
       ros&eacute; happening across the pond. History proves that most European
       beverage trends hit NYC markets about 3 years later.
@@ -42,8 +78,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **1992:**&nbsp;The first ros&eacute; wine is produced in Long Island by
       Wolffer Estate.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -57,8 +117,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **2014:&nbsp;**The New York Post releases an article announcing that the
       Hamptons are running "dangerously low" on ros&eacute;—chaos ensues!
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,6 +152,18 @@ sections:
       #ros&eacute;allday, the infamous White Girl Ros&eacute; brand from The Fat
       Jewish and countless events where we can all get together and celebrate the
       peak of our love of ros&eacute;.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -89,12 +185,36 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       This year, Pierrick took the success of La Nuit en Ros&eacute; and ran with
       it—straight to the music festival loving millennials with the launch of
       Pinknic. From July 9–10 you can picnic on Governor’s Island, which will be
       bathed in four thousand pink-hued designer blankets. Dress code is pink and
       white, gourmet picnic baskets can be pre-ordered from celebrity chef Chris
       Santos and DJ sets and performances will be happening all weekend.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
