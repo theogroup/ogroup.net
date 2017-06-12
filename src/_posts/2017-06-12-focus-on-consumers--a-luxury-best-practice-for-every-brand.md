@@ -19,6 +19,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Many businesses attempt to sell purely through product attributes, and
       that’s fine if you’re selling a commodity. Brands who additionally
       communicate luxury-branding characteristics can more easily evoke the
@@ -37,6 +49,18 @@ sections:
       audience. A careful balance of the rational and emotional elements that
       meet your consumer’s needs cannot be developed without the creation of an
       in-depth target profile.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -63,6 +87,18 @@ sections:
       certainly necessary, in the absence of a vastly superior product,
       articulating how those attributes come together to provide something
       special is what separates messaging from marketing.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -95,12 +131,36 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       In the instant-access world of social, consumers and brands are on equal
       footing. Ritz Carlton Hotels exemplifies this with their 150K followers on
       Instagram. The account is almost entirely composed of guest photos as part
       of their #RCMemories campaign. Ritz Carlton virtually ensures a positive
       relationship and implies that anyone can have a memorable stay by
       collaborating with users (guests) to co-create its’ Instagram feed.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
