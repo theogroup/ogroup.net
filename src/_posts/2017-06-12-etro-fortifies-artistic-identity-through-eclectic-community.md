@@ -15,6 +15,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       "The concept brings together a group of the most talented people to
       highlight incredible work in the art world—echoing the Etro mindset that
       the whole is greater than the sum of its parts. Allowing consumers to
@@ -22,6 +34,18 @@ sections:
       relevance. By inviting user-generated content, Etro is able to tap into the
       lifestyle of their most loyal consumers and identify what inspires them and
       what might keep them coming back to the brand."
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
