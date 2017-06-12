@@ -1,14 +1,16 @@
 ---
 title: Clients Featured in Instore Magazine’s List of Most Visible Jewelry Brands
-publish_date:
+publish_date: 2016-01-07 00:00:00
 featured: false
-featured_image:
-intro_markdown:
+featured_image: /uploads/blog-38-f.jpg
+intro_markdown: 'We’re proud to see three of our clients featured in Instore Magazine’s list of "The 150 Most Visible Jewelry Brands In America". Effy, Assael and Kimberly McDonald were each featured for their brand building and visibility efforts in 2015.​'
 author:
 sections:
-  - text_markdown:
+  - text_markdown: 'We’re looking forward to seeing each brand’s continued success as we begin 2016, as well as sharing new work to come!​'
     image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."
 ---
+
+
