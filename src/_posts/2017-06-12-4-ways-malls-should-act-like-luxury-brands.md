@@ -14,6 +14,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Malls can become important to people not only as places to spend their
       money and their time, but also as living brands that are important in
       facilitating or creating meaningful experiences. It’s clear that malls need
@@ -27,9 +39,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **1. Concept is King:**Mall operators should push even harder to develop
       concept-driven mall brands, and to harness the power of luxury positioning,
       aesthetics and tactics.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -47,6 +83,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       This doesn’t limit the types of stores, but rather it focuses them around
       consumer mindset and interest allowing people to feel a deeper connection
       and allegiance with that property. It’s about replacing breadth with depth
@@ -56,8 +104,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **2. Keep Calm and Carry On:**Malls should create, design, launch and
       interact with strength, poise and confidence.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -84,8 +156,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **3. Surround Yourself with Greatness:**Malls should partner with the best,
       or at least the most appropriate.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -100,10 +196,34 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       By turning their food courts into chef-curated food halls, hosting
       high-caliber, unique events or perhaps handing over creative reins to an
       outside party, malls could transform themselves into places to see and be
       seen.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -117,11 +237,35 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Mall brands need to look at how successful luxury brands connect with
       people on both an aspirational level and more directly. Branding is all
       about creating meaningful connections to people. Like luxury brands have
       understood for years, it is key to balance rational and emotional
       messaging.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
