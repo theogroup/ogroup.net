@@ -13,7 +13,15 @@ sections:
 
 
 
+
+
+
+
       **Entertain and Be Positive.**
+
+
+
+
 
 
 
@@ -28,7 +36,15 @@ sections:
 
 
 
+
+
+
+
       **Look beyond Price.**
+
+
+
+
 
 
 
@@ -42,7 +58,15 @@ sections:
 
 
 
+
+
+
+
       **Appeal to the Imagination.**
+
+
+
+
 
 
 
@@ -61,7 +85,15 @@ sections:
 
 
 
+
+
+
+
       **Be Attentive.**
+
+
+
+
 
 
 
@@ -76,7 +108,15 @@ sections:
 
 
 
+
+
+
+
       **Represent Diversity.**
+
+
+
+
 
 
 
@@ -90,7 +130,15 @@ sections:
 
 
 
+
+
+
+
       **Give Back.**
+
+
+
+
 
 
 
@@ -108,7 +156,15 @@ sections:
 
 
 
+
+
+
+
       **Exceed Expectations.**
+
+
+
+
 
 
 
@@ -118,6 +174,10 @@ sections:
       they’ve ever imagined. Meticulously attend to every last detail. The aim
       isn’t simply fulfilling a need but improving upon it until it evolves into
       something much more significant.
+
+
+
+
 
 
 
