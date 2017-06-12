@@ -16,6 +16,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Though AR and VR are terms that have been bandied about for some time, for
       the sake of this article I’ll include a quick summary of what
       differentiates the two technologies. Both AR and VR rely on
@@ -23,6 +35,18 @@ sections:
       two is the level of immersion. AR typically adds a layer of CGI to enhance
       the user’s existing surroundings, whereas VR relies on CGI to create an
       immersive reality that surrounds the user.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -59,6 +83,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       For hospitality, tourism and real estate brands, showcasing properties and
       giving potential visitors a chance to virtually explore their surroundings
       prior to making an investment – whether in the form of a purchase, rental
@@ -84,6 +120,18 @@ sections:
       and connected home. Brands ranging from appliance and home theater
       manufacturers to furniture and bedding producers need to be ready to
       integrate into this new frontier of home-based AR.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
