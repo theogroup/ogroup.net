@@ -17,8 +17,16 @@ sections:
 
 
 
+
+
+
+
       **Orit:** Your weekly #Pantoneposts first grabbed my eye. What motivated
       you to look at pms chips the way you do?
+
+
+
+
 
 
 
@@ -37,8 +45,16 @@ sections:
 
 
 
+
+
+
+
       **Orit:** As a food stylist, how would you say luxury has navigated your
       approach when conceptualizing your set.
+
+
+
+
 
 
 
@@ -54,7 +70,15 @@ sections:
 
 
 
+
+
+
+
       **Orit:** What inspires you?
+
+
+
+
 
 
 
@@ -70,8 +94,16 @@ sections:
 
 
 
+
+
+
+
       **Q:** Now that you have relocated to California, what's next for
       you?&nbsp;
+
+
+
+
 
 
 
