@@ -19,6 +19,10 @@ sections:
 
 
 
+
+
+
+
       It seems I wasn't the only one of my girlfriends who had noticed the large
       amounts of marketing dollars Express had been spending. After the initial
       shock, I began to wonder...​
@@ -50,6 +54,10 @@ sections:
 
 
 
+
+
+
+
       After a week of regaining interest and scouring potential gym outfits
       online, I ended up purchasing two workout tops. One—because I thought they
       were cute, two—because of the BOGO (I'm a bargain hunter at heart). Whether
@@ -57,6 +65,10 @@ sections:
       I definitely found myself feeling just a little nostalgic for those high
       school days roaming the mall and wandering into Express in search of a new
       top for the high school dance.
+
+
+
+
 
 
 
@@ -71,6 +83,10 @@ sections:
       a 50% discount really can do the trick. That said, I think it will take
       a sustained effort from the brand for more millennials like myself to put
       Express in their active-wear or fashion consideration set.
+
+
+
+
 
 
 
