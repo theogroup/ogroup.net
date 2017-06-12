@@ -17,12 +17,36 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       "By tapping these two iconic cartoon characters, and juxtaposing them in
       modern-day situations, you get a renewed sense of the brand’s personality.
       Jean Paul Gaultier has long been known for his rebellious, spirited
       attitude and designs. This collaboration plays into the fantastical, fun
       nature of the brand by modeling Le Male and Classique in Gaultier-inspired
       outfits."
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
