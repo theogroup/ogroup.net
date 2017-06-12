@@ -19,6 +19,10 @@ sections:
 
 
 
+
+
+
+
       We deal in the business of ideas. We work with clients that value those
       ideas and our expertise.​
     image:
@@ -38,10 +42,18 @@ sections:
 
 
 
+
+
+
+
       Luxury means something special, but it is a construct. Luxury creative can
       be a tool. It provides a framework to companies, business and brands – of
       all kinds – who want to attract people and deliver something qualitatively
       well beyond the norm.
+
+
+
+
 
 
 
@@ -69,6 +81,10 @@ sections:
 
 
 
+
+
+
+
       The meaning of luxury is changing. We know because it’s been our mission to
       change it. Anyone can tell you where luxury came from. We work with clients
       to shape where it’s headed: Luxury creative for real brands, with real
@@ -78,9 +94,17 @@ sections:
 
 
 
+
+
+
+
       And so, as we enter 2016 we plan to showcase what it can mean to rethink
       luxury across every medium - our client work, our own brand and our
       interactions with the world.
+
+
+
+
 
 
 
