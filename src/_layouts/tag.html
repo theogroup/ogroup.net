@@ -1,16 +1,12 @@
 ---
-layout: default
-class: blog
-pagination:
-  enabled: true
-contact_tagline: "Let's start a conversation about luxury."
+layout: tag_default
 ---
-{% assign posts = site.posts | sort:'publish_date' | reverse %}
+
+{% assign posts = site.tags[page.tag] %}
 {% assign featured = posts | where:'featured','true' %}
-{% assign first = paginator.posts | first %}
+{% assign first = posts | first %}
 {% assign projects = site.projects | sort:'sort_order' %}
 {% assign casestudy = projects | first %}
-
 
 <section class="full">
   <div class="banner photo" style="background-image: url({% if first.featured_image %}{{first.featured_image}}{% else %}/uploads/blog-default.png{% endif %}); background-position: center center">
@@ -19,7 +15,7 @@ contact_tagline: "Let's start a conversation about luxury."
 
 <section class="grid">
   <div class="posts-wrapper">
-    {% for post in paginator.posts %}
+    {% for post in posts %}
     <hr>
     <div class="image" style="background-image: url({% if post.featured_image %}{{post.featured_image}}{% else %}/uploads/blog-default.png{% endif %}); background-size: cover; background-position: center center"><a href="{{ post.url }}"></a></div>
     <div class="links">
@@ -57,7 +53,7 @@ contact_tagline: "Let's start a conversation about luxury."
       <a href="/blog"><button class="tag-button selected"><p class="tag">all</p></button></a>
       {% for tag in site.tags %}
         {% assign t = tag | first %}
-        <a href="/{{ site.tag_page_dir }}/{{ t | slugify: 'pretty' }}.html"><button class="tag-button"><p class="tag">{{ t }}</p></button></a>
+        <a href="/{{ site.tag_page_dir }}/{{ t | slugify: 'pretty' }}/"><button class="tag-button"><p class="tag">{{ t }}</p></button></a>
       {% endfor %}
     </div>
     <div class="featured">
@@ -84,7 +80,7 @@ contact_tagline: "Let's start a conversation about luxury."
     <div class="split split-left">
     <a href="">
       <h5>Contact</h5>
-      <h3>{{ page.contact_tagline }}</h3>
+      <h3>{% if page.contact_tagline %}{{ page.contact_tagline }}{% else %}Let's start a conversation about luxury.{% endif %}</h3>
       <div class="arrow-wrapper">
         <img src="/assets/images/red-arrow.png" alt="" class="arrow">
       </div>
@@ -101,4 +97,3 @@ contact_tagline: "Let's start a conversation about luxury."
     </div>
   </div>
 </section>
-

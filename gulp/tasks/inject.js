@@ -15,3 +15,9 @@ gulp.task('inject:footer', () =>
     .pipe(inject(gulp.src('.tmp/assets/javascript/*.js'), {ignorePath: '.tmp'}))
     .pipe(gulp.dest('.tmp/src/_layouts'))
 );
+
+gulp.task('inject:blogfooter', () =>
+  gulp.src('.tmp/src/_layouts/tag_default.html')
+    .pipe(inject(gulp.src('.tmp/assets/javascript/*.js'), {ignorePath: '.tmp'}))
+    .pipe(gulp.dest('.tmp/src/_layouts'))
+);

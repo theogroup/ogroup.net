@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="blog">
+
+    {% include header.html %}
+
+    <main class="load">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <!-- endinject -->
+
+  <!-- for cloudcannon -->
+  {% if jekyll.environment == 'production' %}
+    <script src=/assets/javascript/index.js></script>
+  {% endif %}
+   <!-- end -->
+
+  </body>
+
+  {% include js-blog.html %}
+
+</html>
