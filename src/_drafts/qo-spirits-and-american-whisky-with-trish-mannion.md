@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Spirits and American Whisky with Trish Mannion'
+title: 'Q&O Spirits and American Whisky with Trish Mannion'
 publish_date:
 featured: false
 featured_image:
@@ -15,3 +15,5 @@ sections:
       video_height:
 contact_tagline: "Let's start a conversation about luxury."
 ---
+
+
