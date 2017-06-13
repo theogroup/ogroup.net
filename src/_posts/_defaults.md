@@ -2,6 +2,7 @@
 title:
 publish_date:
 featured: false
+tags: []
 featured_image:
 intro_markdown: >-
 
