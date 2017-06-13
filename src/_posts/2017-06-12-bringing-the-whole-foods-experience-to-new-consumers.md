@@ -2,6 +2,7 @@
 title: Bringing the Whole Foods Experience to New Consumers
 publish_date: 2016-05-31 00:00:00
 featured: false
+tags: [Retail, rethink luxury]
 featured_image: /uploads/blog-26-f.jpg
 intro_markdown: "Despite the apparent contradriction, lower-priced goods and services can absolutely be considered a luxury. Whole Foods' newest launch exemplifies just that.​"
 author:

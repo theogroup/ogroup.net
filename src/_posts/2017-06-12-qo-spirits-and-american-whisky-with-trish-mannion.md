@@ -2,6 +2,7 @@
 title: 'Q&O - Spirits and American Whisky with Trish Mannion'
 publish_date: 2013-10-15 00:00:00
 featured: false
+tags: [Q&O]
 featured_image:
 intro_markdown: 'I had the opportunity to talk all things new and next in "spirits" with Trish Mannion, Senior Brand Manager for American Whiskey at Diageo.​'
 author:

@@ -2,6 +2,7 @@
 title: 'Top 3 Trends in Experiential Luxury: #AfarConversations'
 publish_date: 2015-01-27 00:00:00
 featured: false
+tags: [Travel]
 featured_image: /uploads/blog-39-f.jpg
 intro_markdown: "Last week we had the pleasure of attending an Afar Conversations event on The Evolution of the Luxury Consumer at The Chatwal here in NYC. AFAR Media brought together leaders in experiential travel to host a lively (and at times, hilarious) discussion on today and tomorrow's luxury consumer.​"
 author:

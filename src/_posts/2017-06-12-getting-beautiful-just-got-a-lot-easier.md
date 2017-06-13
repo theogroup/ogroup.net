@@ -2,6 +2,7 @@
 title: Getting beautiful just got a lot easier
 publish_date: 2016-04-10 00:00:00
 featured: false
+tags: [Influencers, rethink luxury]
 featured_image: /uploads/blog-32-f.jpg
 intro_markdown: 'Attention: All my New York City beauty-loving ladies, this one’s for you. Meet&nbsp;[Beautified](https://www.getbeautified.com/), an app that lets you find and book same day beauty services.​'
 author:

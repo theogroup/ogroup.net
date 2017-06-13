@@ -2,6 +2,7 @@
 title: Rethinking Luxury
 publish_date: 2016-01-19 00:00:00
 featured: false
+tags: [rethink luxury]
 featured_image: /uploads/blog-31-f.jpg
 intro_markdown: |-
   AN OPEN LETTER FROM OUR CHIEF CREATIVE OFFICER.

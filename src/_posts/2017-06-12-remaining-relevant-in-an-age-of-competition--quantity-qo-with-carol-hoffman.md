@@ -2,6 +2,7 @@
 title: 'Remaining Relevant in an Age of Competition & Quantity: Q&O with Carol Hoffman'
 publish_date: 2014-05-08 00:00:00
 featured: false
+tags: [Q&O]
 featured_image:
 intro_markdown: "Today I'm chatting with Carol Hoffman, EVP of Strategy for&nbsp;[SGN Group](http://sgn-group.com/).​"
 author:
