@@ -56,7 +56,8 @@ contact_tagline: "Let's start a conversation about luxury."
       <h5>Tags</h5>
       <a href="/blog"><button class="tag-button selected"><p class="tag">all</p></button></a>
       {% for tag in site.tags %}
-        <a href="{{tag.url}}"><button class="tag-button"><p class="tag">{{tag.name}}</p></button></a>
+        {% assign t = tag | first %}
+        <a href="/{{ site.tag_page_dir }}/{{ t | slugify: 'pretty' }}/"><button class="tag-button"><p class="tag">{{ t }}</p></button></a>
       {% endfor %}
     </div>
     <div class="featured">

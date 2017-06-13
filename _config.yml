@@ -73,11 +73,15 @@ defaults:
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll/tagging
   # - jekyll-redirect-from
   # - jekyll-polyglot
   - jekyll-paginate-v2
   # - jekyll-archives
   # - jekyll-feed
+
+tag_page_layout: tag
+tag_page_dir: blog/tags
 
 pagination:
   enabled: true
