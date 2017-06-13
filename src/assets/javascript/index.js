@@ -22497,9 +22497,9 @@ module.exports = {
 
   // fade-in content
   $(document).ready(function() {
-     var main = $('main');
+     var html = $('html');
      setTimeout(function(){
-       $(main).removeClass('load').addClass('loaded');
+       $(html).removeClass('load').addClass('loaded');
      }, 250);
   });
 
