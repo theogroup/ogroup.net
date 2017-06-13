@@ -94,6 +94,10 @@ body.grid:before {
   display: block;
 }
 
+.js-img {
+  display: none;
+}
+
 main {
   min-height: 100vh;
   section.grid {

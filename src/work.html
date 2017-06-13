@@ -130,7 +130,14 @@ archive:
 <section class="full">
   {% assign work = site.projects | where:'show_on_homepage','false' | sort:'sort_order' %}
   {% for project in work %}
-  <div class="showcase" style="background-image: url({{ project.featured_image }}); background-position: center center">
+  <div class="showcase" style="background-position: center center">
+  <img ix-path="{{ project.featured_image | replace: '/uploads/', ''}}"
+       alt=""
+       ix-params='{
+         "auto": "compress"
+       }'
+       class="js-img"
+       sizes="100vw">
    <a href="{{ project.url }}">
     <div class="inner-wrapper">
       <div class="inner">
