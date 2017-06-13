@@ -2,7 +2,8 @@
 title: Judge Your Luxury Brand by its Weakest Point of Execution
 publish_date: 2013-05-07 00:00:00
 featured: false
-tags: [strategy, banana]
+tags:
+  - strategy
 featured_image:
 intro_markdown: "As a luxury brand, it is easy to rest on the laurels of everything you have done right. Maybe your retail strategy is exceptional, or you've launched a cutting-edge experiential Web site.​"
 author:
@@ -25,13 +26,49 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       So, where have we seen luxury brands that otherwise get it right go wrong?
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **INCONGRUOUS BRAND PARTNERSHIPS**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -44,7 +81,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **LOWBROW "SALE" MESSAGING**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -58,7 +119,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **INCONSISTENT COMMUNICATION AROUND A SINGLE CONCEPT**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73,13 +158,49 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **POOR TASTE**
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Off-color humor or pointed politics can easily alienate many people.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -113,6 +234,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       For example, the digital / mobile / social space feels pretty risky to many
       luxury brands. Technology is moving at warp speed, so the platforms of
       today may change even as you develop a strategy. Still, it is clear that
@@ -124,6 +257,18 @@ sections:
       different blogs and was the most clicked story on PRWeek's news site.
       Through a smart digital strategy, Jimmy Choo reinforced for its current and
       aspirational consumers that its product is to be coveted.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -142,7 +287,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **WHAT TO DO?**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -154,6 +323,18 @@ sections:
       understood companywide. With this groundwork in place, when one of these
       opportunities comes about, you are ready to react in the right, on-brand
       way rather than doing something that may cause more harm than good.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
