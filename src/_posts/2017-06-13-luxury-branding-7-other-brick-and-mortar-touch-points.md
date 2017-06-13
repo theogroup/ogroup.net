@@ -1,9 +1,9 @@
 ---
-title: 'Luxury Branding: 7 "Other" Brick-and-Mortar Touch Points'
+title: 'Luxury Branding: 7 Other Brick-and-Mortar Touch Points'
 publish_date: 2013-08-16 00:00:00
 featured: false
 featured_image: /uploads/blog-56-f.jpg
-intro_markdown: 'http://www.zeit.de/2017/24/elite-usa-kritik-donald-trump-ausbildung'
+intro_markdown: 'As online engagement continues to increase, brand elements like positioning and concept along with visual and verbal touch points are finally getting the attention they deserve. For better or worse, "Branding" has become a part of the everyday vernacular and as such, it has grown exponentially broader and deeper.​'
 author:
 sections:
   - text_markdown: >-
@@ -15,7 +15,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **TEMPERATURE & CLIMATE**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36,7 +60,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **LIGHTING**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -52,6 +100,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Personally, I'm more comfortable shopping in a well-lit store. It seems
       obvious, but I've had too many mishaps in the past where in the light of
       day, my purchases lost their luster.
@@ -60,7 +120,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **MUSIC & SOUND**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -91,6 +175,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       I can say that I definitely prefer music that's a bit more recognizable
       (real songs played on actual instruments) to a lot of what I heard
       (watered-down hits and spa-themed "whoosh-tings"). In-store audio has to be
@@ -101,7 +197,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **SCENT**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -123,7 +243,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ATTITUDE & APPROACHABILITY**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -143,7 +287,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **SAMPLING & THRESHOLD**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -182,7 +350,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **LOCATION & SETTING (SIGNAGE, DISPLAY & VIDEO)**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -195,6 +387,18 @@ sections:
       similarities too, in how these stores are designed and merchandised. These
       stores and brands reflect on each other. Even within an enclosed
       environment, it's the whole "company you keep" mentality.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
