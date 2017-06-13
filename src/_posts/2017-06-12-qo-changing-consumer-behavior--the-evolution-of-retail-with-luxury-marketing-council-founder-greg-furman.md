@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Changing Consumer Behavior & the Evolution of Retail with Luxury Marketing Council Founder, Greg Furman'
+title: 'Q&O - Changing Consumer Behavior & the Evolution of Retail with Luxury Marketing Council Founder, Greg Furman'
 publish_date: 2016-02-23 00:00:00
 featured: false
 featured_image:

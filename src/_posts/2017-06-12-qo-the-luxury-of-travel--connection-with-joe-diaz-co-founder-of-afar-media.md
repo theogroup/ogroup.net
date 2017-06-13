@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: The Luxury of Travel & Connection with Joe Diaz, Co-Founder of AFAR Media'
+title: 'Q&O - The Luxury of Travel & Connection with Joe Diaz, Co-Founder of AFAR Media'
 publish_date: 2014-01-14 00:00:00
 featured: false
 featured_image:

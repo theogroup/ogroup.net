@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Luxury Travel Trends, Tracking Technology and Super Yachts with Jennifer Ploszaj'
+title: 'Q&O - Luxury Travel Trends, Tracking Technology and Super Yachts with Jennifer Ploszaj'
 publish_date: 2014-09-23 00:00:00
 featured: false
 featured_image:

@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Talking Spirits Innovation & Distribution with Dave O’Brien of Proof ABV'
+title: 'Q&O - Talking Spirits Innovation & Distribution with Dave O’Brien of Proof ABV'
 publish_date: 2014-07-24 00:00:00
 featured: false
 featured_image:

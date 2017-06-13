@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Spirits and American Whisky with Trish Mannion'
+title: 'Q&O - Spirits and American Whisky with Trish Mannion'
 publish_date: 2013-10-15 00:00:00
 featured: false
 featured_image:

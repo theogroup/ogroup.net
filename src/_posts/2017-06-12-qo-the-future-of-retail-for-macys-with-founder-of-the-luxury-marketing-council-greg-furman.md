@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: The Future of Retail for Macy’s with Founder of the Luxury Marketing Council, Greg Furman'
+title: 'Q&O - The Future of Retail for Macy’s with Founder of the Luxury Marketing Council, Greg Furman'
 publish_date: 2016-01-28 00:00:00
 featured: false
 featured_image:

@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Differentiating True from Affordable Luxury, An Interview with Mickey Ateyeh'
+title: 'Q&O - Differentiating True from Affordable Luxury, An Interview with Mickey Ateyeh'
 publish_date: 2013-10-10 00:00:00
 featured: false
 featured_image:

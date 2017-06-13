@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Talking Hospitality with Arlene Spiegel'
+title: 'Q&O - Talking Hospitality with Arlene Spiegel'
 publish_date: 2013-10-03 00:00:00
 featured: false
 featured_image:

@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: How Digital is Impacting the Jewelry Industry: An Interview with Gannon Brousseau of The Couture Show'
+title: 'Q&O - How Digital is Impacting the Jewelry Industry: An Interview with Gannon Brousseau of The Couture Show'
 publish_date: 2014-02-11 00:00:00
 featured: false
 featured_image:
