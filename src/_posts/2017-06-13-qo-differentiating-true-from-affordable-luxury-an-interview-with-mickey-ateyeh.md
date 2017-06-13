@@ -1,5 +1,5 @@
 ---
-title: 'Q&O: Differentiating True from Affordable Luxury, An Interview with Mickey Ateyeh'
+title: 'Q&O Differentiating True from Affordable Luxury, An Interview with Mickey Ateyeh'
 publish_date: 2013-10-10 00:00:00
 featured: false
 featured_image:
@@ -14,7 +14,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: WHERE ARE YOU RIGHT NOW?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -27,7 +51,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: I LOVE YOU, BUT I'M A HATER RIGHT NOW.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -39,7 +87,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: SO WHAT ARE THE BIGGEST CHALLENGES YOU SEE LUXURY BRANDS FACING?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,7 +128,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: HOW DO YOU DEFINE "TRUE" VERSUS "AFFORDABLE" LUXURY?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,6 +164,18 @@ sections:
       of Hermes (my former employer), Van Cleef & Arpels or Breguet. In today's
       luxury market, performance is also an important factor, and perhaps price
       is not the only element to be considered.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -86,9 +194,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: SO IF WE SPEAK TO TRUE LUXURY, THE BRANDS THAT HAVE HERITAGE AND
       CRAFTSMANSHIP MIGHT BE WITHERING ON THE VINE BECAUSE THEY HAVEN'T FIGURED
       OUT HOW TO CONNECT WITH THE MARKET?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -105,11 +237,35 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: WE SPOKE WITH JEFF PRINE, A WRITER WHO WORKS SPECIFICALLY IN THE
       JEWELRY AND WATCH SPACE, AND HE CALLED OUT BURBERRY IN THE SAME WAY YOU
       HAVE. SO IT SEEMS YOU WOULD CALL THEM BEST IN CLASS? THEY'VE NEVER WALKED
       AWAY FROM WHAT THEY'VE ALWAYS STOOD FOR, BUT THEY'VE CERTAINLY BEEN
       INNOVATIVE AND COHESIVE IN THEIR MESSAGING AND OFFERING.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -125,7 +281,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: WHAT OTHER BRANDS WOULD YOU PUT UP ON THAT SAME PEDESTAL?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -141,8 +321,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: SO IF WE TALK ABOUT THE MOST IMPORTANT FACTOR OF SUCCESS IN
       A BRAND, YOU'VE CALLED OUT HAVING A VISION, INNOVATION, MESSAGING…
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -170,10 +374,34 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Mickey: One brand I see as new is the expansion of Belstaff – the British
       leather clothing and accessory company that has recently opened a Flagship
       on Madison Avenue in New York City. The product quality is extraordinary.
       It will be interesting to follow their development.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -189,6 +417,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       And speaking of visionaries, it's a pleasure and an honor to be virtually
       in the backyard of one of world's greatest and talented designers:
       Christian Lacroix.
@@ -197,9 +437,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: SO IT SEEMS THERE'S A LINE IN THE SAND WITH WHAT YOU SEE IN
       EUROPE AS COMPARED TO WHAT WE SEE HERE IN THE U.S.—DO YOU FEEL THAT THE
       RETAILER HAS BECOME AFRAID OF PUSHING THE LIMITS OF DESIGN?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -215,6 +479,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       The difficulty for retailers today comes down to pure financial
       performance, as witnessed by the imminent takeovers of both Neiman Marcus
       and Saks.
@@ -223,8 +499,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: DO YOU THINK THAT THERE WILL BE A RESURGENCE OF SMALL BOUTIQUES
       BECAUSE PEOPLE ARE TIRING OF THE TYPICAL SELECTION IN BIGGER RETAILERS?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -241,7 +541,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: TALK TO US ABOUT WHAT'S HAPPENING IN THE ACCESSORIES MARKET.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -256,6 +580,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Speaking of handbags, the other day I saw such a fabulous, graphic and
       creative ad for the new Jonathan Adler handbag collection and thought how
       fun and how clever. Good for him!
@@ -264,8 +600,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: LET'S SHIFT A BIT AND TALK ABOUT THE CUSTOMER—WHAT ARE THEY
       EXPECTING OF LUXURY BRANDS?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -295,8 +655,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: HOW IMPORTANT IS EXCEPTIONAL SERVICE FROM THE ENTIRE PIPELINE OF
       THE BRAND?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -311,9 +695,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: STAYING THERE FOR A MOMENT—WHAT BRANDS DO YOU THINK ARE GETTING
       IT RIGHT FROM A DIGITAL POINT OF VIEW? WHO'S TRANSLATED THEIR BRAND TO THE
       ONLINE EXPERIENCE?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -327,8 +735,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: YOU'VE BEEN SUCCESSFUL IN JEWELRY, ACCESSORIES AND FASHION, SO
       WHAT STILL EXCITES YOU OUT THERE?
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -341,7 +773,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **ORIT**: SO WHAT ARE YOUR PERSONAL LUXURIES, APART FROM TRAVEL!
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -354,12 +810,36 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Q&O is a series of short conversations with friends and colleagues, all
       experts in their industry, about what it really takes to make luxury brands
       tick. Through this series of interviews, I'm hoping to not only pull back
       the curtain on luxury (just a little!), but connect insights across the
       Fashion, Jewelry, Hospitality and Spirits industries, and talk about what's
       next.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
