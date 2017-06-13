@@ -3,6 +3,7 @@ title: The Top Three Cultural Trends for Premium Brands to Consider
 publish_date: 2015-11-12 00:00:00
 featured: false
 tags:
+  - strategy
 featured_image: /uploads/1.jpg
 intro_markdown: "Developing brand strategy is about more than simply looking at consumer spending or predilections — we can paint a much more complete picture of how to solve a brand's challenge if we consider people (or clients, or consumers) as whole human beings with lives that extend far beyond purchase behavior.​"
 author:
@@ -18,7 +19,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       1. FEWER BETTER THINGS
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -34,9 +59,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       We live in a time where it's possible to have a toothbrush and a parka
       delivered to your door in under two hours, and Walmart just announced plans
       to begin testing drone-based delivery systems.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,7 +127,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       2. FAME CULTURE AS A TOOL
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -92,6 +165,18 @@ sections:
       the attention for good. I've seen two standout examples of this recently
       that made me think this is more than a few celebrities with hearts of gold
       (Jolie-Pitt Clan) on an independent mission.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -111,6 +196,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       The other one that caught my eye was Kate Winslet's "no photoshopping"
       clause in her contract with L'Oreal / Lancome. She cited feeling
       a responsibility to be a positive influence on women, and realistically
@@ -125,7 +222,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       3. SEEKING MORE MEANINGFUL EXPERIENCES
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -140,6 +261,18 @@ sections:
       touch service and creating unforgettable moments. But now consumers want
       all of those things, PLUS a unique property that is reflective of its place
       — not a hotel-brand template.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -178,6 +311,18 @@ sections:
   - text_markdown: >-
       Owning fewer, higher quality possessions, leaving a positive mark on the
       world, and making meaningful memories.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
