@@ -3,13 +3,20 @@ layout: tag_default
 ---
 
 {% assign posts = site.tags[page.tag] %}
-{% assign featured = posts | where:'featured','true' %}
 {% assign first = posts | first %}
 {% assign projects = site.projects | sort:'sort_order' %}
 {% assign casestudy = projects | first %}
 
 <section class="full">
-  <div class="banner photo" style="background-image: url({% if first.featured_image %}{{first.featured_image}}{% else %}/uploads/blog-default.png{% endif %}); background-position: center center">
+  <div class="banner photo" style="background-position: center center">
+    <img
+      class="js-img"
+      ix-path="{% if first.featured_image %}{{first.featured_image | replace: '/uploads/', ''}}{% else %}/uploads/blog-default.png{% endif %}"
+      ix-params='{
+        "auto": "compress"
+      }'
+      sizes="100vw"
+    >
   </div>
 </section>
 
@@ -17,7 +24,16 @@ layout: tag_default
   <div class="posts-wrapper">
     {% for post in posts %}
     <hr>
-    <div class="image" style="background-image: url({% if post.featured_image %}{{post.featured_image}}{% else %}/uploads/blog-default.png{% endif %}); background-size: cover; background-position: center center"><a href="{{ post.url }}"></a></div>
+    <div class="image" style="background-size: cover; background-position: center center"><a href="{{ post.url }}"></a>
+      <img
+        class="js-img"
+        ix-path="{% if post.featured_image %}{{post.featured_image | replace: '/uploads/', ''}}{% else %}blog-default.png{% endif %}"
+        ix-params='{
+          "auto": "compress"
+        }'
+        sizes="(min-width: 1000px) 50vw, 95vw"
+      >
+    </div>
     <div class="links">
       {% if post.author.image %}
       <img class="author" src="{{ post.author.image }}" alt="">
@@ -56,20 +72,7 @@ layout: tag_default
         <a href="/{{ site.tag_page_dir }}/{{ t | slugify: 'pretty' }}/"><button class="tag-button"><p class="tag">{{ t }}</p></button></a>
       {% endfor %}
     </div>
-    <div class="featured">
-      <h5>Featured Posts</h5>
-      {% for post in featured limit:5 %}
-      <div class="featured-post">
-        <a href="{{post.url}}"><img src="{% if post.featured_image %}{{post.featured_image}}{% else %}/uploads/blog-default.png{% endif %}"></a>
-        <a href="{{post.url}}"><h2>{{ post.name }}</h2></a>
-        {% if post.author.image %}
-        <p class="byline"><span>by </span>{{ post.author.name }}</p>
-        {% else %}
-        <p class="byline"><span>by </span>The O Group</p>
-        {% endif %}
-      </div>
-      {% endfor %}
-    </div>
+
   </div>
 </section>
 

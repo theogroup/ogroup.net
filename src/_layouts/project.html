@@ -52,7 +52,15 @@ layout: default
     </section>
   {% elsif block.image_banner.image_banner_image %}
     <section class="full">
-      <div class="banner photo" style="background-image: url({{ block.image_banner.image_banner_image }}); background-position: center center; background-size: cover">
+      <div class="banner photo" style="background-position: center center; background-size: cover">
+        <img
+          class="js-img"
+          ix-path="{{ block.image_banner.image_banner_image | replace: '/uploads/', '' }}"
+          ix-params='{
+            "auto": "compress"
+          }'
+          sizes="100vw"
+        >
         <div class="inner-wrapper">
           <div class="inner">
             <h2 class="headline" {% if block.image_banner.image_banner_text_color %}style="color: {{block.image_banner.image_banner_text_color}}"{% endif %}>{{ block.image_banner.image_banner_text }}</h2>
@@ -62,7 +70,15 @@ layout: default
     </section>
   {% elsif block.grid_image.image %}
     <section class="grid image-wrapper">
-      <div class="banner grid-image"><img src="{{ block.grid_image.image }}" alt=""></div>
+      <div class="banner grid-image">
+      <img
+        ix-path="{{ block.grid_image.image | replace: '/uploads/', '' }}"
+        ix-params='{
+          "auto": "compress"
+        }'
+        sizes="100vw"
+      >
+      </div>
     </section>
   {% elsif block.split_banner.split_banner_image %}
     <section class="grid">
@@ -121,7 +137,16 @@ layout: default
     <section class="full">
       <div class="gallery flickity">
         {% for image in block.gallery %}
-        <div class="gallery-cell" style="background-image: url({{ image }}); background-position: center center; background-size: cover"></div>
+        <div class="gallery-cell" style="background-position: center center; background-size: cover">
+          <img
+            class="js-img"
+            ix-path="{{ image | replace: '/uploads/', '' }}"
+            ix-params='{
+              "auto": "compress"
+            }'
+            sizes="100vw"
+          >
+        </div>
         {% endfor %}
       </div>
     </section>
