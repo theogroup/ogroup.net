@@ -39,6 +39,7 @@ layout: default
 {% endif %}
 
 {% for block in page.content_blocks %}
+  {% assign gallery_size = block.gallery_images | size %}
   {% assign text_banner_length = block.text_banner.text_banner_text | size %}
   {% if text_banner_length  > 1 %}
     <section class="full" {% if block.text_banner.text_banner_background_color %}style="background-color: {{block.text_banner.text_banner_background_color}}"{% endif %}>
@@ -133,14 +134,14 @@ layout: default
         {% endif %}
       </div>
     </section>
-  {% elsif block.gallery.image[0] %}
+  {% elsif gallery_size > 1 %}
     <section class="full">
       <div class="gallery flickity">
-        {% for image in block.gallery %}
+        {% for image in block.gallery_images %}
         <div class="gallery-cell" style="background-position: center center; background-size: cover">
           <img
             class="js-img"
-            ix-path="{{ image | replace: '/uploads/', '' }}"
+            ix-path="{{ image.image_path | replace: '/uploads/', '' }}"
             ix-params='{
               "auto": "compress"
             }'

@@ -7,7 +7,7 @@ vimeo_id:
 vimeo_width:
 vimeo_height:
 headline: Step into the black.
-headline_text_color: '#000000'
+headline_text_color: '#ffffff'
 overview: The Darker Side of Captain Morgan—a reboot with substance and grit reintroducing the brand to a modern audience.
 sort_order: 9
 content_blocks:
@@ -32,8 +32,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -57,8 +57,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -82,8 +82,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -107,8 +107,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -132,8 +132,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -157,12 +157,12 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image: /uploads/cm-gallery-5.jpg
-      - image: /uploads/cm-gallery-4.jpg
-      - image: /uploads/cm-gallery-3.jpg
-      - image: /uploads/cm-gallery-2.jpg
-      - image: /uploads/cm-gallery-1.jpg
+    gallery_images:
+      - image_path: /uploads/cm-gallery-5.jpg
+      - image_path: /uploads/cm-gallery-4.jpg
+      - image_path: /uploads/cm-gallery-3.jpg
+      - image_path: /uploads/cm-gallery-2.jpg
+      - image_path: /uploads/cm-gallery-1.jpg
     grid_image:
       image:
   - text_banner:
@@ -186,8 +186,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -211,8 +211,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -236,8 +236,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -261,8 +261,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -286,8 +286,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -311,8 +311,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
 contact_tagline: Let’s talk about the work we did for

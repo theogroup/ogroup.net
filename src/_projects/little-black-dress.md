@@ -32,8 +32,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -57,8 +57,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -82,8 +82,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -107,8 +107,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-1.jpg
   - text_banner:
@@ -132,8 +132,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -157,8 +157,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-2.jpg
   - text_banner:
@@ -182,8 +182,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-3.jpg
   - text_banner:
@@ -207,8 +207,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-4.jpg
   - text_banner:
@@ -232,8 +232,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -257,8 +257,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -282,8 +282,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -307,8 +307,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-5.jpg
   - text_banner:
@@ -332,8 +332,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-6.jpg
   - text_banner:
@@ -357,8 +357,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-7.jpg
   - text_banner:
@@ -382,8 +382,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/lbd-grid-8.jpg
   - text_banner:
@@ -407,8 +407,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
 contact_tagline: Let’s talk about the work we did for

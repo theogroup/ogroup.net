@@ -32,8 +32,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -57,8 +57,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -82,8 +82,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -107,8 +107,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -132,8 +132,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/starwood-grid-1.jpg
   - text_banner:
@@ -157,8 +157,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/starwood-grid-2.jpg
   - text_banner:
@@ -182,8 +182,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/starwood-grid-3.jpg
 contact_tagline: Let’s talk about the work we did for

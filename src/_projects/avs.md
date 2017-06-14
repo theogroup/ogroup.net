@@ -32,8 +32,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -42,7 +42,7 @@ content_blocks:
       text_banner_background_color:
     image_banner:
       image_banner_image: /uploads/avs-image-1.jpg
-      image_banner_text_color: '#000000'
+      image_banner_text_color: '#ffffff'
       image_banner_text: 'We launched a website that resonates with AVS’ consumers in the architectural, design and contracting industries.'
     split_banner:
       split_banner_image:
@@ -57,8 +57,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -82,8 +82,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -107,8 +107,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -132,8 +132,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/avs-grid-1b.jpg
   - text_banner:
@@ -157,8 +157,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -182,8 +182,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
 contact_tagline: Let’s talk about the work we did for

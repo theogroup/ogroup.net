@@ -32,8 +32,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -57,8 +57,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -82,8 +82,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -107,12 +107,12 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image: /uploads/km-gallery-1.jpg
-      - image: /uploads/km-gallery-2.jpg
-      - image: /uploads/km-gallery-3.jpg
-      - image: /uploads/km-gallery-4.jpg
-      - image: /uploads/km-gallery-5.jpg
+    gallery_images:
+      - image_path: /uploads/km-gallery-1.jpg
+      - image_path: /uploads/km-gallery-2.jpg
+      - image_path: /uploads/km-gallery-3.jpg
+      - image_path: /uploads/km-gallery-4.jpg
+      - image_path: /uploads/km-gallery-5.jpg
     grid_image:
       image:
   - text_banner:
@@ -136,8 +136,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -161,8 +161,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
 contact_tagline: Let’s talk about the work we did for

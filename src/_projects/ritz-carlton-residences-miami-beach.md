@@ -32,8 +32,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -57,8 +57,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -82,8 +82,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image:
   - text_banner:
@@ -107,8 +107,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/ritz-grid-1.jpg
   - text_banner:
@@ -132,8 +132,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/ritz-grid-2.jpg
   - text_banner:
@@ -157,11 +157,11 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image: /uploads/ritz-gallery-1.jpg
-      - image: /uploads/ritz-gallery-2.jpg
-      - image: /uploads/ritz-gallery-3.jpg
-      - image: /uploads/ritz-gallery-4.jpg
+    gallery_images:
+      - image_path: /uploads/ritz-gallery-1.jpg
+      - image_path: /uploads/ritz-gallery-2.jpg
+      - image_path: /uploads/ritz-gallery-3.jpg
+      - image_path: /uploads/ritz-gallery-4.jpg
     grid_image:
       image:
   - text_banner:
@@ -185,8 +185,36 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path: /uploads/ritz-gallery-1.jpg
+      - image_path: /uploads/ritz-gallery-2.jpg
+      - image_path: /uploads/ritz-gallery-3.jpg
+      - image_path: /uploads/ritz-gallery-4.jpg
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/ritz-grid-3.jpg
   - text_banner:
@@ -210,8 +238,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/ritz-grid-4.jpg
   - text_banner:
@@ -235,8 +263,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/ritz-grid-5.jpg
   - text_banner:
@@ -260,8 +288,8 @@ content_blocks:
       text_on_image_banner_headline_line_1:
       text_on_image_banner_headline_line_2:
       text_on_image_banner_text:
-    gallery:
-      - image:
+    gallery_images:
+      - image_path:
     grid_image:
       image: /uploads/ritz-grid-6.jpg
 contact_tagline: Let’s talk about the work we did for
