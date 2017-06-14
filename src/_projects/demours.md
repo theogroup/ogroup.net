@@ -138,6 +138,256 @@ content_blocks:
       - image_path: /uploads/demours-gallery-3.jpg
     grid_image:
       image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image: /uploads/demours-grid-1.jpg
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image: /uploads/demours-grid-2.jpg
+  - text_banner:
+      text_banner_text: Lead a meaningful conversation.
+      text_banner_color: '#000000'
+      text_banner_background_color: '#e2d8be'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/demours-split-3.jpg
+      image_align: left
+      split_banner_headline_line_1: Grow Awareness
+      split_banner_headline_line_2:
+      split_banner_text: 'Demours needed a strategic social plan to grow brand awareness at launch. We focused on developing authentic branded content. A paid campaign targeted industry influencers, cultivated an engaged audience and drove e-commerce traffic. We far exceeded growth goals within the first quarter.'
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text: The ultimate coffee experience at every touch point.
+      text_banner_color: '#000000'
+      text_banner_background_color: '#e2d8be'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/demours-split-4.jpg
+      image_align: right
+      split_banner_headline_line_1: Explore Cultures
+      split_banner_headline_line_2: Expand Palettes
+      split_banner_text: The website’s primary focus is to provide instant access to premium product from anywhere. High-energy illustrations and photography focused on rich textures serve up a modern aesthetic and exceptional experience.
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image: /uploads/demours-banner-3.jpg
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text: 'Own the moment of "First Taste"'
+      text_banner_color: '#000000'
+      text_banner_background_color: '#e2d8be'
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image: /uploads/demours-banner-4.jpg
+      image_banner_text_color: '#ffffff'
+      image_banner_text: We exposed the brand to culinary and beverage industry influencers of NYC.
+    split_banner:
+      split_banner_image:
+      image_align:
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image:
+      image_align: left
+      split_banner_headline_line_1: Partners with
+      split_banner_headline_line_2: Connections
+      split_banner_text: 'When it’s all about the company you keep, it’s critical for a brand to align with the right channels from the start. We collaborated with the Daily Meal to create a series of launch events aimed at generating awareness among the trade—restaurant and hospitality influencers and gatekeepers.'
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
 contact_tagline: Let’s talk about the work we did for
 ---
 
