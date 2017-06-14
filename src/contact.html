@@ -2,8 +2,12 @@
 banner_image: /uploads/contact.jpg
 headline: Headquartered in New York City.
 headline_color: '#ffffff'
-address_line_1: 150 West 30th Street, Suite 1201
-address_line_2: New York, NY 10001
+ny_address_line_1: 150 West 30th Street, Suite 1201
+ny_address_line_2: New York, NY 10001
+ny_phone: 212.398.0100
+seattle_address_line_1: 4020 6th Ave NW
+seattle_address_line_2: Seattle, WA 98107
+seattle_phone: 206.949.8173
 new_business_info:
 new_business_email: info@ogroup.net
 general_info: 'For general inquiries, partnerships and collaborations, speaking engagements and the like email us at:'
@@ -33,12 +37,18 @@ careers_email:
 
 <section class="grid">
   <div class="contact-info">
-    <h5>address</h5>
-    <h3>{{page.address_line_1}}</h3>
-    <h3>{{page.address_line_2}}</h3>
-    <a target="_blank" href="https://www.google.com/maps/place/The+O+Group/@40.7480502,-73.994132,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259ae2afe2c45:0xaa33e492a6145095!8m2!3d40.7480462!4d-73.9919433"><button class="map"><p>view map</p></button></a>
-    <h5>phone</h5>
-    <h3>{{site.data.locations[0].phone}}</h3>
+    <div class="ny">
+      <h5><span>New York City</span> / Headquarters</h5>
+      <h3>{{page.ny_address_line_1}}</h3>
+      <h3>{{page.ny_address_line_2}}</h3>
+      <h3>{{page.ny_address_phone}}</h3>
+    </div>
+    <div class="seattle">
+      <h5><span>Seattle</span> / o group west</h5>
+      <h3>{{page.seattle_address_line_1}}</h3>
+      <h3>{{page.seattle_address_line_2}}</h3>
+      <h3>{{page.seattle_phone}}</h3>
+    </div>
   </div>
   <div class="contact-details">
     <p class="headline">new business</p>

@@ -4249,10 +4249,14 @@ body.contact .full .banner.photo {
     padding-right: 1rem; }
     body.contact .contact-info:last-child {
       margin-right: 0; }
+    body.contact .contact-info .ny {
+      margin-bottom: 3rem; }
     body.contact .contact-info h5 {
       font-family: FranklinGothicURW-Dem;
       color: #7f7f7f;
       letter-spacing: 1px; }
+      body.contact .contact-info h5 span {
+        color: #d20337; }
     body.contact .contact-info h3 {
       margin-bottom: 0; }
     body.contact .contact-info .map {
@@ -4299,10 +4303,14 @@ body.contact .full .banner.photo {
     padding-bottom: 5.625rem; }
     body.contact .contact-info:last-child {
       margin-right: 0; }
+    body.contact .contact-info .ny {
+      margin-bottom: 3rem; }
     body.contact .contact-info h5 {
       font-family: FranklinGothicURW-Dem;
       color: #7f7f7f;
       letter-spacing: 1px; }
+      body.contact .contact-info h5 span {
+        color: #d20337; }
     body.contact .contact-info h3 {
       margin-bottom: 0; }
     body.contact .contact-info .map {
