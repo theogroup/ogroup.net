@@ -97,6 +97,31 @@ content_blocks:
     split_banner:
       split_banner_image:
       image_align: left
+      split_banner_headline_line_1:
+      split_banner_headline_line_2:
+      split_banner_text:
+    text_on_image_banner:
+      text_on_image_banner_image:
+      text_on_image_banner_text_color:
+      text_align:
+      text_on_image_banner_headline_line_1:
+      text_on_image_banner_headline_line_2:
+      text_on_image_banner_text:
+    gallery_images:
+      - image_path:
+    grid_image:
+      image:
+  - text_banner:
+      text_banner_text:
+      text_banner_color:
+      text_banner_background_color:
+    image_banner:
+      image_banner_image:
+      image_banner_text_color:
+      image_banner_text:
+    split_banner:
+      split_banner_image: /uploads/demours-split-2.jpg
+      image_align: left
       split_banner_headline_line_1: PREMIUM MATERIALS
       split_banner_headline_line_2: PERSONAL TOUCH
       split_banner_text: 'The brand identity combines old world elegance and high fashion cues. Collateral is designed with refined, premium materials as considered as the product selection.'
