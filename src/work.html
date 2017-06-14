@@ -172,18 +172,23 @@ archive:
     <div id-"archive" class="grid-sizer"></div>
     {% for item in page.archive %}
       <div class="grid-item">
-        <img class="lazy" src="{{ item.image }}" alt="">
+        <img ix-path="{{ item.image | replace: '/uploads/', ''}}"
+             alt=""
+             ix-params='{
+               "auto": "compress"
+             }'
+             sizes="(min-width: 1000px) 25vw, 50vw">
         <div class="modal">
-          <label for="modal-{{ loop.index }}">
+          <label for="modal-{{ forloop.index }}">
             <!-- <div class="modal-trigger">Click for Modal</div> -->
             <p class="modal-content">{{ item.caption }}</p>
           </label>
-          <input class="modal-state" id="modal-{{ loop.index }}" type="checkbox" />
+          <input class="modal-state" id="modal-{{ forloop.index }}" type="checkbox" />
           <div class="modal-fade-screen">
             <div class="modal-wrapper">
               <div class="modal-inner">
-                <div class="modal-close" for="modal-{{ loop.index }}"></div>
-                <img  class="lazy" src="{{ item.image }}" alt="">
+                <div class="modal-close" for="modal-{{ forloop.index }}"></div>
+                <img class="lazy" src="{{ item.image }}" alt="">
                 <p class="modal-content">{{ item.caption }}</p>
               </div>
             </div>
