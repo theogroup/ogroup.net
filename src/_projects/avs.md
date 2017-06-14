@@ -135,7 +135,7 @@ content_blocks:
     gallery:
       - image:
     grid_image:
-      image: /uploads/avs-grid-1.jpg
+      image: /uploads/avs-grid-1b.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
