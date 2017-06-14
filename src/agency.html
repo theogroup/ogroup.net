@@ -118,7 +118,15 @@ contact_tagline: Let’s talk about luxury.
       </div>
     </a>
     </div>
-    <div class="split-right" style="background-image: url({{ casestudy.featured_image }}); background-size: cover;">
+    <div class="split-right" style="background-size: cover;">
+      <img
+        class="js-img"
+        ix-path="{{casestudy.featured_image | replace: '/uploads/', ''}}"
+        ix-params='{
+          "auto": "compress"
+        }'
+        sizes="(min-width: 1000px) 50vw, 100vw"
+      >
       <a href="{{ casestudy.url }}">
         <h5>Case Study</h5>
         <h3>{{ casestudy.overview }}</h3>
