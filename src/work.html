@@ -1,4 +1,6 @@
 ---
+title: Our Work
+description: Examples of our finest work for luxury clients.
 headline: A feeling. An aesthetic. A behavior. Exceeding all expectations.
 archive_intro: An archive collection of our finest work over the years.
 contact_tagline: Let’s start a conversation about luxury.
@@ -188,7 +190,12 @@ archive:
             <div class="modal-wrapper">
               <div class="modal-inner">
                 <div class="modal-close" for="modal-{{ forloop.index }}"></div>
-                <img class="lazy" src="{{ item.image }}" alt="">
+                <img ix-path="{{ item.image | replace: '/uploads/', ''}}"
+                     alt=""
+                     ix-params='{
+                       "auto": "compress"
+                     }'
+                     sizes="(min-width: 1000px) 45vw, 80vw">
                 <p class="modal-content">{{ item.caption }}</p>
               </div>
             </div>

@@ -3,6 +3,7 @@ title:
 client:
 show_on_homepage: false
 featured_image:
+image:
 vimeo_id:
 vimeo_width:
 vimeo_height:

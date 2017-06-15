@@ -1,8 +1,16 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
 title: The O Group
-description: The O Group is an independent New York City creative agency focused on rethinking luxury. Advertising. Branding. Campaigns. Web Design. Strategy.
-url: http://www.example.com
+description: A New York & Settle based creative agency focused on rethinking luxury.
+url: https://www.ogroup.net
+twitter: theogroup
+social:
+  links:
+    - https://twitter.com/theogroup
+    - https://www.facebook.com/theogroup
+    - https://www.linkedin.com/company/the-o-group
+logo: https://www.ogroup.net/assets/images/footer-logo.svg
+
 
 # CloudCannon uses these:
 source: src
@@ -20,18 +28,11 @@ collections:
 defaults:
   -
     scope:
-      path: "cms.md"
+      path: "index.html"
     values:
-      layout: "cms"
-      permalink: "/cms/"
-      _hide_content: true
-  -
-    scope:
-      path: "agency.html"
-    values:
-      class: agency
       layout: default
-      permalink: "/agency/"
+      class: home
+      permalink: "/"
   -
     scope:
       path: "work.html"
@@ -39,6 +40,13 @@ defaults:
       class: work
       layout: default
       permalink: "/work/"
+  -
+    scope:
+      path: "agency.html"
+    values:
+      class: agency
+      layout: default
+      permalink: "/agency/"
   -
     scope:
       path: "blog.html"
@@ -55,6 +63,13 @@ defaults:
       permalink: "/contact/"
   -
     scope:
+      path: "cms.md"
+    values:
+      layout: cms
+      permalink: "/cms/"
+      _hide_content: true
+  -
+    scope:
       path: ""
       type: "projects"
     values:
@@ -68,6 +83,9 @@ defaults:
       layout: post
       class: blog
       permalink: "/blog/:title/"
+
+_comments:
+  image: The image used for FB/Twitter sharing
 
 # Extending Jekyll
 gems:
