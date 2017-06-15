@@ -8,7 +8,7 @@ vimeo_id:
 vimeo_width:
 vimeo_height:
 headline: Latest obsession.
-headline_text_color: '#000000'
+headline_text_color: '#ffffff'
 overview: 'Latest Obsession — a luxury powered reboot for a fashion-themed, mass-market wine brand.'
 sort_order: 3
 content_blocks:
