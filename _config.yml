@@ -54,6 +54,8 @@ defaults:
       class: "blog"
       layout: "default"
       permalink: "/blog/"
+      pagination:
+        enabled: true
   -
     scope:
       path: "contact.html"
