@@ -6,7 +6,7 @@ layout: default
   <div class="banner photo" style="background-position: center center">
     <img
       class="js-img"
-      ix-path="{% if page.featured_image %}{{page.featured_image | replace: '/uploads/', ''}}{% else %}/uploads/blog-default.png{% endif %}"
+      ix-path="{% if page.featured_image %}{{page.featured_image | replace: '/uploads/', ''}}{% else %}/blog-default.png{% endif %}"
       ix-params='{
         "auto": "compress"
       }'
@@ -57,7 +57,7 @@ layout: default
       >
     </div>
   </div>
-  {% elsif section.video %}
+  {% elsif section.video.video_id %}
   <div class="post-video-wrapper">
     <div class="image-section">
       <iframe src="https://player.vimeo.com/video/{{ section.video.video_id }}?color=d20337" width="{{section.video.video_width}}" height="{{section.video.video_height}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
