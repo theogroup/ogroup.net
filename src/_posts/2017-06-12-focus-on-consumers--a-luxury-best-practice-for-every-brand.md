@@ -36,11 +36,11 @@ sections:
       communicate luxury-branding characteristics can more easily evoke the
       proper balance of rational and emotional cues in order to resonate with
       consumers, demand higher prices and earn loyalty.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: ​​1. A Robust Target Audience Profile is Invaluable
     video:
   - text_markdown: >-
@@ -72,11 +72,11 @@ sections:
       psychographics in crafting a functional target profile. Brands have to know
       their targets inside and out in order align themselves properly across
       numerous touchpoints.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: '2. Go Beyond "Just the Facts" – Nobody Wins Amenities Wars'
     video:
   - text_markdown: >-
@@ -114,11 +114,11 @@ sections:
       attain or have achieved. Focus on lifestyle benefits, not product
       attributes, and you’re well on your way to communicating at a higher level
       and captivating a sophisticated consumer.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: '3. Personal Connection, Made Possible on a Mass Scale'
     video:
   - text_markdown: >-
@@ -172,7 +172,7 @@ sections:
       amenities and connect authentically on social media can create for
       themselves the opportunity to be considered among the world’s elite brands,
       regardless of their category or market position.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

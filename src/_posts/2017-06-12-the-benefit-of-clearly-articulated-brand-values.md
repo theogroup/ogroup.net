@@ -8,7 +8,7 @@ intro_markdown: "A short while ago Jason visited the Manhattan Auto Show—an an
 author:
 sections:
   - text_markdown:
-    image: /uploads/blog-45-1.jpg
+    single_image: /uploads/blog-45-1.jpg
     quote:
     video:
   - text_markdown: >-
@@ -44,11 +44,11 @@ sections:
       It's why the pseudo newspaper / brand manifesto / campaign that Shinola
       produced and distributed at the Lincoln (a fellow Detroit supporter and
       supporter of innovation in industry) booth makes perfect sense.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: They deliberately chose to distribute the campaign via print in a digital age.
     video:
   - text_markdown: >-
@@ -78,7 +78,7 @@ sections:
       a luxury brand's mission and values are critical to creating real,
       emotional connection. Never underestimate the value of clearly articulating
       both to the world.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

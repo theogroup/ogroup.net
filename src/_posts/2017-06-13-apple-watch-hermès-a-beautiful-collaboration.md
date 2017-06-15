@@ -36,14 +36,14 @@ sections:
       technology, many consider the Apple Watch to fall squarely in the luxury
       space because of its desirability, and the fact that it comes from a brand
       that has expertly blurred the lines between form and function.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "Throw in its price point and the argument against the Watch's status within the luxury category really begins to appear off-base."
     video:
       video_id:
@@ -62,7 +62,7 @@ sections:
 
 
       We're excited to see what's next​
-    image:
+    single_image:
     quote:
     video:
       video_id:

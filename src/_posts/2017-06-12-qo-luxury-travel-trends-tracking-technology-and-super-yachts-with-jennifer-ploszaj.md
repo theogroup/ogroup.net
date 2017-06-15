@@ -83,11 +83,11 @@ sections:
 
 
       Jennifer: Brands build connection the same way people do:​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "through relationships – using authentic two-way dialogue. It's incredible how many brands miss the opportunity to capture information and initiate that conversation."
     video:
   - text_markdown: >-
@@ -203,11 +203,11 @@ sections:
 
 
       Jennifer: I think the word "fill" is really important to this question.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "A luxury brand should enhance your life. I think we all choose certain brands because they make a personal statement that align with our view of ourselves—whether that's subtle or overt."
     video:
   - text_markdown: >-
@@ -275,7 +275,7 @@ sections:
       permitted on a Super Yacht, and it's very liberating. When everyone is
       barefoot there's something really equalizing about that. I wonder how our
       thinking would change if we held barefoot meetings?​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -71,14 +71,14 @@ sections:
       experiment with technology (let's be honest, you switched on your new
       iPhone to figure it out, while your parents went searching for the manual
       hidden deep in the box), this category has knocked it out of the park.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'Free of traditional retail restrictions, these brands are listening to their loyalists, and responding.'
     video:
       video_id:
@@ -141,7 +141,7 @@ sections:
       a luxury price tag; it's all about a considered experience. These brands
       are like a custom made suit for an entire generation—and I expect they will
       grow and adapt to be just as enduring mainstays in our consumer culture.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

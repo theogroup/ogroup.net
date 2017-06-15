@@ -45,11 +45,11 @@ layout: default
       {{ section.text_markdown | markdownify }}
     </div>
   </div>
-  {% elsif section.image %}
+  {% elsif section.single_image %}
   <div class="post-image-wrapper">
     <div class="image-section">
       <img
-        ix-path="{{section.image | replace: '/uploads/', ''}}"
+        ix-path="{{section.single_image | replace: '/uploads/', ''}}"
         ix-params='{
           "auto": "compress"
         }'

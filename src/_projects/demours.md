@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -163,7 +163,7 @@ content_blocks:
       - image_path: /uploads/demours-gallery-1.jpg
       - image_path: /uploads/demours-gallery-3.jpg
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -188,7 +188,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/demours-grid-1.jpg
+      grid_image_image: /uploads/demours-grid-1.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -213,7 +213,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/demours-grid-2.jpg
+      grid_image_image: /uploads/demours-grid-2.jpg
   - text_banner:
       text_banner_text: Lead a meaningful conversation.
       text_banner_color: '#000000'
@@ -238,7 +238,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -263,7 +263,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: The ultimate coffee experience at every touch point.
       text_banner_color: '#000000'
@@ -288,7 +288,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -313,7 +313,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -338,7 +338,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: 'Own the moment of "First Taste"'
       text_banner_color: '#000000'
@@ -363,7 +363,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -388,7 +388,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -413,7 +413,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 ---
 

@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/merritt-grid-image-1.jpg
+      grid_image_image: /uploads/merritt-grid-image-1.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/merritt-grid-image-2.jpg
+      grid_image_image: /uploads/merritt-grid-image-2.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: 'We built a website that not only features projects and content, but also exudes confidence and luxury.'
       text_banner_color: '#ffffff'
@@ -161,7 +161,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -186,7 +186,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/merritt-grid-image-3.jpg
+      grid_image_image: /uploads/merritt-grid-image-3.jpg
   - text_banner:
       text_banner_text: We concepted and shot a stunning video that reflects Merritt’s vision for the future of the category.
       text_banner_color: white
@@ -211,7 +211,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/merritt-grid-image-4.jpg
+      grid_image_image: /uploads/merritt-grid-image-4.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -236,7 +236,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -261,7 +261,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/merritt-grid-image-5.gif
+      grid_image_image: /uploads/merritt-grid-image-5.gif
   - text_banner:
       text_banner_text: A motion graphics piece dynamically tells the brand story.
       text_banner_color: '#ffffff'
@@ -286,7 +286,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -311,7 +311,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/merritt-grid-image-6.gif
+      grid_image_image: /uploads/merritt-grid-image-6.gif
   - text_banner:
       text_banner_text: The conversation around millwork begins and ends with Merritt.
       text_banner_color: '#ffffff'
@@ -336,7 +336,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 ---
 

@@ -150,7 +150,7 @@ sections:
 
       To read the article in full, please visit&nbsp;[Luxury Daily’s
       link](http://www.luxurydaily.com/etro-fortifies-artistic-identity-through-eclectic-community/).​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

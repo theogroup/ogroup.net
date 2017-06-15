@@ -106,7 +106,7 @@ sections:
       Whether it’s the history and origins of wine and spirits or the
       handcrafting process of luxe goods, intriguing and valuable content “wins”
       every time.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -7,7 +7,7 @@ intro_markdown: "Today on Luxury Daily Orit, president/CEO of The O Group, comme
 author:
 sections:
   - text_markdown: 'The exhibit, at the Museo Nazionale Delle Arti Del XXI Secolo in Rome, it is held in partnership with Bulgari and a selection of one of a kind jewels from the brand will be on display.​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -33,7 +33,7 @@ sections:
 
 
       &nbsp;
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

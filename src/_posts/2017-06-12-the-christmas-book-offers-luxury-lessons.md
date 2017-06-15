@@ -188,7 +188,7 @@ sections:
       put these principles into play before the holidays. They’re the essential
       ingredients for a memorable experience, leading customer service and
       unwavering brand loyalty.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

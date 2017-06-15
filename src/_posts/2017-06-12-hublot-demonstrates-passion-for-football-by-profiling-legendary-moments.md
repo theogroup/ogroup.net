@@ -28,11 +28,11 @@ sections:
       players, coaches and referees, but for the fans as well. By highlighting
       these moments delivered by legends of the game, Hublot is creating
       a connection between the past and today, and between players and fans."​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'Rather than simply being a timekeeper, Hublot is elevated in the eyes of football fans through its use of nostalgia.'
     video:
   - text_markdown: >-
@@ -52,7 +52,7 @@ sections:
 
       To read the article in full, please visit&nbsp;[Luxury Daily’s
       link.](http://www.luxurydaily.com/hublot-demonstrates-passion-for-football-by-profiling-legendary-moments/)​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

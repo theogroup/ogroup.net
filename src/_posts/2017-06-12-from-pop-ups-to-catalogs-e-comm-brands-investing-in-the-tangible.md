@@ -20,7 +20,7 @@ sections:
       it a catalog or product). Especially it seems, if it's something of quality
       that we want to purchase. It's just one part of the whole of an effective
       brand experience.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -47,11 +47,11 @@ sections:
       cross paths with exploring the outdoors (while testing product) flood
       pages, paired with short stories about various excursions and product
       origin.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "Product is described in loving detail in a way that makes you sure whoever wrote the description couldn't resist the purchase themselves"
     video:
   - text_markdown: >-
@@ -68,7 +68,7 @@ sections:
       can stop into the Tribeca store, check out their website (or both), and
       finally purchase that axe you'll definitely use on that trip to Alaska
       you've been planning for the last five years…​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

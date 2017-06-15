@@ -117,7 +117,7 @@ sections:
 
 
       We’re thrilled to witness the next step of luxury mobile’s evolution!​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

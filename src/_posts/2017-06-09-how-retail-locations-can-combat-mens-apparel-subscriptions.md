@@ -107,7 +107,7 @@ sections:
       of a doubt that a brand or retailer appreciates their business, has
       a captivating and engaging story to tell, and will do what it takes to keep
       them looking great.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

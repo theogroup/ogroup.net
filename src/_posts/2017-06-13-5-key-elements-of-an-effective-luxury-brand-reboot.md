@@ -144,14 +144,14 @@ sections:
       Sometimes clients think that keeping the boss out of discussions in the
       early stages will make things move more quickly down the line. It rarely
       does.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'When the key decision-maker is left out of the process until too late, there are inevitable revisions, delays and scope creep.'
     video:
       video_id:
@@ -218,7 +218,7 @@ sections:
 
       ARTICLE ORIGINALLY PUBLISHED ON LUXURY DAILY: "5 KEY ELEMENTS OF AN
       EFFECTIVE LUXURY BRAND REBOOT".​
-    image:
+    single_image:
     quote:
     video:
       video_id:

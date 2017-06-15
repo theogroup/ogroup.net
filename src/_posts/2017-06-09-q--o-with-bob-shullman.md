@@ -7,7 +7,7 @@ intro_markdown: 'I sat down with renowned market researcher, strategy consultant
 author:
 sections:
   - text_markdown:
-    image: /uploads/blog-5-1.jpg
+    single_image: /uploads/blog-5-1.jpg
     quote:
     video:
   - text_markdown: >-
@@ -1380,7 +1380,7 @@ sections:
       You can’t predict the future but you can certainly anticipate it, and to me
       Rethink Luxury means using what you know now about luxury and other
       external factors to anticipate the evolution of luxury marketing.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -28,11 +28,11 @@ sections:
 
       If this prediction is right, expert curators may be more in demand before
       long…"​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: 'To read the article in full, please visit Fortune Magazine’s: "[What’s the future of luxury?](http://fortune.com/2014/12/18/future-of-luxury/)"​'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

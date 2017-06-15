@@ -36,6 +36,6 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 ---

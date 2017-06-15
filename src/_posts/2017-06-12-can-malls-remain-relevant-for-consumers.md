@@ -40,11 +40,11 @@ sections:
       orchestrated "town-centers" to name just a few. Despite this shift, the
       potential for shopping malls (and the businesses within their walls) to
       regain consumers’ attention remains real – ​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: but only if malls and their tenants truly understand the value that consumers now place on experience.
     video:
   - text_markdown: >-
@@ -123,11 +123,11 @@ sections:
       The key for malls is the incorporation of technology that responds to
       shoppers’ wants and needs, and at the same time serves as inspiration for
       consumers to modify how they approach the physical shopping experience.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: Malls should consider using technology to create a fluid and personalized journey through the mall that delivers unexpected engagement along the way.
     video:
   - text_markdown: >-
@@ -161,7 +161,7 @@ sections:
       what the physical space can offer as well as using technology to provide
       added value and make the shopping centers responsive to ever-changing
       consumer behavior.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

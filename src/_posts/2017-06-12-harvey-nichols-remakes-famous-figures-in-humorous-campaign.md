@@ -33,7 +33,7 @@ sections:
       To read the article in full, please visit the link: "[Harvey Nichols
       remakes famous figures in humorous
       campaign](https://www.luxurydaily.com/harvey-nichols-remakes-famous-figures-in-humorous-campaign/)."​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

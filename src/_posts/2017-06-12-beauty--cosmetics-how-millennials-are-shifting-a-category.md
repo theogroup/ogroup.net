@@ -45,27 +45,27 @@ sections:
       of ways that Generation Y is redefining nearly every aspect of our daily
       lives, but marketers and brands need only pay attention to a few key
       shifts:​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 1) Understand their wants.
     video:
   - text_markdown: 'While they aren’t interested in anti-aging products, this doesn’t mean they don’t want to protect themselves and their skin. It just means that they’re a few years from thinking they need products designed for older consumers. Many Millennials take their skincare regimen very seriously, but are more concerned with the now, rather than the future.​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: '2) Brick and mortar locations are still important,'
     video:
   - text_markdown: 'mostly to affirm the research Millennials have done prior to stepping foot inside a location. For beauty and cosmetics brands, brick and mortar should serve as a complement to your digital channels, and should always leverage B&M as a way to educate on new products and techniques.​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 3) The experience must feel seamless.
     video:
   - text_markdown: >-
@@ -90,7 +90,7 @@ sections:
       intelligent, engaged and highly creative generation. If you’re able to
       entice them into loving your brand, chances are you’ll reap huge
       benefits.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -71,14 +71,14 @@ sections:
 
       The explosion of the on-demand economy has placed everything from car
       services to home improvement just a tap away.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'This proliferation has made our lives easier and more efficient, but has also created a widespread impatience.'
     video:
       video_id:
@@ -139,7 +139,7 @@ sections:
       attendees while retaining existing fans means raising the bar and expanding
       the experience. Just make sure the next time you visit a stadium you bring
       plenty of cash and a healthy appetite.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

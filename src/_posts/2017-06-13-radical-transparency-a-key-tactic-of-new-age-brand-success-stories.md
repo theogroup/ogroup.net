@@ -7,7 +7,7 @@ intro_markdown: 'With neither the high-end distribution nor the advertising doll
 author:
 sections:
   - text_markdown: 'Take Everlane for example. At less than half the cost of similar brands like Vince or James Perse, Everlane wields just as much "covet-ability." But, how?​'
-    image:
+    single_image:
     quote: RADICAL TRANSPARENCY
     video:
       video_id:
@@ -117,21 +117,21 @@ sections:
       connecting with the millennial generation—a generation that has, in turn,
       grown up on MySpace and Facebook, Flickr and Instagram, Napster and
       iTunes.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'When every touch point of your brand is aligned with the digital "likes" of this e-commerce centric generation, how could you go wrong?'
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown: "As this new generation of luxury brands evolves, we see them testing out pop-up shops, taking advantage of interesting brand partnerships, curating experiential events—the common thread here is that they seem to be listening to their loyalists, and responding in on-brand ways. With such strong brand DNA, it's clear that these one-foot-in-the-door luxury brands are poised to react and adapt as the world changes, and encounter success as a result.​"
-    image:
+    single_image:
     quote:
     video:
       video_id:

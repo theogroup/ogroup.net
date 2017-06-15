@@ -20,7 +20,7 @@ sections:
       trends. This exhibition highlights both their traditional and emerging
       design aesthetic. It is evident that the brand is constantly pushing
       themselves and evolving with time.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -36,7 +36,7 @@ sections:
       visit Luxury Daily, "[Pringle of Scotland celebrates 200th anniversary by
       educating on history,
       heritage](http://www.luxurydaily.com/pringle-of-scotland-celebrates-200th-anniversary-by-educating-consumers-on-history-heritage/)."​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

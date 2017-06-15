@@ -112,11 +112,11 @@ sections:
       Gannon: Brands are getting much more creative and are really embracing
       social media in wonderful ways. Instagram and Tumblr are becoming more and
       more powerful in the luxury space.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: The whole aspect of people photographing themselves in their daily ensemble and sharing it with the world has created brand ambassadors of everyday consumers.
     video:
   - text_markdown: >-
@@ -190,11 +190,11 @@ sections:
       point in the same direction and tell the same story. They understand that
       the designer, the marketing team, the sales people, etc. are all an
       extension of the story that brand is telling.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "The employees aren't just people who work for the company, they are brand ambassadors."
     video:
   - text_markdown: >-
@@ -278,7 +278,7 @@ sections:
 
 
       THIS ARTICLE WAS ORIGINALLY PUBLISHED ON FASHION'S COLLECTIVE.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

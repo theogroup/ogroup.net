@@ -82,11 +82,11 @@ sections:
       create an experience. Anyone can provide great amenities. That's the
       driving force for both brand and agency – how to communicate that unique
       offering through every touch point, within and outside of a brand.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "The luxury consumer won't question what they spend as long as they feel that it's worth it. The challenge is to create a lasting experience that exceeds the price tag."
     video:
   - text_markdown: >-
@@ -221,7 +221,7 @@ sections:
       They can provide information at every medium- from television shows to
       local authors to product – related to the destination you're researching.
       It's a next level.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

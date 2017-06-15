@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/ritz-grid-1.jpg
+      grid_image_image: /uploads/ritz-grid-1.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/ritz-grid-2.jpg
+      grid_image_image: /uploads/ritz-grid-2.jpg
   - text_banner:
       text_banner_text: 'Off the bustling and beaten path of Collins Avenue, it’s more than just a building development. It’s where the energy of Miami meets the respite of a secluded enclave.'
       text_banner_color: '#000000'
@@ -164,7 +164,7 @@ content_blocks:
       - image_path: /uploads/ritz-gallery-3.jpg
       - image_path: /uploads/ritz-gallery-4.jpg
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -192,7 +192,7 @@ content_blocks:
       - image_path: /uploads/ritz-gallery-3.jpg
       - image_path: /uploads/ritz-gallery-4.jpg
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -217,7 +217,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/ritz-grid-3.jpg
+      grid_image_image: /uploads/ritz-grid-3.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -242,7 +242,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/ritz-grid-4.jpg
+      grid_image_image: /uploads/ritz-grid-4.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -267,7 +267,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/ritz-grid-5.jpg
+      grid_image_image: /uploads/ritz-grid-5.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -292,7 +292,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/ritz-grid-6.jpg
+      grid_image_image: /uploads/ritz-grid-6.jpg
 contact_tagline: Let’s talk about the work we did for
 ---
 

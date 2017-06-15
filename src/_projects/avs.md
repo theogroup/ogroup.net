@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: A visual language to reflect the brand’s sophisticated consumer and communicate the company’s approach.
       text_banner_color: '#000000'
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/avs-grid-1b.jpg
+      grid_image_image: /uploads/avs-grid-1b.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -161,7 +161,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: '“The new website has been a springboard for further business and has garnered much positive reactions from vendors and clients alike.”  – Franklin Karp, COO, Audio Video Systems, Inc.'
       text_banner_color: '#8f5e5e'
@@ -186,7 +186,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 ---
 

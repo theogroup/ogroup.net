@@ -48,11 +48,11 @@ sections:
 
 
       Or, most commonly, “Should we buy a boat?”​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-3-1.jpg
+    single_image: /uploads/blog-3-1.jpg
     quote:
     video:
   - text_markdown: >-
@@ -112,11 +112,11 @@ sections:
       There’s no need to take out another loan to purchase a boat when you can
       simply access one anytime you want. Best of all, you get to avoid all of
       the headaches associated with owning said boat.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-3-2.jpg
+    single_image: /uploads/blog-3-2.jpg
     quote:
     video:
   - text_markdown: >-
@@ -190,7 +190,7 @@ sections:
 
       Keep an eye out for our follow-up piece on the future of the yachting
       industry​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

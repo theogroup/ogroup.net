@@ -8,11 +8,11 @@ intro_markdown: "Last week we had the pleasure of attending an Afar Conversation
 author:
 sections:
   - text_markdown: "With perspective from Hilton's Global Head of Luxury Brands, John T.A. Vanderslice, preeminent hospitality designer, Adam Tihany and Walter Coyle, President of Pedone Media, there was ample opportunity for both consensus and divergent opinions. Below, the top three trends in experiential luxury from the conversation.​"
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-39-1.jpg
+    single_image: /uploads/blog-39-1.jpg
     quote:
     video:
   - text_markdown: >-
@@ -73,11 +73,11 @@ sections:
       It's no surprise that Laura Davidson, founder of LDPR, expressed the same
       idea in reference to LDPR client Abercrombie & Kent in a recent Q&O
       interview with The O Group.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: For the luxury consumer time is the most valuable resource.
     video:
   - text_markdown: >-
@@ -123,7 +123,7 @@ sections:
       much market share are brands who continue to ignore the possibilities of
       a more "female-friendly" offering losing? It's an interesting perspective
       to consider, and one we're excited to think about across categories.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

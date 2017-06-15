@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: 'The goal: Drive Starwood Motors awareness through a pub with a readership aligned with their target—unabashed overachievers.'
       text_banner_color: '#ffffff'
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/starwood-grid-1.jpg
+      grid_image_image: /uploads/starwood-grid-1.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -161,7 +161,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/starwood-grid-2.jpg
+      grid_image_image: /uploads/starwood-grid-2.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -186,7 +186,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/starwood-grid-3.jpg
+      grid_image_image: /uploads/starwood-grid-3.jpg
 contact_tagline: Let’s talk about the work we did for
 ---
 

@@ -72,11 +72,11 @@ sections:
       enormous opportunity in this space because no one has really talked about
       travel this way, and it's really fascinating for me to see now how recently
       brands have moved toward talking about the types of things we do.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "For AFAR, travel is about this ability to get beneath the surface, and use experience as a way to define life and what's in it."
     video:
   - text_markdown: >-
@@ -164,11 +164,11 @@ sections:
       Joe: It's a cool story of how they got started. It was February 2011, when
       Mubarak stepped down from power. I was in New York, Greg was in San
       Francisco, we're talking and he's like,​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "\"Do you see what's happening in Cairo? We have to go.\"I'm like, \"When?\"\"Right now.\""
     video:
   - text_markdown: >-
@@ -223,7 +223,7 @@ sections:
       One of my personal luxuries is being able to be surrounded by incredible
       people, listening to great stories, and seeing the world through other
       people's eyes. That to me is the greatest luxury.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -76,14 +76,14 @@ sections:
       competitors in every category screaming for attention. I see virtually
       every kind of POS and display unit all in one location but here's the
       thing:​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "It's too much. I just can't absorb any of it.​"
     video:
       video_id:
@@ -206,7 +206,7 @@ sections:
       to increase visibility with posters and banners, and instead develop
       engaging promotional materials that provide education and/or a clear
       functional benefit to consumers.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

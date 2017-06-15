@@ -79,11 +79,11 @@ sections:
 
 
       Carol: Ensuring the continued quality of the brand experience.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "Exceptional high quality and innovation are what consumers connect with. They love the luxury brand's point of view of exclusivity, and a passionate message."
     video:
   - text_markdown: >-
@@ -168,11 +168,11 @@ sections:
 
       Carol: There was a time when consumers had three or four favorite brands
       and were perfectly satisfied with how those fit into their lifestyle.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "Now that the choices are enormous and varied, and because consumers are no longer as committed to specific brands, each brand is losing market share to the sheer quantity of what's available."
     video:
   - text_markdown: >-
@@ -260,7 +260,7 @@ sections:
 
 
       THIS ARTICLE WAS ORIGINALLY PUBLISHED ON FASHION'S COLLECTIVE.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

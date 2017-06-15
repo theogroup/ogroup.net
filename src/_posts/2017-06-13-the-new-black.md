@@ -21,14 +21,14 @@ sections:
       Krakoff and famed French p&acirc;tisserie Ladur&eacute;e collaborated to
       create a limited edition, matte-black macaron. That's right, a luxury
       dessert in ever-fashionable black.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "The truth is, I've seen the black = luxury message just about everywhere, and so have you."
     video:
       video_id:
@@ -172,7 +172,7 @@ sections:
       a sexy, on-brand buzz-generating campaign vs. Diet Pepsi and HGTV designer
       Vern Vip coming out with something that feels second-rate and purely
       decorative.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

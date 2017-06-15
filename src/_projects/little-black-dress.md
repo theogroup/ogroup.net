@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-1.jpg
+      grid_image_image: /uploads/lbd-grid-1.jpg
   - text_banner:
       text_banner_text: 'A category-defying, high-end look that delivers on its iconic namesake.'
       text_banner_color: '#000000'
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -161,7 +161,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-2.jpg
+      grid_image_image: /uploads/lbd-grid-2.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -186,7 +186,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-3.jpg
+      grid_image_image: /uploads/lbd-grid-3.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -211,7 +211,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-4.jpg
+      grid_image_image: /uploads/lbd-grid-4.jpg
   - text_banner:
       text_banner_text: The Little Black Dress Wines lifestyle isn’t exactly basic.
       text_banner_color: '#000000'
@@ -236,7 +236,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -261,7 +261,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -286,7 +286,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -311,7 +311,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-5.jpg
+      grid_image_image: /uploads/lbd-grid-5.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -336,7 +336,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-6.jpg
+      grid_image_image: /uploads/lbd-grid-6.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -361,7 +361,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-7.jpg
+      grid_image_image: /uploads/lbd-grid-7.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -386,7 +386,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/lbd-grid-8.jpg
+      grid_image_image: /uploads/lbd-grid-8.jpg
   - text_banner:
       text_banner_text: 'Consumers have responded positively to our refresh of the LBD brand. In fact, case sales in August of this year increased 60.8% over last year’s numbers.'
       text_banner_color: '#000000'
@@ -411,7 +411,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 ---
 

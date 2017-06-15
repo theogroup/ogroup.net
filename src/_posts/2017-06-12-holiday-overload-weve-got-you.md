@@ -8,14 +8,14 @@ intro_markdown: 'Instead of just wishing you Happy Holiday & New Year, we though
 author:
 sections:
   - text_markdown:
-    image:
+    single_image:
     quote:
     video:
       video_id: '115005806'
       video_width:
       video_height:
   - text_markdown: 'To help you survive the holiday season: a short video if you need a laugh. Here’s to ringing in 2015 with a smile.​'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -9,7 +9,7 @@ intro_markdown: >-
 author:
 sections:
   - text_markdown: >-
-    image:
+    single_image:
     quote:
     video:
       video_id:

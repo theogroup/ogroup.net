@@ -105,19 +105,19 @@ sections:
       a one-off sneaker, "the JS Wings 2.0 Black Flag," you may have noticed
       them, they literally have wings) and A$AP Ferg (skateboarding
       collection).​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'The problem, in my opinion, lies in making great strategic moves as a brand but doing nothing to put yourself where your consumer’s attention is.'
     video:
   - text_markdown: 'For me, Adidas’ quiet incubation ended on February 14th of this year. I have no doubt Adidas knew exactly what they were doing when they posted a photo featuring two women on Valentine’s Day with the caption "the love you take is equal to the love you make." While certainly they are not the first big brand to take a stand for equality via advertising, I can’t remember a brand so adamantly and eloquently shutting down trollers and haters alike with responses like, "No, this day is for LOVE. Happy Valentine’s Day."​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-33-1.png
+    single_image: /uploads/blog-33-1.png
     quote:
     video:
   - text_markdown: >-
@@ -166,7 +166,7 @@ sections:
       categories, each with a unique take on fitness, creativity AND achievement.
       These ultra short videos are perfectly paced: you’ve watched half of the
       content before you’ve even thought about scrolling by.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -280,7 +280,7 @@ sections:
       With spring on the horizon the time is right for a sporting goods brand to
       vie for mindshare. I have a feeling I’m not the only one with with a lot of
       heart for Adidas, and I can’t wait to see their next move.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

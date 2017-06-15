@@ -24,7 +24,7 @@ sections:
       To read more, visit Luxury Daily’s "[Baccarat elaborates on inspiration in
       Paris
       retrospective](http://www.luxurydaily.com/baccarat-elaborates-on-inspiration-in-paris-retrospective/)."​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

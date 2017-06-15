@@ -19,7 +19,7 @@ sections:
 
       Sneak peak of our chat below; I hope you enjoy the conversation and window
       into the alcoholic beverage industry!​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -60,11 +60,11 @@ sections:
 
       Dave: I could talk about how I really love Scotch, or a great watch or
       eyeglasses that my dog chews.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'But what I consider a real luxury is an experience. I travel constantly, and usually for business, and if a client pays I guess that’s luxurious.'
     video:
   - text_markdown: >-
@@ -88,7 +88,7 @@ sections:
 
 
       That's luxury: appreciating something for its simplicity and perfection.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

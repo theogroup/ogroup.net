@@ -103,7 +103,7 @@ sections:
       Realistically, if creative industries can’t innovate when it’s time to
       change, who can? We’re looking forward to see how other fashion houses
       respond.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

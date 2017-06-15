@@ -8,7 +8,7 @@ intro_markdown: 'We’re proud to see three of our clients featured in Instore M
 author:
 sections:
   - text_markdown: 'We’re looking forward to seeing each brand’s continued success as we begin 2016, as well as sharing new work to come!​'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

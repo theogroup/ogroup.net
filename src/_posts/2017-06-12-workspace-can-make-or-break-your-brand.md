@@ -7,7 +7,7 @@ intro_markdown: 'Insight from our Chief Creative Officer, Jason B Cohen, on the 
 author:
 sections:
   - text_markdown:
-    image:
+    single_image:
     quote: 'There is no shortage of office space in the United States – from traditional to open concept, co-working spaces to owned buildings – there is something for anyone.'
     video:
   - text_markdown: >-
@@ -86,11 +86,11 @@ sections:
 
       Brands who want to get the most for the their rent dollars must leverage
       their positioning to inform an office selection and design.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: '​Think of your brand as a filter for space decisions, an opportunity to turn over a new leaf.'
     video:
   - text_markdown: >-
@@ -177,7 +177,7 @@ sections:
       bring to life our brand positioning – Rethink Luxury – as we create
       a comfortable and highly functional workspace that we look forward to
       calling Home for years to come.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

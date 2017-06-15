@@ -154,14 +154,14 @@ sections:
       I walk from store to store, I wonder how much in-store sound affects and
       informs shoppers. I pick up on the overall ambient sounds. Does every brand
       have some optimum decibel level?​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: It seems to me that sound has the ability to turn people away as much as draw them in.
     video:
       video_id:
@@ -325,14 +325,14 @@ sections:
       feels not quite right. Contrast that with fragrance-sampling, which seems
       to have finally understood that not everyone is interested in getting
       spritzed.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: The difference relates to the threshold.
     video:
       video_id:
@@ -406,7 +406,7 @@ sections:
 
       Three hours flies by when all you do is walk the mall trying to read
       between the lines and make interesting connections.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

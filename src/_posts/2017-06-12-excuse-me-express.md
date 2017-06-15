@@ -27,19 +27,19 @@ sections:
       It seems I wasn't the only one of my girlfriends who had noticed the large
       amounts of marketing dollars Express had been spending. After the initial
       shock, I began to wonder...​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: Can a forgotten brand make a comeback?
     video:
   - text_markdown: Can Express really shed its slightly cringe-worthy reputation of $9.99 clearance bins and knock-off body-con dresses?​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-37-1.jpg
+    single_image: /uploads/blog-37-1.jpg
     quote:
     video:
   - text_markdown: >-
@@ -96,7 +96,7 @@ sections:
       How do I know Express still has a long way to go to relevance? When another
       girl at the gym asked where my new top was from and I told her she
       responded, not surprisingly, "Excuse me, Express?"​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

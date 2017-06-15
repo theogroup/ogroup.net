@@ -116,7 +116,7 @@ sections:
       a desire to experience products first-hand before purchasing. Now is the
       time to make the online and offline shopping experience complement each
       other.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -36,15 +36,15 @@ sections:
 
       **Among other major US retailers, Macy’s has announced significant store
       closures in early 2016. Does this point to a larger trend?​**
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: '**GREG FURMAN**: I’m Terry Lundgren’s biggest fan. When I was running marketing at Bergdorf, he was the head of Neiman Marcus. Terry is the classic retail strategist quarterback. He knows how to motivate, inspire and focus his strategy. So who better to deal with this equation than he. I think the media has played it all wrong.​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: I think what this is is a strengthening of the Macy’s brand.
     video:
   - text_markdown: >-
@@ -66,27 +66,27 @@ sections:
       that provide in-depth retail experience. And then shift the difference out
       of deep investment in property to a more enhanced, bespoke and customized
       marketing.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: 'What’s needed is for brands to have more discipline in their approach to all of the marketing functions. I would also say that the pressure in this environment is on brands to be true, classic, integrated marketers—and luxury brands have been relatively slow to adapt but are recognizing that that approach is critical.​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: '**ORIT**: I think Greg hit the nail on the head when we think about the question, "Does Macy’s behavior point to a larger industry trend?" As he said,​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'The future of retail is about premium locations that provide in-depth retail experience. It’s less about a deep investment in property and instead a more enhanced, bespoke and customized marketing strategy.'
     video:
   - text_markdown: 'We know that Macy’s 40 stores slated to close account for 1% of total sales, even though they make up more than 5% of Macy’s locations. It’s no secret that the Macy’s store experience has grown a bit tired in plenty of markets. Especially as compared to far superior retail experiences that exist within the same shopping center—like Apple or even Nordstrom. The outlets were aging, and while that’s not the primary cause for closures as Greg pointed out,​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: I believe it is critical that brands reconsider what their customer wants out of their physical retail locations.
     video:
   - text_markdown: >-
@@ -104,7 +104,7 @@ sections:
       The internet provides unprecedented access to product, but I believe bricks
       and mortar is still critical—but brands who don’t consider how to bring
       technology into retail and evolve the brand experience will fail.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

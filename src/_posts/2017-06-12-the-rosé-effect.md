@@ -224,7 +224,7 @@ sections:
       So on the eve of the unofficial holiday weekend of ros&eacute;, let’s raise
       our glasses. To the death of white zinfandel, and the continued rise of
       #ros&eacute;allday.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

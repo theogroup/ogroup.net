@@ -135,7 +135,7 @@ sections:
       is going to continue to grow, it has a responsibility to demonstrate that
       these premium products help responsible consumers indulge responsibly,
       without sacrificing design aesthetics.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

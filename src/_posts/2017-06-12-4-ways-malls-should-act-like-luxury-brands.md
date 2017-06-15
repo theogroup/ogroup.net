@@ -141,11 +141,11 @@ sections:
       executing and expressing their brands and missions to the world in
       compelling and evocative ways can mall brands truly be greater than the sum
       of their parts.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: I’d love to see malls have creative directors the way Fashion brands do.
     video:
   - text_markdown: >-
@@ -276,15 +276,15 @@ sections:
       satisfy the (formal, physical) shopping need along with the
       (conceptual/attitudinal) desire for elevated and unique experiences that
       shoppers now demand.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'Like luxury, mall brands need to exceed expectations, surprise and delight, impress and engage.'
     video:
   - text_markdown: 'It is time to disrupt the world of mall branding just as the rest of retail has been turned sideways. By emulating or learning from luxury brands, smart mall brands will become significantly more meaningful and important to people. In doing so, they have the potential to enmesh themselves in modern culture in ways previously unimaginable.​'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

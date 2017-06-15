@@ -318,19 +318,19 @@ sections:
 
 
       Courtney Apple: Bar Cart​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-16-1.jpg
+    single_image: /uploads/blog-16-1.jpg
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-16-2.jpg
+    single_image: /uploads/blog-16-2.jpg
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-16-3.jpg
+    single_image: /uploads/blog-16-3.jpg
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

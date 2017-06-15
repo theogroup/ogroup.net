@@ -24,11 +24,11 @@ sections:
       self-effacing humor from the luxury fashion community, which often—just
       like Hollywood—takes itself a bit seriously," said Kristen Dillman,
       business development manager at The O Group, New York.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: '"People view brands more as friends than businesses, nowadays"'
     video:
   - text_markdown: >-
@@ -50,7 +50,7 @@ sections:
       To read the rest of Kristen’s commentary and the article in full, please
       visit Luxury Daily’s "[Zoolander infiltrates high fashion as film premiere
       approaches](http://www.luxurydaily.com/zoolander-gets-high-fashion-treatment-as-film-premiere-approaches/)."​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -7,11 +7,11 @@ intro_markdown: "[Ya Salam](http://yasalam.co/)&nbsp;is a popular fashion and li
 author:
 sections:
   - text_markdown:
-    image: /uploads/blog-15-1.png
+    single_image: /uploads/blog-15-1.png
     quote:
     video:
   - text_markdown: 'Photos by: Kate Dyomina​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -205,15 +205,15 @@ sections:
 
       **Korin:**&nbsp;I'm so excited for my December adventures, I can't say much
       other than stay tuned!​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-15-2.png
+    single_image: /uploads/blog-15-2.png
     quote:
     video:
   - text_markdown: 'Photos by: Donna Adi​'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

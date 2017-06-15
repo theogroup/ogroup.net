@@ -8,15 +8,15 @@ intro_markdown: 'The O Group recently had the pleasure of being invited to what 
 author:
 sections:
   - text_markdown:
-    image: /uploads/blog-4-1.JPG
+    single_image: /uploads/blog-4-1.JPG
     quote:
     video:
   - text_markdown: 'The event, which is exclusive to the Pierre, is a pop-up store by contemporary French perfumery Sous Le Manteau. With a fresh approach to fragrance and romantic love, Sous Le Manteau and The Pierre Hotel provide a unique and memorable aromatic journey known as the ‘Essence of Love’. Upon entering the ambient pop-up store you are met with the host and creator of Sous Le Manteau, Olivia Bransbourg who then explains the concept behind the range. Love, desire and the sensory processing of certain notes in the unisex fragrances drive the ‘Essence of Love’ series. Inspired by old French love potions each perfume symbolizes a certain type of lover and certain approach to romantic love. Visitors are matched to a scent by a questionnaire given to you in store, which you can also take on the Sous Le Manteau website here. The full ‘Perfume of Desires’ range has five unique fragrances but you will definitely have one favorite that evokes feelings of desire and sensuality​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-4-2.jpg
+    single_image: /uploads/blog-4-2.jpg
     quote:
     video:
   - text_markdown: >-
@@ -38,7 +38,7 @@ sections:
       personal touches at every step of the journey. Sous Le Manteau has created
       an all-encompassing sensory experience that leaves a long and lasting
       impression.
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

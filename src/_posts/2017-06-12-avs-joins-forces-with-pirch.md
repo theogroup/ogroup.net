@@ -29,7 +29,7 @@ sections:
       where they feature best in class media, speakers, lighting, and control
       systems. This kitchen of the future, "shows the promise of tomorrow as our
       appliances learn to communicate with our food."​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

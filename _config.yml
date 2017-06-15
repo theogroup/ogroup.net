@@ -30,36 +30,36 @@ defaults:
     scope:
       path: "index.html"
     values:
-      layout: default
-      class: home
+      layout: "default"
+      class: "home"
       permalink: "/"
   -
     scope:
       path: "work.html"
     values:
-      class: work
-      layout: default
+      class: "work"
+      layout: "default"
       permalink: "/work/"
   -
     scope:
       path: "agency.html"
     values:
-      class: agency
-      layout: default
+      class: "agency"
+      layout: "default"
       permalink: "/agency/"
   -
     scope:
       path: "blog.html"
     values:
-      class: blog
-      layout: default
+      class: "blog"
+      layout: "default"
       permalink: "/blog/"
   -
     scope:
       path: "contact.html"
     values:
-      class: contact
-      layout: default
+      class: "contact"
+      layout: "default"
       permalink: "/contact/"
   -
     scope:
@@ -73,15 +73,15 @@ defaults:
       path: ""
       type: "projects"
     values:
-      class: project
-      layout: project
+      class: "project"
+      layout: "project"
       permalink: "/work/:slug/"
   -
     scope:
       type: posts
     values:
-      layout: post
-      class: blog
+      layout: "post"
+      class: "blog"
       permalink: "/blog/:title/"
 
 _comments:

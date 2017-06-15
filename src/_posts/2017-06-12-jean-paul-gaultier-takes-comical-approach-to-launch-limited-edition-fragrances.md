@@ -55,7 +55,7 @@ sections:
       To read the rest of Elizabeth’s commentary and the article in full, please
       visit Luxury Daily’s, "[Jean Paul Gaultier takes comical approach to launch
       limited-edition fragrances](http://www.luxurydaily.com/165972-2/)".​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

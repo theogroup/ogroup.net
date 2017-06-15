@@ -8,7 +8,7 @@ intro_markdown: "In an earlier article I wrote,&nbsp;[Luxury is the New Black](h
 author:
 sections:
   - text_markdown: "Wearable smart technology like Google Glass may someday be ubiquitous, but for now GoPro is dominating, and the brand seems to have reached the tipping point. (In fact, while writing this article, GoPro announced its IPO.) It's everywhere. And it's more than a camera company. It's a content platform unto itself.​"
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -41,11 +41,11 @@ sections:
       could feature videos of the craftsmanship and production of their high-end
       goods. What would a day in the life of the lead designer look like? Foodies
       could get a POV video of their favorite chef during a busy dinner shift.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'Luxury hotel brands could replace the boring Virtual Tour with dynamic, branded content to show an amazing property or experience to potential guests.'
     video:
   - text_markdown: >-
@@ -62,7 +62,7 @@ sections:
 
       Luxury brands should seize the opportunity and take advantage of this
       engaging, evolving tool.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

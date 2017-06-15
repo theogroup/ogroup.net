@@ -1171,14 +1171,14 @@ sections:
 
       Mickey: It still all goes back to one thing: design, which is the hub of
       any true luxury business.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'With a design vision and a team in place to execute on all fronts – Sales, Advertising, Merchandising and Social Media – only then will brands have the best chance of positive results and lasting success.​'
     video:
       video_id:
@@ -2073,14 +2073,14 @@ sections:
 
 
       Mickey:​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'The customer, first and foremost, is expecting an experience commensurate with the price of a luxury purchase.'
     video:
       video_id:
@@ -2767,7 +2767,7 @@ sections:
 
 
       ARTICLE ORIGINALLY PUBLISHED ON FASHION'S COLLECTIVE.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

@@ -142,14 +142,14 @@ sections:
       So the brand is trying to reconnect to those influencers and say "Okay, so
       we're not five people making it in Brooklyn, but we still make a phenomenal
       product that's worthy of respect and appreciation."​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "They're going out and laying that foundation in a very intimate, social and transparent way with those influencers. They're then able to tell consumers the same story they are sharing with bartenders, but in a way that is much broader and louder."
     video:
       video_id:
@@ -237,14 +237,14 @@ sections:
 
       Trish: Customization is certainly a big component. There is a shift away
       from price defining quality, but we still expect to get what we pay for.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "Education is key, people want to understand what they're paying for, and that's as true for custom jeans and watches as it is for whisky."
     video:
       video_id:
@@ -320,7 +320,7 @@ sections:
       conversation I said something about my personal trainer and my
       acupuncturist. He told me I was a baller for that. I suppose it turns out
       that those are my personal luxuries!​
-    image:
+    single_image:
     quote:
     video:
       video_id:

@@ -2,7 +2,9 @@
 pagination:
   enabled: true
 contact_tagline: "Let's start a conversation about luxury."
+class: blog
 ---
+
 {% assign posts = site.posts | sort:'publish_date' | reverse %}
 {% assign featured = posts | where:'featured','true' %}
 {% assign first = paginator.posts | first %}

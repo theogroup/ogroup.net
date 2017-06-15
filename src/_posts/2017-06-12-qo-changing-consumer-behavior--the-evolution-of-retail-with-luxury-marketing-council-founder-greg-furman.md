@@ -213,11 +213,11 @@ sections:
       "The retail industry has a propensity to jump on bugaboo bandwagons or
       issues, like building innovation labs, and lose sight of the bigger
       picture."​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: '"(which is) improving their core operations and figuring out what they actually are and plan to be for the customers and how to build really unique experiences."'
     video:
   - text_markdown: >-
@@ -248,7 +248,7 @@ sections:
       psychographic of your target audience will be key to positioning businesses
       for future growth and evolving alongside changing consumer behavior no
       matter the economy’s ups and downs.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

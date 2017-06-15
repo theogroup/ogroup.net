@@ -19,11 +19,11 @@ sections:
       Driver and Vara Bow shoe, Ferragamo is further enhancing an already
       extraordinary retail experience and expanding their influence beyond
       physical retail."​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: "To read the article in full, and more of Elizabeth's commentary, please visit Luxury Daily, \"[Ferragamo expands customization options via MTO Driver shoe](http://www.luxurydaily.com/ferragamo-expands-customization-options-with-mto-driver-shoe/)\"​"
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

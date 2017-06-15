@@ -26,11 +26,11 @@ sections:
 
       We deal in the business of ideas. We work with clients that value those
       ideas and our expertise.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'We exist for like-minded, big thinkers that are invested in seeing successful luxury creative work that makes a difference.'
     video:
   - text_markdown: >-
@@ -66,11 +66,11 @@ sections:
       aesthetics and experience. We work collaboratively with clients, partners
       and consumers to generate insights, iteratively build innovative and
       engaging creative ideas, then we execute with precision and measure.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'We develop brands and help them to harness the power of luxury positioning, aesthetics and tactics.'
     video:
   - text_markdown: >-
@@ -112,7 +112,7 @@ sections:
 
 
       # &nbsp;
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -39,7 +39,7 @@ sections:
       To read the article in full, please visit Luxury Daily’s,"[Burberry debuts
       first ads for revamped retail
       strategy](https://www.luxurydaily.com/burberry-debuts-first-ads-for-revamped-retail-strategy/)."​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

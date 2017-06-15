@@ -7,7 +7,7 @@ intro_markdown: "Each morning I drink a cup of coffee, look at my calendar and e
 author:
 sections:
   - text_markdown: "That's because how you present yourself and what you wear depends on what you've got planned that day. What are you doing? Who will you see? The alternative: jumping out of bed and wearing \"whatever\" might be okay, but isn't likely to set you up for success and make the right (i.e. killer) impression.​"
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -94,11 +94,11 @@ sections:
       In many cases, even the name should be decided upon later rather than
       sooner. Who's the target? What do they respond to? Who else competes in the
       space? What are they about?​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'Branding is the sum total effect of Positioning, Concept, Design and Execution.'
     video:
   - text_markdown: >-
@@ -124,7 +124,7 @@ sections:
       Design execution and brand launch. The "Wow!" you'll get for a flashy logo
       and package will wear off much sooner than the satisfaction you'll
       experience after bringing an amazing idea to life.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

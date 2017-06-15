@@ -144,14 +144,14 @@ sections:
       you want to do it, and then if you can justify it, can you figure out how
       to do it? So it's what, why and how, that's it – answer those three
       questions.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'The stickiness of a brand is critical. At the end of the day if the consumer forgets who you are, nothing really helps.'
     video:
       video_id:
@@ -211,7 +211,7 @@ sections:
       the Global Food and Beverage Practice at PricewaterhouseCoopers, Ms.
       Spiegel has clearly proven her food and beverage skills to the betterment
       of her public and private clients.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/akc-grid-image-1.png
+      grid_image_image: /uploads/akc-grid-image-1.png
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -161,7 +161,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/akc-grid-image-2.png
+      grid_image_image: /uploads/akc-grid-image-2.png
   - text_banner:
       text_banner_text: 'When it comes to all things dog related, there are few brands that are as authentic as the American Kennel Club.'
       text_banner_color:
@@ -186,7 +186,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -211,7 +211,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/akc-grid-image-3.png
+      grid_image_image: /uploads/akc-grid-image-3.png
 contact_tagline: Ask us about the work we did for
 ---
 

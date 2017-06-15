@@ -54,15 +54,15 @@ sections:
       Barry’s Bootcamp and Flywheel totally last
       minute](http://www.wellandgood.com/good-advice/hannah-bronfmans-app-now-makes-booking-workouts-and-waxes-super-easy/).
       Plus, you might get a deal. Score!​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: Beautified has considered how their audiences prefer to interact (how do you even call a landline?) and provided the technology to do just that.
     video:
   - text_markdown:
-    image: /uploads/blog-32-1.png
+    single_image: /uploads/blog-32-1.png
     quote:
     video:
   - text_markdown: >-
@@ -131,19 +131,19 @@ sections:
       note. Clinique tapped her as an ambassador in their #FaceForward campaign
       and Adidas features Bronfman as part of their 2016 #HereToCreate
       campaign.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: People respond to brands with founders who are real people with compelling stories.
     video:
   - text_markdown: "For me Hannah adds a much-needed human quality to Beautified’s stellar product offering.\n\n**Haircuts you can actually trust&nbsp;**\n\nTHIS is where Beautified really adds value. Does this scenario sound familiar? \"Okay, you’re all done!\" \"Wow! I love it..\" \\*Panic, cries, calls best friend, runs home and fixes weird new hair style and part.\\*\n\nBad haircuts, be gone. You can rest assured that any stylist and salon you visit is top quality. You’re only served salons that \"an insider, editor or an influencer has visited.\" You don’t have to take your chances with Yelp, or the eyebrow place on the corner. Consumers, myself included, expect a certain level of transparency, service and reliability from brands. Service-based beauty brands, like Glamsquad, Priv, and Beautified, are no different.​"
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: Beautified has done a great job of recognizing this consumer behavior and acting accordingly.
     video:
   - text_markdown: >-
@@ -190,11 +190,11 @@ sections:
       much appreciated, value-add for me. I’ve been able to enjoy my appointments
       (and complimentary beverage) more knowing that I’m up and out the door as
       soon as I get up from my chair.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -279,7 +279,7 @@ sections:
       workouts have been known to occur. Beautified may also cause euphoria and
       increased spending. Users are advised to exercise caution when walking
       around SoHo post-haircut as you may feel more fabulous than usual.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

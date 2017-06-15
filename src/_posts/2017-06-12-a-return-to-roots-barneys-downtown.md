@@ -7,11 +7,11 @@ intro_markdown: 'Amongst the flurry of NYFW Instagrams flooding my feed lately, 
 author:
 sections:
   - text_markdown: 'The image I’m referring to is the majestic, white, winding staircase to retail heaven. Yes, it’s the official "welcome back downtown, Barneys" post.​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-36-1.png
+    single_image: /uploads/blog-36-1.png
     quote:
     video:
   - text_markdown: >-
@@ -33,11 +33,11 @@ sections:
       steps away from my home was enough to fill my dreams with blissful downtown
       shopping trips that no longer involve weekends spent on the 6 train
       schlepping uptown.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: 'As I continued to read about the beloved brand, I was reminded that this was a classic story of a brand returning to its retail roots.'
     video:
   - text_markdown: >-
@@ -82,15 +82,15 @@ sections:
       you can pay on the spot with Apple Pay. The brands featured in-store cater
       to the downtown crowd and the interior design aesthetics are modern and
       more manageable that the uptown location.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: Barneys seems know exactly what the downtown crowd wants and how quickly they want it.
     video:
   - text_markdown: 'So kudos to Barneys for returning to their roots, giving the downtown crowd major accessibility to great brands, and for a must-have NYC Instagram moment to blend in perfectly with my #NYFW social media feed.​'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

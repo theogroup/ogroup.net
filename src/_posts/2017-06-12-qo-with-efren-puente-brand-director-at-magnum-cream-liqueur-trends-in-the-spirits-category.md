@@ -62,11 +62,11 @@ sections:
       categories. That said, there are clearly many legal barriers to e-commerce
       in the spirits category—and so at least for the near future I don't think
       that's where major focus will be.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image:
+    single_image:
     quote: "At the end of the day success for spirits brands isn't about tech investment. It will continue to be about the agencies and talent required to bring a brand to life."
     video:
   - text_markdown: >-
@@ -118,7 +118,7 @@ sections:
       it tastes great and it's premium priced. They're approaching different
       categories under one brand name, which is unusual but seems to be working.
       I'm interested to see where they end up.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

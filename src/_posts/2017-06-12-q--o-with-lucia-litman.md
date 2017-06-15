@@ -114,11 +114,11 @@ sections:
       colors and how they can be represented through my outfits and fashion.
       I love clothes, but don't often show my outfits or style on my Instagram,
       and that's something I hope to do more of soon!​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-20.png
+    single_image: /uploads/blog-20.png
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

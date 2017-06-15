@@ -75,7 +75,7 @@ sections:
       a stronger emotional connection with your clientele. Every detail may be
       considered in advance so they’ll meet the same standards of excellence
       - every time.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

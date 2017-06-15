@@ -36,7 +36,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -61,7 +61,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -86,7 +86,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: Shift Perception. Stand Out. Elevate Tile.
       text_banner_color:
@@ -111,7 +111,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -136,7 +136,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -161,7 +161,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/art-grid-1.jpg
+      grid_image_image: /uploads/art-grid-1.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -186,7 +186,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/art-grid-2.jpg
+      grid_image_image: /uploads/art-grid-2.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -211,7 +211,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/art-grid-3.jpg
+      grid_image_image: /uploads/art-grid-3.jpg
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -236,7 +236,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text: Showcase tile in a way that conveys expertise and passion.
       text_banner_color: '#ffffff'
@@ -261,7 +261,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -286,7 +286,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
   - text_banner:
       text_banner_text:
       text_banner_color:
@@ -311,7 +311,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image: /uploads/art-grid-4.jpg
+      grid_image_image: /uploads/art-grid-4.jpg
   - text_banner:
       text_banner_text: '“The new campaign has elevated Artistic Tile; it aligns with other high-end advertisers we feature, and speaks directly to our target audience.” —Stacy Piano, Lifestyle Director at Veranda Magazine'
       text_banner_color: '#ffffff'
@@ -336,7 +336,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      image:
+      grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 ---
 

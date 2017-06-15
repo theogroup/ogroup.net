@@ -43,14 +43,14 @@ sections:
       number of sub-sets and psychographic differentiators within their ranks.
       One look at the stratification of their musical, culinary and fashion
       tastes, and understanding "their" tastes becomes clear as mud.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "That's a massive leap in ages, in cultural tastes, and in life milestones."
     video:
       video_id:
@@ -75,14 +75,14 @@ sections:
       habits and predilections. And while Google boasts that over 65% of this
       cohort is under the age of 35, you can find members of every generation
       (including Boomers) within C's ranks.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image: /uploads/3.jpg
+    single_image: /uploads/3.jpg
     quote:
     video:
       video_id:
@@ -104,21 +104,21 @@ sections:
       reaping the benefits of targeting a mindset rather than a demographic. The
       key is to avoid alienating potential consumers through the use misguided
       creative work that is pandering to a specific age group.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'Highly-connected consumers happen to come in all shapes, sizes and ages.​​'
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown: 'Millennials will continue their growth into the largest generational force in history, and will still capture the attention of marketers and brands. But smart brands will understand that highly-connected consumers happen to come in all shapes, sizes and ages.​'
-    image:
+    single_image:
     quote:
     video:
       video_id:

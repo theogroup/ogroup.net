@@ -209,14 +209,14 @@ sections:
       having a memorable experience with a representative, finding the ultimate
       piece of couture and then being handed the garment in a crumpled plastic
       bag without tissue. One element can ruin it all.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'With pitfalls lurking, we see top luxury brands working hard and being careful to get it right every single time.'
     video:
       video_id:
@@ -340,7 +340,7 @@ sections:
 
 
       This article was originally published on Luxury Daily.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

@@ -7,11 +7,11 @@ intro_markdown: 'Ivy Boyd, former graphic designer, turned makeup artist/ beauty
 author:
 sections:
   - text_markdown:
-    image: /uploads/blog-12.jpeg
+    single_image: /uploads/blog-12.jpeg
     quote:
     video:
   - text_markdown: 'Image by&nbsp;[Mindy Myers​](http://www.mindymyers.com/)'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -186,15 +186,15 @@ sections:
       your skin. You deserve the best; so don’t settle for crap in fancy
       packages. I want a luxury product to check all the boxes: effective, safe,
       enjoyable to use.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-12-2.jpg
+    single_image: /uploads/blog-12-2.jpg
     quote:
     video:
   - text_markdown: 'Image by&nbsp;[Zach Boyden-Holmes​](http://boydenphoto.com/)'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

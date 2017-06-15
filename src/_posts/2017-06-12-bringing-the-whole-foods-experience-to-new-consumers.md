@@ -40,11 +40,11 @@ sections:
       shifting how consumers view both luxury and traditionally non-luxury
       brands. So you can imagine how excited we were when Whole Foods announced
       "365."​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-26-1.jpg
+    single_image: /uploads/blog-26-1.jpg
     quote:
     video:
   - text_markdown: >-
@@ -133,7 +133,7 @@ sections:
 
 
       Photo credit: Forbes​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

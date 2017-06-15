@@ -172,7 +172,7 @@ sections:
       continuing to build a luxury brand – something that we know a lot about.
       We’re just looking for the right partner with which we can continue to
       grow.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

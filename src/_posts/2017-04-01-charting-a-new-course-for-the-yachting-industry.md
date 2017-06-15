@@ -7,22 +7,22 @@ intro_markdown: In a previous post called “Keeping the luxury boating industry
 author:
 sections:
   - text_markdown: 'There was a dramatic upward turn in the economy from 2013 and even luxury purchases like super yachts saw a spike that year and the following year too. However, since then there’s been a steady decline in super yacht sales according to data collected by [BOAT](http://www.boatinternational.com/yacht-market-intelligence/superyacht-industry-data/superyacht-sales-data/superyachts-sold-in-2010--25667) magazine.​'
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-image-1.jpg
+    single_image: /uploads/blog-image-1.jpg
     quote:
     video:
   - text_markdown: |-
       ***Sailing vs Owning***
 
       Younger members of the ultra-wealthy elite seem to find ownership restrictive, while the older ultra-wealthy are becoming trepidatious about purchases of this magnitude due to how financially demanding it is after the initial purchase. What this means is that although the novelty of owning a yacht has lost its luster, it does not really signal the end for the super yacht industry. In fact, this might be the time for a rebirth. Luxury consumers have become more careful with retail purchases over the past seven years, but if the statistics from Eventbrite’s “Fueling The Experiential Economy" report are anything to go by, the future of yachting lies in experiences and not ownership. As it stands there has been an increase in fractional yacht ownership, but even this method of ownership is somewhat limiting in terms of offerings and experiences. Most importantly, it is ownership, not an experience.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-image-2.jpg
+    single_image: /uploads/blog-image-2.jpg
     quote:
     video:
   - text_markdown: >-
@@ -48,7 +48,7 @@ sections:
       partner up with a luxury boating brand to offer unique marine experiences.
       This might be the approach that can breathe new life into the luxury
       boating industry, the success of which won’t solely depend on sales.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

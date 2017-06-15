@@ -8,7 +8,7 @@ intro_markdown: "We asked our O Group team a few questions about wearable tech o
 author:
 sections:
   - text_markdown: "The results we got back read a little like a \"Splurge vs. Steal\" section of a fashion magazine. \"Steal\" being the reality of what currently exists in wearable technology, and \"Splurge\" being our team's fantasy inventions. Curious about what they came up with?​"
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -61,7 +61,7 @@ sections:
       more than once ("project to fit back into your pants"), I'm going to guess
       we're not the only ones who've ever wished you could work out, without
       actually working out.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown: >-
@@ -84,7 +84,7 @@ sections:
       terrible invention as much as we do. Kickstarter, anyone? The team member
       with this genius wish added that the clothing would have a "device that
       stimulates problem areas, and tones." I'll take two.​
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

@@ -103,14 +103,14 @@ sections:
       Cuyana proves that just because you can, doesn't mean you'd prefer to.
       Cuyana's philosophy is perhaps the best way to sum up the content of this
       cultural trend:​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'WE BELIEVE THAT FEWER, BETTER THINGS LEAD TO A FULLER, BETTER LIFE. -CUYANA'
     video:
       video_id:
@@ -285,7 +285,7 @@ sections:
       glass of chardonnay makes the Courtyard difference, the brand really seeks
       to appeal to the traveler who values "the little things" that make an
       experience meaningful and memorable.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
@@ -295,14 +295,14 @@ sections:
       THE TAKEAWAY
 
       The sum total of these trends points to a growing desire to spend time well, right?​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: 'Time is the one thing you cannot purchase more of, no matter where you fall on the wealth scale.'
     video:
       video_id:
@@ -330,7 +330,7 @@ sections:
 
       Premium brands will do well to contemplate how to infuse their thinking,
       brand and offerings with these trends in order to maintain relevancy.​
-    image:
+    single_image:
     quote:
     video:
       video_id:

@@ -7,11 +7,11 @@ intro_markdown: A call has been sounded all over the world for women to come tog
 author:
 sections:
   - text_markdown: "This call has been echoed by the ‘Unleashed’ series of events, highlighting challenges faced by women and the solutions they’ve found to combat them.&nbsp;[Unleashed](https://www.diamondsunleashed.org/)&nbsp;is a social impact brand whose net profits support girls' education and job creation globally. Founded by Kara Ross, a well-known jewelry designer and philanthropist, Unleashed aims to break the poverty cycle through education and job creation that includes bringing products made by woman artisans in developing countries to be sold in the United States.​"
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-2-1.jpg
+    single_image: /uploads/blog-2-1.jpg
     quote:
     video:
   - text_markdown: >-
@@ -38,15 +38,15 @@ sections:
       quo changing for digital. Clear themes throughout the discourse were, the
       increase in social impact and calls to action online, the need for more
       brand authenticity and for influencers to be more than just pretty faces.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-2-2.jpg
+    single_image: /uploads/blog-2-2.jpg
     quote:
     video:
   - text_markdown: 'It is clear that consumers do not want to engage with brands that can only post cool pictures and regurgitate buzzwords anymore. Consumers want brands that are not only profit- driven but brands that are cognizant of social issues and use their profits as an agent for good. Rebecca Alexander who engages with both brands and influencers, noted that the time of the superficial and socially unaware influencer is up. This means digital brand campaigns will need better EQ’s and understand the issues faced and supported by their followers if they are to succeed. This shift in how digital media is consumed means that every time a brand puts out a digital campaign, they are no longer courting potential brand loyalists but rather potential brand advocates.​'
-    image:
+    single_image:
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

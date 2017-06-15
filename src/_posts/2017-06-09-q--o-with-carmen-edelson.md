@@ -181,11 +181,11 @@ sections:
       or more extravagant furnishings. It’s about attention to comfort details
       and providing staff with the expertise and motivation to really help guests
       navigate their travel experience.​
-    image:
+    single_image:
     quote:
     video:
   - text_markdown:
-    image: /uploads/blog-10-1.JPG
+    single_image: /uploads/blog-10-1.JPG
     quote:
     video:
 contact_tagline: "Let's start a conversation about luxury."

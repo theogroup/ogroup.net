@@ -78,21 +78,21 @@ sections:
       crowded enough to make it difficult to move. The DJ they hired for the
       event was an Instagram influencer, an appeal that might have been lost on
       the audience filling the space, but a strategic tactic nonetheless.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image: /uploads/unnamed.jpg
+    single_image: /uploads/unnamed.jpg
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "We always say you can't be everything to everyone, and it seems like Dress Barn is sharpening their focus."
     video:
       video_id:
@@ -147,7 +147,7 @@ sections:
       I for one am looking forward to seeing Dress Bar interact with New York
       City through upcoming events – and perhaps a shorter line at their next
       (fingers crossed) collaboration with Benefit Brow Bar!​
-    image:
+    single_image:
     quote:
     video:
       video_id:

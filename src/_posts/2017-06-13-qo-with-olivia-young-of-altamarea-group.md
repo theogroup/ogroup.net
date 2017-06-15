@@ -113,14 +113,14 @@ sections:
       friendly and poised, they're dressed casually but very well. I'm confident
       in saying that every meal I have had at Hillstone is almost the same. Is it
       luxury? To me, that's luxury.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "If you can pay for an experience that's as expensive as a New York Times starred restaurant and consistently excellent, there's luxury involved in that."
     video:
       video_id:
@@ -278,14 +278,14 @@ sections:
       Olivia: When it comes to paying money for food, there are so many options
       and it's so expensive. It has to be a really wonderful experience beyond
       the food.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    image:
+    single_image:
     quote: "At Altamarea Group restaurants, the second a customer walks in you're greeted, appreciated and acknowledged."
     video:
       video_id:
@@ -432,7 +432,7 @@ sections:
       Savoy in London, too much Laurent Perrier Rose Champagne—things that are
       instantaneous or that leave lasting memories. I think everybody should
       indulge, and cost isn't a qualifier of indulgence.​
-    image:
+    single_image:
     quote:
     video:
       video_id:
