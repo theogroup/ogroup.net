@@ -51,8 +51,7 @@ defaults:
     scope:
       path: "blog.html"
     values:
-      class: "blog"
-      layout: "default"
+      layout: "blog"
       permalink: "/blog/"
   -
     scope:

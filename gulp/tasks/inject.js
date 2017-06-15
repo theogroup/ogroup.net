@@ -16,8 +16,14 @@ gulp.task('inject:footer', () =>
     .pipe(gulp.dest('.tmp/src/_layouts'))
 );
 
-gulp.task('inject:blogfooter', () =>
+gulp.task('inject:tagpage', () =>
   gulp.src('.tmp/src/_layouts/tag_default.html')
+    .pipe(inject(gulp.src('.tmp/assets/javascript/*.js'), {ignorePath: '.tmp'}))
+    .pipe(gulp.dest('.tmp/src/_layouts'))
+);
+
+gulp.task('inject:blog', () =>
+  gulp.src('.tmp/src/_layouts/blog.html')
     .pipe(inject(gulp.src('.tmp/assets/javascript/*.js'), {ignorePath: '.tmp'}))
     .pipe(gulp.dest('.tmp/src/_layouts'))
 );
