@@ -2,7 +2,7 @@
 title: this is a draft post
 publish_date:
 featured: false
-tags: []
+tags:
 featured_image:
 intro_markdown:
 author:
@@ -16,3 +16,5 @@ sections:
       video_height:
 contact_tagline: "Let's start a conversation about luxury."
 ---
+
+
