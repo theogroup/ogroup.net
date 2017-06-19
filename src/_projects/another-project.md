@@ -2,6 +2,7 @@
 title: another project
 client:
 show_on_homepage: false
+published: true
 featured_image: /uploads/default-image.jpg
 vimeo_id:
 vimeo_width:

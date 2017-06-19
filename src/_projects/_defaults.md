@@ -2,6 +2,8 @@
 title:
 client:
 show_on_homepage: false
+published: true
+published: false
 featured_image: /uploads/default-image.jpg
 vimeo:
   vimeo_id:

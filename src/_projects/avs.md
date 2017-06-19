@@ -2,6 +2,7 @@
 title: AVS Web Site Design
 client: AVS
 show_on_homepage: true
+published: true
 featured_image: /uploads/avs-featured.jpg
 vimeo:
   vimeo_id:

@@ -2,6 +2,7 @@
 title: Little Black Dress
 client: Little Black Dress
 show_on_homepage: true
+published: true
 featured_image: /uploads/lbd-featured-image.jpg
 imeo:
   vimeo_id:

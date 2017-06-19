@@ -86,6 +86,8 @@ defaults:
 _comments:
   image: The image used for FB/Twitter sharing
   description: For SEO (not visible on the page)
+  show_on_homepage: lists the project on the HOME page, but not the WORK page
+  published: unless true, the proect will not be visible on the site
 
 # Extending Jekyll
 gems:
@@ -110,3 +112,4 @@ pagination:
   limit: 0
   sort_field: 'publish_date'
   sort_reverse: true
+

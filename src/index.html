@@ -166,7 +166,8 @@ description: A New York &amp; Settle based creative agency focused on rethinking
 
 
   <section class="full">
-    {% assign projects = site.projects | where:'show_on_homepage','true' | sort:'sort_order' %}
+    {% assign published = site.projects | where:'published','true' %}
+    {% assign projects = published | where:'show_on_homepage','true' | sort:'sort_order' %}
     {% for project in projects  %}
     <div class="showcase" style="background-position: center center">
       <img ix-path="{% if project.featured_image %}{{ project.featured_image | replace: '/uploads/', ''}}{% endif %}"

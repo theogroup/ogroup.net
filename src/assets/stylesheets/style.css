@@ -4250,7 +4250,7 @@ body.contact .full .banner.photo {
     body.contact .contact-info:last-child {
       margin-right: 0; }
     body.contact .contact-info .ny {
-      margin-bottom: 3rem; }
+      margin-bottom: 4rem; }
     body.contact .contact-info h5 {
       font-family: FranklinGothicURW-Dem;
       color: #7f7f7f;
@@ -4304,7 +4304,7 @@ body.contact .full .banner.photo {
     body.contact .contact-info:last-child {
       margin-right: 0; }
     body.contact .contact-info .ny {
-      margin-bottom: 3rem; }
+      margin-bottom: 4rem; }
     body.contact .contact-info h5 {
       font-family: FranklinGothicURW-Dem;
       color: #7f7f7f;
@@ -4417,8 +4417,7 @@ body.contact .full .banner.photo {
       body.contact .contact-details p a {
         display: inline;
         color: #7f7f7f;
-        text-decoration: none;
-        border-bottom: 1px solid #7f7f7f; } }
+        text-decoration: none; } }
 
 body.contact .full.split .split.banner {
   float: left; }
