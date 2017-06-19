@@ -211,7 +211,7 @@ agency_tagline: 'Who we are, and what we do.'
     <div class="split split-left">
     <a href="/contact">
       <h5>Contact</h5>
-      <h3>{{ page.contact_tagline }}</h3>
+      {% if page.contact_tagline %}<h3>{{ page.contact_tagline }}</h3>{% endif %}
       <div class="arrow-wrapper">
         <img src="/assets/images/red-arrow.png" alt="" class="arrow">
       </div>
