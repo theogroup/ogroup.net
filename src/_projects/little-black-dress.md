@@ -3,9 +3,10 @@ title: Little Black Dress
 client: Little Black Dress
 show_on_homepage: true
 featured_image: /uploads/lbd-featured-image.jpg
-vimeo_id:
-vimeo_width:
-vimeo_height:
+imeo:
+  vimeo_id:
+  vimeo_width:
+  vimeo_height:
 headline: Latest obsession.
 headline_text_color: '#ffffff'
 overview: 'Latest Obsession — a luxury powered reboot for a fashion-themed, mass-market wine brand.'

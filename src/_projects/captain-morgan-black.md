@@ -3,9 +3,10 @@ title: Captain Morgan Black Spiced Rum Launch Kit and Brand Book
 client: Captain Morgan
 show_on_homepage: false
 featured_image: /uploads/cm-featured.jpg
-vimeo_id:
-vimeo_width:
-vimeo_height:
+vimeo:
+  vimeo_id:
+  vimeo_width:
+  vimeo_height:
 headline: Step into the black.
 headline_text_color: '#ffffff'
 overview: The Darker Side of Captain Morgan—a reboot with substance and grit reintroducing the brand to a modern audience.

@@ -3,9 +3,10 @@ title: Merritt
 client: Merritt
 show_on_homepage: true
 featured_image: /uploads/merritt-featured-image.jpg
-vimeo_id: 210996011
-vimeo_width: 640
-vimeo_height: 360
+vimeo:
+  vimeo_id: 210996011
+  vimeo_width: 640
+  vimeo_height: 360
 headline: Dedicated to launching the next century of woodwork and joinery design.
 headline_text_color: '#ffffff'
 overview: Against the Grain—We built a brand dedicated to the future of millwork.

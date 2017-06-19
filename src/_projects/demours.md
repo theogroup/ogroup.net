@@ -3,9 +3,10 @@ title: Demours
 client:
 show_on_homepage: false
 featured_image: /uploads/demours-featured.jpg
-vimeo_id: '131708370'
-vimeo_width: '640'
-vimeo_height: '360'
+imeo:
+  vimeo_id: 131708370
+  vimeo_width: 640
+  vimeo_height: 360
 headline: You’ve never experienced coffee like this.
 headline_text_color: '#ffffff'
 overview: Beyond Craft—we created a full brand experience to change the way people feel about coffee.

@@ -3,9 +3,10 @@ title: Starwood Motors Print Ad
 client: Starwood
 show_on_homepage: false
 featured_image: /uploads/starwood-featured.jpg
-vimeo_id:
-vimeo_width:
-vimeo_height:
+vimeo:
+  vimeo_id:
+  vimeo_width:
+  vimeo_height:
 headline: Steal the show.
 headline_text_color: '#ffffff'
 overview: Steal the Show—a bold execution to capture attention.

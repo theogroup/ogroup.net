@@ -3,9 +3,10 @@ title:
 client:
 show_on_homepage: false
 featured_image: /uploads/default-image.jpg
-vimeo_id:
-vimeo_width:
-vimeo_height:
+vimeo:
+  vimeo_id:
+  vimeo_width:
+  vimeo_height:
 headline:
 headline_text_color: '#000000'
 overview:

@@ -3,9 +3,10 @@ title: "AKC Canine Retreat"
 client: "AKC Canine Retreat"
 show_on_homepage: true
 featured_image: /uploads/akc-featured-image.png
-vimeo_id:
-vimeo_width: 640
-vimeo_height: 360
+vimeo:
+  vimeo_id:
+  vimeo_width:
+  vimeo_height:
 headline: A New Tradition in Dog Care
 headline_text_color: '#fffff'
 overview: AKC Canine Retreat—A brand created to signal a new tradition in dog care that’s steeped in history.

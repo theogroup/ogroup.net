@@ -112,9 +112,9 @@ description: A New York &amp; Settle based creative agency focused on rethinking
              sizes="100vw"
              class="header-video__media"
              data-video-url="https://www.vimeo.com/{{ page.vimeo.vimeo_id }}"
-             data-video-id="{{ page.vimeo.vimeo_id }}"
-             data-video-width="{% if page.vimeo_width %}{{ page.vimeo_width }}{% else %}640{% endif %}"
-             data-video-height="{% if page.vimeo_height %}{{ page.vimeo_height }}{% else %}360{% endif %}">
+             data-video-id="{% if page.vimeo.vimeo_id %}{{ page.vimeo.vimeo_id }}{% endif %}"
+             data-video-width="{% if page.vimeo.vimeo_width %}{{ page.vimeo.vimeo_width }}{% else %}640{% endif %}"
+             data-video-height="{% if page.vimeo.vimeo_height %}{{ page.vimeo.vimeo_height }}{% else %}360{% endif %}">
 
         <div class="inner">
           <div class="inner-2">

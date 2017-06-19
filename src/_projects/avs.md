@@ -3,9 +3,10 @@ title: AVS Web Site Design
 client: AVS
 show_on_homepage: true
 featured_image: /uploads/avs-featured.jpg
-vimeo_id:
-vimeo_width:
-vimeo_height:
+vimeo:
+  vimeo_id:
+  vimeo_width:
+  vimeo_height:
 headline: Complex Category. Simplified Experience.
 headline_text_color: '#ffffff'
 overview: 'Life, Simplified—a website to connect with a sophisticated and discerning consumer.'

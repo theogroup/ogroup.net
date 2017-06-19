@@ -3,9 +3,10 @@ title: Kimberly McDonald Creative Campaign
 client: Kimberly McDonald
 show_on_homepage: false
 featured_image: /uploads/km-featured.jpg
-vimeo_id:
-vimeo_width:
-vimeo_height:
+imeo:
+  vimeo_id:
+  vimeo_width:
+  vimeo_height:
 headline: A jewelry brand that defies convention.
 headline_text_color: '#ffffff'
 overview: 'Dig Deeper—a campaign to galvanize a beloved brand, and express its core beliefs.'
