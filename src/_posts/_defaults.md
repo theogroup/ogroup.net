@@ -3,7 +3,7 @@ title:
 publish_date: 2015-04-01 00:00:00
 featured: false
 tags: []
-featured_image: http://placehold.jp/1200x2250.png
+featured_image: http://placehold.jp/2250x1200.png
 intro_markdown: >-
 
 author:
