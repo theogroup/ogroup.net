@@ -4407,14 +4407,14 @@ body.contact .full .banner.photo {
       color: #212121; }
       body.contact .contact-details p.headline:first-of-type {
         margin-top: 0; }
-    body.contact .contact-details h3 {
+    body.contact .contact-details p {
       font-family: "MillerDisplay Light";
       color: #7f7f7f;
       font-size: 1.875rem;
       line-height: 2.5rem;
       letter-spacing: 0px;
       font-weight: 100; }
-      body.contact .contact-details h3 a {
+      body.contact .contact-details p a {
         display: inline;
         color: #7f7f7f;
         text-decoration: none;

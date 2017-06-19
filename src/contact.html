@@ -10,9 +10,9 @@ seattle_address_line_1: 4020 6th Ave NW
 seattle_address_line_2: 'Seattle, WA 98107'
 seattle_phone: 206.949.8173
 new_business_info_markdown: >-
-  info@ogroup.net
+  <a href="mailto:info@ogroup.net">info@ogroup.net</a>
 general_info_markdown: >-
-  For general inquiries, partnerships and collaborations, speaking engagements and the like email us at: info@ogroup.net
+  For general inquiries, partnerships and collaborations, speaking engagements and the like email us at: <a href="mailto:info@ogroup.net">info@ogroup.net</a>
 careers_info_markdown: >-
   Our agency is currently not hiring, but we encourage you to check back in the future as we update our site anytime we have new job openings.
 ---
@@ -53,11 +53,11 @@ careers_info_markdown: >-
   </div>
   <div class="contact-details">
     <p class="headline">new business</p>
-    <h3>{{page.new_business_info_markdown | markdownify}}</h3>
+    {{page.new_business_info_markdown | markdownify}}
     <p class="headline">general</p>
-    <h3>{{page.general_info_markdown | markdownify}}</h3>
+    {{page.general_info_markdown | markdownify}}
     <p class="headline">careers</p>
-    <h3>{{page.careers_info_markdown | markdownify}}</h3>
+    {{page.careers_info_markdown | markdownify}}
   </div>
 </section>
 
