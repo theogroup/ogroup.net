@@ -6,12 +6,12 @@ layout: default
 {% if page.vimeo_id %}
   <section class="video full">
     <div class="header-video">
-      <img src="{{ page.featured_image }}"
+      <img src="{% if page.featured_image %}{{ page.featured_image | replace: '/uploads/', ''}}{% endif %}"
              class="header-video__media"
              data-video-url="https://vimeo.com/{{ page.vimeo_id  }}"
              data-video-id="{{ page.vimeo_id }}"
-             data-video-width="{{ page.vimeo_width }}"
-             data-video-height="{{ page.vimeo_height }}">
+             data-video-width="{% if page.vimeo_width %}{{ page.vimeo_width }}{% else %}640{% endif %}"
+             data-video-height="{% if page.vimeo_height %}{{ page.vimeo_height }}{% else %}360{% endif %}">
 
       <div class="inner">
         <div class="inner-2">
@@ -176,7 +176,7 @@ layout: default
            <div class="split-right" style="background-size: cover; background-position: center center">
               <img
                 class="js-img"
-                ix-path="{{projects[0].featured_image | replace: '/uploads/', ''}}"
+                ix-path="{% if projects[0].featured_image  %}{{projects[0].featured_image | replace: '/uploads/', ''}}{% endif %}"
                 ix-params='{
                   "auto": "compress"
                 }'
@@ -195,7 +195,7 @@ layout: default
            <div class="split-right" style="background-size: cover; background-position: center center">
             <img
               class="js-img"
-              ix-path="{{projects[next_i].featured_image | replace: '/uploads/', ''}}"
+              ix-path="{% if projects[next_i].featured_image %}{{projects[next_i].featured_image | replace: '/uploads/', ''}}{% endif %}"
               ix-params='{
                 "auto": "compress"
               }'

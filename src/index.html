@@ -105,7 +105,7 @@ description: A New York &amp; Settle based creative agency focused on rethinking
   {% if page.vimeo.vimeo_id.size > 2 %}
     <section class="video full">
       <div class="header-video">
-        <img ix-path="{{ page.header_background_image | replace: '/uploads/', ''}}"
+        <img ix-path="{% if page.header_background_image %}{{ page.header_background_image | replace: '/uploads/', ''}}{% endif %}"
              ix-params='{
                "auto": "compress"
              }'
@@ -113,8 +113,8 @@ description: A New York &amp; Settle based creative agency focused on rethinking
              class="header-video__media"
              data-video-url="https://www.vimeo.com/{{ page.vimeo.vimeo_id }}"
              data-video-id="{{ page.vimeo.vimeo_id }}"
-             data-video-width="{{ page.vimeo.vimeo.width }}"
-             data-video-height="{{ page.vimeo.vimeo.height }}">
+             data-video-width="{% if page.vimeo_width %}{{ page.vimeo_width }}{% else %}640{% endif %}"
+             data-video-height="{% if page.vimeo_height %}{{ page.vimeo_height }}{% else %}360{% endif %}">
 
         <div class="inner">
           <div class="inner-2">
@@ -164,11 +164,12 @@ description: A New York &amp; Settle based creative agency focused on rethinking
     </div>
   </section>
 
+
   <section class="full">
     {% assign projects = site.projects | where:'show_on_homepage','true' | sort:'sort_order' %}
     {% for project in projects  %}
     <div class="showcase" style="background-position: center center">
-      <img ix-path="{{ project.featured_image | replace: '/uploads/', ''}}"
+      <img ix-path="{% if project.featured_image %}{{ project.featured_image | replace: '/uploads/', ''}}{% endif %}"
            alt=""
            ix-params='{
              "auto": "compress"
@@ -180,8 +181,8 @@ description: A New York &amp; Settle based creative agency focused on rethinking
      <a href="{{ project.url }}">
       <div class="inner-wrapper">
         <div class="inner">
-          <h5>{{ project.client }}</h5>
-          <h2>{{ project.overview }}</h2>
+           {% if project.client %}<h5>{{ project.client }}</h5>{% endif %}
+           {% if project.overview %}<h2>{{ project.overview }}</h2>{% endif %}
             <img src="/assets/images/white-arrow.png" alt="" class="arrow">
         </div>
       </div>
@@ -193,7 +194,7 @@ description: A New York &amp; Settle based creative agency focused on rethinking
    <section class="grid">
      <div class="about hero">
        <div class="tagline-wrapper">
-         <h2>{{ page.work_tagline }}</h2>
+          {% if page.work_tagline %}<h2>{{ page.work_tagline }}</h2>{% endif %}
        </div>
        <div class="button-wrapper">
          <a href="/work"><button><p>more work</p></button></a>
@@ -229,7 +230,7 @@ description: A New York &amp; Settle based creative agency focused on rethinking
         {% assign post = site.posts | last %}
         <a href="{{post.url}}">
           <h5>Blog</h5>
-          <h3>{{ post.title }}</h3>
+          {% if post %}<h3>{{ post.title }}</h3>{% endif %}
           <p><span>by </span>{% if post.author %}{{ post.author }}{% else %} The O Group{% endif %}</p>
           <div class="arrow-wrapper">
             <img src="/assets/images/red-arrow.png" alt="" class="arrow">

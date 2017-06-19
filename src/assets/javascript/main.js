@@ -1,12 +1,12 @@
 (function() {
 
   // visual grid
-  var k = new Kibo();
-  k.down(['g'], function() {
-    $('body').addClass('grid');
-  }).up('g', function() {
-    $('body').removeClass('grid');
-  });
+  // var k = new Kibo();
+  // k.down(['g'], function() {
+  //   $('body').addClass('grid');
+  // }).up('g', function() {
+  //   $('body').removeClass('grid');
+  // });
 
   // fade-in content
   $(document).ready(function() {
