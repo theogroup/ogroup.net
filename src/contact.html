@@ -10,11 +10,8 @@ seattle_address_line_1: 4020 6th Ave NW
 seattle_address_line_2: Seattle, WA 98107
 seattle_phone: 206.949.8173
 new_business_info:
-new_business_email: info@ogroup.net
 general_info: 'For general inquiries, partnerships and collaborations, speaking engagements and the like email us at:'
-general_email: info@ogroup.net
 careers_info: Our agency is currently not hiring, but we encourage you to check back in the future as we update our site anytime we have new job openings.
-careers_email:
 ---
 
 <section class="full">
@@ -53,11 +50,11 @@ careers_email:
   </div>
   <div class="contact-details">
     <p class="headline">new business</p>
-    <h3>{{page.new_business_info}} {% if page.new_business_email %}<span><a href="mailto:{{ page.new_business_email }}">{{ page.new_business_email }}</a></span>{% endif %}</h3>
+    <h3>{{page.new_business_info}} {% if page.new_business_email %}<span><a href="mailto:info@ogroup.net">info@ogroup.net</a></span>{% endif %}</h3>
     <p class="headline">general</p>
-    <h3>{{page.general_info}} {% if page.general_email %}<span><a href="mailto:{{ page.general_email }}">{{ page.general_email }}</a></span>{% endif %}</h3>
+    <h3>{{page.general_info}} {% if page.general_email %}<span><a href="mailto:info@ogroup.net">info@ogroup.net</a></span>{% endif %}</h3>
     <p class="headline">careers</p>
-    <h3>{{page.careers_info}} {% if page.careers_email %}<span><a href="{{ page.careers_email }}">{{ page.careers_email }}</a></span>{% endif %}</h3>
+    <h3>{{page.careers_info}}</h3>
   </div>
 </section>
 
