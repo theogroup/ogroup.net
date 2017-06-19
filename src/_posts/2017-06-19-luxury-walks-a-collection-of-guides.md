@@ -3,6 +3,7 @@ title: 'Luxury Walks, A Collection of Guides'
 publish_date: 2015-10-18 00:00:00
 featured: false
 tags:
+  - Luxury Walks
 featured_image: /uploads/walks-1.jpg
 intro_markdown: "Luxury Walks = Time Well Spent. Click through to find a curated collection of NYC neighborhood guides created by O Group team members. You'll find great recommendations for food, drinks, shopping and maybe discover a hidden gem.​"
 author:
@@ -11,6 +12,18 @@ sections:
       We're lucky enough to live, as a team, all over Manhattan, Brooklyn and New
       Jersey. So fairly frequently members of Team O create Luxury Walks inspired
       by their own neighborhoods and wanderings.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40,8 +53,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       "[East Village & Nolita with
       Kristen](https://jauntful.com/TheOGroup/l1D9xyFUkl)"
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,8 +91,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Greenpoint, Brooklyn with
       Madelyn"](https://jauntful.com/TheOGroup/gktOoVSn1x)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,8 +129,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Fort Greene & Prospect Heights with
       Cecilia"](https://jauntful.com/TheOGroup/x18pXrEHle)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -82,8 +167,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walk: West Village & the
       Hudson"](https://jauntful.com/TheOGroup/eyRhBvL_-g)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -96,13 +205,49 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Soho with Richelle"](https://jauntful.com/TheOGroup/xydGfBB5zg)
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: Red Hook"](https://jauntful.com/TheOGroup/ekWLJSgJfe)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -115,8 +260,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: Plaza-Midwood with
       Liz"](https://jauntful.com/TheOGroup/lkm9ZyZc7l)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -129,8 +298,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: East Midtown with
       Sara"](https://jauntful.com/TheOGroup/-11MfH-agg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -143,8 +336,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: Alphabet City & the East Village with
       Kristen"](https://jauntful.com/TheOGroup/-1lMla2DZl)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -157,8 +374,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: West Village with
       Liz"](https://jauntful.com/TheOGroup/-1eCe4BKGe)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -171,8 +412,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: Prospect Heights with
       Jesse"](https://jauntful.com/TheOGroup/-kZE6BZLml)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -185,8 +450,32 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: Ringwood with
       Piper!"](https://jauntful.com/TheOGroup/WkBEjxGiXg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -199,6 +488,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       ["Luxury Walks: Prospect Heights with
       Richelle"](https://jauntful.com/TheOGroup/-kXKzxKD4e)
 
@@ -206,7 +507,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
