@@ -85,6 +85,7 @@ defaults:
 
 _comments:
   image: The image used for FB/Twitter sharing
+  description: For SEO (not visible on the page)
 
 # Extending Jekyll
 gems:
