@@ -2,8 +2,7 @@
 title:
 client:
 show_on_homepage: false
-featured_image:
-image:
+featured_image: /uploads/default-image.jpg
 vimeo_id:
 vimeo_width:
 vimeo_height:

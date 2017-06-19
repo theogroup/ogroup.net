@@ -3,7 +3,6 @@ title: Merritt
 client: Merritt
 show_on_homepage: true
 featured_image: /uploads/merritt-featured-image.jpg
-image: /uploads/merritt-featured-image.jpg
 vimeo_id: 210996011
 vimeo_width: 640
 vimeo_height: 360

@@ -3,7 +3,7 @@ title: this is a draft post
 publish_date: 2015-04-01 00:00:00
 featured: false
 tags:
-featured_image: http://placehold.jp/2250x1200.png
+featured_image: /uploads/default-image.jpg
 intro_markdown:
 author:
 sections:

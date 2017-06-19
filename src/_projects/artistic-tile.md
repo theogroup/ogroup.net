@@ -3,7 +3,6 @@ title: Artistic Tile Brand Campaign
 client: Artistic Tile
 show_on_homepage: true
 featured_image: /uploads/artistic-featured.jpg
-image: /uploads/artistic-featured.jpg
 vimeo_id:
 vimeo_width:
 vimeo_height:

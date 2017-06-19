@@ -3,7 +3,6 @@ title: Demours
 client:
 show_on_homepage: false
 featured_image: /uploads/demours-featured.jpg
-image: /uploads/demours-featured.jpg
 vimeo_id: '131708370'
 vimeo_width: '640'
 vimeo_height: '360'
