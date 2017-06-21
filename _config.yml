@@ -38,21 +38,21 @@ defaults:
         enabled: false
   -
     scope:
-      path: "_pages/work.md"
+      path: "work/index.html"
     values:
       class: "work"
       layout: "default"
       permalink: "/work/"
   -
     scope:
-      path: "_pages/agency.md"
+      path: "agency/index.html"
     values:
       class: "agency"
       layout: "default"
       permalink: "/agency/"
   -
     scope:
-      path: "_pages/blog.md"
+      path: "blog/index.html"
     values:
       layout: "blog"
       permalink: "/blog/"
@@ -60,7 +60,7 @@ defaults:
         enabled: true
   -
     scope:
-      path: "_pages/contact.md"
+      path: "contact/index.html"
     values:
       class: "contact"
       layout: "default"
