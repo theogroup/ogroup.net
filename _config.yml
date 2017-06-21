@@ -15,6 +15,7 @@ logo: https://www.ogroup.net/assets/images/footer-logo.svg
 # CloudCannon uses these:
 source: src
 destination: dist
+include: ["_pages"]
 exclude:
 
 header_logo: '/assets/images/header_logo.svg'
@@ -37,21 +38,21 @@ defaults:
         enabled: false
   -
     scope:
-      path: "work.html"
+      path: "_pages/work.html"
     values:
       class: "work"
       layout: "default"
       permalink: "/work/"
   -
     scope:
-      path: "agency.html"
+      path: "_pages/agency.html"
     values:
       class: "agency"
       layout: "default"
       permalink: "/agency/"
   -
     scope:
-      path: "blog.html"
+      path: "_pages/blog.html"
     values:
       layout: "blog"
       permalink: "/blog/"
@@ -59,7 +60,7 @@ defaults:
         enabled: true
   -
     scope:
-      path: "contact.html"
+      path: "_pages/contact.html"
     values:
       class: "contact"
       layout: "default"
