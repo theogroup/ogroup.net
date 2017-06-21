@@ -4,7 +4,7 @@
     border-bottom: 3px solid $myred;
   }
 
-  .intro.banner { 
+  .intro.banner {
     @include banner();
     text-align: center;
     @include media($mobile-down) {
@@ -23,15 +23,15 @@
       padding-bottom: rem(90) !important;
       h2 {
         @include span-columns(9 of 15);
-        @include shift(3); 
+        @include shift(3);
         font-family: "MillerDisplay Light";
         font-size: rem(36);
         color: $mygray;
-      } 
+      }
     }
-  } 
- 
-  .services.banner { 
+  }
+
+  .services.banner {
     @include banner();
     text-align: center;
     @include media($mobile-down) {
@@ -51,7 +51,7 @@
         .service-inner {
           @include span-columns(1 of 1);
           margin-top: rem(60);
-          text-align: center; 
+          text-align: center;
           background-color: $text;
           h5 {
             font-family: FranklinGothicURW-Dem;
@@ -82,7 +82,7 @@
             float: left;
             padding: rem(60) rem(30) rem(30);
             p.headline {
-              font-family: MillerDisplay; 
+              font-family: MillerDisplay;
               font-size: rem(24);
               line-height: 1.4;
               text-transform: uppercase;
@@ -91,8 +91,8 @@
               color: #fff;
               letter-spacing: .15em;
             }
-            p { 
-              font-family: "Miller Text"; 
+            p {
+              font-family: "Miller Text";
               color: $mygray;
               font-size: rem(18);
             }
@@ -108,16 +108,16 @@
         @include outer-container();
         h2 {
           @include span-columns(9 of 15);
-          @include shift(3); 
+          @include shift(3);
           font-family: "MillerDisplay Light";
           font-size: rem(36);
           color: $mygray;
         }
         .service-inner {
           @include span-columns(15 of 15);
-          // @include shift(2); 
+          // @include shift(2);
           margin-top: rem(60);
-          text-align: center; 
+          text-align: center;
           background-color: $text;
           h5 {
             font-family: FranklinGothicURW-Dem;
@@ -148,13 +148,13 @@
             float: left;
             padding: rem(60) rem(30) rem(30);
             &:first-of-type {
-              padding-left: rem(60);  
+              padding-left: rem(60);
             }
             &:last-of-type {
-              padding-right: rem(60);  
+              padding-right: rem(60);
             }
             p.headline {
-              font-family: MillerDisplay; 
+              font-family: MillerDisplay;
               font-size: rem(24);
               line-height: 1.4;
               text-transform: uppercase;
@@ -163,8 +163,8 @@
               color: #fff;
               letter-spacing: .15em;
             }
-            p { 
-              font-family: "Miller Text"; 
+            p {
+              font-family: "Miller Text";
               color: $mygray;
               font-size: rem(18);
             }
@@ -173,10 +173,10 @@
       }
     }
 
-    
+
   }
 
-  .about.banner { 
+  .about.banner {
     @include banner();
     text-align: center;
     @include media($mobile-down) {
@@ -211,7 +211,7 @@
       padding-bottom: rem(90) !important;
       h2 {
         @include span-columns(9 of 15);
-        @include shift(3); 
+        @include shift(3);
         font-family: "MillerDisplay Light";
         font-size: rem(36);
         color: $mygray;
@@ -240,7 +240,7 @@
         }
       }
     }
-  } 
+  }
 
   .team.banner {
     @include banner();
@@ -287,7 +287,7 @@
             color: $text;
           }
           .bio {
-            @include transition(all .3s ease); 
+            @include transition(all .3s ease);
             // height: rem(40);
             // width: rem(125);
             display: inline;
@@ -311,7 +311,7 @@
             }
             &:hover {
               color: #030303;
-              border: 1px solid $mygray; 
+              border: 1px solid $mygray;
               background-color: $mygray;
             }
             &:hover p {
@@ -319,7 +319,7 @@
             }
             &:active {
               color: #030303;
-              border: 1px solid #000; 
+              border: 1px solid #000;
               background-color: #000;
             }
             &:active p {
@@ -330,7 +330,7 @@
         .person:hover {
           .bio {
             color: #030303;
-            border: 1px solid $mygray; 
+            border: 1px solid $mygray;
             background-color: $mygray;
             p {
               color: #fff;
@@ -346,6 +346,10 @@
       .people-wrapper {
         @include span-columns(9 of 15);
         @include shift(3);
+        // hack for only 2 team members
+        .person:first-of-type {
+          margin-left: 10vw !important;
+        }
         .person {
           @include span-columns(3 of 9);
           position: relative;
@@ -375,7 +379,7 @@
             color: $text;
           }
           .bio {
-            @include transition(all .3s ease); 
+            @include transition(all .3s ease);
             // height: rem(40);
             // width: rem(125);
             display: inline;
@@ -399,7 +403,7 @@
             }
             &:hover {
               color: #030303;
-              border: 1px solid $mygray; 
+              border: 1px solid $mygray;
               background-color: $mygray;
             }
             &:hover p {
@@ -407,7 +411,7 @@
             }
             &:active {
               color: #030303;
-              border: 1px solid #000; 
+              border: 1px solid #000;
               background-color: #000;
             }
             &:active p {
@@ -418,7 +422,7 @@
         .person:hover {
           .bio {
             color: #030303;
-            border: 1px solid $mygray; 
+            border: 1px solid $mygray;
             background-color: $mygray;
             p {
               color: #fff;
@@ -451,7 +455,7 @@
           color: #fff;
         }
       }
-    }    
-  } 
+    }
+  }
 
 }

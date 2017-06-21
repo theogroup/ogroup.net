@@ -12,6 +12,19 @@ about_text_2: 'Founded in 1986, The O Group is an independently owned creative a
 about_text_3: "Our highly strategic and creative teams work collaboratively with every client. We have developed a proven, results-oriented process that insures success and delivers work that inspires. We're a diverse group of foodies, design geeks, dog lovers, travelers, adventure seekers, professional good-timers and martini guzzlers."
 contact_tagline: Let’s talk about luxury.
 description: 'A New York &amp; Settle based creative agency focused on rethinking luxury.'
+team:
+  - name: Orit
+    title: Founder & CEO
+    team_image: /uploads/orit.jpg
+    bio_markdown: >-
+      Orit (pronounced ‘O-REET’) is the one and only O in The O Group. Since its inception 30 years ago, she has steadily built the agency’s portfolio, reputation and network of clients through her business prowess, luxury expertise and keen eye for design. When not focusing on The O Group, Orit enjoys connecting with other female business leaders across a wide range of industries, experiencing the hottest new restaurants NYC has to offer, and spending time with her family.
+  - name: Daymon Bruck
+    title: Chief Creative Officer
+    team_image: /uploads/orit.jpg
+    bio_markdown: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+_comments:
+  team_image: 'Photos should be exactly 1500px wide and 2110px tall.'
 ---
 
 <section class="grid">
@@ -66,7 +79,7 @@ description: 'A New York &amp; Settle based creative agency focused on rethinkin
   </div>
 </section>
 
-<!-- <section class="full">
+<section class="full">
   <div class="team banner">
     <div class="inner">
       <h5>people</h5>
@@ -75,10 +88,10 @@ description: 'A New York &amp; Settle based creative agency focused on rethinkin
     <div class="people-wrapper">
       {% for person in page.team %}
         <div class="person">
-          <img src="{{ person.preview_photo.url }}">
+          <img src="{{ person.team_image }}">
           <p class="name">{{ person.name }}</p>
           <p class="title">{{ person.title }}</p>
-          <p class="intro">{{ person.intro }}</p>
+          <!-- <p class="intro">{{ person.bio_markdown | markdownify }}</p> -->
           <button class="bio"><p>bio</p></button>
 
           <div class="modal">
@@ -88,12 +101,12 @@ description: 'A New York &amp; Settle based creative agency focused on rethinkin
             <div class="modal-fade-screen">
               <div class="modal-inner">
                 <div class="modal-close" for="modal-{{ loop.index }}"></div>
-                <div class="modal-image" style="background-image: url({{ person.preview_photo.url }}); background-size: cover"></div>
+                <div class="modal-image" style="background-image: url({{ person.team_image }}); background-size: cover"></div>
                 <div class="modal-text">
                   <div class="modal-text-inner">
                     <p class="name">{{ person.name }}</p>
                     <p class="title">{{ person.title }}</p>
-                    {{ person.bio|safe }}
+                    {{ person.bio_markdown | markdownify  }}
                   </div>
                 </div>
               </div>
@@ -104,7 +117,7 @@ description: 'A New York &amp; Settle based creative agency focused on rethinkin
       {% endfor %}
     </div>
   </div>
-</section> -->
+</section>
 
 {% assign casestudies = site.projects | sort:'sort_order' %}
 {% assign casestudy = casestudies[0] %}

@@ -2739,6 +2739,8 @@ http://flickity.metafizzy.co
       margin-left: 20.3389830508%; }
       .agency .team.banner .people-wrapper:last-child {
         margin-right: 0; }
+      .agency .team.banner .people-wrapper .person:first-of-type {
+        margin-left: 10vw !important; }
       .agency .team.banner .people-wrapper .person {
         float: left;
         display: block;

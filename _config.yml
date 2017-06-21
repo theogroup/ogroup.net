@@ -23,8 +23,8 @@ header_logo: '/assets/images/header_logo.svg'
 collections:
   projects:
     output: true
-  authors:
-    output: false
+  # authors:
+  #   output: false
 
 defaults:
   -
