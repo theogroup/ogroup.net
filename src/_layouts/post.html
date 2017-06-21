@@ -32,6 +32,8 @@ layout: default
       {% if page.title %}<a href="{{ post.url }}"><h2>{{page.title}} </h2></a>{% endif %}
       {% if page.author.image %}
       <p class="byline"><span>by </span>{{ page.author.name }}</p>
+      {% else %}
+        {% if page.publish_date %}<p class="byline">{{ page.publish_date | date: "%m/%d/%Y" }}</p>{% endif %}
       {% endif %}
       {{ page.intro_markdown | markdownify }}
     </div>
