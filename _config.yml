@@ -91,12 +91,12 @@ _comments:
 
 # Extending Jekyll
 gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll/tagging
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
+  # - jekyll/tagging
   # - jekyll-redirect-from
   # - jekyll-polyglot
-  - jekyll-paginate-v2
+  # - jekyll-paginate-v2
   # - jekyll-archives
   # - jekyll-feed
 
@@ -107,7 +107,7 @@ tag_permalink_style: pretty
 pagination:
   enabled: true
   per_page: 8
-  permalink: '/page/:num/'
+  permalink: './page/:num/'
   title: ' - page :num'
   limit: 0
   sort_field: 'publish_date'
