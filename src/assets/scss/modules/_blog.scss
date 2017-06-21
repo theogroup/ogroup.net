@@ -188,11 +188,13 @@ body.blog {
         @include pad(0 1rem 1rem 1rem);
         text-align: center;
         img.author {
+          visibility: hidden;
           width: em(80);
           border-radius: 50%;
           // margin-bottom: 1em;
         }
         h5 {
+          visibility: hidden;
           font-family: FranklinGothicURWCom-Dem;
           color: $mygray;
           letter-spacing: 0;
@@ -202,6 +204,7 @@ body.blog {
           // font-weight: bold;
         }
         p {
+          visibility: hidden;
           font-family: MillerDisplay;
           color: $mygray;
           font-size: em(13);

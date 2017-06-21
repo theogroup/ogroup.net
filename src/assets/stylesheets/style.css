@@ -4761,9 +4761,11 @@ body.blog .full .banner.photo {
       body.blog .posts-wrapper .links:last-child, body.blog .post-intro-wrapper .links:last-child {
         margin-right: 0; }
       body.blog .posts-wrapper .links img.author, body.blog .post-intro-wrapper .links img.author {
+        visibility: hidden;
         width: 5em;
         border-radius: 50%; }
       body.blog .posts-wrapper .links h5, body.blog .post-intro-wrapper .links h5 {
+        visibility: hidden;
         font-family: FranklinGothicURWCom-Dem;
         color: #7f7f7f;
         letter-spacing: 0;
@@ -4771,6 +4773,7 @@ body.blog .full .banner.photo {
         font-size: 0.8125em;
         letter-spacing: .05em; }
       body.blog .posts-wrapper .links p, body.blog .post-intro-wrapper .links p {
+        visibility: hidden;
         font-family: MillerDisplay;
         color: #7f7f7f;
         font-size: 0.8125em; }
