@@ -33,6 +33,8 @@ defaults:
       layout: "default"
       class: "home"
       permalink: "/"
+      pagination:
+        enabled: false
   -
     scope:
       path: "work.html"
@@ -53,6 +55,8 @@ defaults:
     values:
       layout: "blog"
       permalink: "/blog/"
+      pagination:
+        enabled: true
   -
     scope:
       path: "contact.html"
