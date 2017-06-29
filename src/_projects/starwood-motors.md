@@ -2,7 +2,7 @@
 title: Starwood Motors Print Ad
 client: Starwood
 show_on_homepage: false
-published: true
+draft: false
 featured_image: /uploads/starwood-featured.jpg
 vimeo:
   vimeo_id:

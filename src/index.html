@@ -164,9 +164,13 @@ description: A New York &amp; Settle based creative agency focused on rethinking
     </div>
   </section>
 
-
   <section class="full">
-    {% assign published = site.projects | where:'published','true' %}
+    {% if jekyll.environment == 'production' %}
+      <!-- for previewing drafts on cloudcannon -->
+      {% assign published = site.projects %}
+    {% else %}
+      {% assign published = site.projects | where:'draft','false' %}
+    {% endif %}
     {% assign projects = published | where:'show_on_homepage','true' | sort:'sort_order' %}
     {% for project in projects  %}
     <div class="showcase" style="background-position: center center">

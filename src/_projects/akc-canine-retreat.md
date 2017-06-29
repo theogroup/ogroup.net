@@ -2,7 +2,7 @@
 title: "AKC Canine Retreat"
 client: "AKC Canine Retreat"
 show_on_homepage: true
-published: false
+draft: true
 featured_image: /uploads/akc-featured-image.png
 vimeo:
   vimeo_id:

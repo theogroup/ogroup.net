@@ -2,7 +2,7 @@
 title: Demours
 client:
 show_on_homepage: false
-published: true
+draft: false
 featured_image: /uploads/demours-featured.jpg
 imeo:
   vimeo_id: 131708370
