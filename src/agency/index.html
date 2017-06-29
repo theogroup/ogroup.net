@@ -113,10 +113,15 @@ _comments:
     <div class="people-wrapper">
       {% for person in page.team %}
         <div class="person">
-          <img src="{{ person.team_image }}">
+          <img
+            ix-path="{% if person.team_image %}{{person.team_image | replace: '/uploads/', ''}}{% endif %}"
+            ix-params='{
+              "auto": "compress"
+            }'
+            sizes="(min-width: 1000px) 378px, (min-width: 1000px) 25vw, 90vw"
+          >
           <p class="name">{{ person.name }}</p>
           <p class="title">{{ person.title }}</p>
-          <!-- <p class="intro">{{ person.bio_markdown | markdownify }}</p> -->
           <button class="bio"><p>bio</p></button>
 
           <div class="modal">
@@ -126,7 +131,16 @@ _comments:
             <div class="modal-fade-screen">
               <div class="modal-inner">
                 <div class="modal-close" for="modal-{{ forloop.index }}"></div>
-                <div class="modal-image" style="background-image: url({{ person.team_image }}); background-size: cover"></div>
+                <div class="modal-image" style="background-size: cover">
+                  <img
+                    class="js-img"
+                    ix-path="{% if person.team_image %}{{person.team_image | replace: '/uploads/', ''}}{% endif %}"
+                    ix-params='{
+                      "auto": "compress"
+                    }'
+                    sizes="45vw"
+                  >
+                </div>
                 <div class="modal-text">
                   <div class="modal-text-inner">
                     <p class="name">{{ person.name }}</p>
