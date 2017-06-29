@@ -1,6 +1,6 @@
 ---
 title: Test Project
-client:
+client: MGA
 show_on_homepage: false
 draft_project: true
 featured_image: /uploads/default-image.jpg
@@ -40,3 +40,5 @@ content_blocks:
       grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 ---
+
+
