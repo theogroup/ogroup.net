@@ -136,7 +136,7 @@ agency_tagline: 'Who we are, and what we do.'
   {% else %}
     {% assign work = site.projects | where:'draft_project','false' %}
   {% endif %}
-  {% assign work = site.projects | where:'show_on_homepage','false' | sort:'sort_order' %}
+  {% assign work = work | where:'show_on_homepage','false' | sort:'sort_order' %}
   {% for project in work %}
   <div class="showcase" style="background-position: center center">
   <img ix-path="{% if project.featured_image %}{{ project.featured_image | replace: '/uploads/', ''}}{% endif %}"
