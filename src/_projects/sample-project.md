@@ -9,13 +9,13 @@ vimeo:
   vimeo_width:
   vimeo_height:
 headline: 'Hello!'
-headline_text_color: '#000000'
+headline_text_color: '#ffffff'
 overview: This is awesome
 sort_order: 5
 content_blocks:
   - text_banner:
       text_banner_text: All the good things
-      text_banner_color:
+      text_banner_color: '#c84f4f'
       text_banner_background_color: '#42a37f'
     image_banner:
       image_banner_image:
