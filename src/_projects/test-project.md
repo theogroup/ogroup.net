@@ -11,7 +11,7 @@ vimeo:
 headline: Hello I am the headline.
 headline_text_color: '#f5eded'
 overview: 'This is a test project, cool!'
-sort_order: 1
+sort_order: 11
 content_blocks:
   - text_banner:
       text_banner_text: This is a test banner. This is a test banner. This is a test banner. This is a test banner.
