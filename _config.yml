@@ -88,7 +88,6 @@ defaults:
       layout: "post"
       class: "blog"
       permalink: "/blog/:title/"
-      _hide_content: true
 
 _comments:
   image: The image used for FB/Twitter sharing
