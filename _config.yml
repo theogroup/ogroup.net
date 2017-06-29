@@ -80,6 +80,7 @@ defaults:
       class: "project"
       layout: "project"
       permalink: "/work/:slug/"
+      _hide_content: true
   -
     scope:
       type: posts
