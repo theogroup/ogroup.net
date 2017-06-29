@@ -169,7 +169,7 @@ description: A New York &amp; Settle based creative agency focused on rethinking
       <!-- for previewing drafts on cloudcannon -->
       {% assign published = site.projects %}
     {% else %}
-      {% assign published = site.projects | where:'draft','false' %}
+      {% assign published = site.projects | where:'draft_project','false' %}
     {% endif %}
     {% assign projects = published | where:'show_on_homepage','true' | sort:'sort_order' %}
     {% for project in projects  %}

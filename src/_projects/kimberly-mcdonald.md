@@ -2,7 +2,7 @@
 title: Kimberly McDonald Creative Campaign
 client: Kimberly McDonald
 show_on_homepage: false
-draft: false
+draft_project: false
 featured_image: /uploads/km-featured.jpg
 imeo:
   vimeo_id:

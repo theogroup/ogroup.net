@@ -2,7 +2,7 @@
 title: Ritz-Carlton Residences Miami Beach
 client: Ritz-Carlton
 show_on_homepage: true
-draft: false
+draft_project: false
 featured_image: /uploads/ritz-featured-image.jpg
 vimeo:
   vimeo_id:

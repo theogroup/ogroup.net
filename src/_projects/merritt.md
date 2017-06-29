@@ -2,7 +2,7 @@
 title: Merritt
 client: Merritt
 show_on_homepage: true
-draft: false
+draft_project: false
 featured_image: /uploads/merritt-featured-image.jpg
 vimeo:
   vimeo_id: 210996011

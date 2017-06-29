@@ -2,7 +2,7 @@
 title: Chandon
 client: Chandon
 show_on_homepage: true
-draft: false
+draft_project: false
 featured_image: /uploads/chandon-featured-image.png
 vimeo:
   vimeo_id:
