@@ -4,7 +4,7 @@ publish_date: 2017-02-15 00:00:00
 featured: false
 featured_image: /uploads/blog-9-featured.jpg
 intro_markdown: 'The fashion industry is stirring with change. In response to global issues, the environment and evolving societal views, some designer fashion houses are embracing sustainable materials and production processes. These names include such powerhouses as Stella McCartney, Gucci, Reformation and even luxury conglomerates like Kering.​'
-author:
+
 sections:
   - text_markdown: >-
       There’s widespread talk about the impact of the fashion industry on our

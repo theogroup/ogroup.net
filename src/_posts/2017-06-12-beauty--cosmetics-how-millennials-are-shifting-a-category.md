@@ -4,7 +4,7 @@ publish_date: 2016-10-19 00:00:00
 featured: false
 featured_image:
 intro_markdown: There is a shift occurring in the beauty and cosmetics category that is indicative of a larger change taking place throughout many other categories.​
-author:
+
 sections:
   - text_markdown: >-
       According to research firm The NPD Group, over the past year there was

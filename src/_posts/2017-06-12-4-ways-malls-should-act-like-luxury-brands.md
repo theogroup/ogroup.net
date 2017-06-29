@@ -5,7 +5,7 @@ featured: false
 tags: [Retail]
 featured_image: /uploads/blog-35-f.jpg
 intro_markdown: 'Malls and mall branding are an ever-changing, multi-dimensional puzzle. Mall operators are constantly trying to attract consumers and tenants to their properties’ "next big things." Successful malls execute well but they could and should be even better​'
-author:
+
 sections:
   - text_markdown: >-
       With retail rapidly evolving and consumers’ desire for experience mounting,

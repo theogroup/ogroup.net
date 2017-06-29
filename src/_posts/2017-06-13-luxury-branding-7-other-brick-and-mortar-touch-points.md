@@ -4,7 +4,7 @@ publish_date: 2013-08-16 00:00:00
 featured: false
 featured_image: /uploads/blog-56-f.jpg
 intro_markdown: 'As online engagement continues to increase, brand elements like positioning and concept along with visual and verbal touch points are finally getting the attention they deserve. For better or worse, "Branding" has become a part of the everyday vernacular and as such, it has grown exponentially broader and deeper.​'
-author:
+
 sections:
   - text_markdown: >-
       Earlier today I spent the morning walking The Mall at Short Hills, focused

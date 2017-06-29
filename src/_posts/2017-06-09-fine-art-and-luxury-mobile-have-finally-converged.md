@@ -4,7 +4,7 @@ publish_date: 2017-02-22 00:00:00
 featured: false
 featured_image: /uploads/blog-8-featured.jpg
 intro_markdown: Master works of art and museum-worthy haute couture can be yours with just a few clicks on your mobile phone. The future has certainly arrived.​
-author:
+
 sections:
   - text_markdown: >-
       Online shopping seemed a far-fetched and inconvenient dream not too long

@@ -4,7 +4,7 @@ publish_date: 2016-11-08 00:00:00
 featured: false
 featured_image: /uploads/blog-18-featired.jpg
 intro_markdown:
-author:
+
 sections:
   - text_markdown: >-
       Brick and mortar retail sales and foot traffic have steadily decreased over

@@ -4,7 +4,7 @@ publish_date: 2017-02-01 00:00:00
 featured: false
 featured_image: /uploads/blog-6-featured.jpg
 intro_markdown: 'The conversation around marijuana has changed dramatically over the last decade. Once widely considered a pastime reserved for unmotivated outcasts and burnouts, the current public perception paints a different picture. People from all walks of life now freely admit to indulging in marijuana, despite the stigma that stubbornly exists.​'
-author:
+
 sections:
   - text_markdown: >-
       As more states legalize the plant’s recreational use, entrepreneurs,

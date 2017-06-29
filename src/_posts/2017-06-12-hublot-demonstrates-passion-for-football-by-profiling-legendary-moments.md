@@ -4,7 +4,7 @@ publish_date: 2016-03-21 00:00:00
 featured: false
 featured_image:
 intro_markdown: 'What to make of luxury Swiss watchmaker Hublot’s "Hublot Loves Football" campaign? In the midst of Baselworld, our Strategy Director offers his opinion in Luxury Daily.​'
-author:
+
 sections:
   - text_markdown: >-
       "In a sporting era where players, coaches and sponsors in every league

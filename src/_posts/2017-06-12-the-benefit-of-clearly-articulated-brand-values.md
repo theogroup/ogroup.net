@@ -5,7 +5,7 @@ featured: false
 tags: [Strategy]
 featured_image: /uploads/blog-45-f.jpg
 intro_markdown: "A short while ago Jason visited the Manhattan Auto Show—an annual personal tradition. On Monday he couldn't wait to share two pieces he'd picked up there with the team: and they had nothing to do with cars.​"
-author:
+
 sections:
   - text_markdown:
     single_image: /uploads/blog-45-1.jpg

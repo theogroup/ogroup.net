@@ -5,7 +5,7 @@ featured: false
 tags: [Press]
 featured_image: /uploads/blog-25-f.png
 intro_markdown: 'Our Client Services Director, Tina Masciadrelli, comments in industry publication Luxury Daily on Italian luxury brand Etro’s latest concept, "The Circle of Poets."​'
-author:
+
 sections:
   - text_markdown: >-
       "The ‘Circle of Poets’ concept seems to mimic the brand’s foundation as

@@ -5,7 +5,7 @@ featured: false
 tags: [Retail, rethink luxury]
 featured_image: /uploads/blog-37-f.jpg
 intro_markdown: "Over the past few weeks it's been difficult to ignore the fact that a certain retailer, which hasn't been a major player in my wardrobe game since c. 2001, has pushed itself to the forefront of my social media accounts. Guess who?​"
-author:
+
 sections:
   - text_markdown: >-
       Instagram and Facebooks ads, Vogue Daily and Who What Wear articles have

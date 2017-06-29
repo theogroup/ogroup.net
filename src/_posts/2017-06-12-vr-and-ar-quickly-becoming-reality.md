@@ -5,7 +5,7 @@ featured: false
 tags: [Wearable Tech, Tech]
 featured_image: /uploads/blog-34-f.jpg
 intro_markdown: 'The combined Virtual Reality (VR) and Augmented Reality (AR) markets are projected to generate around $150 billion dollars a year by 2020, according to a forecast by Digi-Capital. How can brands make the most of this opportunity?​'
-author:
+
 sections:
   - text_markdown: >-
       The projected market size represents a massive increase over the current

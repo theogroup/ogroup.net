@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O, Retail, Strategy]
 featured_image:
 intro_markdown: 'WWD recently ran a feature on the "[sea change in consumer behavior](http://wwd.com/retail-news/department-stores/sea-change-in-consumer-behavior-retailers-need-to-catch-up-10303936/)," citing opinions from experts ranging from Jerry Storch (Chairman, Hudson’s Bay Co.) to Jack Kleinhenz (chief economist, National Retail Federation). The majority of opinions reflected the theme of retail having fallen behind the consumer behavior curve. Do you feel that’s true?​'
-author:
+
 sections:
   - text_markdown: >-
       **GREG FURMAN**: In my opinion, there are a few major consumer behavior

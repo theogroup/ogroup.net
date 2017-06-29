@@ -4,7 +4,7 @@ publish_date: 2015-04-15 00:00:00
 featured: false
 featured_image:
 intro_markdown: 'Quoted in Luxury Daily today! Account Executive at The O Group, Elizabeth Weinstein, offers her take on Pringle of Scotland’s 200th anniversary activation, and what it means for the brand moving forward.​'
-author:
+
 sections:
   - text_markdown: >-
       The iconic British apparel and accessories brand has chosen to mark the

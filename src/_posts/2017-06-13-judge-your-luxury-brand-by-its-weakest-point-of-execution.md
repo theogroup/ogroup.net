@@ -5,7 +5,7 @@ featured: false
 tags: [Strategy]
 featured_image:
 intro_markdown: "As a luxury brand, it is easy to rest on the laurels of everything you have done right. Maybe your retail strategy is exceptional, or you've launched a cutting-edge experiential Web site.​"
-author:
+
 sections:
   - text_markdown: >-
       But when it comes to surveying the state of your luxury brand, it is

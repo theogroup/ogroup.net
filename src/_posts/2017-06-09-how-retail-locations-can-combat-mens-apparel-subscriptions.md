@@ -4,7 +4,7 @@ publish_date: 2017-01-25 00:00:00
 featured: false
 featured_image: /uploads/blog-11-featured.jpg
 intro_markdown: 'Keeping up with fashion trends is a time-consuming pursuit, and it’s easy for consumers to fall behind in the wardrobe department. The speed at which fashion turns over mimics the speed that society cycles through other industry trends. Just as Pok&eacute;mon Go, the Harlem Shake and hoverboards peaked before falling off a cliff, popular fashion follows this same rise and fall.​'
-author:
+
 sections:
   - text_markdown: >-
       For men, this game can be a little tricky. It’s easy to get too caught up

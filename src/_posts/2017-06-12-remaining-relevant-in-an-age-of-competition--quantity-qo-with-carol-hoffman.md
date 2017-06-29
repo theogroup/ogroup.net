@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: "Today I'm chatting with Carol Hoffman, EVP of Strategy for&nbsp;[SGN Group](http://sgn-group.com/).​"
-author:
+
 sections:
   - text_markdown: >-
       A powerhouse in the fashion world, her 35-year career in the industry has

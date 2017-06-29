@@ -5,7 +5,7 @@ tags: [Luxury Branding]
 featured: true
 featured_image: /uploads/blog-4-featured.jpg
 intro_markdown: 'The O Group recently had the pleasure of being invited to what can only be described as an intoxicating experience by one of our favorite clients, The Pierre Hotel in Manhattan.​'
-author:
+
 sections:
   - text_markdown:
     single_image: /uploads/blog-4-1.JPG

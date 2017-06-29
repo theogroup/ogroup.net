@@ -4,7 +4,7 @@ publish_date: 2016-02-25 00:00:00
 featured: false
 featured_image: /uploads/blog-36-f.jpg
 intro_markdown: 'Amongst the flurry of NYFW Instagrams flooding my feed lately, there’s been a striking image that keeps popping up. Today the one and only @bravoandy—the connoisseur of all things uniquely NY—posted the same image and it solidified my urge to write about it.​'
-author:
+
 sections:
   - text_markdown: 'The image I’m referring to is the majestic, white, winding staircase to retail heaven. Yes, it’s the official "welcome back downtown, Barneys" post.​'
     single_image:

@@ -6,7 +6,7 @@ tags:
   - Luxury Walks
 featured_image: /uploads/walks-1.jpg
 intro_markdown: "Luxury Walks = Time Well Spent. Click through to find a curated collection of NYC neighborhood guides created by O Group team members. You'll find great recommendations for food, drinks, shopping and maybe discover a hidden gem.​"
-author:
+
 sections:
   - text_markdown: >-
       We're lucky enough to live, as a team, all over Manhattan, Brooklyn and New

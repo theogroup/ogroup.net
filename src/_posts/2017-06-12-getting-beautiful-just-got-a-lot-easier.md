@@ -5,7 +5,7 @@ featured: false
 tags: [Influencers, rethink luxury]
 featured_image: /uploads/blog-32-f.jpg
 intro_markdown: 'Attention: All my New York City beauty-loving ladies, this one’s for you. Meet&nbsp;[Beautified](https://www.getbeautified.com/), an app that lets you find and book same day beauty services.​'
-author:
+
 sections:
   - text_markdown: >-
       Nowadays you can do just about anything in a few clicks, especially in New

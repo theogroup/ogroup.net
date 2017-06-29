@@ -4,7 +4,7 @@ publish_date: 2016-12-13 00:00:00
 featured: false
 featured_image: /uploads/blog-14-featured.jpg
 intro_markdown: 'The holiday season has arrived along with Neiman Marcus’ annual catalog, The Christmas Book. Celebrating the 90th year of the historic publication, the storied purveyor of luxury goods offers elegant products as well as fantasy purchases that lie beyond our wildest dreams.​'
-author:
+
 sections:
   - text_markdown: >-
       We culled a number of luxury lessons while perusing its latest edition…

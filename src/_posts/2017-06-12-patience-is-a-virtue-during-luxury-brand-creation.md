@@ -4,7 +4,7 @@ publish_date: 2014-01-29 00:00:00
 featured: false
 featured_image: /uploads/blog-48-f.jpg
 intro_markdown: "Each morning I drink a cup of coffee, look at my calendar and email, check the weather and then decide what to wear. You probably have some kind of similar routine for getting ready, whether it's choosing your outfit or picking the right accessories.​"
-author:
+
 sections:
   - text_markdown: "That's because how you present yourself and what you wear depends on what you've got planned that day. What are you doing? Who will you see? The alternative: jumping out of bed and wearing \"whatever\" might be okay, but isn't likely to set you up for success and make the right (i.e. killer) impression.​"
     single_image:

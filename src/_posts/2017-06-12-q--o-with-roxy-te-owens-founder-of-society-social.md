@@ -35,7 +35,7 @@ intro_markdown: >-
 
   And today we had the opportunity to chat with the amazingly talented Roxy Te
   Owens to discuss how furniture design has inspired her life’s purpose.​
-author:
+
 sections:
   - text_markdown: >-
       **Orit**: Who is Roxy Te Owens?

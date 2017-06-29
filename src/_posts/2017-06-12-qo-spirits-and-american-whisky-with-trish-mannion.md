@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: 'I had the opportunity to talk all things new and next in "spirits" with Trish Mannion, Senior Brand Manager for American Whiskey at Diageo.​'
-author:
+
 sections:
   - text_markdown: >-
       She's been in the spirits industry for twelve years; prior to joining

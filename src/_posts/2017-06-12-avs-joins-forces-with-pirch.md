@@ -5,7 +5,7 @@ featured: false
 tags: [Tech, Clients]
 featured_image: /uploads/blog-28-f.jpg
 intro_markdown: 'When your clients collaborate with awesome partners: In an incredibly exciting move in the evolution of retailing, our client&nbsp;[AVS](http://www.audiovideosystems.com/)&nbsp;(Audio Video Systems) has joined forces with Pirch, a cutting-edge provider of kitchen, bath and outdoor appliances.​'
-author:
+
 sections:
   - text_markdown: >-
       Pirch SoHo represents a fusion of fashion, home and technology. This new

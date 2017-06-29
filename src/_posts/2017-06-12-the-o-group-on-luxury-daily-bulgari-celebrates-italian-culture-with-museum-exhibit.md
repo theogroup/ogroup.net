@@ -4,7 +4,7 @@ publish_date: 2015-01-30 00:00:00
 featured: false
 featured_image: /uploads/blog-25-f.png
 intro_markdown: "Today on Luxury Daily Orit, president/CEO of The O Group, comments on Bulgari's latest exhibition titled \"Bellisima. Italy and High Fashion 1945-1968.\"​"
-author:
+
 sections:
   - text_markdown: 'The exhibit, at the Museo Nazionale Delle Arti Del XXI Secolo in Rome, it is held in partnership with Bulgari and a selection of one of a kind jewels from the brand will be on display.​'
     single_image:

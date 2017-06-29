@@ -4,7 +4,7 @@ publish_date: 2017-02-08 00:00:00
 featured: false
 featured_image: /uploads/blog-10-featured.png
 intro_markdown: 'Q & O with Carmen Edelson; travel influencer, and writer, specializing in luxury and family travel.​'
-author:
+
 sections:
   - text_markdown: >-
       **O:**&nbsp;Having had such a diverse upbringing, which part of exploring

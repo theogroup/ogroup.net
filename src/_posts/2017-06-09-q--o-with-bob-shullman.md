@@ -4,7 +4,7 @@ publish_date: 2017-03-09 00:00:00
 featured: false
 featured_image: /uploads/blog-5-featured.png
 intro_markdown: 'I sat down with renowned market researcher, strategy consultant and CEO of The Shullman Research Center, Bob Shullman to have a Q & O about emerging trends amongst luxury consumers in 2017 and the elements that influenced them.​'
-author:
+
 sections:
   - text_markdown:
     single_image: /uploads/blog-5-1.jpg

@@ -4,7 +4,7 @@ publish_date: 2013-06-18 00:00:00
 featured: false
 featured_image:
 intro_markdown: 'As I was cruising down the highway, I passed the not-so-glamorous Newark Liberty Airport, and luxury came calling. Was it ironic that I was in a black, luxury crossover? Maybe.​'
-author:
+
 sections:
   - text_markdown: >-
       But what struck me was actually a Budweiser billboard that proclaimed its

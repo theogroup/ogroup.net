@@ -5,7 +5,7 @@ featured: false
 tags: [Strategy, rethink luxury]
 featured_image: /uploads/blog-33-f.jpg
 intro_markdown: 'I love a good comeback. Especially from a brand that lost its way not by any major misstep, but rather by being a little too quiet for a little too long.​'
-author:
+
 sections:
   - text_markdown: >-
       Growing up in suburban America, I came of age during a time when an

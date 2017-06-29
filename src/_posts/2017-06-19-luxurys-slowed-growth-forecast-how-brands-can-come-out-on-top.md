@@ -7,7 +7,7 @@ tags:
   - News
 featured_image: /uploads/blog-25-f.png
 intro_markdown: 'Our Strategy Director, Patrick Lorentz, shares his recommendations for luxury brands weathering harsher economic times to come in an article that has been published in industry new source, Luxury Daily.​'
-author:
+
 sections:
   - text_markdown: >-
       "The Boston Consulting Group recently announced its prediction that luxury

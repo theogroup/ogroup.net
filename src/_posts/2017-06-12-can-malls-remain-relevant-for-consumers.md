@@ -5,7 +5,7 @@ featured: false
 tags: [rethink luxury, Retail]
 featured_image: /uploads/blog-30-f.jpg
 intro_markdown: Shouldn’t the mall experience evolve to capitalize on how consumers’ predilections have changed?​
-author:
+
 sections:
   - text_markdown: >-
       Malls have long existed as a centralized hub of consumerism and cultural

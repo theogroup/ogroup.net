@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: "Today I'm speaking with Arlene Spiegel, who's been in the hospitality industry for twenty-five years.​"
-author:
+
 sections:
   - text_markdown: >-
       She's worked with all segments of the industry, from branded restaurants to

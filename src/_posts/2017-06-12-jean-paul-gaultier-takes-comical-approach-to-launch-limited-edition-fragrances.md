@@ -4,7 +4,7 @@ publish_date: 2016-04-08 00:00:00
 featured: false
 featured_image: /uploads/blog-29-f.png
 intro_markdown: 'Quoted in Luxury Daily today, our Client Services Manager Elizabeth Weinstein shares her take on the limited-edition fragrances of Jean Paul Gaultier.​'
-author:
+
 sections:
   - text_markdown: >-
       "Betty Boop is cheeky and fun, while Popeye is charismatic and larger than

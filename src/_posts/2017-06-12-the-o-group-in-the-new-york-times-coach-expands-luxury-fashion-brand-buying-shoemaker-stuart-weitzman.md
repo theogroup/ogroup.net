@@ -4,7 +4,7 @@ publish_date: 2015-01-07 00:00:00
 featured: false
 featured_image: /uploads/blog-40-f.jpg
 intro_markdown: 'Today in The New York Times, Jason B. Cohen, EVP Creative at The O Group, comments on Coach’s recently confirmed acquisition of Stuart Weitzman.​'
-author:
+
 sections:
   - text_markdown: '"Coach is at a place where it needs to reassert its luxury credentials," said Jason B. Cohen, a luxury branding expert at The O Group, a creative agency in New York. Stuart Weitzman "isn’t Jimmy Choo, but it’s a very highly regarded brand that commands a significant price and is executing luxury as it should be," he said.​'
     single_image:

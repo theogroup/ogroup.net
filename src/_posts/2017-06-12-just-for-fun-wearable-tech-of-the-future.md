@@ -5,7 +5,7 @@ featured: false
 tags: [Tech, Wearable Tech]
 featured_image: /uploads/blog-46-f.jpg
 intro_markdown: "We asked our O Group team a few questions about wearable tech of the future last week. We didn't quite know what they would come up with, or what we would do with the results, but we did know that a creative team like this would have some awesome (and sometimes awesomely bad) ideas.​"
-author:
+
 sections:
   - text_markdown: "The results we got back read a little like a \"Splurge vs. Steal\" section of a fashion magazine. \"Steal\" being the reality of what currently exists in wearable technology, and \"Splurge\" being our team's fantasy inventions. Curious about what they came up with?​"
     single_image:

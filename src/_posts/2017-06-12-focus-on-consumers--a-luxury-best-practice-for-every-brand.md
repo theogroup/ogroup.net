@@ -4,7 +4,7 @@ publish_date: 2016-09-08 00:00:00
 featured: false
 featured_image: /uploads/blog-23-f.jpg
 intro_markdown: There is much to learn for all brand categories by looking at a new perspective.​
-author:
+
 sections:
   - text_markdown: >-
       A high-minded approach, elevated aesthetics, and an unwavering dedication

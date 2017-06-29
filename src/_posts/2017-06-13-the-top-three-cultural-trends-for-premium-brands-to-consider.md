@@ -6,7 +6,7 @@ tags:
   - strategy
 featured_image: /uploads/1.jpg
 intro_markdown: "Developing brand strategy is about more than simply looking at consumer spending or predilections — we can paint a much more complete picture of how to solve a brand's challenge if we consider people (or clients, or consumers) as whole human beings with lives that extend far beyond purchase behavior.​"
-author:
+
 sections:
   - text_markdown: >-
       As a creative agency, staying on top of cultural trends is critical to

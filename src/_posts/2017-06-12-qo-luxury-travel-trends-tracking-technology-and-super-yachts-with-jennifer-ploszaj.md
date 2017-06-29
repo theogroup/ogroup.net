@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: 'The lovely Jennifer Ploszaj was kind enough to chat with me the other day, and share her (considerable) insight on the luxury travel industry.​'
-author:
+
 sections:
   - text_markdown: >-
       Jennifer founded&nbsp;[JP

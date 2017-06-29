@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: "Today I'm chatting with Gannon Brousseau, Show Director for&nbsp;[The Couture Show.](http://www.thecoutureshow.com/)​"
-author:
+
 sections:
   - text_markdown: >-
       Gannon spent the first 15 years of his career in LA, primarily in retail

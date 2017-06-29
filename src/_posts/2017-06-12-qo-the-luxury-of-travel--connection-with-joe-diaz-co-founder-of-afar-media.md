@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O, Travel]
 featured_image:
 intro_markdown: "Today I'm talking with Joe Diaz, co-founder of&nbsp;[AFAR Media](http://www.afar.com/)- a brand that inspires travelers to get off the tour bus, take a seat at the kitchen table, and connect.​"
-author:
+
 sections:
   - text_markdown: >-
       Joe and his co-founder, Greg Sullivan, came out of Teach for America,

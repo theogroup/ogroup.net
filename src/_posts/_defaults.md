@@ -6,7 +6,7 @@ tags: []
 featured_image: /uploads/default-image.jpg
 intro_markdown: >-
 
-author:
+
 sections:
   - text_markdown: >-
     single_image:

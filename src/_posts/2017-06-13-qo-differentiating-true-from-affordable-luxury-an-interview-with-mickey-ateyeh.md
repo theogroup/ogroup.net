@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: 'Today I’m chatting with my dear friend, Michele (Mickey) Ateyeh, whose career in fine jewelry and designer accessories has taken her from Tiffany & Co. to Hermes, then Angela Cummings, followed by Karl Lagerfeld and Carlos Falchi.​'
-author:
+
 sections:
   - text_markdown: >-
       Currently she is directing the newly formed partnership of fine jewelry

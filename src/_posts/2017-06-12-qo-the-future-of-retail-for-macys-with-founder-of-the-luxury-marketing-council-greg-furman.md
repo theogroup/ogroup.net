@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O, Retail, Strategy]
 featured_image:
 intro_markdown: 'Q&O has gotten a facelift! This year I’ll be asking industry experts to weigh in on industry news and adding my own opinion to the conversation. A series of short soundbites will provide insight into where smart, innovative brands are headed. Read on!​'
-author:
+
 sections:
   - text_markdown: >-
       First on my hit list this year is picking the brain of the ubiquitous Greg

@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O, Travel]
 featured_image:
 intro_markdown: "Laura Davidson is the creative force behind LDPR, a leading New York-based public relations agency that specializes in travel and lifestyle clients. When I get the chance to talk shop with her it's always insightful and inspiring.​"
-author:
+
 sections:
   - text_markdown: >-
       **LDPR**

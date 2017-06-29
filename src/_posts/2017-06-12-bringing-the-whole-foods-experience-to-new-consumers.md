@@ -5,7 +5,7 @@ featured: false
 tags: [Retail, rethink luxury]
 featured_image: /uploads/blog-26-f.jpg
 intro_markdown: "Despite the apparent contradriction, lower-priced goods and services can absolutely be considered a luxury. Whole Foods' newest launch exemplifies just that.​"
-author:
+
 sections:
   - text_markdown: >-
       Whole Foods has begun introducing their new 365 by Whole Foods Market

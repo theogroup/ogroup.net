@@ -5,7 +5,7 @@ featured: false
 tags: [Travel]
 featured_image: /uploads/blog-39-f.jpg
 intro_markdown: "Last week we had the pleasure of attending an Afar Conversations event on The Evolution of the Luxury Consumer at The Chatwal here in NYC. AFAR Media brought together leaders in experiential travel to host a lively (and at times, hilarious) discussion on today and tomorrow's luxury consumer.​"
-author:
+
 sections:
   - text_markdown: "With perspective from Hilton's Global Head of Luxury Brands, John T.A. Vanderslice, preeminent hospitality designer, Adam Tihany and Walter Coyle, President of Pedone Media, there was ample opportunity for both consensus and divergent opinions. Below, the top three trends in experiential luxury from the conversation.​"
     single_image:

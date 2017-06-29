@@ -4,7 +4,7 @@ publish_date: 2014-10-01 00:00:00
 featured: false
 featured_image: /uploads/blog-25-f.png
 intro_markdown: 'Today in Luxury Daily, Account Executive Elizabeth Weinstein comments on Baccarat’s newly launched retrospective at the Grande Galeries of the Petit Palais in Paris celebrating the brand’s 250th anniversary.​'
-author:
+
 sections:
   - text_markdown: >-
       "From a continuity perspective, this exhibition makes sense for the

@@ -8,7 +8,7 @@ intro_markdown: |-
   AN OPEN LETTER FROM OUR CHIEF CREATIVE OFFICER.
 
   Change is constant. For 30 years in New York City we have experienced the ebb and flow of economic, social and stylistic trends. Relevancy is about evolution, so here we are.​
-author:
+
 sections:
   - text_markdown: >-
       Change has come to all forms of business, media, design and lifestyle. As

@@ -4,7 +4,7 @@ publish_date: 2017-03-23 00:00:00
 featured: false
 featured_image: /uploads/blog-3-featured.jpg
 intro_markdown: 'Spring is finally here, and with it comes warmer weather which means one thing: more time outside. For New Yorkers, time spent outdoors without snow and frigid wind is a blessing, and for many of us the best way to make the most of spring and summer sun is by hopping on a boat. Sailing and boating give you a bit of a respite from the stifling action of the city, as well as a new perspective on many of the city’s landmarks.​'
-author:
+
 sections:
   - text_markdown: >-
       There is also an undeniable sense of freedom that comes from cutting

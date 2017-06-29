@@ -4,7 +4,7 @@ publish_date: 2016-09-28 00:00:00
 featured: false
 featured_image: /uploads/blog-22-f.jpg
 intro_markdown: 'We’re obsessed with luxury and how it’s always changing and evolving. Here are 3 great examples of three big, traditionally non-luxury brands leveraging luxury tactics, cues and best practices.​'
-author:
+
 sections:
   - text_markdown: |-
       **Pepsi**

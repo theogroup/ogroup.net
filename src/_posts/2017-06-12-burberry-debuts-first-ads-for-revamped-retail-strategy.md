@@ -4,7 +4,7 @@ publish_date: 2016-06-01 00:00:00
 featured: false
 featured_image: /uploads/blog-25-f.png
 intro_markdown: 'Quoted in Luxury Daily today, our Business Development Manager Kristen Dillman shares her take on Burberry’s move away from seasonal campaigns and consolidation of labels within the brand.​'
-author:
+
 sections:
   - text_markdown: >-
       "Burberry’s consolidation of its three brands into the single ‘Burberry’

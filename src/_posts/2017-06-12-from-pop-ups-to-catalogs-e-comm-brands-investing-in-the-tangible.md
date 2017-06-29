@@ -4,7 +4,7 @@ publish_date: 2014-10-06 00:00:00
 featured: false
 featured_image: /uploads/blog-44-f.jpg
 intro_markdown: "I've been thinking a lot lately about how brands are continuing to invest or reinvest in the catalog portion of their business because of the correlating uptick in sales (as has the Wall Street Journal): Restoration Hardware (with a whopping 13 volume mailing), Bonobos, J. Crew.​"
-author:
+
 sections:
   - text_markdown: >-
       The move runs almost parallel to the trend of businesses that launched

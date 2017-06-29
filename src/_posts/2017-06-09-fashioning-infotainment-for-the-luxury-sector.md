@@ -4,7 +4,7 @@ publish_date: 2017-03-01 00:00:00
 featured: false
 featured_image: /uploads/blog-7-featured.jpg
 intro_markdown: 'The luxury sector must reinvent itself in order to remain relevant, attractive and exciting. This extends to adapting marketing methods to reflect the strongest, most promising strategies of our time. One such strategy and a particularly promising trend for the new year comes to mind - infotainment video.​'
-author:
+
 sections:
   - text_markdown: >-
       It’s one of the fastest growing trends for 2017, although we wouldn’t refer

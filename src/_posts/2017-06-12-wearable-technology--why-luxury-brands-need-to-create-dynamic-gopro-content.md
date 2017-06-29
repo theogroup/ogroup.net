@@ -5,7 +5,7 @@ featured: false
 tags: [Tech, Wearable Tech]
 featured_image: /uploads/blog-47-f.jpg
 intro_markdown: "In an earlier article I wrote,&nbsp;[Luxury is the New Black](http://ogroup.net/luxury_branding_blog/the-new-black/), I talked about brands using the word \"black\" to denote a high-end offering. So I wasn't completely surprised to see that GoPro, the amazing video camera brand, had released a new model, \"GoPro Hero 3 Black Edition.\"​"
-author:
+
 sections:
   - text_markdown: "Wearable smart technology like Google Glass may someday be ubiquitous, but for now GoPro is dominating, and the brand seems to have reached the tipping point. (In fact, while writing this article, GoPro announced its IPO.) It's everywhere. And it's more than a camera company. It's a content platform unto itself.​"
     single_image:

@@ -5,7 +5,7 @@ featured: false
 tags: [Spirits Branding, Strategy]
 featured_image: /uploads/blog-27-f.jpg
 intro_markdown: 'It’s almost Memorial Day so of course I’m wondering, exactly how did ros&eacute; rise to total warm-weather ownership? Click through for a trip down memory lane, from 1980–now.​'
-author:
+
 sections:
   - text_markdown: >-
       Last year ros&eacute; was on everyone’s minds and this year seems no

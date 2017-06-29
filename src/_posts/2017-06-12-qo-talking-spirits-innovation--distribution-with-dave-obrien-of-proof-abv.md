@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: 'I caught up with fellow spirits industry veteran the other day, Dave O’Brien, Founder of&nbsp;[Proof ABV](http://proofabv.com/)&nbsp;(Agents & Brand Ventures).​'
-author:
+
 sections:
   - text_markdown: >-
       I think his own words are better than any I'll come up with by way of

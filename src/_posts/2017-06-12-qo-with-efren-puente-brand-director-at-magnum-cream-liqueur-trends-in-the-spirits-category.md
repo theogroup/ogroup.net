@@ -5,7 +5,7 @@ featured: false
 tags: [Q&O]
 featured_image:
 intro_markdown: 'I recently sat down to talk drinks with Efren Puente, Brand Director of Magnum Cream Liqueur.​'
-author:
+
 sections:
   - text_markdown: >-
       Full disclosure: The O Group has recently worked with Efren on&nbsp;[Magnum

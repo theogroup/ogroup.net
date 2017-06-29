@@ -5,7 +5,7 @@ featured: false
 tags: [Sustainability]
 featured_image: /uploads/blog-43-f.jpg
 intro_markdown: 'In a timely release, just as we head into 2015 The O Group is featured in Fortune Magazine’s article on the future of luxury.​'
-author:
+
 sections:
   - text_markdown: >-
       The article features predictions from a number of industry experts, ranging

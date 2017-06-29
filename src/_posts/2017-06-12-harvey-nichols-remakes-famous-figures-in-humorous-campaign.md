@@ -4,7 +4,7 @@ publish_date: 2016-05-06 00:00:00
 featured: false
 featured_image: /uploads/blog-29-f.png
 intro_markdown: 'Quoted in Luxury Daily today, our Strategy Director Patrick Lorentz shares his opinion on British department store Harvey Nichols’ "Great Men Deserve Great Style" campaign.​'
-author:
+
 sections:
   - text_markdown: >-
       "The campaign’s strategy centers on the idea that even legendary, iconic

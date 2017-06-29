@@ -6,7 +6,7 @@ tags:
   - strategy
 featured_image: /uploads/4.jpg
 intro_markdown: 'The recent Apple event announcing a suite of new products, as well as updated versions of existing products, certainly captured the attention of fans and foes of the brand. While there were a handful of announcements that set the internet ablaze, it was an interesting and somewhat unexpected partnership that really got The O Group office buzzing.​'
-author:
+
 sections:
   - text_markdown: >-
       I'm talking about the Apple Watch Herm&egrave;s, a collection that combines
