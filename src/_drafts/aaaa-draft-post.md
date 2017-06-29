@@ -1,14 +1,13 @@
 ---
-title:
+title: AAAA Draft Post
 publish_date:
 featured: false
 tags: []
 featured_image: /uploads/default-image.jpg
-intro_markdown: >-
-
+intro_markdown:
 author:
 sections:
-  - text_markdown: >-
+  - text_markdown:
     single_image:
     quote:
     video:
