@@ -1,6 +1,6 @@
 ---
 title: Sample
-client:
+client: Microsoft
 show_on_homepage: false
 draft_project: true
 featured_image: /uploads/default-image.jpg
@@ -8,17 +8,17 @@ vimeo:
   vimeo_id:
   vimeo_width:
   vimeo_height:
-headline:
+headline: Hello World
 headline_text_color: '#000000'
-overview:
+overview: This is the overview.
 sort_order: 5
 content_blocks:
   - text_banner:
-      text_banner_text:
-      text_banner_color:
-      text_banner_background_color:
+      text_banner_text: This is a test
+      text_banner_color: '#e23030'
+      text_banner_background_color: '#6a5a5a'
     image_banner:
-      image_banner_image:
+      image_banner_image: /uploads/1.jpg
       image_banner_text_color:
       image_banner_text:
     split_banner:
@@ -42,3 +42,5 @@ contact_tagline: Let’s talk about the work we did for
 _comments:
   draft_project: 'drafts are visible in the CMS, but are not visible on the live site'
 ---
+
+
