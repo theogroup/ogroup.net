@@ -189,6 +189,8 @@ content_blocks:
     grid_image:
       grid_image_image: /uploads/chandon-grid-image-3.png
 contact_tagline: Let’s talk about the work we did for
+_comments:
+  draft_project: drafts are visible in the CMS, but are not visible on the live site
 ---
 
 
