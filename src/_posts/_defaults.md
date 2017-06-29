@@ -1,6 +1,6 @@
 ---
 title:
-publish_date: 2015-04-01 00:00:00
+publish_date:
 featured: false
 tags: []
 featured_image: /uploads/default-image.jpg
