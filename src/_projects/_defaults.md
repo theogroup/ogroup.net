@@ -2,7 +2,6 @@
 title:
 client:
 show_on_homepage: false
-published: true
 draft_project: true
 featured_image: /uploads/default-image.jpg
 vimeo:
