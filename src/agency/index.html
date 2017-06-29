@@ -17,12 +17,37 @@ team:
     title: Founder & CEO
     team_image: /uploads/orit.jpg
     bio_markdown: >-
-      Orit (pronounced ‘O-REET’) is the one and only O in The O Group. Since its inception 30 years ago, she has steadily built the agency’s portfolio, reputation and network of clients through her business prowess, luxury expertise and keen eye for design. When not focusing on The O Group, Orit enjoys connecting with other female business leaders across a wide range of industries, experiencing the hottest new restaurants NYC has to offer, and spending time with her family.
+      Orit is and Founder/CEO of the boutique branding and creative agency, The O Group.
+      Headquartered in New York City with offices in Seattle, the agency has carved out a niche in the luxury space; working with stellar brands such as Salvatore Ferragamo, Moet Hennessy USA, Garrard, Diageo, Acqualina Resort and Spa, Lacoste, Godiva, and The Pierre Hotel.
+
+
+      Beginning her career as a graphic designer, Orit moved from corporate communications at a major television network, to heading up design departments at a number of corporations ranging from entertainment, toys, publishing and consumer electronics. Feeling the urge to create something for herself, Orit founded The O Group in 1986, and hasn’t looked back.
+
+
+      The agency’s success can also be attributed to its ability to continually evolve and transform itself based on market needs and staying relevant. Today, the focus is less on raising the luxury market as a whole, and more on giving all brands the ability to leverage luxury cues, regardless of their industry. This ability can only come from an expert who has decades of experience connecting with consumers.
+
+
+      In her time away from the agency, Orit also works tirelessly in a variety of fields close to her heart, including student mentorship, women’s business and leadership, and fostering relationships with past, and current, clients and employees and partners.
+
+
+      Orit also loves to spend time with her family,  gardening, and entertaining at her lake house.
   - name: Daymon Bruck
     title: Chief Creative Officer
-    team_image: /uploads/orit.jpg
+    team_image: /uploads/daymon.jpg
     bio_markdown: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+      A branding expert with 30 years dedication to the craft of creative problem solving, Daymon is currently leading the West Coast office in Seattle for The O Group as Chief Creative Officer. His ongoing success in the field of creative development has produced award-winning materials for many brand-driven clients including Nike, Coca-Cola, IBM, GeneralMotors, Salvatore Ferragamo, Four Seasons Hotels, MIRAMAX films and The OprahWinfrey Network.
+
+
+      Daymon’s approach to brand development is very straightforward: immerse himself in the client’s business and industry, then deliver strategic brand creative that produces meaningful results. With decades of experience as a brand strategist and his extensive history in digital and print creative platforms, he considers solving holistic communication challenges his most meaningful client collaborations.
+
+
+      After a successful career with two of the top creative firms on the East Coast, Ogilvy in NYC and Mullen in Boston, Daymon returned to his hometown of Seattle in 2001 to work with the region’s best-known agencies, Cole & Weber and Hornall Anderson. In 2006, after 15 years as Creative Director in the large agency world, he launched his own brand consultancy practice and developed a client list with many iconic brands of the Northwest such as Starbucks, Microsoft, AT&T Wireless, the Space Needle, Chihuly Garden and Glass, DRY Soda, and the Seattle International Film Festival.
+
+
+      Today, the result of a 25 year strong friendship and successful collaborative bond with Orit and her agency (Daymon was The O Group’s first Creative Director hire in 2001) the branding veterans boldly joined forces again in 2017, expanding The O Group NYC office to Seattle with a dedicated focus on a select client base that would provide the most rewarding collaborations for both partners.
+
+
+      When not focused on client work, Daymon continues to experiment with a number of other hats including restauranteur, aromatherapist, photographer, cyclist and organic farmer.
 _comments:
   team_image: 'Photos should be exactly 1500px wide and 2110px tall.'
 ---
@@ -95,12 +120,12 @@ _comments:
           <button class="bio"><p>bio</p></button>
 
           <div class="modal">
-            <label for="modal-{{ loop.index }}">
+            <label for="modal-{{ forloop.index }}">
             </label>
-            <input class="modal-state" id="modal-{{ loop.index }}" type="checkbox" />
+            <input class="modal-state" id="modal-{{ forloop.index }}" type="checkbox" />
             <div class="modal-fade-screen">
               <div class="modal-inner">
-                <div class="modal-close" for="modal-{{ loop.index }}"></div>
+                <div class="modal-close" for="modal-{{ forloop.index }}"></div>
                 <div class="modal-image" style="background-image: url({{ person.team_image }}); background-size: cover"></div>
                 <div class="modal-text">
                   <div class="modal-text-inner">

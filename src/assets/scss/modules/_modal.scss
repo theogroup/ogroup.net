@@ -1,7 +1,7 @@
 
 .agency .modal {
-  $base-border-color: #dcdcdc !default; 
-  $base-border-radius: 0px; 
+  $base-border-color: #dcdcdc !default;
+  $base-border-radius: 0px;
   $base-background-color: #fff !default;
   $base-font-size: 1em !default;
   $base-line-height: 1.5em !default;
@@ -95,7 +95,6 @@
     border-radius: $base-border-radius;
     margin-top: 0;
     margin: auto;
-    // max-height: 95%;
     overflow: scroll;
     padding: $modal-padding / 2;
     // position: relative;
@@ -129,6 +128,7 @@
           margin: 0 auto;
           padding-bottom: 4rem;
           text-align: center;
+          overflow: scroll;
           p {
             text-align: left !important;
             color: $text;
@@ -155,12 +155,15 @@
         width: 50%;
         float: right;
         padding-top: 6rem;
+        max-height: 90vh;
+        overflow-y: scroll;
         text-align: center;
         .modal-text-inner {
           width: 60%;
           text-align: left;
           margin: 0 auto;
           text-align: center;
+          overflow: scroll;
           p {
             text-align: left !important;
             color: $text;
@@ -190,7 +193,7 @@
       color: $base-font-color;
       line-height: $base-line-height;
       margin-top: .5rem;
-      font-family: "Miller Text"; 
+      font-family: "Miller Text";
       // font-size: rem(14);
       // line-height: rem(19);
       color: $mygray;
@@ -235,8 +238,8 @@
 }
 
 .work .modal {
-  $base-border-color: #dcdcdc !default; 
-  $base-border-radius: 0px; 
+  $base-border-color: #dcdcdc !default;
+  $base-border-radius: 0px;
   $base-background-color: #fff !default;
   $base-font-size: 1em !default;
   $base-line-height: 1.5em !default;
@@ -270,7 +273,7 @@
       right: 0;
       line-height: $base-line-height;
       // margin-top: .5rem;
-      font-family: "Miller Text"; 
+      font-family: "Miller Text";
       font-size: rem(14);
       line-height: rem(19);
       font-weight: 100;
@@ -398,7 +401,7 @@
       color: $base-font-color;
       line-height: $base-line-height;
       margin-top: .5rem;
-      font-family: "Miller Text"; 
+      font-family: "Miller Text";
       font-size: rem(14);
       line-height: rem(19);
       color: $mygray;
@@ -443,8 +446,8 @@
 
 
 footer .modal-x {
-  $base-border-color: #dcdcdc !default; 
-  $base-border-radius: 0px; 
+  $base-border-color: #dcdcdc !default;
+  $base-border-radius: 0px;
   $base-background-color: #fff !default;
   $base-font-size: 1em !default;
   $base-line-height: 1.5em !default;
@@ -462,7 +465,7 @@ footer .modal-x {
   $modal-trigger-image-width: 300px;
 
   label {
-    cursor: pointer; 
+    cursor: pointer;
     // position: absolute;
     // top: 0;
     // right: 0;
@@ -590,7 +593,7 @@ footer .modal-x {
       color: $base-font-color;
       line-height: $base-line-height;
       margin-top: .5rem;
-      font-family: "Miller Text"; 
+      font-family: "Miller Text";
       font-size: rem(14);
       line-height: rem(19);
       color: $mygray;

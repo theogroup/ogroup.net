@@ -7473,7 +7473,8 @@ body.search #tipue_search_content {
         text-align: left;
         margin: 0 auto;
         padding-bottom: 4rem;
-        text-align: center; }
+        text-align: center;
+        overflow: scroll; }
         .agency .modal .modal-inner .modal-text .modal-text-inner p {
           text-align: left !important;
           color: #212121; }
@@ -7493,12 +7494,15 @@ body.search #tipue_search_content {
       width: 50%;
       float: right;
       padding-top: 6rem;
+      max-height: 90vh;
+      overflow-y: scroll;
       text-align: center; }
       .agency .modal .modal-inner .modal-text .modal-text-inner {
         width: 60%;
         text-align: left;
         margin: 0 auto;
-        text-align: center; }
+        text-align: center;
+        overflow: scroll; }
         .agency .modal .modal-inner .modal-text .modal-text-inner p {
           text-align: left !important;
           color: #212121; }
