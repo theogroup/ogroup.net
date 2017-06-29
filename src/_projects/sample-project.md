@@ -1,6 +1,6 @@
 ---
 title: Sample Project
-client:
+client: ABC
 show_on_homepage: false
 draft_project: true
 featured_image: /uploads/default-image.jpg
@@ -8,15 +8,15 @@ vimeo:
   vimeo_id:
   vimeo_width:
   vimeo_height:
-headline:
+headline: 'Hello!'
 headline_text_color: '#000000'
-overview:
+overview: This is awesome
 sort_order: 5
 content_blocks:
   - text_banner:
-      text_banner_text:
+      text_banner_text: All the good things
       text_banner_color:
-      text_banner_background_color:
+      text_banner_background_color: '#42a37f'
     image_banner:
       image_banner_image:
       image_banner_text_color:
@@ -42,3 +42,5 @@ contact_tagline: Let’s talk about the work we did for
 _comments:
   draft_project: 'drafts are visible in the CMS, but are not visible on the live site'
 ---
+
+
