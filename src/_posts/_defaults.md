@@ -17,3 +17,4 @@ sections:
       video_height:
 contact_tagline: "Let's start a conversation about luxury."
 ---
+DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
