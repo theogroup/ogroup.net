@@ -37,14 +37,18 @@ seattle_phone: 206.949.8173
   <div class="contact-info">
     <div class="ny">
       <h5><span>New York City</span> / Headquarters</h5>
+      <a target="_blank" href="https://www.google.com/maps/place/{{page.ny_address_line_1}},{{page.ny_address_line_2}}">
       <h3>{{page.ny_address_line_1}}</h3>
       <h3>{{page.ny_address_line_2}}</h3>
+      </a>
       <h3>{{page.ny_phone}}</h3>
     </div>
     <div class="seattle">
       <h5><span>Seattle</span> / o group west</h5>
+      <a target="_blank" href="https://www.google.com/maps/place/{{page.seattle_address_line_1}},{{page.seattle_address_line_2}}">
       <h3>{{page.seattle_address_line_1}}</h3>
       <h3>{{page.seattle_address_line_2}}</h3>
+      </a>
       <h3>{{page.seattle_phone}}</h3>
     </div>
   </div>
@@ -69,7 +73,8 @@ seattle_phone: 206.949.8173
     <a href="{{post.url}}">
       <h5>Blog</h5>
       <h3>{{ post.title }}</h3>
-      <p><span>by </span>{% if post.author %}{{ post.author }}{% else %} The O Group{% endif %}</p>
+      {% if post.publish_date %}<p class="byline">{{ post.publish_date | date: "%m/%d/%Y" }}</p>
+      {% endif %}
       <div class="arrow-wrapper">
         <img src="/assets/images/red-arrow.png" alt="" class="arrow">
       </div>

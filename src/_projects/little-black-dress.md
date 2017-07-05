@@ -1,7 +1,7 @@
 ---
 title: Little Black Dress
 client: Little Black Dress
-show_on_homepage: true
+show_on_homepage: false
 draft_project: false
 featured_image: /uploads/lbd-featured-image.jpg
 imeo:

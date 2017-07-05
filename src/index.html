@@ -236,7 +236,8 @@ description: 'A New York &amp; Seattle based creative agency focused on rethinki
         <a href="{{post.url}}">
           <h5>Blog</h5>
           {% if post %}<h3>{{ post.title }}</h3>{% endif %}
-          <p><span>by </span>{% if post.author %}{{ post.author }}{% else %} The O Group{% endif %}</p>
+          {% if post.publish_date %}<p class="byline">{{ post.publish_date | date: "%m/%d/%Y" }}</p>
+          {% endif %}
           <div class="arrow-wrapper">
             <img src="/assets/images/red-arrow.png" alt="" class="arrow">
           </div>
