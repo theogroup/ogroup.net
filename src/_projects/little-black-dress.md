@@ -5,9 +5,9 @@ show_on_homepage: false
 draft_project: false
 featured_image: /uploads/lbd-featured-image.jpg
 imeo:
-  vimeo_id:
-  vimeo_width:
-  vimeo_height:
+  vimeo_id: '169160491'
+  vimeo_width: '640'
+  vimeo_height: '360'
 headline: Latest obsession.
 headline_text_color: '#ffffff'
 overview: 'Latest Obsession — a luxury powered reboot for a fashion-themed, mass-market wine brand.'
@@ -415,7 +415,7 @@ content_blocks:
       grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 _comments:
-  draft_project: drafts are visible in the CMS, but are not visible on the live site
+  draft_project: 'drafts are visible in the CMS, but are not visible on the live site'
 ---
 
 
