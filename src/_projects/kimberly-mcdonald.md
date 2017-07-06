@@ -4,7 +4,7 @@ client: Kimberly McDonald
 show_on_homepage: false
 draft_project: false
 featured_image: /uploads/km-featured.jpg
-imeo:
+vimeo:
   vimeo_id:
   vimeo_width:
   vimeo_height:

@@ -4,7 +4,7 @@ client:
 show_on_homepage: false
 draft_project: false
 featured_image: /uploads/demours-featured.jpg
-imeo:
+vimeo:
   vimeo_id: 131708370
   vimeo_width: 640
   vimeo_height: 360

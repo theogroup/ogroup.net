@@ -4,7 +4,7 @@ client: Little Black Dress
 show_on_homepage: false
 draft_project: false
 featured_image: /uploads/lbd-featured-image.jpg
-imeo:
+vimeo:
   vimeo_id: '169160491'
   vimeo_width: '640'
   vimeo_height: '360'
