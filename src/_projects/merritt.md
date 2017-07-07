@@ -318,7 +318,7 @@ content_blocks:
       text_banner_color:
       text_banner_background_color:
     image_banner:
-      image_banner_image: /uploads/merritt-web-design-mobile-by-the-o-group.jpg
+      image_banner_image:
       image_banner_text_color:
       image_banner_text:
     split_banner:
@@ -337,7 +337,7 @@ content_blocks:
     gallery_images:
       - image_path:
     grid_image:
-      grid_image_image:
+      grid_image_image: /uploads/merritt-web-design-mobile-by-the-o-group.jpg
 contact_tagline: Let’s talk about the work we did for
 _comments:
   draft_project: 'drafts are visible in the CMS, but are not visible on the live site'
