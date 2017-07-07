@@ -1,10 +1,9 @@
 ---
 title: Charting A New Course For The Yachting Industry
-publish_date: 2017-04-01 00:00:00
+publish_date: 2017-06-21 00:00:00
 featured: true
 featured_image: /uploads/charting-new-course-featured-image.jpg
 intro_markdown: In a previous post called “Keeping the luxury boating industry afloat” we started talking about the luxury boating industry; this post aims to touch on what the future could look like for the industry.​
-
 sections:
   - text_markdown: 'There was a dramatic upward turn in the economy from 2013 and even luxury purchases like super yachts saw a spike that year and the following year too. However, since then there’s been a steady decline in super yacht sales according to data collected by [BOAT](http://www.boatinternational.com/yacht-market-intelligence/superyacht-industry-data/superyacht-sales-data/superyachts-sold-in-2010--25667) magazine.​'
     single_image:
@@ -36,6 +35,18 @@ sections:
       Tablet, called the pop-up “Get Away Lodge”. The duo created an exclusive
       winter cabin experience that featured a free test drive and unique designer
       d&eacute;cor.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
