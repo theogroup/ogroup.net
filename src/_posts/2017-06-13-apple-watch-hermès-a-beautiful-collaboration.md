@@ -1,12 +1,11 @@
 ---
 title: 'Apple Watch Hermès: A Beautiful Collaboration'
-publish_date: 2015-09-15 00:00:00
+publish_date: 2015-09-16 00:00:00
 featured: false
 tags:
   - strategy
 featured_image: /uploads/4.jpg
 intro_markdown: 'The recent Apple event announcing a suite of new products, as well as updated versions of existing products, certainly captured the attention of fans and foes of the brand. While there were a handful of announcements that set the internet ablaze, it was an interesting and somewhat unexpected partnership that really got The O Group office buzzing.​'
-
 sections:
   - text_markdown: >-
       I'm talking about the Apple Watch Herm&egrave;s, a collection that combines
@@ -19,12 +18,36 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Said Pierre-Alexis Dumas, Herm&egrave;s' executive vice president in charge
       of artistic direction, "At Herm&egrave;s, we strive to provide our clients
       with elegant, creative and functional objects for their everyday lives.
       What more contemporary and relevant expression of this principle could
       there be than this collaboration with Apple. We are strongly united by the
       same deeply held ideas and principles."​
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,6 +79,18 @@ sections:
       Herm&egrave;s' designs creates a symbiotic relationship that will
       undoubtedly lead to interesting partnerships between Apple's competitors
       and the fashion world in the coming months.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
