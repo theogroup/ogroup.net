@@ -71,6 +71,7 @@ defaults:
     values:
       layout: cms
       permalink: "/cms/"
+      sitemap: false
       _hide_content: true
   -
     scope:
