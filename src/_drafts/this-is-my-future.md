@@ -6,7 +6,7 @@ tags:
   - News
 featured_image: /uploads/orit-blog.jpg
 intro_markdown: |-
-  By *Orit*
+  *By Orit*
 
   30 years ago I walked away from corporate life as a group creative director to become an entrepreneur. Without looking back I rolled up my sleeves and got to work as an independent agency owner.&nbsp;
 sections:
@@ -15,6 +15,54 @@ sections:
       were constantly asked to get to deeper and more effective solutions. Even
       then, it wasn’t just about the design…our work had to have
       a purpose.&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
