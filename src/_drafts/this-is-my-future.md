@@ -11,7 +11,7 @@ tags:
   - Influencers
   - rethink luxury
   - Strategy
-featured_image: /uploads/unnamed.jpg
+featured_image:
 intro_markdown: |-
   *By Orit*
 
@@ -22,66 +22,6 @@ sections:
       were constantly asked to get to deeper and more effective solutions. Even
       then, it wasn’t just about the design…our work had to have
       a purpose.&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
