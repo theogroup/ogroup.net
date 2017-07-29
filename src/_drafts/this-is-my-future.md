@@ -4,7 +4,14 @@ publish_date: 2017-07-27 00:00:00
 featured: false
 tags:
   - News
-featured_image: /uploads/orit-blog.jpg
+  - Culture
+  - Dining
+  - Luxury Branding
+  - Press
+  - Influencers
+  - rethink luxury
+  - Strategy
+featured_image: /uploads/img-9461.jpg
 intro_markdown: |-
   *By Orit*
 
@@ -15,6 +22,18 @@ sections:
       were constantly asked to get to deeper and more effective solutions. Even
       then, it wasn’t just about the design…our work had to have
       a purpose.&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
