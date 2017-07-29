@@ -4,11 +4,17 @@ publish_date: 2017-07-27 00:00:00
 featured: true
 tags:
   - News
+  - Design
+  - Culture
+  - Luxury Branding
+  - Press
+  - rethink luxury
+  - Strategy
 featured_image: /uploads/dymon-blog.png
 intro_markdown: |-
   *By Daymon Bruck*
 
-  Most stories we know follow the expected format of a beginning, middle and an end, correct? Well...this one strays a bit from the expected.&nbsp;
+  Most stories we know follow the expected format of a beginning, middle and an end, correct? Well…this one strays a bit from the expected.&nbsp;
 sections:
   - text_markdown: >-
       25 years ago I accepted my first job as a Creative Director in New York
@@ -19,6 +25,18 @@ sections:
       to my work before and I said yes on the spot. My time at her branding
       agency, The O Group was one of the most rewarding of my career and after
       4 years together, it was time for me to move on to new challenges.&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -42,7 +60,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **Go West (Youngish) Man**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -64,7 +106,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **The Return of O**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -76,6 +142,18 @@ sections:
       traditional agency model and wanted to work side-by-side with a creative
       partner on select clients only - and that partner she had in mind was the
       friendly ghost from her past - moi.&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -93,9 +171,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       My past has literally become my present and future. I became Partner and
       CCO at The O Group and lead the West Coast office in Seattle, appropriately
       labeled O Group West.&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
