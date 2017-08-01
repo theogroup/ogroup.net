@@ -1,8 +1,8 @@
 ---
 title: Clutch Release
-publish_date:
+publish_date: 2017-07-31 00:00:00
 featured: false
-tags: []
+tags:
 featured_image: /uploads/default-image.jpg
 intro_markdown:
 sections:
@@ -15,4 +15,6 @@ sections:
       video_height:
 contact_tagline: "Let's start a conversation about luxury."
 ---
+
+
 DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
