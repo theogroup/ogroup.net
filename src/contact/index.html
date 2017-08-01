@@ -69,7 +69,8 @@ seattle_phone: 206.949.8173
 <section class="split full">
   <div class="split banner">
     <div class="split split-left">
-    {% assign post = site.posts | last %}
+    {% assign posts = site.posts | sort: 'publish_date' %}
+    {% assign post = posts | last %}
     <a href="{{post.url}}">
       <h5>Blog</h5>
       <h3>{{ post.title }}</h3>

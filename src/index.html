@@ -232,7 +232,8 @@ description: 'A New York & Seattle based creative agency focused on rethinking l
        </a>
        </div>
       <div class="split split-right">
-        {% assign post = site.posts | last %}
+        {% assign posts = site.posts | sort: 'publish_date' %}
+        {% assign post = posts | last %}
         <a href="{{post.url}}">
           <h5>Blog</h5>
           {% if post %}<h3>{{ post.title }}</h3>{% endif %}
