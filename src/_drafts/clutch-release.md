@@ -1,6 +1,6 @@
 ---
 title: Clutch Release
-publish_date:
+publish_date: 2017-08-03 00:00:00
 featured: false
 tags:
 featured_image: /uploads/unnamed.png
@@ -18,23 +18,11 @@ intro_markdown: >-
 
 
 
-  &nbsp;
-
-
-
-
-
   Their segment devoted to branding is one of the most extensive and competitive
   listings on their site, with some of the country’s strongest agencies vying for
   the position as the top provider for buyers seeking branding services. For this
   reason, The O Group is incredibly proud and excited to announce that Clutch has
   featured us as one of the best branding agencies in New York in 2017.
-
-
-
-
-
-  &nbsp;
 
 
 
@@ -51,24 +39,12 @@ intro_markdown: >-
 
 
 
-  &nbsp;
-
-
-
-
-
   Next, and most significantly, Clutch analysts spoke directly with our former
   and current clients to generate reviews for The O Group, all of which can be
   accessed through our [Clutch profile](https://clutch.co/profile/o-group). In
   creating these reviews, Clutch interviewed our clients with detailed and
   purposeful questions aimed at understanding how we’ve partnered with them and
   what sort of outcomes our work has produced.
-
-
-
-
-
-  &nbsp;
 
 
 
@@ -82,6 +58,18 @@ intro_markdown: >-
 
 
 
+  Without our clients, The O Group would not be where it is today. We are greatly
+  appreciative of the partnerships we’ve maintained over the years and could not
+  be more proud of what we’ve accomplished together. Moving forward, we will
+  continue delivering quality work for our clients so we can not only maintain
+  the success we’ve had as an agency, but also continue rising on Clutch’s
+  platform until we have the spot at the top of their New York coverage and
+  beyond
+
+
+
+
+
   &nbsp;
 
 
@@ -90,15 +78,11 @@ intro_markdown: >-
 
   | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-  | &nbsp; | ![Description:
-  ../Desktop/Screen%20Shot%202017-07-26%20at%204.38.48%20PM.png](file://localhost/private/var/folders/gb/zjm82jys1gdc6v8lsvw5ckp40000gr/T/TemporaryItems/msoclip/0/clip_image003.png)
-  |
+  | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-  | &nbsp; |
+  | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-  | &nbsp; | &nbsp; | ![Description:
-  ../Desktop/Screen%20Shot%202017-07-26%20at%204.41.21%20PM.png](file://localhost/private/var/folders/gb/zjm82jys1gdc6v8lsvw5ckp40000gr/T/TemporaryItems/msoclip/0/clip_image004.png)
-  |
+  | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
 
 
@@ -219,30 +203,6 @@ intro_markdown: >-
 
 
   &nbsp;
-
-
-
-
-
-  &nbsp;
-
-
-
-
-
-  &nbsp;
-
-
-
-
-
-  Without our clients, The O Group would not be where it is today. We are greatly
-  appreciative of the partnerships we’ve maintained over the years and could not
-  be more proud of what we’ve accomplished together. Moving forward, we will
-  continue delivering quality work for our clients so we can not only maintain
-  the success we’ve had as an agency, but also continue rising on Clutch’s
-  platform until we have the spot at the top of their New York coverage and
-  beyond
 sections:
   - text_markdown: >-
       In an ongoing effort to identify high-performing B2B service providers
@@ -253,6 +213,18 @@ sections:
       industries, including IT services and development, advertising and
       marketing, social media marketing and SEO, and most importantly,
       [branding](https://clutch.co/agencies/branding/new-york).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -269,12 +241,36 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       To receive this distinction, The O Group had to prove ourselves as a strong
       and results-driven agency as determined by a few different factors. First,
       Clutch measured our presence in the branding market by looking at the
       clients we serve, the branding services we offer, and our ability to
       deliver quality projects as showcased by the [case
       studies](https://www.ogroup.net/work/) displayed on our website.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -292,9 +288,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       These reviews, combined with our branding expertise, is what has led to our
       placement on Clutch, giving us the opportunity to see how we rank compared
       to similar firms. So far, so good.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -312,7 +332,31 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -330,19 +374,13 @@ sections:
 
 
 
-      &nbsp;
 
 
 
 
 
-      &nbsp;
 
 
-
-
-
-      &nbsp;
 
 
 
@@ -354,13 +392,103 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -393,6 +521,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Their segment devoted to branding is one of the most extensive and
       competitive listings on their site, with some of the country’s strongest
       agencies vying for the position as the top provider for buyers seeking
@@ -404,12 +544,36 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       To receive this distinction, The O Group had to prove ourselves as a strong
       and results-driven agency as determined by a few different factors. First,
       Clutch measured our presence in the branding market by looking at the
       clients we serve, the branding services we offer, and our ability to
       deliver quality projects as showcased by the
       [c](https://www.ogroup.net/work/)ase studies displayed on our website.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -427,6 +591,18 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       These reviews, combined with our branding expertise, is what has led to our
       placement on Clutch, giving us the opportunity to see how we rank compared
       to similar firms. So far, so good.
@@ -435,9 +611,33 @@ sections:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
       | &nbsp; | &nbsp; | &nbsp; |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
