@@ -3,7 +3,7 @@ title: CLUTCH
 publish_date:
 featured: false
 tags:
-featured_image: /uploads/default-image.jpg
+featured_image: /uploads/unnamed-3.png
 intro_markdown: >-
   &nbsp;
 
@@ -17,8 +17,7 @@ intro_markdown: >-
   a ratings and reviews platform for service providers, has profiled and
   evaluated thousands of companies belonging to a wide range of industries,
   including IT services and development, advertising and marketing, social media
-  marketing and SEO, and most importantly,
-  [branding](https://clutch.co/agencies/branding/new-york).
+  marketing and SEO, and most importantly, branding
 
 
 
@@ -38,7 +37,7 @@ intro_markdown: >-
   results-driven agency as determined by a few different factors. First, Clutch
   measured our presence in the branding market by looking at the clients we
   serve, the branding services we offer, and our ability to deliver quality
-  projects as showcased by the [case studies](https://www.ogroup.net/work/)
+  projects as showcased by the [c](https://www.ogroup.net/work/)ase studies
   displayed on our website.
 
 
@@ -47,10 +46,10 @@ intro_markdown: >-
 
   Next, and most significantly, Clutch analysts spoke directly with our former
   and current clients to generate reviews for The O Group, all of which can be
-  accessed through our [Clutch profile](https://clutch.co/profile/o-group). In
-  creating these reviews, Clutch interviewed our clients with detailed and
-  purposeful questions aimed at understanding how we’ve partnered with them and
-  what sort of outcomes our work has produced.
+  accessed through our Clutch profile. In creating these reviews, Clutch
+  interviewed our clients with detailed and purposeful questions aimed at
+  understanding how we’ve partnered with them and what sort of outcomes our work
+  has produced.
 
 
 
@@ -69,8 +68,8 @@ intro_markdown: >-
   be more proud of what we’ve accomplished together. Moving forward, we will
   continue delivering quality work for our clients so we can not only maintain
   the success we’ve had as an agency, but also continue rising on Clutch’s
-  platform until we have the spot at the top of their New York coverage and
-  beyond.
+  platform until we have the spot at the top of their New York and Seattle
+  coverage and beyond.
 sections:
   - text_markdown:
     single_image:
