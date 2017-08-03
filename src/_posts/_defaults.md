@@ -3,7 +3,8 @@ title:
 publish_date:
 featured: false
 tags: []
-featured_image: /uploads/default-image.jpg
+image: /uploads/default-image.jpg
+description:
 intro_markdown: >-
 
 

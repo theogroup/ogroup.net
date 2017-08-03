@@ -2,7 +2,7 @@
 title: ​VR and the Luxury Consumer
 publish_date: 2017-01-03 00:00:00
 featured: false
-featured_image: /uploads/blog-13-featured.jpg
+image: /uploads/blog-13-featured.jpg
 intro_markdown: 'The future of digital marketing has arrived to the luxury arena. Virtual reality (VR) is finally a serious contender with improved technology and more considered applications. It’s being embraced by the likes of Charlotte Tilbury, Tommy Hilfiger and even the House of Dior as a powerful means for reinforcing a brand.​'
 
 sections:

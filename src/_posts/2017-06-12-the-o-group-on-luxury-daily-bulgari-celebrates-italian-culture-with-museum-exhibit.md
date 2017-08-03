@@ -2,7 +2,7 @@
 title: 'The O Group on Luxury Daily: Bulgari celebrates Italian culture with museum exhibit'
 publish_date: 2015-01-30 00:00:00
 featured: false
-featured_image: /uploads/blog-25-f.png
+image: /uploads/blog-25-f.png
 intro_markdown: "Today on Luxury Daily Orit, president/CEO of The O Group, comments on Bulgari's latest exhibition titled \"Bellisima. Italy and High Fashion 1945-1968.\"​"
 
 sections:

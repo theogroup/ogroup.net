@@ -7,7 +7,7 @@ tags:
   - Dining
   - Hospitality
   - Restaurant Branding
-featured_image: /uploads/vacleuse.jpg
+image: /uploads/vacleuse.jpg
 intro_markdown: "Vaucluse, Chef Michael White and Altamarea Group's newest property, launched to acclaim last month (check out some of the great press their team has gotten in the NY Times and on wwd.com.) We're proud to see our visual branding and logo design work come alive within such an incredible concept.​"
 
 sections:

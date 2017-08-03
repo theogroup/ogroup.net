@@ -2,7 +2,7 @@
 title: ​Retail Needs an Experience Adjustment
 publish_date: 2016-11-08 00:00:00
 featured: false
-featured_image: /uploads/blog-18-featired.jpg
+image: /uploads/blog-18-featired.jpg
 intro_markdown:
 
 sections:

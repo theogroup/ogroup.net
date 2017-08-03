@@ -4,7 +4,7 @@ publish_date: 2015-08-11 00:00:00
 featured: false
 tags:
   - strategy
-featured_image:
+image:
 intro_markdown: "If you've stepped inside a stadium or arena over the past few years, you'll have noticed a shift in the overall experience. While hotdogs, foam fingers and rowdy fans are still present, many new and, more significantly, upscale additions are becoming standard practice. You're now just as likely to find microbrews and artisanal delicacies, as you are peanuts and crackerjack.​"
 
 sections:

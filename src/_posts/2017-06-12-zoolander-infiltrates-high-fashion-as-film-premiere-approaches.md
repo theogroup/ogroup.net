@@ -2,7 +2,7 @@
 title: Zoolander infiltrates high fashion as film premiere approaches
 publish_date: 2016-02-03 00:00:00
 featured: false
-featured_image: /uploads/blog-25-f.png
+image: /uploads/blog-25-f.png
 intro_markdown: 'Quoted in Luxury Daily today, our Business Development Manager Kristen Dillman shares her take on the luxury fashion world’s alignment with Zoolander.​'
 
 sections:

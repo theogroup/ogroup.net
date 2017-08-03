@@ -2,7 +2,7 @@
 title: 'Q & O with Lucia Litman'
 publish_date: 2016-11-01 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: 'The lovely and talented Lucia Litman was kind enough to chat with me the other day, and share how food has been an inspiration for her creative eye.​'
 
 sections:

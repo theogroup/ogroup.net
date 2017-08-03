@@ -4,7 +4,7 @@ publish_date: 2015-04-01 00:00:00
 featured: false
 tags:
   - News
-featured_image: /uploads/cork.jpg
+image: /uploads/cork.jpg
 intro_markdown: 'Rising temperatures. Outside parties. Just the right mix of sophistication and fun. Summer is Ros&eacute; Season. Ros&eacute; is the chic, in-the-know choice for Summer 2015.​'
 
 sections:

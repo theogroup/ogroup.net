@@ -3,7 +3,7 @@ title: 'The Shinola Obsession—Millennials & Brands That Do Good'
 publish_date: 2013-11-14 00:00:00
 featured: false
 tags: [Strategy]
-featured_image: /uploads/blog-49-f.jpg
+image: /uploads/blog-49-f.jpg
 intro_markdown: "It's no secret that millennials respond to \"cause related marketing\", according to the likes of Boston Consulting Group, Barkley, and Pew, to name a few giants. I fall firmly within the millennial generation, and although in general I find myself nodding along in vague agreement with most of the findings, ‘cause marketing' as a driver of purchases never felt quite right to me.​"
 
 sections:

@@ -4,7 +4,7 @@ publish_date: 2015-10-06 00:00:00
 featured: false
 tags:
   - Tech
-featured_image: /uploads/2.jpg
+image: /uploads/2.jpg
 intro_markdown: "On a recent visit with my parents, I dropped this tongue-in-cheek bombshell: \"Marketers don't care about you, or your Baby Boomer cohorts anymore. We only care about Millennials. Sorry guys.\"​"
 
 sections:

@@ -2,7 +2,7 @@
 title: Workspace can make or break your brand
 publish_date: 2016-07-26 00:00:00
 featured: false
-featured_image: /uploads/blog-24-f.jpg
+image: /uploads/blog-24-f.jpg
 intro_markdown: 'Insight from our Chief Creative Officer, Jason B Cohen, on the relationship between workspace and brand and what this impending move means for The O Group.​'
 
 sections:

@@ -3,7 +3,7 @@ title: 'Q&O - The Luxury of Travel & Connection with Joe Diaz, Co-Founder of AFA
 publish_date: 2014-01-14 00:00:00
 featured: false
 tags: [Q&O, Travel]
-featured_image:
+image:
 intro_markdown: "Today I'm talking with Joe Diaz, co-founder of&nbsp;[AFAR Media](http://www.afar.com/)- a brand that inspires travelers to get off the tour bus, take a seat at the kitchen table, and connect.​"
 
 sections:

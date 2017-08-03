@@ -2,7 +2,7 @@
 title: Chevrolet Attempts to Catch a Wave With New Surf Truck
 publish_date: 2016-11-29 00:00:00
 featured: false
-featured_image: /uploads/blog-17-featured.jpg
+image: /uploads/blog-17-featured.jpg
 intro_markdown: 'Auto industry sales always seem to ebb and flow based on a number of factors, including: the strength of the economy, rising (or falling) gas prices, consumer confidence, etc. While some brands, especially in the luxury sector, are less prone to these peaks and valleys, consistently delivering vehicles that appeal to consumers and stay at the forefront of trends is a challenge facing every auto brand.​'
 
 sections:

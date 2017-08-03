@@ -2,7 +2,7 @@
 title: Redefining Luxury for the Millennial Market
 publish_date: 2013-05-15 00:00:00
 featured: false
-featured_image: /uploads/blog-51-f.jpg
+image: /uploads/blog-51-f.jpg
 intro_markdown: 'Gone are the days of "prestige" and "social status" as indicators of desirability in luxury brands—millennials want authenticity, singularity, and social value from the brands we choose to champion.​'
 
 sections:

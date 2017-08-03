@@ -2,7 +2,7 @@
 title: 'Luxury Branding: 7 Other Brick-and-Mortar Touch Points'
 publish_date: 2013-08-16 00:00:00
 featured: false
-featured_image: /uploads/blog-56-f.jpg
+image: /uploads/blog-56-f.jpg
 intro_markdown: 'As online engagement continues to increase, brand elements like positioning and concept along with visual and verbal touch points are finally getting the attention they deserve. For better or worse, "Branding" has become a part of the everyday vernacular and as such, it has grown exponentially broader and deeper.​'
 
 sections:

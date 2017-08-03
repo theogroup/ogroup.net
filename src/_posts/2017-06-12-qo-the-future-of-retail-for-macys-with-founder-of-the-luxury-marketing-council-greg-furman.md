@@ -3,7 +3,7 @@ title: 'Q&O - The Future of Retail for Macy’s with Founder of the Luxury Marke
 publish_date: 2016-01-28 00:00:00
 featured: false
 tags: [Q&O, Retail, Strategy]
-featured_image:
+image:
 intro_markdown: 'Q&O has gotten a facelift! This year I’ll be asking industry experts to weigh in on industry news and adding my own opinion to the conversation. A series of short soundbites will provide insight into where smart, innovative brands are headed. Read on!​'
 
 sections:

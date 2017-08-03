@@ -3,7 +3,7 @@ title: 'Q&O with Efren Puente, Brand Director at Magnum Cream Liqueur: Trends in
 publish_date: 2014-11-11 00:00:00
 featured: false
 tags: [Q&O]
-featured_image:
+image:
 intro_markdown: 'I recently sat down to talk drinks with Efren Puente, Brand Director of Magnum Cream Liqueur.​'
 
 sections:

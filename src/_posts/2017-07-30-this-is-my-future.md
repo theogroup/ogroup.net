@@ -9,7 +9,8 @@ tags:
   - Influencers
   - rethink luxury
   - Strategy
-featured_image: /uploads/unnamed-1.jpg
+image: /uploads/unnamed-1.jpg
+description: 30 years ago I walked away from corporate life as a group creative director to become an entrepreneur. Without looking back I rolled up my sleeves and got to work as an independent agency owner.
 intro_markdown: |-
   *By Orit*
 

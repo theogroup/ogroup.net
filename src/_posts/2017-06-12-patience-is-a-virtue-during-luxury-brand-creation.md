@@ -2,7 +2,7 @@
 title: Patience is a Virtue During Luxury Brand Creation
 publish_date: 2014-01-29 00:00:00
 featured: false
-featured_image: /uploads/blog-48-f.jpg
+image: /uploads/blog-48-f.jpg
 intro_markdown: "Each morning I drink a cup of coffee, look at my calendar and email, check the weather and then decide what to wear. You probably have some kind of similar routine for getting ready, whether it's choosing your outfit or picking the right accessories.​"
 
 sections:

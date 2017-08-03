@@ -2,7 +2,8 @@
 title: 'Q & O with Carmen Edelson'
 publish_date: 2017-02-08 00:00:00
 featured: false
-featured_image: /uploads/blog-10-featured.png
+image: /uploads/blog-10-featured.png
+description: 'Q & O with Carmen Edelson; travel influencer, and writer, specializing in luxury and family travel.​'
 intro_markdown: 'Q & O with Carmen Edelson; travel influencer, and writer, specializing in luxury and family travel.​'
 
 sections:

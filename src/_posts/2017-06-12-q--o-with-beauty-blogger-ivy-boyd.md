@@ -2,7 +2,7 @@
 title: 'Q & O with Beauty Blogger Ivy Boyd'
 publish_date: 2017-01-18 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: 'Ivy Boyd, former graphic designer, turned makeup artist/ beauty blogger and contributor to More.com sat with Orit to discuss cosmetics, the impact of social media within the industry and her thoughts on where beauty fits in the luxury category.​'
 
 sections:

@@ -3,7 +3,7 @@ title: VR and AR Quickly Becoming Reality
 publish_date: 2016-03-01 00:00:00
 featured: false
 tags: [Wearable Tech, Tech]
-featured_image: /uploads/blog-34-f.jpg
+image: /uploads/blog-34-f.jpg
 intro_markdown: 'The combined Virtual Reality (VR) and Augmented Reality (AR) markets are projected to generate around $150 billion dollars a year by 2020, according to a forecast by Digi-Capital. How can brands make the most of this opportunity?​'
 
 sections:

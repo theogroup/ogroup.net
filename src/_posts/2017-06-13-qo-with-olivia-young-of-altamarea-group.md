@@ -3,7 +3,7 @@ title: 'Q&O with Olivia Young of Altamarea Group'
 publish_date: 2013-09-12 00:00:00
 featured: false
 tags: [Q&O]
-featured_image:
+image:
 intro_markdown: "Today I'm speaking with Olivia Young, Head of Media & Communications for&nbsp;[Altamarea Group](http://www.altamareagroup.com/), whose restaurants include Ai Fiori, Osteria Morini, and Marea, to name a few.​"
 
 sections:

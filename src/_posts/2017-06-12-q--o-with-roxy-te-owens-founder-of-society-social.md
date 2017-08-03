@@ -2,7 +2,7 @@
 title: 'Q & O With Roxy Te Owens Founder of Society Social'
 publish_date: 2016-11-15 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: >-
   Roxy Owens has had a knack for furniture design from a very young age. With her
   parents launching their home line right out of college, Roxy spent the majority

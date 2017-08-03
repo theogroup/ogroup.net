@@ -2,7 +2,7 @@
 title: 'Pringle of Scotland celebrates 200th anniversary by educating on history, heritage'
 publish_date: 2015-04-15 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: 'Quoted in Luxury Daily today! Account Executive at The O Group, Elizabeth Weinstein, offers her take on Pringle of Scotland’s 200th anniversary activation, and what it means for the brand moving forward.​'
 
 sections:

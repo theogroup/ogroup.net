@@ -3,7 +3,7 @@ title: Holiday Overload? We’ve Got You
 publish_date: 2014-12-29 00:00:00
 featured: false
 tags: [Video]
-featured_image: /uploads/blog-41-f.jpg
+image: /uploads/blog-41-f.jpg
 intro_markdown: 'Instead of just wishing you Happy Holiday & New Year, we thought we could do better.​'
 
 sections:

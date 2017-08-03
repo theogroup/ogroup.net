@@ -3,7 +3,7 @@ title: 'Q&O - Differentiating True from Affordable Luxury, An Interview with Mic
 publish_date: 2013-10-10 00:00:00
 featured: false
 tags: [Q&O]
-featured_image:
+image:
 intro_markdown: 'Today I’m chatting with my dear friend, Michele (Mickey) Ateyeh, whose career in fine jewelry and designer accessories has taken her from Tiffany & Co. to Hermes, then Angela Cummings, followed by Karl Lagerfeld and Carlos Falchi.​'
 
 sections:

@@ -2,7 +2,7 @@
 title: 'Luxury Branding: Summer Promotions at the Liquor Store'
 publish_date: 2013-07-26 00:00:00
 featured: false
-featured_image: /uploads/blog-54-f.jpg
+image: /uploads/blog-54-f.jpg
 intro_markdown: "We're halfway through the summer and it's time for another installment in our Summer Fridays out-in-the-real-world blog post series.​"
 
 sections:

@@ -2,7 +2,7 @@
 title: Burberry debuts first ads for revamped retail strategy
 publish_date: 2016-06-01 00:00:00
 featured: false
-featured_image: /uploads/blog-25-f.png
+image: /uploads/blog-25-f.png
 intro_markdown: 'Quoted in Luxury Daily today, our Business Development Manager Kristen Dillman shares her take on Burberry’s move away from seasonal campaigns and consolidation of labels within the brand.​'
 
 sections:

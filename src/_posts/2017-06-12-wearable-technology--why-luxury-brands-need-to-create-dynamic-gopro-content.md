@@ -3,7 +3,7 @@ title: Wearable Technology – Why Luxury Brands Need to Create Dynamic GoPro Co
 publish_date: 2014-02-18 00:00:00
 featured: false
 tags: [Tech, Wearable Tech]
-featured_image: /uploads/blog-47-f.jpg
+image: /uploads/blog-47-f.jpg
 intro_markdown: "In an earlier article I wrote,&nbsp;[Luxury is the New Black](http://ogroup.net/luxury_branding_blog/the-new-black/), I talked about brands using the word \"black\" to denote a high-end offering. So I wasn't completely surprised to see that GoPro, the amazing video camera brand, had released a new model, \"GoPro Hero 3 Black Edition.\"​"
 
 sections:

@@ -2,7 +2,7 @@
 title: Jean Paul Gaultier takes comical approach to launch limited-edition fragrances
 publish_date: 2016-04-08 00:00:00
 featured: false
-featured_image: /uploads/blog-29-f.png
+image: /uploads/blog-29-f.png
 intro_markdown: 'Quoted in Luxury Daily today, our Client Services Manager Elizabeth Weinstein shares her take on the limited-edition fragrances of Jean Paul Gaultier.​'
 
 sections:

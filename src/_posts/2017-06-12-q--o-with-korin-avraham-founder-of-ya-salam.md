@@ -2,7 +2,7 @@
 title: 'Q & O With Korin Avraham Founder of Ya Salam'
 publish_date: 2016-12-06 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: "[Ya Salam](http://yasalam.co/)&nbsp;is a popular fashion and lifestyle blog that was voted third place by Harper's Bazaar, as one of the top blogs to follow, and we had the great oppurtunity to sit with brand ambassador and founder of Ya Salam, Korin Avraham.​"
 
 sections:

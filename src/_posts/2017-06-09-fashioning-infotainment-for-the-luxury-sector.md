@@ -2,7 +2,8 @@
 title: Fashioning Infotainment for the Luxury Sector
 publish_date: 2017-03-01 00:00:00
 featured: false
-featured_image: /uploads/blog-7-featured.jpg
+image: /uploads/blog-7-featured.jpg
+description: 'The luxury sector must reinvent itself in order to remain relevant, attractive and exciting. This extends to adapting marketing methods to reflect the strongest, most promising strategies of our time. One such strategy and a particularly promising trend for the new year comes to mind - infotainment video.​'
 intro_markdown: 'The luxury sector must reinvent itself in order to remain relevant, attractive and exciting. This extends to adapting marketing methods to reflect the strongest, most promising strategies of our time. One such strategy and a particularly promising trend for the new year comes to mind - infotainment video.​'
 
 sections:

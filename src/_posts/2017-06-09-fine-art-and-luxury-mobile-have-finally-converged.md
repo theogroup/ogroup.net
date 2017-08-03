@@ -2,7 +2,8 @@
 title: Fine Art and Luxury Mobile Have Finally Converged
 publish_date: 2017-02-22 00:00:00
 featured: false
-featured_image: /uploads/blog-8-featured.jpg
+image: /uploads/blog-8-featured.jpg
+description: Master works of art and museum-worthy haute couture can be yours with just a few clicks on your mobile phone. The future has certainly arrived.​
 intro_markdown: Master works of art and museum-worthy haute couture can be yours with just a few clicks on your mobile phone. The future has certainly arrived.​
 
 sections:

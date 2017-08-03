@@ -2,7 +2,7 @@
 title: 'Beauty & Cosmetics: How Millennials Are Shifting a Category'
 publish_date: 2016-10-19 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: There is a shift occurring in the beauty and cosmetics category that is indicative of a larger change taking place throughout many other categories.​
 
 sections:

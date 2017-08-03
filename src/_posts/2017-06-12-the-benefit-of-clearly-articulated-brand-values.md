@@ -3,7 +3,7 @@ title: The Benefit of Clearly Articulated Brand Values
 publish_date: 2014-05-27 00:00:00
 featured: false
 tags: [Strategy]
-featured_image: /uploads/blog-45-f.jpg
+image: /uploads/blog-45-f.jpg
 intro_markdown: "A short while ago Jason visited the Manhattan Auto Show—an annual personal tradition. On Monday he couldn't wait to share two pieces he'd picked up there with the team: and they had nothing to do with cars.​"
 
 sections:

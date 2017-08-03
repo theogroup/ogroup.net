@@ -3,7 +3,7 @@ title: Can Malls Remain Relevant for Consumers?
 publish_date: 2016-04-16 00:00:00
 featured: false
 tags: [rethink luxury, Retail]
-featured_image: /uploads/blog-30-f.jpg
+image: /uploads/blog-30-f.jpg
 intro_markdown: Shouldn’t the mall experience evolve to capitalize on how consumers’ predilections have changed?​
 
 sections:

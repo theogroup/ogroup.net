@@ -3,7 +3,7 @@ title: Judge Your Luxury Brand by its Weakest Point of Execution
 publish_date: 2013-05-07 00:00:00
 featured: false
 tags: [Strategy]
-featured_image:
+image:
 intro_markdown: "As a luxury brand, it is easy to rest on the laurels of everything you have done right. Maybe your retail strategy is exceptional, or you've launched a cutting-edge experiential Web site.​"
 
 sections:

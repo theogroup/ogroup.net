@@ -3,7 +3,7 @@ title: 'Q&O - Talking Spirits Innovation & Distribution with Dave O’Brien of P
 publish_date: 2014-07-24 00:00:00
 featured: false
 tags: [Q&O]
-featured_image:
+image:
 intro_markdown: 'I caught up with fellow spirits industry veteran the other day, Dave O’Brien, Founder of&nbsp;[Proof ABV](http://proofabv.com/)&nbsp;(Agents & Brand Ventures).​'
 
 sections:

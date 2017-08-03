@@ -3,7 +3,8 @@ title: Social Impact Unleashed
 publish_date: 2017-03-29 00:00:00
 featured: true
 tags: [Culture]
-featured_image: /uploads/blog-2-featured.jpg
+image: /uploads/blog-2-featured.jpg
+description: A call has been sounded all over the world for women to come together and to start disrupting spaces and changing the way we traditionally view media channels.​
 intro_markdown: A call has been sounded all over the world for women to come together and to start disrupting spaces and changing the way we traditionally view media channels.​
 
 sections:

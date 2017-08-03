@@ -2,7 +2,7 @@
 title: Baccarat elaborates on inspiration in Paris retrospective
 publish_date: 2014-10-01 00:00:00
 featured: false
-featured_image: /uploads/blog-25-f.png
+image: /uploads/blog-25-f.png
 intro_markdown: 'Today in Luxury Daily, Account Executive Elizabeth Weinstein comments on Baccarat’s newly launched retrospective at the Grande Galeries of the Petit Palais in Paris celebrating the brand’s 250th anniversary.​'
 
 sections:

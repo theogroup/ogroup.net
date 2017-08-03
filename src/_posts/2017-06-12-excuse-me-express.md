@@ -3,7 +3,7 @@ title: 'Excuse me, Express?'
 publish_date: 2016-01-26 00:00:00
 featured: false
 tags: [Retail, rethink luxury]
-featured_image: /uploads/blog-37-f.jpg
+image: /uploads/blog-37-f.jpg
 intro_markdown: "Over the past few weeks it's been difficult to ignore the fact that a certain retailer, which hasn't been a major player in my wardrobe game since c. 2001, has pushed itself to the forefront of my social media accounts. Guess who?​"
 
 sections:

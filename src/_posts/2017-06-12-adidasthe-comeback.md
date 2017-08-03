@@ -3,7 +3,7 @@ title: Adidas—the comeback
 publish_date: 2016-03-08 00:00:00
 featured: false
 tags: [Strategy, rethink luxury]
-featured_image: /uploads/blog-33-f.jpg
+image: /uploads/blog-33-f.jpg
 intro_markdown: 'I love a good comeback. Especially from a brand that lost its way not by any major misstep, but rather by being a little too quiet for a little too long.​'
 
 sections:

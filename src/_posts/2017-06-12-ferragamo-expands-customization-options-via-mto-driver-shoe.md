@@ -2,7 +2,7 @@
 title: Ferragamo expands customization options via MTO Driver shoe
 publish_date: 2015-06-02 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: "Quoted in Luxury Daily today! Account Executive at The O Group, Elizabeth Weinstein, offers her take on Salvatore Ferragamo’s new customization program for its men's Driving shoe.​"
 
 sections:

@@ -2,7 +2,7 @@
 title: Hublot demonstrates passion for football by profiling legendary moments
 publish_date: 2016-03-21 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: 'What to make of luxury Swiss watchmaker Hublot’s "Hublot Loves Football" campaign? In the midst of Baselworld, our Strategy Director offers his opinion in Luxury Daily.​'
 
 sections:

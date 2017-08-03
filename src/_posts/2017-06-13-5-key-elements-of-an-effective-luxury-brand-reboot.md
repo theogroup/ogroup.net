@@ -3,7 +3,7 @@ title: 5 Key Elements of an Effective Luxury Brand Reboot
 publish_date: 2013-08-08 00:00:00
 featured: false
 tags: [Strategy]
-featured_image: /uploads/blog-55-f.jpg
+image: /uploads/blog-55-f.jpg
 intro_markdown: 'Having worked in branding and design for nearly 18 years, some of the most rewarding, interesting and impactful – not to mention, award-winning – work I have done has been in rebranding existing companies, goods and services.​'
 
 sections:

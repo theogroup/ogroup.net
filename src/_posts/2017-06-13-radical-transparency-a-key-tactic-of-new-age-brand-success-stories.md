@@ -2,7 +2,7 @@
 title: 'Radical Transparency: A Key Tactic of New-Age Brand Success Stories'
 publish_date: 2013-07-11 00:00:00
 featured: false
-featured_image:
+image:
 intro_markdown: 'With neither the high-end distribution nor the advertising dollars of traditional luxury offerings, brands new on the scene today are forced to innovate in order to compete. But as they do so, their innovations make them not just competitive in a saturated market, but leaders who elevate the status quo, stealing market share from their established counterparts along the way.​'
 
 sections:

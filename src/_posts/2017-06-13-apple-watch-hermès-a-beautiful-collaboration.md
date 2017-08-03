@@ -4,7 +4,7 @@ publish_date: 2015-09-16 00:00:00
 featured: false
 tags:
   - strategy
-featured_image: /uploads/4.jpg
+image: /uploads/4.jpg
 intro_markdown: 'The recent Apple event announcing a suite of new products, as well as updated versions of existing products, certainly captured the attention of fans and foes of the brand. While there were a handful of announcements that set the internet ablaze, it was an interesting and somewhat unexpected partnership that really got The O Group office buzzing.​'
 sections:
   - text_markdown: >-

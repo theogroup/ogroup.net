@@ -5,7 +5,7 @@ featured: false
 tags:
   - Retail
   - strategy
-featured_image: /uploads/5.jpg
+image: /uploads/5.jpg
 intro_markdown: "In which I visit Dress Bar, a pop up activation from Dress Barn. That's right, the strip-mall retailer made a move to Fifth Avenue and their window display actually made me walk right in. How?​"
 
 sections:

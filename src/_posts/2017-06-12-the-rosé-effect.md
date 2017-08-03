@@ -3,7 +3,7 @@ title: The Rosé Effect
 publish_date: 2016-05-23 00:00:00
 featured: false
 tags: [Spirits Branding, Strategy]
-featured_image: /uploads/blog-27-f.jpg
+image: /uploads/blog-27-f.jpg
 intro_markdown: 'It’s almost Memorial Day so of course I’m wondering, exactly how did ros&eacute; rise to total warm-weather ownership? Click through for a trip down memory lane, from 1980–now.​'
 
 sections:

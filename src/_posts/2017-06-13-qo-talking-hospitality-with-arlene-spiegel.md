@@ -3,7 +3,7 @@ title: 'Q&O - Talking Hospitality with Arlene Spiegel'
 publish_date: 2013-10-03 00:00:00
 featured: false
 tags: [Q&O]
-featured_image:
+image:
 intro_markdown: "Today I'm speaking with Arlene Spiegel, who's been in the hospitality industry for twenty-five years.​"
 
 sections:

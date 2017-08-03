@@ -6,7 +6,7 @@ layout: default
   <div class="banner photo" style="background-position: center center">
     <img
       class="js-img"
-      ix-path="{% if page.featured_image %}{{page.featured_image | replace: '/uploads/', ''}}{% else %}/blog-default.png{% endif %}"
+      ix-path="{% if page.image %}{{page.image | replace: '/uploads/', ''}}{% else %}/blog-default.png{% endif %}"
       ix-params='{
         "auto": "compress"
       }'
@@ -94,7 +94,7 @@ layout: default
     <div class="split-right" style="background-size: cover;">
       <img
         class="js-img"
-        ix-path="{{casestudy.featured_image | replace: '/uploads/', ''}}"
+        ix-path="{{casestudy.image | replace: '/uploads/', ''}}"
         ix-params='{
           "auto": "compress"
         }'

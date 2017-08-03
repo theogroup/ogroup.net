@@ -2,7 +2,7 @@
 title: 'The O Group in the New York Times: "Coach Expands Luxury Fashion Brand Buying Shoemaker Stuart Weitzman"'
 publish_date: 2015-01-07 00:00:00
 featured: false
-featured_image: /uploads/blog-40-f.jpg
+image: /uploads/blog-40-f.jpg
 intro_markdown: 'Today in The New York Times, Jason B. Cohen, EVP Creative at The O Group, comments on Coach’s recently confirmed acquisition of Stuart Weitzman.​'
 
 sections:

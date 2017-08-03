@@ -3,7 +3,7 @@ title: 'Fortune Magazine: "What’s the Future of Luxury?"'
 publish_date: 2014-12-22 00:00:00
 featured: false
 tags: [Sustainability]
-featured_image: /uploads/blog-43-f.jpg
+image: /uploads/blog-43-f.jpg
 intro_markdown: 'In a timely release, just as we head into 2015 The O Group is featured in Fortune Magazine’s article on the future of luxury.​'
 
 sections:

@@ -9,7 +9,8 @@ tags:
   - Luxury Branding
   - rethink luxury
   - Strategy
-featured_image: /uploads/dymon-blog.png
+image: /uploads/dymon-blog.png
+description: Most stories we know follow the expected format of a beginning, middle and an end, correct? Well…this one strays a bit from the expected.
 intro_markdown: |-
   *By Daymon Bruck*
 

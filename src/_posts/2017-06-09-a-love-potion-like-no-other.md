@@ -3,7 +3,8 @@ title: A Love Potion Like No Other
 publish_date: 2017-03-15 00:00:00
 tags: [Luxury Branding]
 featured: true
-featured_image: /uploads/blog-4-featured.jpg
+image: /uploads/blog-4-featured.jpg
+description: 'The O Group recently had the pleasure of being invited to what can only be described as an intoxicating experience by one of our favorite clients, The Pierre Hotel in Manhattan.​'
 intro_markdown: 'The O Group recently had the pleasure of being invited to what can only be described as an intoxicating experience by one of our favorite clients, The Pierre Hotel in Manhattan.​'
 
 sections:
