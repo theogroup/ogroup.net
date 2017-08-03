@@ -37,22 +37,6 @@ sections:
       winter cabin experience that featured a free test drive and unique designer
       d&eacute;cor.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       In marketing, we often refer to uncharted territories as “blue water.”
       Perhaps the time has come for the yachting industry to start exploring
       their own blue water by offering luxury consumers new, curated experiences.

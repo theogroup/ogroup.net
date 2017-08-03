@@ -15,39 +15,7 @@ sections:
       cultural trends for premium brands to keep in mind as they're considering
       their next moves:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       1. FEWER BETTER THINGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Over the past few years, the curation trend has bubbled over into personal
       possessions in an interesting way. I don't think I'm the only sucker for
@@ -55,41 +23,9 @@ sections:
       I think there's a cultural motivation behind the growing interest in fewer,
       better things.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       We live in a time where it's possible to have a toothbrush and a parka
       delivered to your door in under two hours, and Walmart just announced plans
       to begin testing drone-based delivery systems.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Mindless overconsumption isn't just backseat worry for people. It's now
       a real possibility and easily achieved with just a few clicks – especially
@@ -123,39 +59,7 @@ sections:
       using less space and owning less things since you really have no space to
       store your belongings. Any wide-open-plains folks care to weigh in?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       2. FAME CULTURE AS A TOOL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       If you live in the United States, and not under a rock, you're familiar
       with the power of celebrity and fame culture and the weight devoted to it
@@ -165,22 +69,6 @@ sections:
       the attention for good. I've seen two standout examples of this recently
       that made me think this is more than a few celebrities with hearts of gold
       (Jolie-Pitt Clan) on an independent mission.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       George Clooney recently appeared in his first North American commercial for
       Nespresso. The spot was a bit tongue in cheek, but perhaps what garnered
@@ -192,22 +80,6 @@ sections:
       a business's investment in the livelihood of a country in need of
       profitable industry.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       The other one that caught my eye was Kate Winslet's "no photoshopping"
       clause in her contract with L'Oreal / Lancome. She cited feeling
       a responsibility to be a positive influence on women, and realistically
@@ -218,39 +90,7 @@ sections:
       her fame to share a powerful message with women everywhere: success is
       independent of looks, and beauty comes in many different forms.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       3. SEEKING MORE MEANINGFUL EXPERIENCES
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Finally, with undertones of both the "fewer better things" trend and the
       "do well and do good" theme, as an agency immersed in travel and
@@ -261,22 +101,6 @@ sections:
       touch service and creating unforgettable moments. But now consumers want
       all of those things, PLUS a unique property that is reflective of its place
       — not a hotel-brand template.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       On the mass level, look to Courtyard by Marriott for an awesome example of
       this trend at play in their Viking Ship commercial. "Some people have to
@@ -311,22 +135,6 @@ sections:
   - text_markdown: >-
       Owning fewer, higher quality possessions, leaving a positive mark on the
       world, and making meaningful memories.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Premium brands will do well to contemplate how to infuse their thinking,
       brand and offerings with these trends in order to maintain relevancy.​

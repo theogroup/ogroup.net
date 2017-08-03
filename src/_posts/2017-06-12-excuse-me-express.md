@@ -16,14 +16,6 @@ sections:
       How in the world is Express carrying the new "it" jacket, why is it only
       $60 and most importantly, since when is Express relevant again?
 
-
-
-
-
-
-
-
-
       It seems I wasn't the only one of my girlfriends who had noticed the large
       amounts of marketing dollars Express had been spending. After the initial
       shock, I began to wonder...​
@@ -51,14 +43,6 @@ sections:
       tops they had to offer, and in true Express form, a "BOGO 50%" deal
       attached to each one.
 
-
-
-
-
-
-
-
-
       After a week of regaining interest and scouring potential gym outfits
       online, I ended up purchasing two workout tops. One—because I thought they
       were cute, two—because of the BOGO (I'm a bargain hunter at heart). Whether
@@ -66,14 +50,6 @@ sections:
       I definitely found myself feeling just a little nostalgic for those high
       school days roaming the mall and wandering into Express in search of a new
       top for the high school dance.
-
-
-
-
-
-
-
-
 
       Express may not be making a move to position themselves outside of mass,
       but they are rethinking what an elevated mass retail offering can evolve to
@@ -84,14 +60,6 @@ sections:
       a 50% discount really can do the trick. That said, I think it will take
       a sustained effort from the brand for more millennials like myself to put
       Express in their active-wear or fashion consideration set.
-
-
-
-
-
-
-
-
 
       How do I know Express still has a long way to go to relevance? When another
       girl at the gym asked where my new top was from and I told her she

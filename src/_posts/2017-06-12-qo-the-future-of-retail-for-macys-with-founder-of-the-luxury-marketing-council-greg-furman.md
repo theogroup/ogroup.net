@@ -15,24 +15,8 @@ sections:
       Greg’s past, including time with Sun Oil, J Walter Thompson, The New York
       Stock Exchange and Bergdorf Goodman, visit his bio here.
 
-
-
-
-
-
-
-
-
       If you know Greg, you’ll know he’s never short of an opinion on this
       industry. So let’s get to it!
-
-
-
-
-
-
-
-
 
       **Among other major US retailers, Macy’s has announced significant store
       closures in early 2016. Does this point to a larger trend?​**
@@ -53,14 +37,6 @@ sections:
       segmentation capabilities and marketing. Consider that America is vastly
       over-stored with 43 square feet of retail for every person versus 9 square
       feet of retail in the UK, the second largest in terms of retail space.
-
-
-
-
-
-
-
-
 
       So this wonderful combination has enabled Terry to choose premium locations
       that provide in-depth retail experience. And then shift the difference out
@@ -92,14 +68,6 @@ sections:
   - text_markdown: >-
       I’m not so sure it’s sprawling square footage and lots of inventory
       anymore.
-
-
-
-
-
-
-
-
 
       The internet provides unprecedented access to product, but I believe bricks
       and mortar is still critical—but brands who don’t consider how to bring

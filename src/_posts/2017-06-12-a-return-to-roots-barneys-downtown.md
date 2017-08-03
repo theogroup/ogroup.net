@@ -21,14 +21,6 @@ sections:
       Feb. 2016 opening, but seeing the large Barney’s banner on the
       fa&ccedil;ade made it seem real.
 
-
-
-
-
-
-
-
-
       Being a downtown girl myself, the idea of having this luxe department store
       steps away from my home was enough to fill my dreams with blissful downtown
       shopping trips that no longer involve weekends spent on the 6 train
@@ -49,14 +41,6 @@ sections:
       retail relief for all the millennials with disposable income working nearby
       at Google and Twitter who may need a lunch break fashion fix.
 
-
-
-
-
-
-
-
-
       I'd be remiss not to mention the fact that the 17th Street space is where
       Barneys first opened in 1923. This re-opening in the original neighborhood
       makes me love the brand even more. There is something about a uniquely New
@@ -68,14 +52,6 @@ sections:
       the visual impact of the "Instagrammable" white spiral staircase, the image
       that keeps surfacing across social media as the unofficial, "I’ve been to
       the downtown Barneys and you have not" shot.
-
-
-
-
-
-
-
-
 
       Yet, the brand isn’t relying solely on the buzz of the downtown opening to
       remain relevant. Sales associates inside the store are armed with iPads and

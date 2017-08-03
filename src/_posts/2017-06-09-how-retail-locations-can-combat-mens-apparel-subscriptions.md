@@ -15,26 +15,10 @@ sections:
       normcore sensibilities, as well as friends who consistently wear
       hyper-relevant gear that raises eyebrows.
 
-
-
-
-
-
-
-
-
       This desire to stay on trend has led to the creation of many monthly
       clothing subscription services, which run the gamut from basic to high
       fashion. These services give men a chance to try out some of the latest
       fashions while eliminating a common reaction – buyer’s remorse.
-
-
-
-
-
-
-
-
 
       Subscription services are here to stay, but retailers shouldn’t fret
       – buyers will always have a need for specific brands, and will always want
@@ -42,14 +26,6 @@ sections:
       Rather than worry over potential erosion, apparel brands and retailers
       should use subscription services as inspiration for connecting with today’s
       consumers.
-
-
-
-
-
-
-
-
 
       It helps to consider why these services appeal to male shoppers. For
       starters, they offer a low risk, high reward proposition. Subscribers are
@@ -62,14 +38,6 @@ sections:
       could be returned as a whole, or in pieces, if a real-world trial didn’t
       make them fall in love with the ensemble?
 
-
-
-
-
-
-
-
-
       Another aspect of the subscription service that resonates with consumers is
       the convenience factor. After subscribers input some preferences, the
       services will curate their monthly box. Why can’t retailers and brands
@@ -78,14 +46,6 @@ sections:
       The follow-up could offer more of the same style, or promote a look that is
       similar to their chosen preference.
 
-
-
-
-
-
-
-
-
       Fashion brands should always leverage the power of their history and
       heritage to connect with shoppers. Despite the trend of on-demand, curated
       style, consumers will continue to be drawn to brands that have an authentic
@@ -93,14 +53,6 @@ sections:
       aspect especially, as consumers view brands with a distinct heritage as
       being higher quality. And, of course, higher quality means being able to
       command a higher price point.
-
-
-
-
-
-
-
-
 
       Regardless of how retailers and brands react to this burgeoning
       subscription trend, it’s important to know that this curated approach is

@@ -9,68 +9,20 @@ sections:
   - text_markdown: >-
       We culled a number of luxury lessons while perusing its latest edition…
 
-
-
-
-
-
-
-
-
       **Entertain and Be Positive.**
-
-
-
-
-
-
-
-
 
       Copy and imagery should be tailored for optimism and to promote feeling
       good. Supplement the experience with a special extra - whether it be
       exclusive photography or golden tidbits on designers, brands or
       manufacturing processes. Luxury is meant to be enjoyed.
 
-
-
-
-
-
-
-
-
       **Look beyond Price.**
-
-
-
-
-
-
-
-
 
       The Christmas Book features products priced from less than $50 to a $1.5
       million rose gold private jet. Regardless of price, all of its offerings
       are undeniably luxurious.
 
-
-
-
-
-
-
-
-
       **Appeal to the Imagination.**
-
-
-
-
-
-
-
-
 
       Consider the individual client or customer. How would each live with your
       product or service? Are you inspiring others to envision the transformation
@@ -81,68 +33,20 @@ sections:
       you’re presenting a lifestyle. Imagery should be potent and multifaceted to
       stimulate the imagination.
 
-
-
-
-
-
-
-
-
       **Be Attentive.**
-
-
-
-
-
-
-
-
 
       If luxury is revered for anything, it’s impeccable service. Neiman Marcus
       goes above and beyond with a live 24/7 chat feature for its holiday
       catalog. This is the core of the luxury experience and savvy shoppers
       expect nothing less.
 
-
-
-
-
-
-
-
-
       **Represent Diversity.**
-
-
-
-
-
-
-
-
 
       Why does The Christmas Book remain the topic on everyone’s lips? They don’t
       neglect their customers. You’ll find models representing a myriad of
       ethnicities and age groups in the catalog.
 
-
-
-
-
-
-
-
-
       **Give Back.**
-
-
-
-
-
-
-
-
 
       Altruism is a key asset for any business. If shoppers are investing serious
       sums of money, do your part by giving back. Neiman Marcus paves the way
@@ -152,36 +56,12 @@ sections:
       thousands of dollars to the Grammy Foundation and their own organization,
       The Heart of Neiman Marcus Foundation.
 
-
-
-
-
-
-
-
-
       **Exceed Expectations.**
-
-
-
-
-
-
-
-
 
       Anticipate clients’ wants and wishes, then elevate them beyond anything
       they’ve ever imagined. Meticulously attend to every last detail. The aim
       isn’t simply fulfilling a need but improving upon it until it evolves into
       something much more significant.
-
-
-
-
-
-
-
-
 
       90 years of global success is no small feat, yet The Christmas Book
       continues to wow audiences. Come up with a series of actionable steps to

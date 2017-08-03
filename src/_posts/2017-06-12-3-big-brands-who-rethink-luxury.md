@@ -39,22 +39,6 @@ sections:
       **Moxy Hotels (Marriott): High/Low, Exclusive/Inclusive, Millennial
       Mindset**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       -​
     single_image:
     quote:

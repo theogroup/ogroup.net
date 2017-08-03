@@ -11,14 +11,6 @@ sections:
       **O:**&nbsp;Having had such a diverse upbringing, which part of exploring
       new cultures excites you the most in a new country?
 
-
-
-
-
-
-
-
-
       **Carmen:**&nbsp;I am Cuban born but was raised in the U.S., and grew up
       with the stories of the paradise that was wrecked and left behind.
       Ironically, I didn’t leave the U.S. until my 40’s and I know immigrants in
@@ -26,23 +18,7 @@ sections:
       explore all the “lost paradises” that people have come from or in some
       cases, gone to.
 
-
-
-
-
-
-
-
-
       **O:**&nbsp;What are the most vital elements to making travel luxurious?
-
-
-
-
-
-
-
-
 
       **Carmen:**&nbsp;Luxury travel for me means a facility that has both the
       desire and the means to provide a superior experience for their guests. The
@@ -51,25 +27,9 @@ sections:
       a thrilling experience with comfort, beauty, and attention to the guest’s
       experience.
 
-
-
-
-
-
-
-
-
       **O:**&nbsp;After a decade of indulging in opulent travel, do you prefer an
       experience that has been curated for you or do you like to have more
       control over your trip?
-
-
-
-
-
-
-
-
 
       **Carmen:**&nbsp;In most cases, I prefer to have more of a curated trip,
       although having some input is often useful. To organize a trip properly
@@ -78,23 +38,7 @@ sections:
       like how much walking do I want to do, how long do I want to spend looking
       at certain sites, and so forth.
 
-
-
-
-
-
-
-
-
       **O:**&nbsp;What have you observed as the latest trends in luxury travel?
-
-
-
-
-
-
-
-
 
       **Carmen:&nbsp;**I’d remark on a few trends, some contradictory. I have
       found that luxury travel used to isolate travelers from any local flavor
@@ -105,24 +49,8 @@ sections:
       was a distinctly educational aspect of the tour, which also seems to be
       a growing trend.
 
-
-
-
-
-
-
-
-
       **O:**&nbsp;Think back to your first decadent trip- how has luxury travel
       changed between then and now?
-
-
-
-
-
-
-
-
 
       **Carmen:**&nbsp;Hotels seem to have realized that in addition to upscale
       furnishings and dramatic sites, they also have to deliver consistently
@@ -134,23 +62,7 @@ sections:
       require moving furniture or leaving the phone across the room have
       dwindled.
 
-
-
-
-
-
-
-
-
       **O:**&nbsp;How do you go about choosing your next destination?
-
-
-
-
-
-
-
-
 
       **Carmen:&nbsp;**Like Dr Doolittle, I just take a pencil and an atlas,
       close my eyes, open the atlas, and point the pencil. Well, not really but
@@ -160,23 +72,7 @@ sections:
       addition I consider locations my traveling companions (hopefully my
       husband) want to go.
 
-
-
-
-
-
-
-
-
       **O:**&nbsp;What does Rethink Luxury mean to you?
-
-
-
-
-
-
-
-
 
       **Carmen:**&nbsp;For me, the future of luxury is not in ever-bigger rooms
       or more extravagant furnishings. It’s about attention to comfort details

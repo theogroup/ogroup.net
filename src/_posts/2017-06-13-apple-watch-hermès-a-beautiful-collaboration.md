@@ -14,44 +14,12 @@ sections:
       for both brands, the partnership is a marriage of design philosophies that
       are more similar than one might think.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Said Pierre-Alexis Dumas, Herm&egrave;s' executive vice president in charge
       of artistic direction, "At Herm&egrave;s, we strive to provide our clients
       with elegant, creative and functional objects for their everyday lives.
       What more contemporary and relevant expression of this principle could
       there be than this collaboration with Apple. We are strongly united by the
       same deeply held ideas and principles."​
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       This partnership shouldn't have come as a surprise to many, as the
       conversation about the Apple Watch's place within the luxury category has
@@ -79,22 +47,6 @@ sections:
       Herm&egrave;s' designs creates a symbiotic relationship that will
       undoubtedly lead to interesting partnerships between Apple's competitors
       and the fashion world in the coming months.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       We're excited to see what's next​
     single_image:

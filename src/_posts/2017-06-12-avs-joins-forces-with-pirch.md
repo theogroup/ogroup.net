@@ -14,14 +14,6 @@ sections:
       location, you can turn on the faucets, cook a meal and even take a bath in
       one of their private bathing suites, should you be so inclined.
 
-
-
-
-
-
-
-
-
       Our client, AVS (Audio Video Systems), specializes in the integration of
       all custom systems and control technologies throughout the home, and the
       kitchen is no exception. You can find AVS at the epicenter of this new

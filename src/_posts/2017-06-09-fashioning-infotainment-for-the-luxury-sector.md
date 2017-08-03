@@ -14,28 +14,12 @@ sections:
       it simply, infotainment is the merging of entertainment and information.
       It’s difficult to imagine this could go out of favor anytime soon.
 
-
-
-
-
-
-
-
-
       The most successful, flourishing luxury brands have learned to evolve
       faster than ever before. And in 2017, it may no longer be enough to inform
       or entertain audiences. Combining both worlds will elevate your brand to
       a whole new level while aiding audiences in cutting through the noise.
       Their reward? Discovering content that’s truly worthwhile and worthy of
       being passed along.
-
-
-
-
-
-
-
-
 
       Infotainment video for luxury can offer content that’s entertaining yet
       useful. Consider the joys of learning about a favorite wine. Many
@@ -44,14 +28,6 @@ sections:
       of production. Use this as your source of inspiration. Luxury consumers
       want to learn fun facts they haven’t been exposed to before for tidbits to
       share in social situations.
-
-
-
-
-
-
-
-
 
       Champagne Bollinger is a wonderful example. They excel at infotainment with
       videos explaining winemaking methods and traditions while sharing their
@@ -62,14 +38,6 @@ sections:
       that informs, entertains and serves to highlight the excellence of the
       brand.
 
-
-
-
-
-
-
-
-
       Most brands will fare best by avoiding going too deep into subject matter
       or featuring esoteric themes. Luxury audiences are diverse and the aim is
       to capture and sustain the attention of most of your target market for
@@ -79,14 +47,6 @@ sections:
       clients want to see, they can’t wait to share and that which will inspire
       the possibility of a purchase.
 
-
-
-
-
-
-
-
-
       The Chanel fashion house has seen success with infotainment video for
       years. Much of their world of haute couture is shrouded in secrecy - from
       the design processes to the names of clientele. However, Chanel offers
@@ -95,14 +55,6 @@ sections:
       music and visuals while giving an idea of just how much work it takes to
       create a single couture look. It works because it’s just as intriguing for
       the passive viewer as it is for devoted clientele.
-
-
-
-
-
-
-
-
 
       Whether it’s the history and origins of wine and spirits or the
       handcrafting process of luxe goods, intriguing and valuable content “wins”

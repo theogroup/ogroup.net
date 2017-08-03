@@ -13,25 +13,9 @@ intro_markdown: >-
   line,&nbsp;[Society Social](http://www.shopsocietysocial.com/)&nbsp;in August,
   2011.
 
-
-
-
-
-
-
-
-
   Society Social's colorful collection of bar carts, cocktail tables, and
   entertaining accouterments aplenty has caught the eye of many, including HGTV,
   Lonny, House Beautiful, and Southern Living.
-
-
-
-
-
-
-
-
 
   And today we had the opportunity to chat with the amazingly talented Roxy Te
   Owens to discuss how furniture design has inspired her life’s purpose.​
@@ -40,26 +24,10 @@ sections:
   - text_markdown: >-
       **Orit**: Who is Roxy Te Owens?
 
-
-
-
-
-
-
-
-
       **Roxy:**&nbsp;I'm an ex-corporate rat racer, turned self-proclaimed dream
       chaser! Right out of Parsons The New School, I eagerly started my career as
       a fashion buyer. Despite being 100% confident I had made the right career
       choice, I quickly found that cubicle life was not for me.
-
-
-
-
-
-
-
-
 
       Having grown up in North Carolina around the furniture industry – my
       brother and I actually spent the first few years of our childhood living in
@@ -67,24 +35,8 @@ sections:
       back to my roots. Enter Society Social, purveyor of bar carts and colorful
       home furnishings!
 
-
-
-
-
-
-
-
-
       **Orit:** Where did the idea for Society Social come from? And where does
       the name come from?
-
-
-
-
-
-
-
-
 
       **Roxy:**&nbsp;I’m so inspired by life’s shared moments. Whether it’s
       a raucous party or a quiet night at home spent with loved ones, furniture
@@ -95,23 +47,7 @@ sections:
       and shared moments that make life special. The name Society Social is a nod
       to that!
 
-
-
-
-
-
-
-
-
       **Orit:** What was the first item you created?
-
-
-
-
-
-
-
-
 
       **Roxy:**&nbsp;The bar cart! Prior to Society Social and even now, I read
       design blogs constantly. I noticed everyone was talking about the bar cart,
@@ -126,23 +62,7 @@ sections:
       there is a retailer who doesn’t have a version of their own! Our Sedgewick
       remains a bestseller since day 1!
 
-
-
-
-
-
-
-
-
       **Orit:** What is the inspiration behind your designs?
-
-
-
-
-
-
-
-
 
       **Roxy:**&nbsp;Growing up in a home that loves to celebrate. To me a happy
       home has always meant that decorating and entertaining go hand in hand. And
@@ -150,105 +70,33 @@ sections:
       environment to share with friends and family. Whether on quiet nights in or
       bigger nights celebrating the most important things in life.
 
-
-
-
-
-
-
-
-
       These are values I instill into each Society Social piece. Home furnishings
       inspired by shared celebrations whether big or small. From the booze-tastic
       bar carts for the ultimate hostess to the stylish, yet affordable sofas
       where there is always a seat for you and the person you would most love to
       have sitting right beside you!
 
-
-
-
-
-
-
-
-
       **Orit**: What are some of your favorite Luxury brands and why?
-
-
-
-
-
-
-
-
 
       **Roxy:&nbsp;**Nicolas Feuillatte Brut Rose—it’s a little luxury I shall
       never tire of. It’s delicate and delicious and worth every penny!
 
-
-
-
-
-
-
-
-
       Loeffler Randall—I have a closet full! These shoes are stylish, timeless,
       and undoubtedly well made.
-
-
-
-
-
-
-
-
 
       Self-Portrait—If I have to make an appearance, you will most likely find me
       in one of their dresses. The line is full of showstoppers in style and
       quality (the dresses I own are actually heavy!) and at a price point that
       is more than fair for what you get. I have started a collection!
 
-
-
-
-
-
-
-
-
       **Orit:** What is it like working with your brother?
-
-
-
-
-
-
-
-
 
       **Roxy:**&nbsp;Simultaneously amazing and tricky! We have a great
       relationship and have always been very close, but just like any normal
       brother/sister dynamic, sometimes we duke it out! Thankfully, it’s never
       anything that can’t be solved at happy hour!
 
-
-
-
-
-
-
-
-
       **Orit:** How has social media impacted the growth of Society Social?
-
-
-
-
-
-
-
-
 
       **Roxy:**&nbsp;Social media has been a tremendous tool in helping me grow
       Society Social without spending boatloads on advertising. We’re able to
@@ -256,66 +104,18 @@ sections:
       a face to the company, and it’s also just a fun and instant way to talk to
       and engage with our sweet customers!
 
-
-
-
-
-
-
-
-
       **Orit:** Tell us what’s next?
-
-
-
-
-
-
-
-
 
       **Roxy:&nbsp;**We have a few big collaborations in the works and I hope
       they’ll show another side of Society Social that the world hasn’t seen yet!
       With that said, I believe it’s so important to not only focus on the next
       goal but to enjoy the journey, too!
 
-
-
-
-
-
-
-
-
       Photo credits:
-
-
-
-
-
-
-
-
 
       Lawrence Te: Roxy with colorful chairs
 
-
-
-
-
-
-
-
-
       Elizabeth Shrier: Roxy and brother San San
-
-
-
-
-
-
-
-
 
       Courtney Apple: Bar Cart​
     single_image:

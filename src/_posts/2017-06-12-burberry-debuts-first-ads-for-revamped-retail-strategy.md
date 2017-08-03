@@ -13,28 +13,12 @@ sections:
       Lauren, who consolidated its Black label to alleviate some confusion," said
       Kristen Dillman, business development manager at The O Group, New York.
 
-
-
-
-
-
-
-
-
       "Burberry’s decision to avoid categorizing the latest campaign by season is
       an interesting move," Ms. Dillman said. "Removing the season label from the
       campaign is a smart transition toward continued promotion of Burberry as
       forward-thinking. After all, people still look to heritage luxury brands to
       lead the charge, and this effort from Burberry to move past seasonal labels
       may prove to be at the forefront of what’s next in luxury."
-
-
-
-
-
-
-
-
 
       To read the article in full, please visit Luxury Daily’s,"[Burberry debuts
       first ads for revamped retail

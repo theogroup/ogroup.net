@@ -12,41 +12,9 @@ sections:
       through the waves as you sip on sparkling wine, and watch Lady Liberty pass
       in front of an Instagram-worthy sunset.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       The issue with boating is that it gets in you, even after only one jaunt.
       That unparalleled experience unlocks the explorer buried deep inside you.
       Questions begin to surface, like, “Should we do this everyday?”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Or, most commonly, “Should we buy a boat?”​
     single_image:
@@ -65,43 +33,11 @@ sections:
       certainly outweigh the positives. And younger consumers simply aren’t
       purchasing boats at the same clip as older generations.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       You can blame a number of factors for their decreased interest in owning
       boats. For one, younger consumers are by-and-large mired with debt, most of
       which comes in the form of student loans. Because of their debt baggage,
       many are putting off traditional life stage milestones – marrying, buying
       a house, etc.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Secondly, with the advent of the sharing economy, many consumers have
       reevaluated what needs to be purchased. Boats fill a different need in
@@ -127,22 +63,6 @@ sections:
       own personal experience, boat-related social media posts garner an average
       of 100x the number of likes and comments v. non-boating posts.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       So how will the industry adjust to the potential ebb of consumer interest
       in purchasing boats? It would probably help to see what comparable
       industries have done when facing the same issue. Take the private jet
@@ -152,42 +72,10 @@ sections:
       aspiration. But getting a taste of that life every so often seems to quench
       consumers’ desires almost as well as owning the whole plane.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       The boating industry must continue to make boats supremely appealing while
       consistently making it easy for consumers to experience life on the high
       seas. Undoubtedly the experience will resonate with some consumers who, in
       turn, will decide to purchase a vessel.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Keep an eye out for our follow-up piece on the future of the yachting
       industry​

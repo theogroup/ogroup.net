@@ -16,39 +16,7 @@ sections:
       it’s Adidas that’s blown me away recently by hitting all the right notes of
       a true comeback.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **The First Move**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       It’s not as if Adidas has done anything to hurt their brand over the last
       decade. In fact, they’ve been quietly doing quite well for a while. Their
@@ -57,22 +25,6 @@ sections:
       (launched in 2004) continues to feel fresh and relevant—and succeed where
       other athletic brands have really missed the mark—combining true style with
       athletic function and material.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       In 2013 Adidas announced their Season 1 Yeezy clothing and footwear
       collaboration with Kanye West. It seems that this past year the hype around
@@ -83,22 +35,6 @@ sections:
       women’s. When I later realized what I’d been coveting I remember
       thinking—regardless of the collaboration—the product design is totally
       on-trend.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       More recent brand collaborations pushing Adidas toward relevancy include
       releases with both A$AP Rocky (partnering with designer Jeremy Scott for
@@ -125,39 +61,7 @@ sections:
       content across Instagram and Facebook afterward that has solidified
       a newfound interest in the brand.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **Slay, Collabs, Slay**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Karlie Kloss (Model; Coder; Famed member of T Swift’s Squad). Hannah
       Bronfman (Fitness and Beauty Guru; DJ). Morgan Brian (US Women’s Soccer
@@ -176,42 +80,10 @@ sections:
       the cultural nexus of multidimensional accomplished women with overlapping
       but not entirely similar, engaged followings.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Adidas’ #heretocreate campaign’s ultra-digestible video content is
       inspirational, entertaining and leaves you wanting more—fitting as it’s
       seeming more and more clear that video, specifically on mobile, is the
       future of marketing.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       This content marketing effort is a great push from the Adidas brand to
       reclaim their territory and category position from brands that have
@@ -221,61 +93,13 @@ sections:
       collaborations (Kanye, A$AP, etc.) and capturing the attention of new
       audiences.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **What does the future look like?**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       A comeback isn’t about shedding brand DNA, it’s about showcasing the best
       of what was, and promoting what’s to come. In my opinion, Adidas made an
       important step in that direction by bringing back the Stan Smith Original
       in early 2014 (Originally released in 1964; Branding Journal has a really
       great article about the strategy behind that shoe here.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       With spring on the horizon the time is right for a sporting goods brand to
       vie for mindshare. I have a feeling I’m not the only one with with a lot of

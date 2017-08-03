@@ -16,22 +16,6 @@ sections:
       discussion to the interior design experts. Instead, I’d like to focus on
       the relationship between workspace and your brand.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       When done properly, good retail environments are literally built around
       brand experience. Successful property management companies and retailers
       are dedicated to location, the economics of the deal, and building out
@@ -42,22 +26,6 @@ sections:
       prevalence of working remotely (as I am today), the choice of where to work
       and how to utilize your space as a brand asset is especially relevant.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Just like your website, logo, social media and other assets, your office
       space communicates with prospects and clients or consumers. Your choice of
       headquarters is a part of your brand. If your brand is fun, collaborative
@@ -67,22 +35,6 @@ sections:
       rational and emotional responses, so carefully controlling that experience
       for team members, prospects and clients can provide an impressive nudge in
       the right direction – or be a disappointing let down.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Brands who want to get the most for the their rent dollars must leverage
       their positioning to inform an office selection and design.​
@@ -99,22 +51,6 @@ sections:
       move on – not only with physical but also with how you think about your
       brand and your business too.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Just as we do on creative work for our clients. I recommend you articulate
       how your office space addresses your Category, Culture and Consumers or
       Clients. A redesign or move can be exciting. A new space can symbolize
@@ -122,22 +58,6 @@ sections:
       new ways to enhance your process. Breakout spaces, working walls, audio
       visual equipment, client meeting space and amenities all must be carefully
       considered to ensure proper alignment.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       The O Group has been in our current office for ten years. Over that time,
       our business, our brand and our work have changed significantly. When we
@@ -149,22 +69,6 @@ sections:
       processes and services to better suit the times. We’ve looked closely at
       what we have to offer, reorganized the structure of our team and have
       targeted a new clientele via an agency repositioning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       By now, you may have guessed it. We’re moving. Collaboration, with our
       clients, with partners and internally, has become more critical than ever

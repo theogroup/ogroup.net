@@ -14,14 +14,6 @@ sections:
       are changing what products (including beauty and cosmetics) are being
       purchased, and how they are being consumed.
 
-
-
-
-
-
-
-
-
       The reason this shift in the sales numbers for beauty and cosmetics brands
       is worth noting is because their declines go directly against what has
       become expected in the category. They also demonstrate long-prophesized
@@ -31,14 +23,6 @@ sections:
       what shows were most popular on television, to what products were most
       commonly promoted to consumers. Their sheer size and spending power made
       them the most sought after cohort for marketers and retailers.
-
-
-
-
-
-
-
-
 
       But now Millennials have come into their own, and if marketers and brands
       haven’t taken notice, they are way behind the 8-ball. There’s a long list
@@ -74,14 +58,6 @@ sections:
       Make sure that the way you’re communicating with this audience always comes
       from the same voice, and your look and feel matches regardless of the
       channel you’re using.
-
-
-
-
-
-
-
-
 
       The big takeaway is that Millennials are a large and powerful generation
       who are impacting the way every brand and business is approaching their

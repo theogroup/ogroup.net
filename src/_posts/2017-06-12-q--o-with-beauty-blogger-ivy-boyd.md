@@ -18,37 +18,13 @@ sections:
       **O:** You started out as a graphic designer, what have you found are the
       parallels between graphic design and makeup artistry?
 
-
-
-
-
-
-
-
-
       **Ivy:** I’ve been an artist my entire life and there are so many
       similarities to makeup. I utilize principles like color theory, symmetry,
       balance and proportion everyday in my work. A face is just a living,
       breathing canvas, and my favorite kind at that!
 
-
-
-
-
-
-
-
-
       <br>**O**: The beauty industry is worth over $200 billion dollars, in this
       competitive market, what sets apart a luxury beauty product from the rest?
-
-
-
-
-
-
-
-
 
       **Ivy:**As consumers become more educated and aware of ingredients, cleaner
       products are going to come out on top I think. If a brand can create
@@ -56,24 +32,8 @@ sections:
       harsh chemicals but still convey an upscale feel, they will succeed
       tremendously. It’s guilt-free luxury.
 
-
-
-
-
-
-
-
-
       <br>**O:** You have very particular and rigorous litmus tests for new
       products, what would you say are the hallmarks of good makeup products?
-
-
-
-
-
-
-
-
 
       **Ivy:** Even though I am a working makeup artist, and can make most things
       work if I have to, most brands are appealing to the consumer. There
@@ -83,24 +43,8 @@ sections:
       time to sleep 8 hours or apply our makeup perfectly, but we want to look as
       though we do.
 
-
-
-
-
-
-
-
-
       <br>**O:** What in your opinion sets a luxury makeup apart artist from the
       rest?
-
-
-
-
-
-
-
-
 
       **Ivy:** I’ll tell you right now; it doesn’t mean just using luxury brands.
       Getting your makeup done is just as much an experience as it is a result.
@@ -108,24 +52,8 @@ sections:
       more than a makeup artist, but a helper and a friend. You do things beyond
       the call of duty, reducing a bride’s stress in any way you can.
 
-
-
-
-
-
-
-
-
       <br>**O:** What sort of effect has social media had on the makeup
       industry?
-
-
-
-
-
-
-
-
 
       **Ivy:** Both negative and positive effects can be seen. While I’m glad
       that more people are becoming interested and aware of the power of makeup,
@@ -134,24 +62,8 @@ sections:
       out with concealer. It’s not new or fresh anymore. We don’t all need to
       look alike; that’s weird.
 
-
-
-
-
-
-
-
-
       **O:** What in your opinion are the most important beauty items that one
       should have regardless of current trends?
-
-
-
-
-
-
-
-
 
       **Ivy:** Trends are for fun and they are temporary, but try one at a time!
       Otherwise, it looks a bit crazy. Armed with a foundation that matches your
@@ -160,23 +72,7 @@ sections:
       Having color in the skin is a good thing and lashes frame your eyes, no
       matter how long or short.
 
-
-
-
-
-
-
-
-
       **O:** What does Rethink Luxury mean to you?
-
-
-
-
-
-
-
-
 
       **Ivy:** To me, luxury doesn’t equate gold, script fonts, heavily
       fragranced, out of reach products. Without naming names, there are many

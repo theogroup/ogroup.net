@@ -11,39 +11,7 @@ sections:
       on identifying and experiencing some of the more nuanced and subtle Luxury
       brand retail touchpoints exclusive to brick-and-mortar locations.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **TEMPERATURE & CLIMATE**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       This is a summer-themed blog post, so it's not surprising that the first
       thing I notice when I enter is the difference in temperature and humidity.
@@ -56,39 +24,7 @@ sections:
       thanking me for braving the weather and that I'm truly welcome. Oh, and
       ready to shop.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **LIGHTING**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       I'm amazed at how much lighting differs from store to store. Whether
       bright, soft, dim, backlit or otherwise, all substantially impact the
@@ -96,59 +32,11 @@ sections:
       a number of stores whose lighting is not at all flattering to the products
       and fixtures.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Personally, I'm more comfortable shopping in a well-lit store. It seems
       obvious, but I've had too many mishaps in the past where in the light of
       day, my purchases lost their luster.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **MUSIC & SOUND**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       I know that most people are aware of background music on some level. As
       I walk from store to store, I wonder how much in-store sound affects and
@@ -171,61 +59,13 @@ sections:
       I quickly learn that focusing solely on music and moving quickly through
       the mall is like hitting the Random play button on someone else's iPod.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       I can say that I definitely prefer music that's a bit more recognizable
       (real songs played on actual instruments) to a lot of what I heard
       (watered-down hits and spa-themed "whoosh-tings"). In-store audio has to be
       on brand. The volume and tempo must instantly appeal to the target
       consumer, otherwise it's just noise.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **SCENT**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       When done right, scent can be a powerful branding tool. There are
       instances, however, when it's a huge turn-off. Aside from Department
@@ -239,39 +79,7 @@ sections:
       I've read that Scent will be an option on upcoming Mercedes Benz models.
       Stay tuned.)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **ATTITUDE & APPROACHABILITY**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       To be clear, I'm at the mall at 10:00am on a weekday. That being said, I'm
       being greeted, welcomed and chatted up at virtually every store I visit.
@@ -283,39 +91,7 @@ sections:
       pre-opening sales (no, not Black Friday) and when they're done right, how
       they can be a totally different, very pleasurable experience.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **SAMPLING & THRESHOLD**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       I walk past a tea store that consistently offers samples to passers-by. I'm
       glad that other shoppers seem into it, but I'm not a huge fan of their tea
@@ -346,39 +122,7 @@ sections:
       I've been put in the uncomfortable position of saying no. To me, that's
       poor engagement.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **LOCATION & SETTING (SIGNAGE, DISPLAY & VIDEO)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       I begin to discern loose sections or "neighborhoods" in the mall. For
       example, there are parts of the mall that feature a higher concentration of
@@ -387,22 +131,6 @@ sections:
       similarities too, in how these stores are designed and merchandised. These
       stores and brands reflect on each other. Even within an enclosed
       environment, it's the whole "company you keep" mentality.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Three hours flies by when all you do is walk the mall trying to read
       between the lines and make interesting connections.​

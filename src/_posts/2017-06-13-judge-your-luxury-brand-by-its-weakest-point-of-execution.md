@@ -21,189 +21,29 @@ sections:
       all too aware that a single scathing remark can easily negate five rave
       reviews.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       So, where have we seen luxury brands that otherwise get it right go wrong?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **INCONGRUOUS BRAND PARTNERSHIPS**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Would a AAA Four Diamond hotel partner with a fast food franchise?
       Remember, not every opportunity is right for your brand.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **LOWBROW "SALE" MESSAGING**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Would an iconic Fifth Avenue flagship store in New York advertise
       a "Blowout Sale"? While to some extent discounting is a reality of almost
       every brand, there is a right and a wrong way to go about it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **INCONSISTENT COMMUNICATION AROUND A SINGLE CONCEPT**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Often in the luxury auto space, careful consideration is given to every
       aspect of curating a product's identity. Despite all that care, that same
       luxury car sometimes ends up on display in your local mall. Take care not
       to contradict your own messaging.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **POOR TASTE**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Off-color humor or pointed politics can easily alienate many people.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       These gaffes are the equivalent of walking into an iconic luxury boutique,
       having a memorable experience with a representative, finding the ultimate
@@ -229,22 +69,6 @@ sections:
       competition is standing at the edge of the water, afraid to dive in?
       A crowded space becomes less crowded, offering enormous opportunity.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       For example, the digital / mobile / social space feels pretty risky to many
       luxury brands. Technology is moving at warp speed, so the platforms of
       today may change even as you develop a strategy. Still, it is clear that
@@ -257,22 +81,6 @@ sections:
       Through a smart digital strategy, Jimmy Choo reinforced for its current and
       aspirational consumers that its product is to be coveted.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Another brand that pulled ahead through innovation is BMW. The German
       automaker's "BMW Genius Everywhere" strategy arms brand experts with iPads
       and a deep technical knowledge of the product. It has made it clear to the
@@ -282,39 +90,7 @@ sections:
       – selling without overtly selling. Its risk seems to be paying off with the
       program now slated for implementation in the United States in early 2014.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **WHAT TO DO?**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       So what is a luxury brand to do when there are so many ways to go wrong? It
       is critical to have well-articulated branding documents including brand
@@ -322,22 +98,6 @@ sections:
       understood companywide. With this groundwork in place, when one of these
       opportunities comes about, you are ready to react in the right, on-brand
       way rather than doing something that may cause more harm than good.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       This article was originally published on Luxury Daily.​
     single_image:

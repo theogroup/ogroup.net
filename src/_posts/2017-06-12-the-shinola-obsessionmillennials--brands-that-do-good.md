@@ -28,22 +28,6 @@ sections:
       both. Create a high-quality product using American manufacturing; do good
       while you're at it. Sound familiar?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       It seems as though millennials, especially, have a soft spot for brands
       that do their best to do good in a world driven by capitalism. Whether the
       research is right or wrong, one thing's for sure: I won't be surprised in

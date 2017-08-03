@@ -124,3 +124,9 @@ contact_tagline: "Let's start a conversation about luxury."
 
 
 DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
+
+NOTE:
+
+1. Image: This is the featured image for the blog post, and also the image that is shared in social media links
+
+2. Description: This is the text that is shared in social media links

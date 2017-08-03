@@ -11,37 +11,13 @@ sections:
       identity. Other brands, such as Tesla, push the envelope in an attempt to
       capture drivers’ imaginations and hearts.
 
-
-
-
-
-
-
-
-
       But what happens when automotive brands hone in a very specific segment of
       drivers? It can be a risky maneuver, but has the potential to pay off big
       time.
 
-
-
-
-
-
-
-
-
       Take Chevy’s new truck collaboration with surf brand Hurley. Together, they
       leveraged insights drawn from surfers to create a vehicle that attempts to
       make the process of getting to and from the beach a little less painful.
-
-
-
-
-
-
-
-
 
       “This concept is all about functionality,” said Ryan Hurley, creative
       director for Hurley. “When we discussed the project with Chevrolet, we
@@ -49,69 +25,21 @@ sections:
       for the challenges that surfers face at remote locations and that’s exactly
       what it delivers.”
 
-
-
-
-
-
-
-
-
       The functionality Hurley is speaking about covers a lot of the issues that
       every surfer faces:&nbsp;
-
-
-
-
-
-
-
-
 
       In addition to the standard ignition key, drivers also get a waterproof
       RFID wristband that unlocks the truck when it comes in contact with
       a certain part of the vehicle.
 
-
-
-
-
-
-
-
-
       The roof rack has built-in bungee cords designed specifically to lash down
       boards.
-
-
-
-
-
-
-
-
 
       The bed has a wetsuit / clothing drying rack with additional storage
       underneath.
 
-
-
-
-
-
-
-
-
       Waterproof seats with covers made out of a type of neoprene to protect from
       saltwater damage.
-
-
-
-
-
-
-
-
 
       Sure, this vehicle probably isn’t appealing to every potential truck owner.
       But that’s not the point. Chevy is demonstrating that they want to connect
@@ -119,52 +47,20 @@ sections:
       group’s life by solving many of the issues they commonly face while
       pursuing their passion.
 
-
-
-
-
-
-
-
-
       So what can a luxury automotive brand learn from this? These manufacturers
       already take into account their drivers’ specific wants and needs, and
       adjust the experience within their vehicles accordingly.
-
-
-
-
-
-
-
-
 
       Bentley does it, and does it well. From their special edition Breitling
       Tourbillon in-dash timepieces, to their one-off fly fishing-focused Betayga
       SUV, the company has managed to elevate their vehicles to new heights by
       focusing on additions that make discerning drivers smile.&nbsp;
 
-
-
-
-
-
-
-
-
       But why not take it a step further? Consider the power of a strategic
       partnership with an entity that connects with a segment of a vehicle’s
       drivers. Can you imagine a luxury vehicle whose audio system has been tuned
       to the uncompromising specs of legendary sound engineer and producer Rick
       Rubin?
-
-
-
-
-
-
-
-
 
       Regardless of the partnership, there is a story that needs to live as
       a complement to the customization. That’s where The O Group comes in.

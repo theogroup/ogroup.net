@@ -11,116 +11,20 @@ sections:
       **GREG FURMAN**: In my opinion, there are a few major consumer behavior
       trends driving the coming evolution of retail.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **"Brand" is no longer everything.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       It’s simply the price of admission. People are more cynical of traditional
       advertising, and from the moment they walk in the retail door they expect
       quintessential service. So traditional brand loyalty is challenged as never
       before.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **Experience Versus Stuff.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       The Boomers, a category of 80 million, are spending more now on special
       experiences than on things. Experiences and the memory of unique experience
       shared with family and friends are more valuable than possessions.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **Small Luxury Brands Gaining Traction.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       The Traub Group has done an interesting survey called "The New Davids."
       Given the fluidity of the web, word-of-mouth of loyal customers and the
@@ -132,39 +36,7 @@ sections:
       bigger luxury brands are just beginning to see this phenomenon as a serious
       threat.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **The Rise of Global.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Consider the emerging communities of Africa, India, China and South
       America, each of which have populations of more than a billion. As their
@@ -173,42 +45,10 @@ sections:
       services. The US and Europe will still be main attractions in that regard,
       this represents a major opportunity for luxury brands.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **ORIT**: I think Tom Schoenwaelder (Chief Commercial Officer at Doblin,
       the innovation and design arm of Deloitte) shared an opinion in the WWD
       article which really gets at the core of this conversation, including the
       specific consumer trends Greg pointed out above:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       "The retail industry has a propensity to jump on bugaboo bandwagons or
       issues, like building innovation labs, and lose sight of the bigger
@@ -227,22 +67,6 @@ sections:
       really understand their hearts and minds. What makes them tick. Where and
       how they spend their money outside of your brand, and perhaps more
       importantly, how they choose to spend their most valuable resource: time.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Crafting a product and experience that’s expertly tailored to the
       psychographic of your target audience will be key to positioning businesses

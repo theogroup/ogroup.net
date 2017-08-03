@@ -13,24 +13,8 @@ sections:
       at home listening and dancing to Drake or coming up with justifications to
       buy another pair of 6 inch heels.
 
-
-
-
-
-
-
-
-
       **Orit:** Your weekly #Pantoneposts first grabbed my eye. What motivated
       you to look at pms chips the way you do?
-
-
-
-
-
-
-
-
 
       **Lucia:**&nbsp;It was actually the food that inspired me and led me to use
       the pantone chips! After a long day at the office, I bought a box of fruit
@@ -41,24 +25,8 @@ sections:
       color! It really started as an accident during a very busy time in my life,
       and became almost a meditative and relaxing process for me!
 
-
-
-
-
-
-
-
-
       **Orit:** As a food stylist, how would you say luxury has navigated your
       approach when conceptualizing your set.
-
-
-
-
-
-
-
-
 
       **Lucia:**&nbsp;Living in California, I'm awarded many luxuries - year
       round I get access to the best and tastiest avocados and juiciest fruit
@@ -66,23 +34,7 @@ sections:
       I'm especially grateful for. If I lived somewhere that didn't have access
       to this amazing food, I definitely wouldn't be able to do this project!
 
-
-
-
-
-
-
-
-
       **Orit:** What inspires you?
-
-
-
-
-
-
-
-
 
       **Lucia:**&nbsp;For my Pantone project, food and nature really inspire me.
       The colors of the food that nature produces continue to amaze me! I'm still
@@ -90,24 +42,8 @@ sections:
       always visit the local grocery stores or farmers markets, so I have to
       think that the state itself is a source of inspiration!
 
-
-
-
-
-
-
-
-
       **Q:** Now that you have relocated to California, what's next for
       you?&nbsp;
-
-
-
-
-
-
-
-
 
       **Lucia:**&nbsp;Right now, I'm hoping to continue to explore the amazing
       produce that California has to offer. I'd also love to play with Pantone

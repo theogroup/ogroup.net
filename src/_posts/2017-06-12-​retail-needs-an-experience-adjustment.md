@@ -13,39 +13,15 @@ sections:
       the major reason for this downturn. Consumers simply cannot resist the
       convenience and savings that come from purchasing goods via the Internet.
 
-
-
-
-
-
-
-
-
       Will online shopping serve as the coffin nail for brick and mortar retail?
       Despite many pundits vigorously nodding their heads at this notion, there
       are many reasons to believe that in-store retail will continue into the
       foreseeable future – at least for the brands that adapt their in store
       experiences to reflect the continually changing landscape.
 
-
-
-
-
-
-
-
-
       Aside from the previously mentioned reasons consumers love online shopping,
       there are other facets that retailers could use as inspiration to pull
       shoppers back into their locations.
-
-
-
-
-
-
-
-
 
       Take the personalized experience that comes from shopping online. After
       a few clicks and products added to carts, websites get a pretty good
@@ -54,14 +30,6 @@ sections:
       users’ needs, following up with remarketing campaigns and abandoned cart
       email discounts, these “gentle” reminders give shoppers incentive to pull
       the trigger on a purchase.
-
-
-
-
-
-
-
-
 
       Can retailers leverage this same personalized approach? Luxury retailers
       have been doing it for as long as they have existed. Knowing their
@@ -72,14 +40,6 @@ sections:
       approach. But why can’t every retailer take a chance to get to know his or
       her shoppers without being overly intrusive?
 
-
-
-
-
-
-
-
-
       Perhaps it’s as simple as bridging the online and in-store experience for
       consumers. We know that consumers are doing more research on products
       before purchasing, which means they are visiting multiple websites and
@@ -88,27 +48,11 @@ sections:
       all, nothing makes a consumer more confident about their purchase than
       seeing, touching and experiencing a product first hand.
 
-
-
-
-
-
-
-
-
       It’s also worth mentioning the other parts of the online shopping
       experience that consumers love – hassle free returns, honest “peer”
       reviews, and judgment free purchasing. Some of these may be more difficult
       to implement in-store, but that shouldn’t stop retailers from attempting to
       get shoppers back inside their locations.
-
-
-
-
-
-
-
-
 
       The forecast for retail doesn’t look great, but with a few adjustments to
       the in-store experience, retailers can ensure that online retailing doesn’t

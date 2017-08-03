@@ -16,14 +16,6 @@ sections:
       and design combined with a focus on luxury constitute the backbone of our
       branding and campaign expertise.
 
-
-
-
-
-
-
-
-
       We deal in the business of ideas. We work with clients that value those
       ideas and our expertise.​
     single_image:
@@ -39,26 +31,10 @@ sections:
       is more open and accessible than ever. When executed properly, luxury is an
       elevated perspective that aims to exceed expectations.
 
-
-
-
-
-
-
-
-
       Luxury means something special, but it is a construct. Luxury creative can
       be a tool. It provides a framework to companies, business and brands – of
       all kinds – who want to attract people and deliver something qualitatively
       well beyond the norm.
-
-
-
-
-
-
-
-
 
       We uncover ways for brands of all kinds to leverage luxury creative in
       order to deliver a strong return on investment. To develop a point of view,
@@ -78,38 +54,14 @@ sections:
       in and out of the traditional luxury space. We work with brands on their
       high-end offerings, special projects and targeted executions.
 
-
-
-
-
-
-
-
-
       The meaning of luxury is changing. We know because it’s been our mission to
       change it. Anyone can tell you where luxury came from. We work with clients
       to shape where it’s headed: Luxury creative for real brands, with real
       results.
 
-
-
-
-
-
-
-
-
       And so, as we enter 2016 we plan to showcase what it can mean to rethink
       luxury across every medium - our client work, our own brand and our
       interactions with the world.
-
-
-
-
-
-
-
-
 
       # &nbsp;
     single_image:

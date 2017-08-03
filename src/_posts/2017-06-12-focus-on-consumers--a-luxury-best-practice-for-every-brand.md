@@ -15,22 +15,6 @@ sections:
       all types can and should take from the realm of luxury is the development
       of an intense focus on the consumer.&nbsp;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Many businesses attempt to sell purely through product attributes, and
       that’s fine if you’re selling a commodity. Brands who additionally
       communicate luxury-branding characteristics can more easily evoke the
@@ -49,22 +33,6 @@ sections:
       audience. A careful balance of the rational and emotional elements that
       meet your consumer’s needs cannot be developed without the creation of an
       in-depth target profile.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Through the creation of a strategic target persona, assumptions can be
       confirmed (if not formally tested) and brands begin to take shape. Along
@@ -87,22 +55,6 @@ sections:
       certainly necessary, in the absence of a vastly superior product,
       articulating how those attributes come together to provide something
       special is what separates messaging from marketing.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Luxury Automotive has been capitalizing on this understanding since at
       least the 1980’s. From Porsche’s, "Often Imitated but Never Duplicated,"
@@ -127,44 +79,12 @@ sections:
       successfully via social media can cultivate meaningful connections with
       consumers, even on a personal level.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       In the instant-access world of social, consumers and brands are on equal
       footing. Ritz Carlton Hotels exemplifies this with their 150K followers on
       Instagram. The account is almost entirely composed of guest photos as part
       of their #RCMemories campaign. Ritz Carlton virtually ensures a positive
       relationship and implies that anyone can have a memorable stay by
       collaborating with users (guests) to co-create its’ Instagram feed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       The key takeaway? It’s all about your consumer, all the time, no matter
       whether you’re mass or luxury or somewhere in-between. Brands who properly

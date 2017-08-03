@@ -14,39 +14,7 @@ sections:
       under an hour, and you can have someone pick up and deliver you your dry
       cleaning.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Finally the beauty world is catching up.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Beautified offers appointment-based salon services (haircuts, blowouts,
       massages, facials, waxes) in a matter of clicks.&nbsp;[Not only can you can
@@ -68,63 +36,15 @@ sections:
   - text_markdown: >-
       **WCW: Hannah Bronfman**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       DJ, influencer, entrepreneur, fitness guru and Beautified Co-founder Hannah
       Bronfman is totally my girl crush. She’s the friend with advice you never
       knew you needed. Via Beautified she has introduced me to the antioxidant
       powers of Matcha tea, showed me where to take Beyonc&eacute; themed dance
       classes in the city and extolled the virtues of those trendy sheet masks.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       An inspiring motivator in her own right, she preaches a much-needed ‘be the
       best version of yourself’ mantra while leading strategy for brand
       integration and partnerships for Beautified.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Hannah has stuck out to me as a real voice for a new generation of creators
       and leaders. There is a real genuineness about her, and brands are taking
@@ -149,41 +69,9 @@ sections:
   - text_markdown: >-
       **Seamless Transactions.**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Another one of my favorite features? You pay for your entire service (and
       tip!) through the app. No more awkward loitering at the counter, no more
       fumbling for cash.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       While pre-paying online and through apps has become the norm, beauty salons
       are often far behind. So this feature of the app was an unexpected, and
@@ -200,80 +88,16 @@ sections:
   - text_markdown: >-
       **Beautified gives good (inter)face**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Not only is the pure functionality of this app a godsend, but the interface
       design is on point too. Working in the world of branding, I’m partial to
       great design. In the luxury creative space, less is more. Beautified does
       not disappoint. All in all, the app is beautiful, simple and easy-to-use.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       **Go ahead girl, get Beautified**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       All you need to #getbeautified is download the app. Right now it’s only
       available for iOS (sorry not sorry Android) and only available in New York
       City.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Warning: Beautified is highly addictive. Weekly massages, blowouts and
       workouts have been known to occur. Beautified may also cause euphoria and

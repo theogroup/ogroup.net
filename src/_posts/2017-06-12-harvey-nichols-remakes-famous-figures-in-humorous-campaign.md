@@ -11,24 +11,8 @@ sections:
       men could use some help in the fashion/grooming department," said Patrick
       Lorenz, strategy director at The O Group, New York.
 
-
-
-
-
-
-
-
-
       "If the leader of the free world needs help picking out jeans, chances are
       the rest of us could use a style tip or five."
-
-
-
-
-
-
-
-
 
       To read the article in full, please visit the link: "[Harvey Nichols
       remakes famous figures in humorous

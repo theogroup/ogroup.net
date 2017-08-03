@@ -18,22 +18,6 @@ sections:
       also represent a look at a cultural touchstone the start of a 30 year
       erosion.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       The descent of the mall has been driven by a number of factors: the
       proliferation of e-commerce, consumers’ desire for more unique or
       locally-made business and brand options, and the rise of development
@@ -57,43 +41,11 @@ sections:
       whether the benefit of spending money on an experience accrues before the
       purchase has been made, in addition to after. And, yes, it does.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Shouldn’t the mall experience evolve to capitalize on how consumers’
       predilections have evolved? Consider the positive effect that will come
       from creating a lasting experience within the mall environment. A viable
       avenue toward delivering a lasting experience involves the infusion of
       consumer-friendly technology.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       According to&nbsp;[Bain Consulting’s Leading a Digical
       Transformation](http://www.bain.com/publications/articles/leading-a-digical-transformation.aspx),
@@ -103,22 +55,6 @@ sections:
       The real transformation taking place today isn’t the replacement of
       physical by digital, it’s the marriage of the two into combinations that
       create wholly new sources of value."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       The key for malls is the incorporation of technology that responds to
       shoppers’ wants and needs, and at the same time serves as inspiration for
@@ -137,22 +73,6 @@ sections:
       malls have an opportunity to take advantage of the showrooming trend by
       demonstrating the added value of brick and mortar experience as
       a complement and value add to mobile.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       Will we ever return to the shopping mall’s heyday? Perhaps not, but that’s
       not necessarily a bad thing. Fashion, media, and technology have all
