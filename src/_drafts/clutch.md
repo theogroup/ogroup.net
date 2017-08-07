@@ -55,6 +55,16 @@ intro_markdown: >-
   maintain the success we’ve had as an agency, but also continue rising on
   Clutch’s platform until we have the spot at the top of their New York and
   Seattle coverage and beyond.
+
+
+  ---
+
+
+  Clutch is a B2B ratings and reviews firm in the heart of Washington, DC,
+  Clutch connects you with the agencies and software solutions that can help you
+  enhance your business and meet your goals. Their methodology maps agencies and
+  software solutions based on customer reviews, the types of services offered,
+  and quality of work.
 sections:
   - text_markdown:
     single_image:
