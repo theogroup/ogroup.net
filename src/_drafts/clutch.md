@@ -8,7 +8,7 @@ tags:
   - Luxury Branding
   - Press
   - News
-image: /uploads/unnamed-2.jpg
+image:
 intro_markdown: >-
   In an ongoing effort to identify high-performing B2B service providers
   throughout the globe, Clutch recently issued a report releasing their most
@@ -19,28 +19,20 @@ intro_markdown: >-
   marketing and SEO, and most importantly, branding
 
 
-
-
-
   Their segment devoted to branding is one of the most extensive and competitive
-  listings on their site, with some of the country’s strongest agencies vying for
-  the position as the top provider for buyers seeking branding services. For this
-  reason, The O Group is incredibly proud and excited to announce that Clutch has
-  featured us as one of the best branding agencies in New York in 2017.
+  listings on their site, with some of the country’s strongest agencies vying
+  for the position as the top provider for buyers seeking branding services. For
+  this reason, The O Group is incredibly proud and excited to announce that
+  Clutch has featured us as one of the best branding agencies in New York in
+  2017.
 
 
-
-
-
-  To receive this distinction, The O Group had to prove ourselves as a strong and
-  results-driven agency as determined by a few different factors. First, Clutch
-  measured our presence in the branding market by looking at the clients we
-  serve, the branding services we offer, and our ability to deliver quality
+  To receive this distinction, The O Group had to prove ourselves as a strong
+  and results-driven agency as determined by a few different factors. First,
+  Clutch measured our presence in the branding market by looking at the clients
+  we serve, the branding services we offer, and our ability to deliver quality
   projects as showcased by the [c](https://www.ogroup.net/work/)ase studies
   displayed on our website.
-
-
-
 
 
   Next, and most significantly, Clutch analysts spoke directly with our former
@@ -51,24 +43,18 @@ intro_markdown: >-
   has produced.
 
 
-
-
-
   These reviews, combined with our branding expertise, is what has led to our
   placement on Clutch, giving us the opportunity to see how we rank compared to
   similar firms. So far, so good.
 
 
-
-
-
-  Without our clients, The O Group would not be where it is today. We are greatly
-  appreciative of the partnerships we’ve maintained over the years and could not
-  be more proud of what we’ve accomplished together. Moving forward, we will
-  continue delivering quality work for our clients so we can not only maintain
-  the success we’ve had as an agency, but also continue rising on Clutch’s
-  platform until we have the spot at the top of their New York and Seattle
-  coverage and beyond.
+  Without our clients, The O Group would not be where it is today. We are
+  greatly appreciative of the partnerships we’ve maintained over the years and
+  could not be more proud of what we’ve accomplished together. Moving forward,
+  we will continue delivering quality work for our clients so we can not only
+  maintain the success we’ve had as an agency, but also continue rising on
+  Clutch’s platform until we have the spot at the top of their New York and
+  Seattle coverage and beyond.
 sections:
   - text_markdown:
     single_image:
@@ -77,7 +63,7 @@ sections:
       video_id:
       video_width:
       video_height:
-contact_tagline: "Let's start a conversation about luxury."
+contact_tagline: Let's start a conversation about luxury.
 ---
 
 
