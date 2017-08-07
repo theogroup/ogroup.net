@@ -9,22 +9,17 @@ tags:
   - Press
   - News
 image: /uploads/fullsizerender.jpg
+description: In an ongoing effort to identify high-performing B2B service providers
+  throughout the globe, Clutch recently issued a report releasing their most
+  updated research of the best agencies and developers in New York City.
 intro_markdown: >-
   In an ongoing effort to identify high-performing B2B service providers
   throughout the globe, Clutch recently issued a report releasing their most
-  updated research of the best agencies and developers in New York City. Clutch,
-  a ratings and reviews platform for service providers, has profiled and
-  evaluated thousands of companies belonging to a wide range of industries,
-  including IT services and development, advertising and marketing, social media
-  marketing and SEO, and most importantly, branding
+  updated research of the best agencies and developers in New York City. Clutch,  a ratings and reviews platform for service providers, has profiled and evaluated thousands of companies belonging to a wide range of industries,
+  including IT services and development, advertising and marketing, social media marketing and SEO, and most importantly, branding
 
 
-  Their segment devoted to branding is one of the most extensive and competitive
-  listings on their site, with some of the country’s strongest agencies vying
-  for the position as the top provider for buyers seeking branding services. For
-  this reason, The O Group is incredibly proud and excited to announce that
-  Clutch has featured us as one of the best branding agencies in New York in
-  2017.
+  Their segment devoted to branding is one of the most extensive and competitive listings on their site, with some of the country’s strongest agencies vying for the position as the top provider for buyers seeking branding services. For this reason, The O Group is incredibly proud and excited to announce that Clutch has featured us as one of the best branding agencies in New York in 2017.
 sections:
   - text_markdown: >-
       To receive this distinction, The O Group had to prove ourselves as a
