@@ -4,6 +4,10 @@ publish_date: 2015-07-01 00:00:00
 featured: false
 tags:
   - Retail
+  - Culture
+  - Luxury Branding
+  - rethink luxury
+  - Strategy
 image: /uploads/blog-35-f.jpg
 intro_markdown: >-
   Malls and mall branding are an ever-changing, multi-dimensional puzzle. Mall
