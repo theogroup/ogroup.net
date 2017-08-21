@@ -98,6 +98,15 @@ intro_markdown: >-
 sections:
   - text_markdown:
     single_image:
+    quote: >-
+      but only if malls and their tenants truly understand the value that
+      consumers now place on experience.
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image:
     quote:
     video:
       video_id:
