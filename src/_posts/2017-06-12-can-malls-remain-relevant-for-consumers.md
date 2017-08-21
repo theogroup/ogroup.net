@@ -1,11 +1,14 @@
 ---
 title: Can Malls Remain Relevant for Consumers?
-publish_date: 2016-04-16 00:00:00
+publish_date: 2016-04-14 00:00:00
 featured: false
-tags: [rethink luxury, Retail]
+tags:
+  - rethink luxury
+  - Retail
 image: /uploads/blog-30-f.jpg
-intro_markdown: Shouldn’t the mall experience evolve to capitalize on how consumers’ predilections have changed?​
-
+intro_markdown: >-
+  Shouldn’t the mall experience evolve to capitalize on how consumers’
+  predilections have changed?​
 sections:
   - text_markdown: >-
       Malls have long existed as a centralized hub of consumerism and cultural
@@ -29,13 +32,15 @@ sections:
     video:
   - text_markdown:
     single_image:
-    quote: but only if malls and their tenants truly understand the value that consumers now place on experience.
+    quote: >-
+      but only if malls and their tenants truly understand the value that
+      consumers now place on experience.
     video:
   - text_markdown: >-
       In the journal of Psychological Science, Gilovich, Killingsworth and
       Cornell doctoral candidate Amit Kumar, expanded on the current
-      understanding that spending money on experiences, "provide(s) more enduring
-      happiness." ([Nicely summed up here by The
+      understanding that spending money on experiences, "provide(s) more
+      enduring happiness." ([Nicely summed up here by The
       Atlantic](http://www.theatlantic.com/business/archive/2014/10/buy-experiences/381132/))
       They looked specifically at anticipation as a driver of that happiness;
       whether the benefit of spending money on an experience accrues before the
@@ -64,27 +69,30 @@ sections:
     video:
   - text_markdown:
     single_image:
-    quote: Malls should consider using technology to create a fluid and personalized journey through the mall that delivers unexpected engagement along the way.
+    quote: >-
+      Malls should consider using technology to create a fluid and personalized
+      journey through the mall that delivers unexpected engagement along the
+      way.
     video:
   - text_markdown: >-
       Speaking of mobile technology, "showrooming" has become a common part of
       our lexicon. It’s nearly impossible to prevent savvy shoppers from
       attempting to find the best price for the products they desire. That said,
       malls have an opportunity to take advantage of the showrooming trend by
-      demonstrating the added value of brick and mortar experience as
-      a complement and value add to mobile.
+      demonstrating the added value of brick and mortar experience as a
+      complement and value add to mobile.
 
       Will we ever return to the shopping mall’s heyday? Perhaps not, but that’s
       not necessarily a bad thing. Fashion, media, and technology have all
       evolved over time, and the way people shop is no different. The key for
-      malls is to continually improve the experience for consumers by reimagining
-      what the physical space can offer as well as using technology to provide
-      added value and make the shopping centers responsive to ever-changing
-      consumer behavior.​
+      malls is to continually improve the experience for consumers by
+      reimagining what the physical space can offer as well as using technology
+      to provide added value and make the shopping centers responsive to
+      ever-changing consumer behavior.​
     single_image:
     quote:
     video:
-contact_tagline: "Let's start a conversation about luxury."
+contact_tagline: Let's start a conversation about luxury.
 ---
 
 
