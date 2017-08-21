@@ -1,6 +1,6 @@
 ---
 title: How Can Malls Remain Relevant?
-publish_date: 2017-08-22 00:00:00
+publish_date: 2017-08-24 00:00:00
 featured: true
 tags:
   - Culture
