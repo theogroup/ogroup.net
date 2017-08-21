@@ -1,5 +1,5 @@
 ---
-title: Can Malls Remain Relevant for Consumers?
+title: How Can Malls Remain Relevant for Consumers?
 publish_date: 2017-08-22 00:00:00
 featured: true
 tags:
