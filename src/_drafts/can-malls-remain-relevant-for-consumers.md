@@ -14,23 +14,24 @@ intro_markdown: >-
   # Can Malls Remain Relevant for Consumers?
 
 
-  ## Shouldn’t the mall experience evolve to capitalize on how consumers’
+  Shouldn’t the mall experience evolve to capitalize on how consumers’
   predilections have changed?
 
 
   Malls have long existed as a centralized hub of consumerism and cultural
   connectivity, strategically designed and built in locations to receive the
   most traffic. In 1989, when malls experienced a rapid growth across America,
-  photographer Michael Galinsky beautifully captured the cultural phenomenon of
-  the shopping mall as central to social life across the country. While his
-  photos now transport viewers to a bygone era of big hair and acid washed
-  jeans, they also represent a look at a cultural touchstone that was the start
-  of a 30 year erosion. The descent of the mall has been driven by a number of
-  factors: the proliferation of e-commerce, consumers’ desire for more unique or
-  locally-made business and brand options, and the rise of development
-  orchestrated “town-centers” to name just a few. Despite this shift, the
-  potential for shopping malls (and the businesses within their walls) to regain
-  consumers’ attention remains real –
+  [photographer Michael Galinsky beautifully captured the cultural phenomenon of
+  the shopping mall as central to social life across the
+  country](http://rumur.com/malls-across-america/). While his photos now
+  transport viewers to a bygone era of big hair and acid washed jeans, they also
+  represent a look at a cultural touchstone that was the start of a 30 year
+  erosion. The descent of the mall has been driven by a number of factors: the
+  proliferation of e-commerce, consumers’ desire for more unique or locally-made
+  business and brand options, and the rise of development orchestrated
+  “town-centers” to name just a few. Despite this shift, the potential for
+  shopping malls (and the businesses within their walls) to regain consumers’
+  attention remains real –
 
 
   > But only if malls and their tenants truly understand the value that
@@ -39,24 +40,26 @@ intro_markdown: >-
 
   In the journal of Psychological Science, Gilovich, Killingsworth and Cornell
   doctoral candidate Amit Kumar, expanded on the current understanding that
-  spending money on experiences, “provide(s) more enduring happiness.” (Nicely
-  summed up by The Atlantic) They looked specifically at anticipation as a
-  driver of that happiness; whether the benefit of spending money on an
-  experience accrues before the purchase has been made, in addition to after.
-  And, yes, it does. Shouldn’t the mall experience evolve to capitalize on how
-  consumers’ predilections have evolved? Consider the positive effect that will
-  come from creating a lasting experience within the mall environment. A viable
-  avenue toward delivering a lasting experience involves the infusion of
-  consumer-friendly technology. According to Bain Consulting’s Leading a Digical
-  Transformation, “Straight-line extrapolations of digital dominance miss some
-  important insights. We humans are physical and social beings. We like to go
-  out, to interact in person with other people, to touch and handle and make
-  things. The real transformation taking place today isn’t the replacement of
-  physical by digital, it’s the marriage of the two into combinations that
-  create wholly new sources of value.” The key for malls is the incorporation of
-  technology that responds to shoppers’ wants and needs, and at the same time
-  serves as inspiration for consumers to modify how they approach the physical
-  shopping experience.
+  spending money on experiences, “provide(s) more enduring happiness.” ([Nicely
+  summed up by The
+  Atlantic](http://www.theatlantic.com/business/archive/2014/10/buy-experiences/381132/))
+  They looked specifically at anticipation as a driver of that happiness;
+  whether the benefit of spending money on an experience accrues before the
+  purchase has been made, in addition to after. And, yes, it does. Shouldn’t the
+  mall experience evolve to capitalize on how consumers’ predilections have
+  evolved? Consider the positive effect that will come from creating a lasting
+  experience within the mall environment. A viable avenue toward delivering a
+  lasting experience involves the infusion of consumer-friendly technology.
+  According to Bain Consulting’s Leading a Digical Transformation,
+  “Straight-line extrapolations of digital dominance miss some important
+  insights. We humans are physical and social beings. We like to go out, to
+  interact in person with other people, to touch and handle and make things. The
+  real transformation taking place today isn’t the replacement of physical by
+  digital, it’s the marriage of the two into combinations that create wholly new
+  sources of value.” The key for malls is the incorporation of technology that
+  responds to shoppers’ wants and needs, and at the same time serves as
+  inspiration for consumers to modify how they approach the physical shopping
+  experience.
 
 
   > Malls should consider using technology to create a fluid and personalized
@@ -79,8 +82,9 @@ intro_markdown: >-
   ever-changing consumer behavior.
 
 
-  And, like luxury, mall brands need to exceed expectations, surprise and
-  delight, impress and engage.
+  And, like luxury, [mall
+  brands](https://www.ogroup.net/blog/4-ways-malls-should-act-like-luxury-brands/)
+  need to exceed expectations, surprise and delight, impress and engage.
 
 
   > It is time to disrupt the world of malls and mall branding, just as the rest
