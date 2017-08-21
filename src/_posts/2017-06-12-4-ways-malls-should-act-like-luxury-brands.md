@@ -52,7 +52,7 @@ sections:
     video:
   - text_markdown:
     single_image:
-    quote: I’d love to see malls have creative directors the way Fashion brands do.
+    quote: Malls should have creative directors the way Fashion brands do.
     video:
   - text_markdown: >-
       That could lead to amazingly diverse and unique approaches that draw
