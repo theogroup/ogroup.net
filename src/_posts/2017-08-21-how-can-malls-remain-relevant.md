@@ -57,16 +57,17 @@ sections:
       have evolved? Consider the positive effect that will come from creating a
       lasting experience within the mall environment. A viable avenue toward
       delivering a lasting experience involves the infusion of consumer-friendly
-      technology. According to Bain Consulting’s Leading a Digical
-      Transformation, “Straight-line extrapolations of digital dominance miss
-      some important insights. We humans are physical and social beings. We like
-      to go out, to interact in person with other people, to touch and handle
-      and make things. The real transformation taking place today isn’t the
-      replacement of physical by digital, it’s the marriage of the two into
-      combinations that create wholly new sources of value.” The key for malls
-      is the incorporation of technology that responds to shoppers’ wants and
-      needs, and at the same time serves as inspiration for consumers to modify
-      how they approach the physical shopping experience.
+      technology. According to [Bain Consulting’s Leading a Digical
+      Transformation](http://www.bain.com/publications/articles/leading-a-digical-transformation.aspx),
+      “Straight-line extrapolations of digital dominance miss some important
+      insights. We humans are physical and social beings. We like to go out, to
+      interact in person with other people, to touch and handle and make things.
+      The real transformation taking place today isn’t the replacement of
+      physical by digital, it’s the marriage of the two into combinations that
+      create wholly new sources of value.” The key for malls is the
+      incorporation of technology that responds to shoppers’ wants and needs,
+      and at the same time serves as inspiration for consumers to modify how
+      they approach the physical shopping experience.
     single_image:
     quote:
     video:
