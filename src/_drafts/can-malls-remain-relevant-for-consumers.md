@@ -15,10 +15,6 @@ intro_markdown: >-
   predilections have changed?
 sections:
   - text_markdown: >-
-      Shouldn’t the mall experience evolve to capitalize on how consumers’
-      predilections have changed?
-
-
       Malls have long existed as a centralized hub of consumerism and cultural
       connectivity, strategically designed and built in locations to receive the
       most traffic. In 1989, when malls experienced a rapid growth across
