@@ -11,9 +11,6 @@ tags:
 image: /uploads/westfield-world-trade-center-new-york.jpg
 description: Luxury Branding and Shopping Malls
 intro_markdown: >-
-  # Can Malls Remain Relevant for Consumers?
-
-
   Shouldn’t the mall experience evolve to capitalize on how consumers’
   predilections have changed?
 
