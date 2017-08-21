@@ -60,9 +60,9 @@ sections:
       the sum of its parts.
 
 
-      **3. Surround Yourself with Greatness:**Malls should partner with the
-      best, or at least the most appropriate. Luxury brands have long known that
-      there are times when collaboration is the key to success. There are
+      **3. Surround Yourself with Greatness:&nbsp;**Malls should partner with
+      the best, or at least the most appropriate. Luxury brands have long known
+      that there are times when collaboration is the key to success. There are
       countless examples of capsule collections, co-branding, etc. and the mall
       industry seems to have begun to understand this too. Successful mall
       brands will take this to the next level. By turning their food courts into
