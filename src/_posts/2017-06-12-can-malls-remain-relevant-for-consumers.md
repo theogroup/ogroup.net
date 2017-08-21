@@ -1,6 +1,6 @@
 ---
 title: Can Malls Remain Relevant for Consumers?
-publish_date: 2014-04-14 00:00:00
+publish_date: 2014-11-18 00:00:00
 featured: false
 tags:
   - rethink luxury
