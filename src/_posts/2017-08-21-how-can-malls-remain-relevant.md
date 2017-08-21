@@ -38,8 +38,8 @@ sections:
   - text_markdown:
     single_image:
     quote: >-
-      But only if malls and their tenants truly understand the value that
-      consumers now place on experience.
+      Malls and their tenants need to truly understand the value that consumers
+      now place on experience.
     video:
       video_id:
       video_width:
