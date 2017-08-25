@@ -28,21 +28,23 @@ sections:
       live there day to day. Sure, there are spots in every destination that
       have stood the test of time and are worth a visit, even if it means
       contending with clueless crowds armed with selfie sticks. In Seattle, at
-      the top of the typical “must see” list includes the&nbsp;**Space Needle**,
-      the&nbsp;**Waterfront**&nbsp;and&nbsp;**Aquarium**,**&nbsp;Pioneer
-      Square**,&nbsp;**Pike Place Market**&nbsp;and the
-      original&nbsp;**Starbucks&nbsp;**cafe.&nbsp; All worthy stops to log into
-      your “been there, done that” bucket list, but brace yourself for the
-      teaming masses and long lines. As a longtime resident of Seattle and a
-      connoisseur of culture and food, I think the best of our city lies outside
-      the more expected tourist hot spots and resides in the unique
-      neighborhoods that encircle the city.&nbsp;
+      the top of the typical “must see” list includes the&nbsp;[**Space
+      Needle**](https://www.spaceneedle.com/),
+      the&nbsp;[**Waterfront**](http://www.visitseattle.org/neighborhoods/waterfront/)&nbsp;and&nbsp;[**Aquarium**](http://www.seattleaquarium.org/?gclid=CMXD7b_08tUCFYllfgod6jABxw),**&nbsp;[Pioneer
+      Square](http://www.pioneersquare.org/)**,&nbsp;[**Pike Place
+      Market**](http://pikeplacemarket.org/)&nbsp;and the
+      original&nbsp;**[Starbucks](https://www.starbucks.com/coffeehouse/store-design/1st-and-pike)&nbsp;**cafe.&nbsp;
+      All worthy stops to log into your “been there, done that” bucket list, but
+      brace yourself for the teaming masses and long lines. As a longtime
+      resident of Seattle and a culture and food geek, I think the best of our
+      city lies outside the more expected tourist hot spots and resides in the
+      unique neighborhoods that encircle the city.&nbsp;
 
 
       Here are my top picks, I promise none with disappoint. &nbsp;
     single_image: >-
       /uploads/63a601d1298fca35fd1fab7123b4245b--seattle-seafood-seattle-restaurants-1.jpg
-    quote:
+    quote: View from the bar at Ray's Boathouse in Ballard
     video:
       video_id:
       video_width:
@@ -55,19 +57,22 @@ sections:
       construction cranes than any other city in the US. The city is in a major
       building boom and many areas of downtown are a traffic and navigation
       mess. Of the more expected downtown destinations, there are two I would
-      recommend seeing for sure - the&nbsp;**Pike Place Market**&nbsp;near the
-      waterfront and&nbsp;**Chihuly Garden and Glass**&nbsp;in Seattle Center.
+      recommend seeing for sure - the&nbsp;[**Pike Place
+      Market**&nbsp;](http://pikeplacemarket.org/)near the waterfront
+      and&nbsp;[**Chihuly Garden and
+      Glass**](https://www.chihulygardenandglass.com/)&nbsp;in Seattle Center.
       Pike Place Market is a year-round farmers market - used by Seattleites and
       tourist alike when sourcing local produce, seafood, cheese and dairy,
       baked goods and specialty items. For foodies like me, it’s a must see. Get
       there early to watch vendors set up, wander through the funky shops and
-      then head upstairs to the exceptional&nbsp;**Mat’s in the Market&nbsp;**(a
-      long-standing local favorite) for lunch and the best view of the
-      market.&nbsp;**Chihuly Garden and Glass&nbsp;**opened in 2013 and since
-      then it’s become the most loved thing to do in Seattle on Trip Advisor and
-      many other travel sites. The largest permanent exhibition of local
-      legendary glass artist Dale Chihuly exceeds expectations. The grounds
-      include a stunning giant greenhouse and garden that organically
+      then head upstairs to the exceptional&nbsp;[**Matt’s in the
+      Market&nbsp;**](http://www.mattsinthemarket.com/)(a long-standing local
+      favorite) for lunch and the best view of the market.&nbsp;**[Chihuly
+      Garden and Glass](https://www.chihulygardenandglass.com/)&nbsp;**opened in
+      2013 and since then it’s become the most loved thing to do in Seattle on
+      Trip Advisor and many other travel sites. The largest permanent exhibition
+      of local legendary glass artist Dale Chihuly exceeds expectations. The
+      grounds include a stunning giant greenhouse and garden that organically
       incorporates his glass art. I was lucky enough to be on the team that
       developed this project (I created all branded materials) and proud to
       share it with visitors and locals alike.&nbsp;
@@ -75,7 +80,7 @@ sections:
 
       &nbsp;
     single_image: /uploads/chihuly-garden-and-glass---wake-up-with-yoga-1.jpg
-    quote:
+    quote: Chihuly Garden and Glass at night
     video:
       video_id:
       video_width:
@@ -87,29 +92,35 @@ sections:
       About a 10-15 minute drive (depending on the ever increasing Seattle
       traffic) north from downtown takes you to the hip maritime neighborhood of
       Ballard, a powerhouse dining-shopping-drinking destination. Most people
-      come out this way to see the famous**&nbsp;Ballard Locks&nbsp;**- the
+      come out this way to see the famous**&nbsp;[Ballard
+      Locks](http://www.myballard.com/ballard-locks-seattle/)&nbsp;**- the
       nation’s busiest lock system with over 40,000 vessels passing to and from
       the fresh water of Lake Washington to the Puget Sound. Fun to see and
       great for kids (especially the Fish Ladder that can exceed 100,000 salmon
       in migration) but for more lively experience, Downtown Ballard delivers.
-      If you are lucky enough to be in the area on a Sunday, the&nbsp;**Ballard
-      Farmer’s Market&nbsp;**is the best in Seattle and open year round. If
-      organic carrots and handmade hemp soap are not your thing perhaps grabbing
-      a beer is more your speed. Ballard has more breweries than any other
-      neighborhood in Seattle or Portland. My personal favorite is&nbsp;**Stoup
-      Brewing&nbsp;**with 20 beers on tap to sample, enjoy and take home.
-      Looking for just the right cocktail amongst a hyper-local crowd?
-      &nbsp;**Hazelwood**&nbsp;is a celebrated neighborhood gem and just happens
-      to be owned by my brother - if you go, ask for Drew and tell him I sent
-      you! There are way too many good restaurants to recommend - but for out of
-      towners I would suggest heading to&nbsp;**Ray’s Boathouse,**&nbsp;an
+      If you are lucky enough to be in the area on a Sunday, the&nbsp;**[Ballard
+      Farmer’s
+      Market](http://www.sfmamarkets.com/visit-ballard-farmers-market/)&nbsp;**is
+      the best in Seattle and open year round. If organic carrots and handmade
+      hemp soap are not your thing perhaps grabbing a beer is more your speed.
+      Ballard has more breweries than any other neighborhood in Seattle or
+      Portland. My personal favorite is&nbsp;**[Stoup
+      Brewing](http://www.stoupbrewing.com/)&nbsp;**with 20 beers on tap to
+      sample, enjoy and take home. Looking for just the right cocktail amongst a
+      hyper-local crowd?
+      &nbsp;[**Hazelwood**](https://www.facebook.com/pages/Hazlewood/108150355893732/)&nbsp;is
+      a celebrated neighborhood gem and just happens to be owned by my brother -
+      if you go, ask for Drew and tell him I sent you! There are way too many
+      good restaurants to recommend - but for out-of-towners I would suggest
+      heading to&nbsp;**[Ray’s Boathouse](http://www.rays.com/),**&nbsp;an
       iconic Seattle waterfront establishment just outside Downtown Ballard with
       some of the best seafood and water views in the city. For a kickin’ Puget
       sound view complete with picnic and soft ice cream be sure to stop
-      by&nbsp;**Golden Gardens**&nbsp;where locals frolic in tepid water, play
-      volley ball and launch sailboats.
+      by&nbsp;[**Golden
+      Gardens**](https://www.tripadvisor.com/Attraction_Review-g60878-d141229-Reviews-Golden_Gardens_Park-Seattle_Washington.html)&nbsp;where
+      locals frolic in tepid water, play volley ball and launch sailboats.
     single_image: /uploads/gey8mgtooco2fsk-jhlxe7jkn-4bkmt9iaovexai0gq-1.jpg
-    quote:
+    quote: The tap room at Stoup Brewing
     video:
       video_id:
       video_width:
@@ -121,28 +132,31 @@ sections:
       Once the official hood of the LGBT community, Capitol Hill has gone though
       a major development spurt over the past 10 years and is at the heart of
       some of the best go-to spots in the city. The most beloved bookstore in
-      Seattle -&nbsp;**Elliott Bay Books&nbsp;**relocated to the Capitol Hill
-      neighborhood about 10 years ago into a beautiful new space that maintained
-      the spirit of the old historic Pioneer Square location–must for book
-      geeks. A few doors down from Elliott Bay Books is**Oddfellows Caf&eacute;
-      & Bar,&nbsp;**a great spot for lunch and an always interesting crowd they
-      offer breakfast, lunch and dinner and delicious baked goods to go. Around
-      the corner from Oddfellows is the lovely and expertly curated urban
-      apothecary,&nbsp;**Sugarpill.&nbsp;**Custom blended herbal remedies and
-      hard to find epicurean treasures are thoughtfully displayed by the sage
-      owner and my favorite holistic high priestess, Karyn Schwartz. Need a
-      sugar fix? Ice cream seems to be the new cupcake in Seattle and Cap Hill
-      has some fine choices, seriously consider checking out**Frankie and
-      Jo’s&nbsp;**plant based (vegan) ice cream shop. I know, vegan ice cream
-      does not sound a decadent as cream based, but try California Cabin or Date
-      Shake and I bet your view of all things vegan will be forever changed.
-      Last but not least, save room for a local classic
-      –&nbsp;**Dick’s**&nbsp;burger (go for the “Deluxe”) and fries - a Seattle
-      institution since 1954. For great views and local gardens be sure to
-      visit&nbsp;**Volunteer Park&nbsp;**and&nbsp;**The Seattle Asian Art
-      Museum.**
+      Seattle -&nbsp;**[Elliott Bay
+      Books](http://www.elliottbaybook.com/)&nbsp;**relocated to the Capitol
+      Hill neighborhood about 10 years ago into a beautiful new space that
+      maintained the spirit of the old historic Pioneer Square location–must for
+      book geeks. A few doors down from Elliott Bay Books is&nbsp;**[Oddfellows
+      Caf&eacute; & Bar](http://www.oddfellowscafe.com/),&nbsp;**a great spot
+      for lunch and an always interesting crowd they offer breakfast, lunch and
+      dinner and delicious baked goods to go. Around the corner from Oddfellows
+      is the lovely and expertly curated urban
+      apothecary,&nbsp;**[Sugarpill](https://www.facebook.com/SugarPillShop/).&nbsp;**Custom
+      blended herbal remedies and hard to find epicurean treasures are
+      thoughtfully displayed by the sage owner and my favorite holistic high
+      priestess, Karyn Schwartz. Need a sugar fix? Ice cream seems to be the new
+      cupcake in Seattle and Cap Hill has some fine choices, seriously consider
+      checking out[&nbsp;](__notset__)**[Frankie and
+      Jo’s](__notset__)&nbsp;**plant based (vegan) ice cream shop. I know, vegan
+      ice cream does not sound a decadent as cream based, but try California
+      Cabin or Date Shake and I bet your view of all things vegan will be
+      forever changed. Last but not least, save room for a local classic
+      –&nbsp;**Dick’s**&nbsp;**Drive-In** burger (go for the “Deluxe”) and fries
+      - a Seattle institution since 1954. For great views and local gardens be
+      sure to visit&nbsp;**Volunteer Park&nbsp;**and&nbsp;**The Seattle Asian
+      Art Museum.**
     single_image: /uploads/oddfellows-capitol-hill-1.jpg
-    quote:
+    quote: Oddfellows Cafe and Bar
     video:
       video_id:
       video_width:
@@ -182,7 +196,7 @@ sections:
       so if you have any questions or are in need of a recommendation beyond
       this article, feel free to drop me a line and ask! &nbsp;
     single_image: /uploads/19598982-1854499648204829-2036386304162219585-n-1.jpg
-    quote:
+    quote: Glass Vodka Boutique and Tasting Room
     video:
       video_id:
       video_width:
