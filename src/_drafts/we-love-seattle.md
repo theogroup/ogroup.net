@@ -147,14 +147,14 @@ sections:
       priestess, Karyn Schwartz. Need a sugar fix? Ice cream seems to be the new
       cupcake in Seattle and Cap Hill has some fine choices, seriously consider
       checking out[&nbsp;](__notset__)**[Frankie and
-      Jo’s](__notset__)&nbsp;**plant based (vegan) ice cream shop. I know, vegan
-      ice cream does not sound a decadent as cream based, but try California
-      Cabin or Date Shake and I bet your view of all things vegan will be
-      forever changed. Last but not least, save room for a local classic
-      –&nbsp;**Dick’s**&nbsp;**Drive-In** burger (go for the “Deluxe”) and fries
-      - a Seattle institution since 1954. For great views and local gardens be
-      sure to visit&nbsp;**Volunteer Park&nbsp;**and&nbsp;**The Seattle Asian
-      Art Museum.**
+      Jo’s](https://frankieandjos.com/)&nbsp;**plant based (vegan) ice cream
+      shop. I know, vegan ice cream does not sound a decadent as cream based,
+      but try California Cabin or Date Shake and I bet your view of all things
+      vegan will be forever changed. Last but not least, save room for a local
+      classic –&nbsp;[**Dick’s**&nbsp;**Drive-In**](http://www.ddir.com/) burger
+      (go for the “Deluxe”) and fries - a Seattle institution since 1954. For
+      great views and local gardens be sure to visit&nbsp;**[Volunteer
+      Park&nbsp;](https://www.tripadvisor.com/Attraction_Review-g60878-d8775170-Reviews-Volunteer_Park-Seattle_Washington.html).**
     single_image: /uploads/oddfellows-capitol-hill-1.jpg
     quote: Oddfellows Cafe and Bar
     video:
@@ -166,30 +166,33 @@ sections:
 
 
       Just south of the downtown Seattle is the cities’ industrial district and
-      the location of our two fantastic ball parks,&nbsp;**Safeco
-      Field&nbsp;**and&nbsp;**CenturyLink&nbsp;**Over the past 20 years or so,
-      SoDo (South Of Downtown) has been transforming into a destination in its
-      own right complete with luxury high rise apartments and condos. In
-      addition to checking out a game (baseball, soccer, football) if the season
-      is right, go vodka tasting at the fabulous&nbsp;**Glass Vodka Tasting
-      Boutique&nbsp;**on First Avenue a few blocks south of Safeco Field.&nbsp;
-      Glass Vodka is a premium, award-winning vodka distilled with Washington
-      state grapes (instead of wheat or potatoes) and flavored with some of the
-      best ingredients around - coffee, honey and Sri Lankan cinnamon. A client
-      for the past 3 years, I’ve had the opportunity to share the entire Glass
-      collection of vodkas with friends and it’s always a huge hit for those
-      appreciating something truly unique and unexpected. Across the street is
-      the&nbsp;**Filson**&nbsp;flagship store - a local heritage brand of
-      quality outdoor gear since 1897.&nbsp; All items are guaranteed for life
-      and the travel bags in particular are the darlings of fashion editors and
-      heritage brand geeks alike. Drive a little further south and you will hit
-      the artistic neighborhood of Georgetown. The once home of the Rainer
-      Brewery from 1878 to 1999 (a beautiful brick building that now houses
-      shops of all kinds) now is the “it” spot for the coolest antique shops and
-      places to eat and drink. My favorite is the lively and
-      colorful&nbsp;**Fonda La Cantina**&nbsp;- a family owned and seriously
-      authentic Mexican restaurant and bar, complete with the best house
-      margaritas and mole poblano in town.&nbsp;
+      the location of our two fantastic ball parks,&nbsp;**[Safeco
+      Field](http://seattle.mariners.mlb.com/sea/ballpark/)&nbsp;**and&nbsp;**[CenturyLink](http://www.centurylinkfield.com/)&nbsp;**Over
+      the past 20 years or so, SoDo (South Of Downtown) has been transforming
+      into a destination in its own right complete with luxury high rise
+      apartments and condos. In addition to checking out a game (baseball,
+      soccer, football) if the season is right, go vodka tasting at the
+      fabulous&nbsp;**[Glass Vodka Boutique and Tasting
+      Boutique](http://glassvodka.com/)&nbsp;**on First Avenue a few blocks
+      south of Safeco Field.&nbsp; Glass Vodka is a premium, award-winning vodka
+      distilled with Washington state grapes (instead of wheat or potatoes) and
+      flavored with some of the best ingredients around - coffee, honey and Sri
+      Lankan cinnamon. A client for the past 3 years, I’ve had the opportunity
+      to share the entire Glass collection of vodkas with friends and it’s
+      always a huge hit for those appreciating something truly unique and
+      unexpected. Across the street is
+      the&nbsp;[**Filson**](https://www.filson.com/)&nbsp;flagship store - a
+      local heritage brand of quality outdoor gear since 1897.&nbsp; All items
+      are guaranteed for life and the travel bags in particular are the darlings
+      of fashion editors and heritage brand geeks alike. Drive a little further
+      south and you will hit the artistic neighborhood of Georgetown. The once
+      home of the Rainer Brewery from 1878 to 1999 (a beautiful brick building
+      that now houses shops of all kinds) now is the “it” spot for the coolest
+      antique shops and places to eat and drink. My favorite is the lively and
+      colorful[&nbsp;**Fonda La
+      Cantina**](http://www.fondalacatrina.com/)&nbsp;- a family owned and
+      seriously authentic Mexican restaurant and bar, complete with the best
+      house margaritas and mole poblano in town.&nbsp;
 
 
       I’m happy to claim Seattle as my hometown. I love sharing it with others
