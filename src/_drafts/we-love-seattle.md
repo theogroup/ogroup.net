@@ -41,7 +41,7 @@ sections:
       unique neighborhoods that encircle the city.&nbsp;
 
 
-      Here are my top picks, I promise none with disappoint. &nbsp;
+      Here are my top picks, I promise none will disappoint. &nbsp;
     single_image: >-
       /uploads/63a601d1298fca35fd1fab7123b4245b--seattle-seafood-seattle-restaurants-1.jpg
     quote: View from the bar at Ray's Boathouse in Ballard
