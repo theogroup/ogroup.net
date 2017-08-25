@@ -1,5 +1,5 @@
 ---
-title: O Group West - Our Seattle Guide
+title: O Group West - Seattle Love
 publish_date: 2017-08-26 00:00:00
 featured: false
 tags:
