@@ -10,7 +10,7 @@ tags:
   - rethink luxury
   - Travel
   - strategy
-image: /uploads/default-image.jpg
+image: /uploads/unnamed-9.jpg
 description:
 intro_markdown: >-
   If you don’t know, now you know that The O Group has an endless curiosity and
