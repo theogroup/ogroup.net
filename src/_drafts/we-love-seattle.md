@@ -1,6 +1,6 @@
 ---
 title: We LOVE Seattle!
-publish_date:
+publish_date: 2017-08-26 00:00:00
 featured: false
 tags:
   - Culture
