@@ -1,5 +1,5 @@
 ---
-title: Seattle Love / O Group West
+title: The Best of Seattle Love / O Group West
 publish_date: 2017-08-26 00:00:00
 featured: false
 tags:
