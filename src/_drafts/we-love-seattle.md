@@ -50,7 +50,7 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      **Downtown.&nbsp;**
+      **Downtown**
 
 
       2017 marks the second year in a row that the Seattle skyline boasts more
@@ -86,7 +86,7 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      **Ballard.&nbsp;**
+      **Ballard**
 
 
       About a 10-15 minute drive (depending on the ever increasing Seattle
@@ -126,7 +126,7 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      **Capitol Hill.**
+      **Capitol Hill**
 
 
       Once the official hood of the LGBT community, Capitol Hill has gone though
