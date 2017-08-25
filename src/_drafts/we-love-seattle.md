@@ -1,5 +1,5 @@
 ---
-title: Seattle With Love!
+title: O Group West - Our Seattle Guide
 publish_date: 2017-08-26 00:00:00
 featured: false
 tags:
@@ -10,7 +10,7 @@ tags:
   - rethink luxury
   - Travel
   - strategy
-image: /uploads/unnamed-9.jpg
+image: /uploads/1dsc-3695-6-7-tonemapped-1.jpg
 description:
 intro_markdown: >-
   If you don’t know, now you know that The O Group has an endless curiosity and
@@ -40,7 +40,7 @@ sections:
 
 
       Here are my top picks, I promise none with disappoint. &nbsp;
-    single_image: /uploads/unnamed-3.jpg
+    single_image:
     quote:
     video:
       video_id:
@@ -73,7 +73,7 @@ sections:
 
 
       &nbsp;
-    single_image: /uploads/unnamed-4.jpg
+    single_image:
     quote:
     video:
       video_id:
@@ -107,7 +107,7 @@ sections:
       sound view complete with picnic and soft ice cream be sure to stop
       by&nbsp;**Golden Gardens**&nbsp;where locals frolic in tepid water, play
       volley ball and launch sailboats.
-    single_image: /uploads/unnamed-5.jpg
+    single_image:
     quote:
     video:
       video_id:
@@ -122,7 +122,7 @@ sections:
       some of the best go-to spots in the city. The most beloved bookstore in
       Seattle -&nbsp;**Elliott Bay Books&nbsp;**relocated to the Capitol Hill
       neighborhood about 10 years ago into a beautiful new space that maintained
-      the spirit of the old historic Pioneer Square location–must for book
+      the spirit of the old historic Pioneer Square location--must for book
       geeks. A few doors down from Elliott Bay Books is**Oddfellows Caf&eacute;
       & Bar,&nbsp;**a great spot for lunch and an always interesting crowd they
       offer breakfast, lunch and dinner and delicious baked goods to go. Around
@@ -136,11 +136,11 @@ sections:
       does not sound a decadent as cream based, but try California Cabin or Date
       Shake and I bet your view of all things vegan will be forever changed.
       Last but not least, save room for a local classic
-      –&nbsp;**Dick’s**&nbsp;burger (go for the “Deluxe”) and fries - a Seattle
+      --&nbsp;**Dick’s**&nbsp;burger (go for the “Deluxe”) and fries - a Seattle
       institution since 1954. For great views and local gardens be sure to
       visit&nbsp;**Volunteer Park&nbsp;**and&nbsp;**The Seattle Asian Art
       Museum.**
-    single_image: /uploads/unnamed-8.jpg
+    single_image:
     quote:
     video:
       video_id:
@@ -180,7 +180,7 @@ sections:
       I’m happy to claim Seattle as my hometown. I love sharing it with others
       so if you have any questions or are in need of a recommendation beyond
       this article, feel free to drop me a line and ask! &nbsp;
-    single_image: /uploads/unnamed-7.jpg
+    single_image:
     quote:
     video:
       video_id:
