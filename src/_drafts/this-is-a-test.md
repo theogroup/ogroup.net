@@ -1,8 +1,8 @@
 ---
 title: this is a test
-publish_date:
+publish_date: 2017-08-25 00:00:00
 featured: false
-tags: []
+tags:
 image: /uploads/default-image.jpg
 description:
 intro_markdown:
@@ -16,6 +16,8 @@ sections:
       video_height:
 contact_tagline: Let's start a conversation about luxury.
 ---
+
+
 DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
 
 NOTE:
