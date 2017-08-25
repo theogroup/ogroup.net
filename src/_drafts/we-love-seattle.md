@@ -1,5 +1,5 @@
 ---
-title: O Group West - Seattle Love
+title: Seattle Love / O Group West
 publish_date: 2017-08-26 00:00:00
 featured: false
 tags:
@@ -15,8 +15,8 @@ description:
 intro_markdown: >-
   If you don’t know, now you know that The O Group has an endless curiosity and
   appreciation for delicious culinary and cultural experiences. Today, we
-  explore our new neighborhood through the eyes of Seattle local and The O Group
-  CCO Daymon Bruck. Sit back and enjoy the ride…
+  explore our new neighborhood through the eyes of Seattle local and our CCO
+  Daymon Bruck. Sit back and enjoy the ride…
 sections:
   - text_markdown: >-
       **The Best of Local Seattle&nbsp;**
