@@ -1,5 +1,5 @@
 ---
-title: We LOVE Seattle!
+title: Seattle With Love!
 publish_date: 2017-08-26 00:00:00
 featured: false
 tags:
