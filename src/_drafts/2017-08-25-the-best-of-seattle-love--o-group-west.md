@@ -10,7 +10,7 @@ tags:
   - rethink luxury
   - Travel
   - strategy
-image: /uploads/1dsc-3695-6-7-tonemapped-1.jpg
+image: /uploads/unnamed-9.png
 description:
 intro_markdown: >-
   If you don’t know, now you know that The O Group has an endless curiosity and
@@ -198,8 +198,15 @@ sections:
       I’m happy to claim Seattle as my hometown. I love sharing it with others
       so if you have any questions or are in need of a recommendation beyond
       this article, feel free to drop me a line and ask! &nbsp;
-    single_image: /uploads/19598982-1854499648204829-2036386304162219585-n-1.jpg
-    quote: Glass Vodka Boutique and Tasting Room
+    single_image: /uploads/app-cloudcannon-5.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image:
+    quote:
     video:
       video_id:
       video_width:
