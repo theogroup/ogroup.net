@@ -1,7 +1,7 @@
 ---
 title: The Best of Seattle Love / O Group West
 publish_date: 2017-08-30 00:00:00
-featured: false
+featured: true
 tags:
   - Culture
   - Dining
@@ -198,7 +198,7 @@ sections:
       I’m happy to claim Seattle as my hometown. I love sharing it with others
       so if you have any questions or are in need of a recommendation beyond
       this article, feel free to drop me a line and ask! &nbsp;
-    single_image: /uploads/app-cloudcannon-5.jpg
+    single_image:
     quote:
     video:
       video_id:
