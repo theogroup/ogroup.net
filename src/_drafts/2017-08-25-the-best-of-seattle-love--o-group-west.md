@@ -1,5 +1,5 @@
 ---
-title: 'O Group West: The Very Best of Local Seattle'
+title: O Group West / the Best of Local Seattle
 publish_date: 2017-08-30 00:00:00
 featured: true
 tags:
@@ -129,7 +129,7 @@ sections:
       hyper-local crowd?
       &nbsp;[**Hazelwood**](https://www.facebook.com/pages/Hazlewood/108150355893732/)&nbsp;is
       a celebrated neighborhood gem and just happens to be owned by my brother -
-      if you go, ask for Drew and tell him I sent you! There are way too many
+      if you go, ask for Drew and tell him I sent you. There are way too many
       good restaurants to recommend - but for out-of-towners I would suggest
       heading to&nbsp;**[Ray’s Boathouse](http://www.rays.com/),**&nbsp;an
       iconic Seattle waterfront establishment just outside Downtown Ballard with
