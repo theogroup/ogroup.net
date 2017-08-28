@@ -145,6 +145,14 @@ sections:
       video_width:
       video_height:
   - text_markdown:
+    single_image: >-
+      /uploads/63a601d1298fca35fd1fab7123b4245b--seattle-seafood-seattle-restaurants-2.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
     single_image: /uploads/gey8mgtooco2fsk-jhlxe7jkn-4bkmt9iaovexai0gq-2.jpg
     quote:
     video:
