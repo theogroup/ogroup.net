@@ -41,10 +41,9 @@ sections:
       unique neighborhoods that encircle the city.&nbsp;
 
 
-      Here are my top picks, I promise none will disappoint. &nbsp;
-    single_image: >-
-      /uploads/63a601d1298fca35fd1fab7123b4245b--seattle-seafood-seattle-restaurants-1.jpg
-    quote: View from the bar at Ray's Boathouse in Ballard
+      > Here are my top picks, I promise none will disappoint.
+    single_image:
+    quote:
     video:
       video_id:
       video_width:
@@ -198,7 +197,7 @@ sections:
       I’m happy to claim Seattle as my hometown. I love sharing it with others
       so if you have any questions or are in need of a recommendation beyond
       this article, feel free to drop me a line and ask! &nbsp;
-    single_image:
+    single_image: /uploads/app-cloudcannon.jpg
     quote:
     video:
       video_id:
