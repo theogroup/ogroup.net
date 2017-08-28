@@ -1,5 +1,5 @@
 ---
-title: O Group West / the Best of Local Seattle
+title: 'O Group West: The Best of Local Seattle'
 publish_date: 2017-08-30 00:00:00
 featured: true
 tags:
