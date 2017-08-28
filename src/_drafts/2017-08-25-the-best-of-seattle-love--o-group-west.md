@@ -28,26 +28,26 @@ sections:
       **The Best of Local Seattle&nbsp;**
 
 
-      Getting to know any city requires research.&nbsp; When I travel I like to
-      root out places where the locals hang out. I like to be immersed in the
-      spirit of a city and to see it through the eyes of people who actually
-      live there day to day. Sure, there are spots in every destination that
-      have stood the test of time and are worth a visit, even if it means
-      contending with clueless crowds armed with selfie sticks. In Seattle, at
-      the top of the typical “must see” list includes the&nbsp;[**Space
-      Needle**](https://www.spaceneedle.com/),
+      When I travel I like to root out places where the locals hang out. I like
+      to be immersed in the spirit of a city and to see it through the eyes of
+      people who actually live there day-to-day. Sure, there are spots in every
+      destination that have stood the test of time and are worth a visit, even
+      if it means contending with clueless crowds armed with selfie sticks. In
+      Seattle, at the top of the typical “must see” list includes
+      the&nbsp;[**Space Needle**](https://www.spaceneedle.com/),
       the&nbsp;[**Waterfront**](http://www.visitseattle.org/neighborhoods/waterfront/)&nbsp;and&nbsp;[**Aquarium**](http://www.seattleaquarium.org/?gclid=CMXD7b_08tUCFYllfgod6jABxw),**&nbsp;[Pioneer
       Square](http://www.pioneersquare.org/)**,&nbsp;[**Pike Place
       Market**](http://pikeplacemarket.org/)&nbsp;and the
       original&nbsp;**[Starbucks](https://www.starbucks.com/coffeehouse/store-design/1st-and-pike)&nbsp;**cafe.&nbsp;
       All worthy stops to log into your “been there, done that” bucket list, but
       brace yourself for the teaming masses and long lines. As a longtime
-      resident of Seattle and a culture and food geek, I think the best of our
+      resident of Seattle and a culture and food geek, I think the best of this
       city lies outside the more expected tourist hot spots and resides in the
       unique neighborhoods that encircle the city.&nbsp;
 
 
-      Here are my top picks, I promise none will disappoint.
+      Here are my top picks for must see Seattle neighborhoods and some key
+      stops when you get there.&nbsp;
     single_image:
     quote:
     video:
