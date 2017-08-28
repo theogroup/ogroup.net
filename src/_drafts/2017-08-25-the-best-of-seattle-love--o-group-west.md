@@ -84,6 +84,13 @@ sections:
       video_id:
       video_width:
       video_height:
+  - text_markdown:
+    single_image: /uploads/chihuly-garden-and-glass---wake-up-with-yoga-2.jpg
+    quote: Chihuly Garden and Glass
+    video:
+      video_id:
+      video_width:
+      video_height:
   - text_markdown: >-
       **Ballard**
 
@@ -119,6 +126,13 @@ sections:
       Gardens**](https://www.tripadvisor.com/Attraction_Review-g60878-d141229-Reviews-Golden_Gardens_Park-Seattle_Washington.html)&nbsp;where
       locals frolic in tepid water, play volley ball and launch sailboats.
     single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image: /uploads/gey8mgtooco2fsk-jhlxe7jkn-4bkmt9iaovexai0gq-2.jpg
     quote:
     video:
       video_id:
@@ -198,27 +212,6 @@ sections:
       so if you have any questions or are in need of a recommendation beyond
       this article, feel free to drop me a line and ask! &nbsp;
     single_image:
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown:
-    single_image: /uploads/1dsc-3695-6-7-tonemapped-3.jpg
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown:
-    single_image: /uploads/chihuly-garden-and-glass---wake-up-with-yoga-2.jpg
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown:
-    single_image: /uploads/gey8mgtooco2fsk-jhlxe7jkn-4bkmt9iaovexai0gq-2.jpg
     quote:
     video:
       video_id:
