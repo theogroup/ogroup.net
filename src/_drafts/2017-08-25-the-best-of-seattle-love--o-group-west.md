@@ -42,7 +42,7 @@ sections:
 
 
       Here are my top picks, I promise none will disappoint.
-    single_image: /uploads/app-cloudcannon-4.jpg
+    single_image:
     quote:
     video:
       video_id:
@@ -78,8 +78,8 @@ sections:
 
 
       &nbsp;
-    single_image: /uploads/chihuly-garden-and-glass---wake-up-with-yoga-1.jpg
-    quote: Chihuly Garden and Glass at night
+    single_image:
+    quote:
     video:
       video_id:
       video_width:
@@ -118,8 +118,8 @@ sections:
       by&nbsp;[**Golden
       Gardens**](https://www.tripadvisor.com/Attraction_Review-g60878-d141229-Reviews-Golden_Gardens_Park-Seattle_Washington.html)&nbsp;where
       locals frolic in tepid water, play volley ball and launch sailboats.
-    single_image: /uploads/gey8mgtooco2fsk-jhlxe7jkn-4bkmt9iaovexai0gq-1.jpg
-    quote: The tap room at Stoup Brewing
+    single_image:
+    quote:
     video:
       video_id:
       video_width:
@@ -154,8 +154,8 @@ sections:
       (go for the “Deluxe”) and fries - a Seattle institution since 1954. For
       great views and local gardens be sure to visit&nbsp;**[Volunteer
       Park&nbsp;](https://www.tripadvisor.com/Attraction_Review-g60878-d8775170-Reviews-Volunteer_Park-Seattle_Washington.html).**
-    single_image: /uploads/oddfellows-capitol-hill-1.jpg
-    quote: Oddfellows Cafe and Bar
+    single_image:
+    quote:
     video:
       video_id:
       video_width:
@@ -197,13 +197,6 @@ sections:
       I’m happy to claim Seattle as my hometown. I love sharing it with others
       so if you have any questions or are in need of a recommendation beyond
       this article, feel free to drop me a line and ask! &nbsp;
-    single_image: /uploads/app-cloudcannon.jpg
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown:
     single_image:
     quote:
     video:
@@ -211,7 +204,35 @@ sections:
       video_width:
       video_height:
   - text_markdown:
-    single_image:
+    single_image: /uploads/1dsc-3695-6-7-tonemapped-3.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image: /uploads/chihuly-garden-and-glass---wake-up-with-yoga-2.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image: /uploads/gey8mgtooco2fsk-jhlxe7jkn-4bkmt9iaovexai0gq-2.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image: /uploads/oddfellows-capitol-hill-2.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image: /uploads/glass-vodka-1.jpg
     quote:
     video:
       video_id:
