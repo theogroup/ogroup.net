@@ -1,5 +1,5 @@
 ---
-title: 'O Group West: The Best of Local Seattle'
+title: O Group West / the Best of Local Seattle
 publish_date: 2017-08-30 00:00:00
 featured: true
 tags:
@@ -13,10 +13,10 @@ tags:
 image: /uploads/unnamed-9.png
 description:
 intro_markdown: >-
-  If you don’t know, &nbsp;The O Group has an endless curiosity and appreciation
-  for delicious culinary and cultural experiences. Today, we explore Seattle and
-  the neighborhoods around our new west coast office through the eyes of a
-  local: &nbsp;our CCO, Daymon Bruck.
+  If you don’t know by now, &nbsp;The O Group has an endless curiosity and
+  appreciation for delicious culinary and cultural experiences. Today, we
+  explore Seattle and the neighborhoods around our new office through the eyes
+  of a local: &nbsp;our CCO, Daymon Bruck.
 
 
   Sit back and enjoy the ride…
