@@ -48,6 +48,13 @@ sections:
       video_id:
       video_width:
       video_height:
+  - text_markdown:
+    single_image: /uploads/1dsc-3695-6-7-tonemapped-4.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
   - text_markdown: >-
       **Downtown**
 
@@ -86,7 +93,7 @@ sections:
       video_height:
   - text_markdown:
     single_image: /uploads/chihuly-garden-and-glass---wake-up-with-yoga-2.jpg
-    quote: Chihuly Garden and Glass
+    quote:
     video:
       video_id:
       video_width:
@@ -174,6 +181,20 @@ sections:
       video_id:
       video_width:
       video_height:
+  - text_markdown:
+    single_image: /uploads/oddfellows-capitol-hill-2.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image: /uploads/elliott-bay-books-670x502-1.jpg
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
   - text_markdown: >-
       **SoDo / Georgetown&nbsp;**
 
@@ -218,14 +239,14 @@ sections:
       video_width:
       video_height:
   - text_markdown:
-    single_image: /uploads/oddfellows-capitol-hill-2.jpg
+    single_image: /uploads/glass-vodka-1.jpg
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown:
-    single_image: /uploads/glass-vodka-1.jpg
+    single_image: /uploads/fondalacatrina-1.jpg
     quote:
     video:
       video_id:
