@@ -204,7 +204,14 @@ sections:
       video_width:
       video_height:
   - text_markdown:
-    single_image: /uploads/app-cloudcannon-1.jpg
+    single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image:
     quote:
     video:
       video_id:
