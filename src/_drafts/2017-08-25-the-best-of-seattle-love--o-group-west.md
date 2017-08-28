@@ -41,8 +41,8 @@ sections:
       unique neighborhoods that encircle the city.&nbsp;
 
 
-      > Here are my top picks, I promise none will disappoint.
-    single_image:
+      Here are my top picks, I promise none will disappoint.
+    single_image: /uploads/app-cloudcannon-4.jpg
     quote:
     video:
       video_id:
