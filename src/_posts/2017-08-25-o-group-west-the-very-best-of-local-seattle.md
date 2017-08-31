@@ -1,6 +1,6 @@
 ---
 title: 'O Group West: The Very Best of Local Seattle'
-publish_date: 2017-09-06 00:00:00
+publish_date: 2017-08-02 00:00:00
 featured: true
 tags:
   - Culture
@@ -10,6 +10,8 @@ tags:
   - rethink luxury
   - Travel
   - strategy
+  - Design
+  - Spirits Branding
 image: /uploads/unnamed-9.png
 description:
 intro_markdown: >-
