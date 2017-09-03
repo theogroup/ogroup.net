@@ -10,8 +10,10 @@ vimeo:
   vimeo_height: 360
 headline: You’ve never experienced coffee like this.
 headline_text_color: '#ffffff'
-overview: Beyond Craft—we created a full brand experience to change the way people feel about coffee.
-sort_order: 8
+overview: >-
+  Beyond Craft—we created a full brand experience to change the way people feel
+  about coffee.
+sort_order: 6
 content_blocks:
   - text_banner:
       text_banner_text: 'In a category cluttered with craft, Demours is refined.'
@@ -45,7 +47,9 @@ content_blocks:
     image_banner:
       image_banner_image: /uploads/demours-banner-1.jpg
       image_banner_text_color: '#ffffff'
-      image_banner_text: 'We built a brand that begs to be savored and indulged in, like a fine wine.'
+      image_banner_text: >-
+        We built a brand that begs to be savored and indulged in, like a fine
+        wine.
     split_banner:
       split_banner_image:
       image_align:
@@ -76,7 +80,10 @@ content_blocks:
       image_align: right
       split_banner_headline_line_1: High Fashion Meets
       split_banner_headline_line_2: Global Provenance
-      split_banner_text: 'Demours, like its product, is not of one specific place but rather global. The logo is intended to convey a sense of international luxury, layered sophisitication, tradition and customization.'
+      split_banner_text: >-
+        Demours, like its product, is not of one specific place but rather
+        global. The logo is intended to convey a sense of international luxury,
+        layered sophisitication, tradition and customization.
     text_on_image_banner:
       text_on_image_banner_image:
       text_on_image_banner_text_color:
@@ -126,7 +133,10 @@ content_blocks:
       image_align: left
       split_banner_headline_line_1: PREMIUM MATERIALS
       split_banner_headline_line_2: PERSONAL TOUCH
-      split_banner_text: 'The brand identity combines old world elegance and high fashion cues. Collateral is designed with refined, premium materials as considered as the product selection.'
+      split_banner_text: >-
+        The brand identity combines old world elegance and high fashion cues.
+        Collateral is designed with refined, premium materials as considered as
+        the product selection.
     text_on_image_banner:
       text_on_image_banner_image:
       text_on_image_banner_text_color:
@@ -253,7 +263,12 @@ content_blocks:
       image_align: left
       split_banner_headline_line_1: Grow Awareness
       split_banner_headline_line_2:
-      split_banner_text: 'Demours needed a strategic social plan to grow brand awareness at launch. We focused on developing authentic branded content. A paid campaign targeted industry influencers, cultivated an engaged audience and drove e-commerce traffic. We far exceeded growth goals within the first quarter.'
+      split_banner_text: >-
+        Demours needed a strategic social plan to grow brand awareness at
+        launch. We focused on developing authentic branded content. A paid
+        campaign targeted industry influencers, cultivated an engaged audience
+        and drove e-commerce traffic. We far exceeded growth goals within the
+        first quarter.
     text_on_image_banner:
       text_on_image_banner_image:
       text_on_image_banner_text_color:
@@ -303,7 +318,10 @@ content_blocks:
       image_align: right
       split_banner_headline_line_1: Explore Cultures
       split_banner_headline_line_2: Expand Palettes
-      split_banner_text: The website’s primary focus is to provide instant access to premium product from anywhere. High-energy illustrations and photography focused on rich textures serve up a modern aesthetic and exceptional experience.
+      split_banner_text: >-
+        The website’s primary focus is to provide instant access to premium
+        product from anywhere. High-energy illustrations and photography focused
+        on rich textures serve up a modern aesthetic and exceptional experience.
     text_on_image_banner:
       text_on_image_banner_image:
       text_on_image_banner_text_color:
@@ -341,7 +359,7 @@ content_blocks:
     grid_image:
       grid_image_image:
   - text_banner:
-      text_banner_text: 'Own the moment of "First Taste"'
+      text_banner_text: Own the moment of "First Taste"
       text_banner_color: '#000000'
       text_banner_background_color: '#e2d8be'
     image_banner:
@@ -372,7 +390,9 @@ content_blocks:
     image_banner:
       image_banner_image: /uploads/demours-banner-4.jpg
       image_banner_text_color: '#ffffff'
-      image_banner_text: We exposed the brand to culinary and beverage industry influencers of NYC.
+      image_banner_text: >-
+        We exposed the brand to culinary and beverage industry influencers of
+        NYC.
     split_banner:
       split_banner_image:
       image_align:
@@ -403,7 +423,12 @@ content_blocks:
       image_align: left
       split_banner_headline_line_1: Partners with
       split_banner_headline_line_2: Connections
-      split_banner_text: 'When it’s all about the company you keep, it’s critical for a brand to align with the right channels from the start. We collaborated with the Daily Meal to create a series of launch events aimed at generating awareness among the trade—restaurant and hospitality influencers and gatekeepers.'
+      split_banner_text: >-
+        When it’s all about the company you keep, it’s critical for a brand to
+        align with the right channels from the start. We collaborated with the
+        Daily Meal to create a series of launch events aimed at generating
+        awareness among the trade—restaurant and hospitality influencers and
+        gatekeepers.
     text_on_image_banner:
       text_on_image_banner_image:
       text_on_image_banner_text_color:
@@ -417,7 +442,7 @@ content_blocks:
       grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 _comments:
-  draft_project: drafts are visible in the CMS, but are not visible on the live site
+  draft_project: 'drafts are visible in the CMS, but are not visible on the live site'
 ---
 
 
