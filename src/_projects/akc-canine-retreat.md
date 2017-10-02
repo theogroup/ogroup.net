@@ -224,7 +224,7 @@ content_blocks:
       - image_path:
     grid_image:
       grid_image_image: /uploads/akc-grid-image-3.png
-contact_tagline: Ask us about the work we did for
+contact_tagline: Ask us about the work we did for AKC Canine Retreat.
 _comments:
   draft_project: 'drafts are visible in the CMS, but are not visible on the live site'
 ---
