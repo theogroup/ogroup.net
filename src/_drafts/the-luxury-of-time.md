@@ -2,8 +2,8 @@
 title: The Luxury of Time
 publish_date:
 featured: false
-tags: []
-image: /uploads/default-image.jpg
+tags:
+image: /uploads/screen-shot-2017-09-26-at-11-57-47-am.png
 description:
 intro_markdown:
 sections:
@@ -16,6 +16,8 @@ sections:
       video_height:
 contact_tagline: Let's start a conversation about luxury.
 ---
+
+
 DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
 
 NOTE:
