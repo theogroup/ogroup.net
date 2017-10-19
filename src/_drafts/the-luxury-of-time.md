@@ -39,9 +39,6 @@ sections:
       **Part 1:&nbsp; The Luxury of Slow Time**
 
 
-      **The Older the Better&nbsp;**
-
-
       The notion that slowness comes into direct conflict with the values of our
       digital economy is of course not true for all luxury goods and services.
       Over the years we have helped many clients with epicurean and hand-crafted
@@ -81,7 +78,7 @@ sections:
       money on vintage has proven itself in terms of the resale market, and when
       it comes to value, it can be a more sound decision.”
     single_image: /uploads/screen-shot-2017-09-26-at-11-56-34-am.png
-    quote:
+    quote: The Older the Better
     video:
       video_id:
       video_width:
