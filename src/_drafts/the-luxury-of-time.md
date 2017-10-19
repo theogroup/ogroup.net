@@ -39,16 +39,7 @@ sections:
       **Part 1:&nbsp; The Luxury of Slow Time**
 
 
-      &nbsp;
-
-
-      &nbsp;
-
-
       **The Older the Better&nbsp;**
-
-
-      &nbsp;
 
 
       The notion that slowness comes into direct conflict with the values of our
@@ -99,9 +90,6 @@ sections:
       The Value of Waiting for IT &nbsp;
 
 
-      &nbsp;
-
-
       In our experience in brand development for a wide range of luxury clients,
       if the perceived value of a product or service is high enough, people will
       wait for it. Yearning is a powerful human experience that has been
@@ -112,9 +100,6 @@ sections:
       bespoke or custom made (clothes, furniture, jewelry) you will need to wait
       and it makes the eventual ownership that much more special. Anything that
       is of worth is worth waiting for.&nbsp; &nbsp;
-
-
-      &nbsp;
 
 
       The formula (desire + waiting = demand) comes into contest with the
@@ -133,9 +118,6 @@ sections:
       for the brand online recently in an interview, “It’s not so much a shift.
       It’s an evolution to better serve our customers. It’s more e-service than
       a pure e-commerce approach.”
-
-
-      &nbsp;
 
 
       Chanel’s move is bound to impact the rest of the luxury fashion world.
@@ -175,9 +157,6 @@ sections:
       living longer falls into the hands of genetics and bioscience.&nbsp;
 
 
-      &nbsp;
-
-
       The hunt for unlocking the secrets to aging and assisting us in our desire
       for longevity seems to be found by the decoding of our DNA. Human DNA is a
       genome composed of 23 pairs of chromosomes, which breaks down into six
@@ -186,9 +165,6 @@ sections:
       important parts of the genome, the ability to know the entire sequence has
       the potential to make huge strides in the area of understanding and
       predicting disease, and more importantly, to personalize medicine.
-
-
-      &nbsp;
 
 
       Craig Venter, one of the first people to map the human genome, offers an
