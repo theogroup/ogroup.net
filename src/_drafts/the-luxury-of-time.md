@@ -101,7 +101,9 @@ sections:
 
       &nbsp;
     single_image:
-    quote:
+    quote: >-
+      Vintage watches, by some estimates, have become a $3 billion market with
+      the value of some watches soaring in recent years.
     video:
       video_id:
       video_width:
