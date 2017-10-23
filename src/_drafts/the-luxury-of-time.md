@@ -69,9 +69,6 @@ sections:
       the height of their fullness.&nbsp;
 
 
-      &nbsp;
-
-
       When new products and technologies are being released on an almost daily
       schedule, the allure of a special and rare thing of worth or beauty from
       the past seems even more attractive. Practically anything Vintage sounds
@@ -81,9 +78,6 @@ sections:
       mall or online site, but shopping for vintage is an unparalleled treasure
       hunt.” -Jennifer Baumgartner Psy.D., remarked in a Psychology Today
       article titled “The Psychology of Vintage”.
-
-
-      &nbsp;
 
 
       Vintage watches, by some estimates, have become a $3 billion market with
