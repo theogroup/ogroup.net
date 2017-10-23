@@ -1,5 +1,5 @@
 ---
-title: Time Is a Powerful Luxury Differentiator.
+title: Time is A Powerful Luxury Differentiator
 publish_date: 2017-10-31 00:00:00
 featured: false
 tags:
@@ -15,7 +15,7 @@ intro_markdown: >-
   &nbsp;
 
 
-  **Bypassing “Normal” Time &nbsp;**
+  **Bypassing “Normal” Time &nbsp;**​
 
 
   I remember taking a flight from NYC to Paris on the Air France Concord in the
@@ -29,20 +29,18 @@ intro_markdown: >-
   pastries would have been day-old stale had they arrived by any other means
   available at the time. Reducing the hours spent in transit between
   destinations by any measure and making the most of your time on either side is
-  still a luxury high on everyone’s list. &nbsp;
-
-
-  Removing the barriers of time through speed, privilege or technology (VIP
-  access, private jets, exclusive travel connections, etc.) and other types of
-  rarefied access that allow for “jumping the line” provides the greatest luxury
-  for those that put the highest value on their personal and professional time.
-  Those five minutes you spend waiting in line (any line) will never be
-  reclaimed. With less and less time and people putting more value on how they
-  spend personal time, how will brands create experience worth our limited time?
-  Bottom line - it better be amazing. As brand builders, we have been
-  increasingly asking ourselves and our clients - what barriers, inconveniences
-  or steps that create a personal time suck could be removed to provide a luxury
-  experience that bypasses the normal or common flow of time?&nbsp;
+  still a luxury high on everyone’s list. &nbsp;Removing the barriers of time
+  through speed, privilege or technology (VIP access, private jets, exclusive
+  travel connections, etc.) and other types of rarefied access that allow for
+  “jumping the line” provides the greatest luxury for those that put the highest
+  value on their personal and professional time. Those five minutes you spend
+  waiting in line (any line) will never be reclaimed. With less and less time
+  and people putting more value on how they spend personal time, how will brands
+  create experience worth our limited time? Bottom line - it better be amazing.
+  As brand builders, we have been increasingly asking ourselves and our clients
+  - what barriers, inconveniences or steps that create a personal time suck
+  could be removed to provide a luxury experience that bypasses the normal or
+  common flow of time?&nbsp;
 sections:
   - text_markdown: >-
       &nbsp;
@@ -81,6 +79,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       **Hyper Speed Customer Service &nbsp;**
 
 
@@ -160,6 +161,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       **Luxury + Time = Innovation&nbsp;**
 
 
