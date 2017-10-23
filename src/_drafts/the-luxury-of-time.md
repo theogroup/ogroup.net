@@ -204,7 +204,10 @@ sections:
       video_id:
       video_width:
       video_height:
-  - text_markdown:
+  - text_markdown: |-
+      To be continued...
+
+      **Part 2:&nbsp; The Luxury of Moving Ahead of Time**
     single_image:
     quote:
     video:
