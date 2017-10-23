@@ -6,19 +6,16 @@ tags:
 image: /uploads/screen-shot-2017-09-26-at-11-57-47-am-1.png
 description:
 intro_markdown: >-
+  **Part 2:&nbsp; The Luxury of Moving Ahead of Time**
+
+
   *By Daymon Bruck*
 
 
   &nbsp;
 
 
-  **Part 2:&nbsp; The Luxury of Moving Ahead of Time**
-
-
   **Bypassing “Normal” Time &nbsp;**
-
-
-  &nbsp;
 
 
   I remember taking a flight from NYC to Paris on the Air France Concord in the
