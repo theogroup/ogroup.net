@@ -34,6 +34,9 @@ intro_markdown: >-
   &nbsp;This first looks at the how Luxury uses values associated with slowing
   down or aging to differentiate and the second posting will focus on examples
   of moving faster then or even bypassing everyday timeframes.
+
+
+  &nbsp;
 sections:
   - text_markdown: >-
       **Part 1:&nbsp; The Luxury of Slow Time**
