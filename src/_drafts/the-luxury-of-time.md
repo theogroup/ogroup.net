@@ -40,10 +40,11 @@ intro_markdown: >-
 
 
   I’ve collected some examples that are grouped in this article under two
-  general catagories: the value of Slow Time and Faster than “Normal” Time.
-  &nbsp;This first looks at the how Luxury uses values associated with slowing
-  down or aging to differentiate and the second posting will focus on examples
-  of moving faster then or even bypassing everyday timeframes.
+  general catagories: the value of Slow Time (Part 1 in the series) and Faster
+  than “Normal” Time (Part 2 in the series). &nbsp;This first looks at the how
+  Luxury uses values associated with slowing down or aging to differentiate and
+  the second posting will focus on examples of moving faster then or even
+  bypassing everyday timeframes.
 
 
   &nbsp;
