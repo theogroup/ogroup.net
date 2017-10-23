@@ -10,7 +10,7 @@ tags:
   - rethink luxury
   - strategy
   - Sustainability
-image: /uploads/screen-shot-2017-09-26-at-11-57-47-am.png
+image: /uploads/screen-shot-2017-09-26-at-11-56-34-am-1.png
 description:
 intro_markdown: >-
   *By Daymon Bruck*
