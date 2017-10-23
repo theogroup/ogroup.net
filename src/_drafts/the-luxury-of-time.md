@@ -13,6 +13,9 @@ tags:
 image: /uploads/screen-shot-2017-09-26-at-11-57-47-am.png
 description:
 intro_markdown: >-
+  *By Daymon Bruck*
+
+
   A Seventeenth century Japanese Tea master Naosuke coined one of the most
   common Zen phrases: **Ichi-go ichi-e,** which is often translated to “once in
   the lifetime, never again”. The intended meaning of this phrase is that every
