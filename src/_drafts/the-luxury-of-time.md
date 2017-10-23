@@ -161,6 +161,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       **Slowing Aging and Living Longer**
 
 
@@ -205,7 +208,7 @@ sections:
       video_width:
       video_height:
   - text_markdown: |-
-      To be continued...
+      To be continued…
 
       **Part 2:&nbsp; The Luxury of Moving Ahead of Time**
     single_image:
