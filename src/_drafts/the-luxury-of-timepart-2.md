@@ -32,9 +32,6 @@ intro_markdown: >-
   still a luxury high on everyone’s list. &nbsp;
 
 
-  &nbsp;
-
-
   Removing the barriers of time through speed, privilege or technology (VIP
   access, private jets, exclusive travel connections, etc.) and other types of
   rarefied access that allow for “jumping the line” provides the greatest luxury
@@ -83,36 +80,10 @@ sections:
       video_id:
       video_width:
       video_height:
-  - text_markdown: >-
-      **Faster Than the Rest &nbsp;**
-
-
+  - text_markdown: |-
       &nbsp;
 
-
-      Technology has obviously helped with the process of removing “normal”
-      barriers of time. Starbucks with their Mobile Order & Pay allows you to
-      place your order and pay ahead on the smart phone Starbucks app - walk
-      into the store and without waiting in line, pick up your order and off you
-      go. Many movie theaters are taking steps to minimize moviegoers’ time
-      finding seats and parking spaces in order to maximize the movie going
-      experience by offering reserved seating online ahead of time.&nbsp;
-
-
-      The fashion industry has responded to the need for moving faster than
-      normal and historic means by embracing the new “see-now-buy-now” approach
-      that allows for customers to order items right off the runway. Brands like
-      Tom Ford, Burberry, Diane von Furstenberg, and several others have
-      launched these programs. In a recent press release Ford said “In a world
-      that has become increasingly immediate, the current way of showing a
-      collection four months before it is available to customers is an
-      antiquated idea and one that no longer makes sense. Our customers today
-      want a collection that is immediately available.” New technology, market
-      trends, and changing social attitudes have brands catering to customer
-      demands in an unprecedented manner. Today you can acquire nearly any item
-      like a vintage Rolex watch from MrPorter.com the same day or order any
-      service like a private jet charter with the swipe of a finger, and have
-      practically anything you desire customized to your preferences. &nbsp;
+      &nbsp;
     single_image:
     quote:
     video:
