@@ -80,14 +80,17 @@ sections:
       expensive, and prices continue to go up each year, while spending the same
       money on vintage has proven itself in terms of the resale market, and when
       it comes to value, it can be a more sound decision.”
-    single_image: /uploads/screen-shot-2017-09-26-at-11-56-34-am.png
+
+
+      &nbsp;
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown: >-
-      The Value of Waiting for IT &nbsp;
+      **The Value of Waiting for IT &nbsp;**
 
 
       In our experience in brand development for a wide range of luxury clients,
@@ -132,17 +135,14 @@ sections:
       shopping and purchasing online, opening up an e-commerce platform seems
       like a logical business strategy. How it may affect Chanel as a luxury
       brand however, is not so easy to predict.&nbsp;
-    single_image: /uploads/screen-shot-2017-09-26-at-11-49-23-am.png
+    single_image:
     quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown: >-
-      Slowing Aging and Living Longer
-
-
-      &nbsp;
+      **Slowing Aging and Living Longer**
 
 
       It’s curious that society values consumable goods that have aged and
@@ -179,6 +179,13 @@ sections:
 
 
       &nbsp;
+    single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
     single_image:
     quote:
     video:
