@@ -45,6 +45,9 @@ intro_markdown: >-
   experience that bypasses the normal or common flow of time?&nbsp;
 sections:
   - text_markdown: >-
+      &nbsp;
+
+
       **Faster Than the Rest &nbsp;**
 
 
@@ -55,9 +58,6 @@ sections:
       go. Many movie theaters are taking steps to minimize moviegoers’ time
       finding seats and parking spaces in order to maximize the movie going
       experience by offering reserved seating online ahead of time.&nbsp;
-
-
-      &nbsp;
 
 
       The fashion industry has responded to the need for moving faster than
@@ -73,17 +73,7 @@ sections:
       demands in an unprecedented manner. Today you can acquire nearly any item
       like a vintage Rolex watch from MrPorter.com the same day or order any
       service like a private jet charter with the swipe of a finger, and have
-      practically anything you desire customized to your preferences. &nbsp;
-    single_image:
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown: |-
-      &nbsp;
-
-      &nbsp;
+      practically anything you desire customized to your preferences.
     single_image:
     quote:
     video:
@@ -123,6 +113,9 @@ sections:
       customer experience, said in a statement. For convenience, customers will
       also have access to convenient services including Buy Online, Pick-Up
       In-Store, curbside pickup, alterations and tailoring.
+
+
+      &nbsp;
     single_image:
     quote:
     video:
@@ -167,7 +160,7 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      **Luxury +Time = Innovation&nbsp;**
+      **Luxury + Time = Innovation&nbsp;**
 
 
       In the 2017 State of the Luxury Industry Report produced by Luxury Daily
@@ -189,6 +182,13 @@ sections:
       customer service and increase the value of the time they spend. Until we
       have the ability to travel though time, we only have the precious minutes
       left to us and in the end, there can be no greater luxury than that.&nbsp;
+    single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
     single_image:
     quote:
     video:
