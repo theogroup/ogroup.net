@@ -1,6 +1,6 @@
 ---
 title: Time is A Powerful Luxury Differentiator
-publish_date: 2017-10-31 00:00:00
+publish_date: 2017-11-06 00:00:00
 featured: false
 tags:
 image: /uploads/screen-shot-2017-09-26-at-11-57-47-am-1.png
