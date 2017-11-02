@@ -61,12 +61,11 @@ sections:
 
       The notion that slowness comes into direct conflict with the values of our
       digital economy is of course not true for all luxury goods and services.
-      Over the years we have helped many clients with epicurean and hand-crafted
-      products use the terms “slow-cured” or “handmade” to translate a value of
-      time being applied to a product which benefits from the aging
-      process.&nbsp; Fine wines, whiskey, cheeses and cigars all benefit from
-      having been held back, forcing us to wait for the ultimate experience at
-      the height of their fullness.&nbsp;
+      Epicurean and hand-crafted products use the terms “slow-cured” or “cave
+      aged” to translate a value of time being applied to a product which
+      benefits from the aging process.&nbsp; Fine wines, whiskey, cheeses and
+      cigars all benefit from having been held back, forcing us to wait for the
+      ultimate experience at the height of their fullness.&nbsp;
 
 
       When new products and technologies are being released on an almost daily
@@ -106,16 +105,15 @@ sections:
       **The Value of Waiting for IT &nbsp;**
 
 
-      In our experience in brand development for a wide range of luxury clients,
-      if the perceived value of a product or service is high enough, people will
-      wait for it. Yearning is a powerful human experience that has been
-      masterfully manipulated by some of the most successful brands in history.
-      One obvious and notable example is the Birkin or Kelly bag by Hermes - now
-      nearly impossible for the average consumer to even get their hands on one,
-      but if you do, it’s 6-12 month wait for yours to arrive. For anything
-      bespoke or custom made (clothes, furniture, jewelry) you will need to wait
-      and it makes the eventual ownership that much more special. Anything that
-      is of worth is worth waiting for.&nbsp; &nbsp;
+      If the perceived value is high enough, people will wait for it. Yearning
+      is a powerful human experience that has been masterfully manipulated by
+      some of the most successful brands in history. One obvious and notable
+      example is the Birkin or Kelly bag by Hermes - now nearly impossible for
+      the average consumer to even get their hands on one, but if you do, it’s
+      6-12 month wait for yours to arrive. For anything bespoke or custom made
+      (clothes, furniture, jewelry) you will need to wait and it makes the
+      eventual ownership that much more special. Anything that is of worth is
+      worth waiting for.&nbsp; &nbsp;
 
 
       The formula (desire + waiting = demand) comes into contest with the
@@ -158,7 +156,7 @@ sections:
       &nbsp;
 
 
-      **Slowing Aging and Living Longer**
+      **Longevity and Anti-Aging&nbsp;**
 
 
       It’s curious that society values consumable goods that have aged and
@@ -191,10 +189,7 @@ sections:
       health and life outcomes is the ultimate luxury,” he says. To “buy” more
       precious time and extending life though a deeper understanding of how we
       can chart a personal path to better health is no doubt a prize most
-      coveted.
-
-
-      &nbsp;
+      coveted.&nbsp;
     single_image:
     quote:
     video:
