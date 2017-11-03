@@ -26,9 +26,6 @@ intro_markdown: >-
   you?&nbsp;
 
 
-  &nbsp;
-
-
   A new experience economy has been steadily emerging and with it a sense of
   what else might come to define the luxury category. This newish luxury is all
   about rare and privileged experiences available for a price. At the center of
