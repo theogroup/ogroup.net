@@ -1,6 +1,6 @@
 ---
 title: The Luxury of Time
-publish_date: 2017-11-13 00:00:00
+publish_date: 2017-11-03 00:00:00
 featured: true
 tags:
   - Culture
