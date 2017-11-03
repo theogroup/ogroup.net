@@ -71,18 +71,18 @@ sections:
       growing Omnichannel world of luxury goods and services. Who needs to wait
       for an object of desire when according to Bloomberg Business, “Only 40
       percent of high-end brands don’t sell via the Web”.&nbsp; One of the
-      longest holdouts for creating an e-commerce platform, Chanel is set to
-      make the change in 2017. To this point, Chanel justified its decision to
-      remain offline by maintaining that the in-store customer experience is of
-      critical importance to the brand and customer experience. But for many
-      consumers, e-commerce is beyond the norm and is often the preferred path
-      to purchase. With millennials representing more than 25% of the US
-      population and representing upward of $200 billion annually in buying
-      power, they hold increasing influence over retailers and luxury brands.
-      Bruno Pavlovsky, Chanel’s President of Fashion said about opening up sales
-      for the brand online recently in an interview, “It’s not so much a shift.
-      It’s an evolution to better serve our customers. It’s more e-service than
-      a pure e-commerce approach.”
+      longest holdouts for creating an e-commerce platform is Chanel and they
+      are currently set to make the change in 2017. To this point, Chanel
+      justified its decision to remain offline by maintaining that the in-store
+      customer experience is of critical importance to the brand and customer
+      experience. But for many consumers, e-commerce is beyond the norm and is
+      often the preferred path to purchase. With millennials representing more
+      than 25% of the US population and representing upward of $200 billion
+      annually in buying power, they hold increasing influence over retailers
+      and luxury brands. Bruno Pavlovsky, Chanel’s President of Fashion said
+      about opening up sales for the brand online recently in an interview,
+      “It’s not so much a shift. It’s an evolution to better serve our
+      customers. It’s more e-service than a pure e-commerce approach.”
 
 
       Chanel’s move is bound to impact the rest of the luxury fashion world.
@@ -107,7 +107,7 @@ sections:
       &nbsp;
 
 
-      **Longevity and Anti-Aging&nbsp;**
+      **Slowing Aging and Living Longer**
 
 
       It’s curious that society values consumable goods that have aged and
@@ -138,7 +138,7 @@ sections:
       run a full complement of tests to determine your risk for heart disease,
       melanoma, dementia, and other ailments. “Having the ability to control
       health and life outcomes is the ultimate luxury,” he says. To “buy” more
-      precious time and extending life though a deeper understanding of how we
+      precious time and extending life through a deeper understanding of how we
       can chart a personal path to better health is no doubt a prize most
       coveted.&nbsp;
     single_image:
@@ -150,7 +150,7 @@ sections:
   - text_markdown: |-
       To be continued…
 
-      **Part 2:&nbsp; The Luxury of Moving Ahead of Time**
+      **Part 2: &nbsp;Time is A Powerful Luxury Differentiator**
     single_image:
     quote:
     video:
