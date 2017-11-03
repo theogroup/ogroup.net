@@ -45,9 +45,6 @@ intro_markdown: >-
   uses values associated with slowing down or aging to differentiate and the
   second posting will focus on examples of moving faster than or even bypassing
   everyday timeframes.
-
-
-  &nbsp;
 sections:
   - text_markdown: >-
       **The Value of Waiting for IT &nbsp;**
