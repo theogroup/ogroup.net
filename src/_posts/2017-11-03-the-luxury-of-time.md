@@ -20,10 +20,10 @@ intro_markdown: >-
   common Zen phrases: **Ichi-go ichi-e,** which is often translated to “once in
   the lifetime, never again”. The intended meaning of this phrase is that every
   experience we have is unique and can’t be repeated. We only have one life and
-  every day, encounter and experience is one of kind. Once time passes it never
-  will be recaptured and this quintessence makes Time the ultimate measure of
-  true value; you can’t make any more of it or bend it to your will.&nbsp; Or
-  can you?&nbsp;
+  every day, encounter and experience is one of a kind. Once time passes it
+  never will be recaptured and this quintessence makes Time the ultimate measure
+  of true value; you can’t make any more of it or bend it to your will. Or can
+  you?&nbsp;
 
 
   &nbsp;
@@ -52,6 +52,57 @@ intro_markdown: >-
 
   &nbsp;
 sections:
+  - text_markdown: >-
+      **The Value of Waiting for IT &nbsp;**
+
+
+      If the perceived value is high enough, people will wait for it. Yearning
+      is a powerful human experience that has been masterfully manipulated by
+      some of the most successful brands in history. One obvious and notable
+      example is the Birkin or Kelly bag by Hermes - now nearly impossible for
+      the average consumer to even get their hands on one, but if you do, it’s
+      6-12 month wait for yours to arrive. For anything bespoke or custom made
+      (clothes, furniture, jewelry) you will need to wait and it makes the
+      eventual ownership that much more special. Anything that is of worth is
+      worth waiting for.&nbsp; &nbsp;
+
+
+      The formula (desire + waiting = demand) comes into contest with the
+      growing Omnichannel world of luxury goods and services. Who needs to wait
+      for an object of desire when according to Bloomberg Business, “Only 40
+      percent of high-end brands don’t sell via the Web”.&nbsp; One of the
+      longest holdouts for creating an e-commerce platform, Chanel is set to
+      make the change in 2017. To this point, Chanel justified its decision to
+      remain offline by maintaining that the in-store customer experience is of
+      critical importance to the brand and customer experience. But for many
+      consumers, e-commerce is beyond the norm and is often the preferred path
+      to purchase. With millennials representing more than 25% of the US
+      population and representing upward of $200 billion annually in buying
+      power, they hold increasing influence over retailers and luxury brands.
+      Bruno Pavlovsky, Chanel’s President of Fashion said about opening up sales
+      for the brand online recently in an interview, “It’s not so much a shift.
+      It’s an evolution to better serve our customers. It’s more e-service than
+      a pure e-commerce approach.”
+
+
+      Chanel’s move is bound to impact the rest of the luxury fashion world.
+      While the price point will remain the same, strengthening the label’s air
+      of exclusivity, the items will arguably be far more accessible than ever
+      before to an even wider audience. For a brand that’s held onto its luxury
+      status without catering to the masses, this switch in business practice
+      raises concerns that e-commerce will ultimately diminish the label. The
+      shift also insures a larger growth in revenue as reports have shown that
+      online sales in the world of luxury fashion are growing two times as fast
+      as the market itself. In an age when half of luxury shoppers are already
+      shopping and purchasing online, opening up an e-commerce platform seems
+      like a logical business strategy. How it may affect Chanel as a luxury
+      brand however, is not so easy to predict.&nbsp;
+    single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
   - text_markdown: >-
       **Part 1:&nbsp; The Luxury of Slow Time**
 
@@ -100,57 +151,6 @@ sections:
     quote: >-
       Vintage watches, by some estimates, have become a $3 billion market with
       the value of some watches soaring in recent years.
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown: >-
-      **The Value of Waiting for IT &nbsp;**
-
-
-      If the perceived value is high enough, people will wait for it. Yearning
-      is a powerful human experience that has been masterfully manipulated by
-      some of the most successful brands in history. One obvious and notable
-      example is the Birkin or Kelly bag by Hermes - now nearly impossible for
-      the average consumer to even get their hands on one, but if you do, it’s
-      6-12 month wait for yours to arrive. For anything bespoke or custom made
-      (clothes, furniture, jewelry) you will need to wait and it makes the
-      eventual ownership that much more special. Anything that is of worth is
-      worth waiting for.&nbsp; &nbsp;
-
-
-      The formula (desire + waiting = demand) comes into contest with the
-      growing Omnichannel world of luxury goods and services. Who needs to wait
-      for an object of desire when according to Bloomberg Business, “Only 40
-      percent of high-end brands don’t sell via the Web”.&nbsp; One of the
-      longest holdouts for creating an e-commerce platform, Chanel is set to
-      make the change in 2017. To this point, Chanel justified its decision to
-      remain offline by maintaining that the in-store customer experience is of
-      critical importance to the brand and customer experience. But for many
-      consumers, e-commerce is beyond the norm and is often the preferred path
-      to purchase. With millennials representing more than 25% of the US
-      population and representing upward of $200 billion annually in buying
-      power, they hold increasing influence over retailers and luxury brands.
-      Bruno Pavlovsky, Chanel’s President of Fashion said about opening up sales
-      for the brand online recently in an interview, “It’s not so much a shift.
-      It’s an evolution to better serve our customers. It’s more e-service than
-      a pure e-commerce approach.”
-
-
-      Chanel’s move is bound to impact the rest of the luxury fashion world.
-      While the price point will remain the same, strengthening the label’s air
-      of exclusivity, the items will arguably be far more accessible than ever
-      before to an even wider audience. For a brand that’s held onto its luxury
-      status without catering to the masses, this switch in business practice
-      raises concerns that e-commerce will ultimately diminish the label. The
-      shift also insures a larger growth in revenue as reports have shown that
-      online sales in the world of luxury fashion are growing two times as fast
-      as the market itself. In an age when half of luxury shoppers are already
-      shopping and purchasing online, opening up an e-commerce platform seems
-      like a logical business strategy. How it may affect Chanel as a luxury
-      brand however, is not so easy to predict.&nbsp;
-    single_image:
-    quote:
     video:
       video_id:
       video_width:
