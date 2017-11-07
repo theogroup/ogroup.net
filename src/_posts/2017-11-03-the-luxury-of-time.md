@@ -91,12 +91,6 @@ sections:
       expensive, and prices continue to go up each year, while spending the same
       money on vintage has proven itself in terms of the resale market, and when
       it comes to value, it can be a more sound decision.”
-
-
-      &nbsp;
-
-
-      &nbsp;
     single_image:
     quote: >-
       Vintage watches, by some estimates, have become a $3 billion market with
@@ -157,9 +151,6 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      &nbsp;
-
-
       **Slowing Aging and Living Longer**
 
 
