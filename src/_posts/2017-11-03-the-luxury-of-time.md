@@ -47,6 +47,9 @@ intro_markdown: >-
   everyday timeframes.
 sections:
   - text_markdown: >-
+      &nbsp;
+
+
       *Part 1: &nbsp;The Luxury of Slow Time*
 
 
