@@ -47,6 +47,62 @@ intro_markdown: >-
   everyday timeframes.
 sections:
   - text_markdown: >-
+      *Part 1: &nbsp;The Luxury of Slow Time*
+
+
+      &nbsp;
+
+
+      **The Older the Better**
+
+
+      The notion that slowness comes into direct conflict with the values of our
+      digital economy is of course not true for all luxury goods and services.
+      Over the years we have helped many clients with epicurean and hand-crafted
+      products use the terms “slow-cured” or “handmade” to translate a value of
+      time being applied to a product which benefits from the aging process.
+      Fine wines, whiskey, cheeses and cigars all benefit from having been held
+      back, forcing us to wait for the ultimate experience at the height of
+      their fullness.
+
+
+      When new products and technologies are being released on an almost daily
+      schedule, the allure of a special and rare thing of worth or beauty from
+      the past seems even more attractive. Practically anything Vintage sounds
+      more interesting. There is a story there, a history and context to the
+      past of an object. “So why buy vintage? Often the impetus is fueled by the
+      excitement of the hunt. It is easy to find current pieces in your local
+      mall or online site, but shopping for vintage is an unparalleled treasure
+      hunt.” -Jennifer Baumgartner Psy.D., remarked in a Psychology Today
+      article titled “The Psychology of Vintage”.
+
+
+      Vintage watches, by some estimates, have become a $3 billion market with
+      the value of some watches soaring in recent years. “I remember in 1990 a
+      dealer came in with hundreds of &shy;Daytonas, the good ones from the
+      ’60s,” says Daryn Schnipper, chairman of &shy;Sotheby’s international
+      watch division, “At the time they were worth $800. There was no market.
+      Now they’ve gone through the roof.” &nbsp;Eric Ku, a Berkeley-based
+      vintage watch dealer adds, “Collectors have gotten tired of wearing the
+      same thing everybody else has,” and says, “New watches have become so
+      expensive, and prices continue to go up each year, while spending the same
+      money on vintage has proven itself in terms of the resale market, and when
+      it comes to value, it can be a more sound decision.”
+
+
+      &nbsp;
+
+
+      &nbsp;
+    single_image:
+    quote: >-
+      Vintage watches, by some estimates, have become a $3 billion market with
+      the value of some watches soaring in recent years.
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown: >-
       **The Value of Waiting for IT &nbsp;**
 
 
@@ -147,18 +203,6 @@ sections:
       **Part 2: &nbsp;Time is A Powerful Luxury Differentiator**
     single_image:
     quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown: |-
-      &nbsp;
-
-      &nbsp;
-    single_image:
-    quote: >-
-      Vintage watches, by some estimates, have become a $3 billion market with
-      the value of some watches soaring in recent years.
     video:
       video_id:
       video_width:
