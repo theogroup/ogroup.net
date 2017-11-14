@@ -3,6 +3,7 @@ title: Time is A Powerful Luxury Differentiator
 publish_date: 2017-11-15 00:00:00
 featured: false
 tags:
+  - 'https://www.ogroup.net/blog/the-luxury-of-time/'
 image: /uploads/screen-shot-2017-09-26-at-11-57-47-am-1.png
 description:
 intro_markdown: >-
