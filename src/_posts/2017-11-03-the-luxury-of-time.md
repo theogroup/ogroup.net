@@ -146,7 +146,7 @@ sections:
       as the market itself. In an age when half of luxury shoppers are already
       shopping and purchasing online, opening up an e-commerce platform seems
       like a logical business strategy. How it may affect Chanel as a luxury
-      brand however, is not so easy to predict.&nbsp;
+      brand however, is not so easy to predict.&nbsp;&nbsp;
     single_image:
     quote:
     video:
