@@ -20,8 +20,8 @@ intro_markdown: >-
 
 
   I remember taking a flight from NYC to Paris on the Air France Concord in the
-  mid 90’s and when I got into the plane for the first time I thought – what so
-  special about this? A tight and slightly claustrophobic cabin (by jumbo-jet
+  mid 90’s and when I got into the plane for the first time I thought – what's
+  so special about this? A tight and slightly claustrophobic cabin (by jumbo-jet
   standards) was just aquatically appointed and left me disappointed: I was
   expecting more after all the hype and prestige associated with the Concord
   brand. What did impress me (and my colleagues at the time) was the super fresh
@@ -30,18 +30,18 @@ intro_markdown: >-
   pastries would have been day-old stale had they arrived by any other means
   available at the time. Reducing the hours spent in transit between
   destinations by any measure and making the most of your time on either side is
-  still a luxury high on everyone’s list. &nbsp;Removing the barriers of time
-  through speed, privilege or technology (VIP access, private jets, exclusive
-  travel connections, etc.) and other types of rarefied access that allow for
-  “jumping the line” provides the greatest luxury for those that put the highest
-  value on their personal and professional time. Those five minutes you spend
-  waiting in line (any line) will never be reclaimed. With less and less time
-  and people putting more value on how they spend personal time, how will brands
-  create experience worth our limited time? Bottom line - it better be amazing.
-  As brand builders, we have been increasingly asking ourselves and our clients
-  - what barriers, inconveniences or steps that create a personal time suck
-  could be removed to provide a luxury experience that bypasses the normal or
-  common flow of time?&nbsp;
+  still a luxury high on everyone’s list. Removing the barriers of time through
+  speed, privilege or technology (VIP access, private jets, exclusive travel
+  connections, etc.) and other types of rarefied access that allow for “jumping
+  the line” provides the greatest luxury for those that put the highest value on
+  their personal and professional time. Those five minutes you spend waiting in
+  line (any line) will never be reclaimed. With less and less time and people
+  putting more value on how they spend personal time, how will brands create
+  experience worth our limited time? Bottom line - it better be amazing. As
+  brand builders, we have been increasingly asking ourselves and our clients -
+  what barriers, inconveniences or steps that create a personal time suck could
+  be removed to provide a luxury experience that bypasses the normal or common
+  flow of time?&nbsp;
 sections:
   - text_markdown: >-
       &nbsp;
@@ -52,18 +52,18 @@ sections:
 
       Technology has obviously helped with the process of removing “normal”
       barriers of time. Starbucks with their Mobile Order & Pay allows you to
-      place your order and pay ahead on the smart phone Starbucks app - walk
-      into the store and without waiting in line, pick up your order and off you
-      go. Many movie theaters are taking steps to minimize moviegoers’ time
-      finding seats and parking spaces in order to maximize the movie going
-      experience by offering reserved seating online ahead of time.&nbsp;
+      place your order and pay ahead on the smartphone Starbucks app - walk into
+      the store and without waiting in line, pick up your order and off you go.
+      Many movie theaters are taking steps to minimize moviegoers’ time finding
+      seats and parking spaces in order to maximize the movie going experience
+      by offering reserved seating online ahead of time.&nbsp;
 
 
       The fashion industry has responded to the need for moving faster than
       normal and historic means by embracing the new “see-now-buy-now” approach
       that allows for customers to order items right off the runway. Brands like
       Tom Ford, Burberry, Diane von Furstenberg, and several others have
-      launched these programs. In a recent press release Ford said “In a world
+      launched these programs. In a recent press release Ford said, “In a world
       that has become increasingly immediate, the current way of showing a
       collection four months before it is available to customers is an
       antiquated idea and one that no longer makes sense. Our customers today
@@ -113,8 +113,8 @@ sections:
       we wanted to offer our best services in a convenient location to meet
       their shopping needs,” Shea Jensen, Nordstrom senior vice president of
       customer experience, said in a statement. For convenience, customers will
-      also have access to convenient services including Buy Online, Pick-Up
-      In-Store, curbside pickup, alterations and tailoring.
+      also have access to convenient services including Buy Online, In-Store
+      pickup, Curbside pickup, alterations and tailoring.
 
 
       &nbsp;
@@ -130,16 +130,16 @@ sections:
 
       Being first is the preoccupation of over achievers and A Types around the
       world. The appeal is understandable; there is only one “first” and
-      everything after this is, well, not first.&nbsp; No matter how one
-      achieves becoming first, the cachet, prestige, bragging rights and a
-      general sense of superiority are inherent to the title.&nbsp; Being first
-      can also have a price tag attached because of probability bypassing
-      “normal” channels of waiting if you can afford to do so.&nbsp; Why wait in
-      line if you can afford to pay to get in ahead of everyone else? First
-      class airline passengers depart the plain first, VIP access to many events
-      allows you to skip the line entirely and if you are a large donor to an
-      arts or cultural institution you will often be the first to see a new
-      exhibit or performance.&nbsp;
+      everything after this is, well, not first. No matter how one achieves
+      becoming first, the cachet, prestige, bragging rights and a general sense
+      of superiority are inherent to the title. Being first can also have a
+      price tag attached to it because you are likely to bypass “normal”
+      channels of waiting if you can afford to do so. Why wait in line if you
+      can afford to pay to get in ahead of everyone else? First class airline
+      passengers depart the plane first, VIP access to many events allow you to
+      skip the line entirely and if you are a large donor to an arts or cultural
+      institution you will often be the first to see a new exhibit or
+      performance.&nbsp;
 
 
       One experience that many people are already lining up for is the prize to
@@ -180,13 +180,14 @@ sections:
 
 
       We are of the opinion that all brands can innovate and differentiate by
-      developing new ways for customers save, use or increase the control of
-      their personal time. &nbsp;Offering customers to be first to an experience
-      or first to access a new product or service, giving them ways to make the
-      most of their time and even customizing brand interactions to improve
-      customer service and increase the value of the time they spend. Until we
-      have the ability to travel though time, we only have the precious minutes
-      left to us and in the end, there can be no greater luxury than that.&nbsp;
+      developing new ways for customers to save, use or increase the control of
+      their personal time. Examples of this, offering customers to be first to
+      an experience or first to access a new product or service, giving them
+      ways to make the most of their time and even customizing brand
+      interactions to improve customer service and increase the value of the
+      time they spend. Until we have the ability to travel though time, we only
+      have the precious minutes left to us and in the end, there can be no
+      greater luxury than that.&nbsp;
     single_image:
     quote:
     video:
