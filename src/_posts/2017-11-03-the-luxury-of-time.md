@@ -3,13 +3,6 @@ title: The Luxury of Time
 publish_date: 2017-11-03 00:00:00
 featured: true
 tags:
-  - Culture
-  - Design
-  - Luxury Branding
-  - Retail
-  - rethink luxury
-  - strategy
-  - Influencers
 image: /uploads/screen-shot-2017-09-26-at-11-56-34-am-1.png
 description:
 intro_markdown: >-
