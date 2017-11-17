@@ -1,5 +1,5 @@
 ---
-title: Time is A Powerful Luxury Differentiator
+title: Time Is a Powerful Luxury Differentiator
 publish_date: 2017-11-17 00:00:00
 featured: false
 tags:
