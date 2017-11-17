@@ -3,6 +3,12 @@ title: Time Is a Powerful Luxury Differentiator
 publish_date: 2017-11-17 00:00:00
 featured: false
 tags:
+  - Culture
+  - Design
+  - Luxury Branding
+  - rethink luxury
+  - Retail
+  - strategy
 image: /uploads/screen-shot-2017-09-26-at-11-57-47-am-1.png
 description:
 intro_markdown: >-
