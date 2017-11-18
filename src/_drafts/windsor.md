@@ -18,7 +18,10 @@ intro_markdown: >-
   Windsor’s heritage while opening the door to fresh perspectives on what sets
   this community apart as a vibrant and visionary destination.
 sections:
-  - text_markdown:
+  - text_markdown: |-
+      For more information go to&nbsp; windsorflorida.com
+
+      &nbsp;
     single_image:
     quote:
     video:
