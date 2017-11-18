@@ -1,6 +1,6 @@
 ---
 title: windsor
-publish_date:
+publish_date: 2017-12-18 00:00:00
 featured: false
 tags:
 image: /uploads/default-image.jpg
