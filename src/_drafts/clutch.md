@@ -1,6 +1,6 @@
 ---
 title: >-
-  O Group Named as One of The Most Highly Recommended Creative Agencies, In the
+  O Group Named as One of The Most Highly Recommended Creative Agencies In the
   First Annual Clutch Global Leaders List
 publish_date: 2017-12-04 00:00:00
 featured: false
