@@ -17,18 +17,15 @@ intro_markdown: >-
   based on client reviews, market presence, and ability to deliver high-quality
   services, among other quantitative and qualitative criteria. Clutch’s annual
   report recognizes 475+ top B2B service providers across six industries.
-
-
-  &nbsp;
-
-
-  # &nbsp;
 sections:
   - text_markdown: >-
-      &nbsp;
-
-
       The leading advertising, traditional marketing, and creative agencies are:
+
+
+      Creative Agencies: Duncan Channon, MiresBall, Exit10, Hub Strategy and
+      Communication, Havas Canada, barrettSF, Gold Front, Mighty, Morsekode,
+      Rule29 Creative, Matchstic, The Engine is Red, Citizen Group, DEKSIA, The
+      O Group
 
 
       Advertising Agencies: Interplanetary, Sensis, Duncan Channon, Citizen
@@ -47,12 +44,6 @@ sections:
       Matchstic, Anchour, Webster, Ologie, Bulldog Drummond, Gershoni Creative
       Agency, Emotive Brand, GreyBox Creative, DEKSIA, BatesMeron Sweet Design,
       Jacob Tyler, FINE, WANT Branding
-
-
-      Creative Agencies: Duncan Channon, MiresBall, Exit10, Hub Strategy and
-      Communication, Havas Canada, barrettSF, Gold Front, Mighty, Morsekode,
-      Rule29 Creative, Matchstic, The Engine is Red, Citizen Group, DEKSIA, The
-      O Group
 
 
       Market Research Firms: Goodman Lantern, Namebase Brand Naming,
@@ -88,7 +79,16 @@ sections:
       video_id:
       video_width:
       video_height:
-  - text_markdown:
+  - text_markdown: >-
+      About Clutch
+
+
+      A B2B research, ratings, and reviews firm in the heart of Washington, DC,
+      Clutch connects small and medium businesses with the best-fit agencies,
+      software, or consultants they need to tackle business challenges together
+      and with confidence. Clutch’s methodology compares business service
+      providers and software in a specific market based on verified client
+      reviews, services offered, work quality, and market presence.
     single_image:
     quote: >-
       “These firms have adapted their practices, providing strong results and
