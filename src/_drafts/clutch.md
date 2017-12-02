@@ -1,6 +1,8 @@
 ---
-title: Clutch
-publish_date:
+title: >-
+  Most Highly Recommended Traditional Marketing & Creative Agencies Named First
+  Annual Clutch Global Leaders
+publish_date: 2017-12-04 00:00:00
 featured: false
 tags:
 image: /uploads/default-image.jpg
