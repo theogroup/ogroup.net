@@ -3,16 +3,14 @@ title: >-
   The O Group Named as One of The Most Highly Recommended Creative Agencies in
   the First Annual Clutch Global Leaders List
 publish_date: 2017-12-04 00:00:00
-featured: true
+featured: false
 tags:
   - Design
   - Influencers
   - Press
   - News
 image: /uploads/unnamed-6-2.jpg
-description: >-
-  Most Highly Recommended Traditional Marketing & Creative Agencies Named First
-  Annual Clutch Global Leaders
+description:
 intro_markdown: |-
   &nbsp;
 
@@ -21,12 +19,7 @@ intro_markdown: |-
   # &nbsp;
 sections:
   - text_markdown: >-
-      WASHINGTON, DC, December 01, 2017 – Clutch named its Global Leaders in the
-      traditional marketing and creative agencies space. All leaders are ranked
-      based on client reviews, market presence, and ability to deliver
-      high-quality services, among other quantitative and qualitative criteria.
-      Clutch’s annual report recognizes 475+ top B2B service providers across
-      six industries.
+      &nbsp;
 
 
       The leading advertising, traditional marketing, and creative agencies are:
