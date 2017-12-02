@@ -18,6 +18,15 @@ intro_markdown: >-
   services, among other quantitative and qualitative criteria. Clutch’s annual
   report recognizes 475+ top B2B service providers across six industries.
 sections:
+  - text_markdown:
+    single_image:
+    quote: >-
+      “These firms have adapted their practices, providing strong results and
+      excellent customer service in both the traditional and digital contexts.”
+    video:
+      video_id:
+      video_width:
+      video_height:
   - text_markdown: >-
       The leading advertising, traditional marketing, and creative agencies are:
 
@@ -89,15 +98,6 @@ sections:
       and, most important, client reviews.
     single_image:
     quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown:
-    single_image:
-    quote: >-
-      “These firms have adapted their practices, providing strong results and
-      excellent customer service in both the traditional and digital contexts.”
     video:
       video_id:
       video_width:
