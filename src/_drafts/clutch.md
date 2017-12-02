@@ -1,9 +1,9 @@
 ---
 title: >-
-  The O Group Named as One of The Most Highly Recommended Creative Agencies In
+  The O Group Named as One of The Most Highly Recommended Creative Agencies in
   the First Annual Clutch Global Leaders List
 publish_date: 2017-12-04 00:00:00
-featured: false
+featured: true
 tags:
   - Design
   - Influencers
@@ -27,15 +27,8 @@ sections:
       high-quality services, among other quantitative and qualitative criteria.
       Clutch’s annual report recognizes 475+ top B2B service providers across
       six industries.
-    single_image:
-    quote: >-
-      “These firms have adapted their practices, providing strong results and
-      excellent customer service in both the traditional and digital contexts.”
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown: >-
+
+
       The leading advertising, traditional marketing, and creative agencies are:
 
 
@@ -92,6 +85,15 @@ sections:
       Tate Marketing, Sensis, Brandpoint
     single_image:
     quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image:
+    quote: >-
+      “These firms have adapted their practices, providing strong results and
+      excellent customer service in both the traditional and digital contexts.”
     video:
       video_id:
       video_width:
