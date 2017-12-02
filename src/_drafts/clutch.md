@@ -5,18 +5,20 @@ title: >-
 publish_date: 2017-12-04 00:00:00
 featured: false
 tags:
+  - Design
+  - Influencers
+  - Press
+  - News
 image: /uploads/default-image.jpg
-description:
+description: >-
+  Most Highly Recommended Traditional Marketing & Creative Agencies Named First
+  Annual Clutch Global Leaders
 intro_markdown: >-
   More than 95 advertising, marketing, and creative agencies earn spot on Clutch
   Global Leader List 2017 for their ability to deliver to their clients.
 
 
-  WASHINGTON, DC, December 01, 2017 – Clutch named its Global Leaders in the
-  traditional marketing and creative agencies space. All leaders are ranked
-  based on client reviews, market presence, and ability to deliver high-quality
-  services, among other quantitative and qualitative criteria. Clutch’s annual
-  report recognizes 475+ top B2B service providers across six industries.
+  &nbsp;
 
 
   The leading advertising, traditional marketing, and creative agencies are:
@@ -86,11 +88,38 @@ intro_markdown: >-
 
   &nbsp;
 sections:
-  - text_markdown:
+  - text_markdown: >-
+      WASHINGTON, DC, December 01, 2017 – Clutch named its Global Leaders in the
+      traditional marketing and creative agencies space. All leaders are ranked
+      based on client reviews, market presence, and ability to deliver
+      high-quality services, among other quantitative and qualitative criteria.
+      Clutch’s annual report recognizes 475+ top B2B service providers across
+      six industries.
     single_image:
     quote: >-
       “These firms have adapted their practices, providing strong results and
       excellent customer service in both the traditional and digital contexts.”
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
+    single_image:
+    quote:
     video:
       video_id:
       video_width:
