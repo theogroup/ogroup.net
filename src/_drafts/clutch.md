@@ -2,7 +2,7 @@
 title: >-
   The O Group Named as One of The Most Highly Recommended Creative Agencies in
   2017
-publish_date: 2017-12-01 00:00:00
+publish_date: 2017-12-04 00:00:00
 featured: true
 tags:
   - Design
