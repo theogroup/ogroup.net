@@ -9,7 +9,7 @@ tags:
   - Influencers
   - Press
   - News
-image: /uploads/default-image.jpg
+image: /uploads/unnamed-6-2.jpg
 description: >-
   Most Highly Recommended Traditional Marketing & Creative Agencies Named First
   Annual Clutch Global Leaders
