@@ -11,10 +11,16 @@ tags:
   - News
 image: /uploads/unnamed-6-2.jpg
 description:
-intro_markdown: |-
-  &nbsp;
+intro_markdown: >-
+  WASHINGTON, DC, December 01, 2017 – Clutch named its Global Leaders in the
+  traditional marketing and creative agencies space. All leaders are ranked
+  based on client reviews, market presence, and ability to deliver high-quality
+  services, among other quantitative and qualitative criteria. Clutch’s annual
+  report recognizes 475+ top B2B service providers across six industries.
+
 
   &nbsp;
+
 
   # &nbsp;
 sections:
