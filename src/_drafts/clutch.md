@@ -93,10 +93,7 @@ sections:
       contexts.”
 
 
-      Clutch’s leaders are a small portion of the firm’s full research. The
-      thousands of companies already listed on Clutch span 500+ research
-      categories and each is evaluated on its market presence, previous work,
-      and, most important, client reviews.
+      &nbsp;
     single_image:
     quote:
     video:
