@@ -31,57 +31,58 @@ sections:
       The leading advertising, traditional marketing, and creative agencies are:
 
 
-      Creative Agencies: Duncan Channon, MiresBall, Exit10, Hub Strategy and
+      **Creative Agencies:** Duncan Channon, MiresBall, Exit10, Hub Strategy and
       Communication, Havas Canada, barrettSF, Gold Front, Mighty, Morsekode,
       Rule29 Creative, Matchstic, The Engine is Red, Citizen Group, DEKSIA, The
       O Group
 
 
-      Advertising Agencies: Interplanetary, Sensis, Duncan Channon, Citizen
+      **Advertising Agencies:** Interplanetary, Sensis, Duncan Channon, Citizen
       Group, RXM Creative, Kiosk, Killian Branding, GKV, The Brandon Agency,
       Mistress, Matchstic, Bob’s Your Uncle, Bareface, BrandTuitive, DEKSIA
 
 
-      Public Relations Firms: Strategic Objectives, BIGfish Communications,
+      **Public Relations Firms:** Strategic Objectives, BIGfish Communications,
       Bateman Group, Pinkston Group, Inc., EMSI Public Relations, TrizCom PR,
       Taylor and Co., Jones Social & PR, Landis Communications Inc. (LCI),
       Firecracker PR, Right Angle PR, Column Five, Marketing Maven, Blaze PR,
       Martin Levy Public Relations
 
 
-      Branding Agencies: Tenet Partners, DMI (Digital Management, Inc.),
+      **Branding Agencies:** Tenet Partners, DMI (Digital Management, Inc.),
       Matchstic, Anchour, Webster, Ologie, Bulldog Drummond, Gershoni Creative
       Agency, Emotive Brand, GreyBox Creative, DEKSIA, BatesMeron Sweet Design,
       Jacob Tyler, FINE, WANT Branding
 
 
-      Market Research Firms: Goodman Lantern, Namebase Brand Naming,
+      **Market Research Firms:** Goodman Lantern, Namebase Brand Naming,
       NameStormers, Bulldog Drummond, Think Company, Web Design Boston, Sensis,
       ProntoLogic, Online Department, Viva + Impulse Creative Co., Resound, The
       Miller Group, LookFar, InfoDataPlace
 
 
-      Video Production Companies: The DVI Group, Sparkhouse, VeractiyColab,
+      **Video Production Companies:** The DVI Group, Sparkhouse, VeractiyColab,
       Vibrant Media Productions, RaffertyWeiss Media, Left Productions, Ydraw,
       Simple Story Videos, Storyfarm, Yum Yum Videos, Kasra Design, Pop Video,
       Explainify, Indigo Productions, Playfish Media
 
 
-      Naming Agencies: Catchword, Tanj, River + Wolf, Tungsten Branding, Zinzin,
-      NameStormers, Namebase Brand Naming, Bluetext, WANT Branding, Brighter
-      Naming, IdeaWork Studios, Motto, MiresBall, Breviti, Salt Branding
+      **Naming Agencies:** Catchword, Tanj, River + Wolf, Tungsten Branding,
+      Zinzin, NameStormers, Namebase Brand Naming, Bluetext, WANT Branding,
+      Brighter Naming, IdeaWork Studios, Motto, MiresBall, Breviti, Salt
+      Branding
 
 
-      Direct Marketing Agencies: RightHello, Interplanetary, BatesMeron Sweet
-      Design, Square 2 Marketing, The Weinstein Organization Inc., Clarke, Inc.,
-      Ghergich & Co., Bandwidth Marketing Group, Wingman Advertising, The Engine
-      is Red, Coming of Age, Adit, OpGen Media, FastRock, Cymax Media
+      **Direct Marketing Agencies:** RightHello, Interplanetary, BatesMeron
+      Sweet Design, Square 2 Marketing, The Weinstein Organization Inc., Clarke,
+      Inc., Ghergich & Co., Bandwidth Marketing Group, Wingman Advertising, The
+      Engine is Red, Coming of Age, Adit, OpGen Media, FastRock, Cymax Media
 
 
-      Media Buying Agencies: JStokes Agency, Duncan Channon, Kiosk, Elite SEM,
-      The Brandon Agency, Archer Malmo, GKV, Hub Strategy and Communication, DMi
-      Partners, Fearless Media, 3Q Digital, Blue Polo Interactive, Stevens &
-      Tate Marketing, Sensis, Brandpoint
+      **Media Buying Agencies:** JStokes Agency, Duncan Channon, Kiosk, Elite
+      SEM, The Brandon Agency, Archer Malmo, GKV, Hub Strategy and
+      Communication, DMi Partners, Fearless Media, 3Q Digital, Blue Polo
+      Interactive, Stevens & Tate Marketing, Sensis, Brandpoint
 
 
       “With the buzz around marketing shifting toward the digital arena, the
