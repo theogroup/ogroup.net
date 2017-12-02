@@ -93,16 +93,7 @@ sections:
       video_id:
       video_width:
       video_height:
-  - text_markdown: >-
-      About Clutch
-
-
-      A B2B research, ratings, and reviews firm in the heart of Washington, DC,
-      Clutch connects small and medium businesses with the best-fit agencies,
-      software, or consultants they need to tackle business challenges together
-      and with confidence. Clutch’s methodology compares business service
-      providers and software in a specific market based on verified client
-      reviews, services offered, work quality, and market presence.
+  - text_markdown:
     single_image:
     quote: >-
       “These firms have adapted their practices, providing strong results and
