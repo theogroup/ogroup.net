@@ -9,7 +9,7 @@ tags:
   - Influencers
   - Press
   - News
-image: /uploads/app-cloudcannon-2.jpg
+image: /uploads/app-cloudcannon-6.jpg
 description: The O Group Creative Agency
 intro_markdown: >-
   WASHINGTON, DC, December 01, 2017 – Clutch named its Global Leaders in the
