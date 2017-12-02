@@ -1,5 +1,7 @@
 ---
-title: The O Group Named as One of The Most Highly Recommended Creative Agencies
+title: >-
+  The O Group Named as One of The Most Highly Recommended Creative Agencies in
+  2017
 publish_date: 2017-12-04 00:00:00
 featured: false
 tags:
@@ -71,6 +73,20 @@ sections:
       The Brandon Agency, Archer Malmo, GKV, Hub Strategy and Communication, DMi
       Partners, Fearless Media, 3Q Digital, Blue Polo Interactive, Stevens &
       Tate Marketing, Sensis, Brandpoint
+
+
+      “With the buzz around marketing shifting toward the digital arena, the
+      impact of great creative and strategic traditional marketing can be
+      overlooked,” said Clutch’s Advertising and Marketing Research Lead Kimmie
+      Champlin. “These firms have adapted their practices, providing strong
+      results and excellent customer service in both the traditional and digital
+      contexts.”
+
+
+      Clutch’s leaders are a small portion of the firm’s full research. The
+      thousands of companies already listed on Clutch span 500+ research
+      categories and each is evaluated on its market presence, previous work,
+      and, most important, client reviews.
     single_image:
     quote:
     video:
@@ -95,19 +111,7 @@ sections:
       video_id:
       video_width:
       video_height:
-  - text_markdown: >-
-      “With the buzz around marketing shifting toward the digital arena, the
-      impact of great creative and strategic traditional marketing can be
-      overlooked,” said Clutch’s Advertising and Marketing Research Lead Kimmie
-      Champlin. “These firms have adapted their practices, providing strong
-      results and excellent customer service in both the traditional and digital
-      contexts.”
-
-
-      Clutch’s leaders are a small portion of the firm’s full research. The
-      thousands of companies already listed on Clutch span 500+ research
-      categories and each is evaluated on its market presence, previous work,
-      and, most important, client reviews.
+  - text_markdown:
     single_image:
     quote:
     video:
