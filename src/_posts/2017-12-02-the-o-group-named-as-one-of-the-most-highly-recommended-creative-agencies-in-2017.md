@@ -10,7 +10,7 @@ tags:
   - Press
   - News
 image: /uploads/unnamed-6-2.jpg
-description:
+description: The O Group Creative Agency
 intro_markdown: >-
   WASHINGTON, DC, December 01, 2017 – Clutch named its Global Leaders in the
   traditional marketing and creative agencies space. All leaders are ranked
