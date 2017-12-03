@@ -9,7 +9,7 @@ tags:
   - Influencers
   - Press
   - News
-image: /uploads/unnamed-6-3.jpg
+image: /uploads/unnamed-10.jpg
 description: The O Group Creative Agency
 intro_markdown: >-
   WASHINGTON, DC, December 01, 2017 – Clutch named its Global Leaders in the
