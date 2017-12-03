@@ -1,5 +1,5 @@
 ---
-title: 'The O Group Named as a Global Leaders, in Creative Agency Space'
+title: 'The O Group Named as one of the Global Leaders, in Creative Agency Space'
 publish_date: 2017-12-01 00:00:00
 featured: true
 tags:
