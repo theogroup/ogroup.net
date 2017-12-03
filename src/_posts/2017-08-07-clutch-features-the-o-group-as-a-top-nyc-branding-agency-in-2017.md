@@ -8,7 +8,7 @@ tags:
   - Luxury Branding
   - Press
   - News
-image: /uploads/unnamed-6-4.jpg
+image: /uploads/unnamed-11.jpg
 description: >-
   In an ongoing effort to identify high-performing B2B service providers
   throughout the globe, Clutch recently issued a report releasing their most
