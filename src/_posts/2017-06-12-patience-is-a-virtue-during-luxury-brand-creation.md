@@ -78,9 +78,6 @@ sections:
       &nbsp;
 
 
-      &nbsp;
-
-
       **Understand the Differance Between Branding and Design**
 
 
