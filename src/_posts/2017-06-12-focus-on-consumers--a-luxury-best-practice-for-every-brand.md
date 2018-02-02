@@ -1,16 +1,17 @@
 ---
 title: Focus on Consumers – A Luxury Best Practice for Every Brand
-publish_date: 2016-09-08 00:00:00
+publish_date: 2017-03-02 00:00:00
 featured: false
 image: /uploads/blog-23-f.jpg
-intro_markdown: There is much to learn for all brand categories by looking at a new perspective.​
-
+intro_markdown: >-
+  There is much to learn for all brand categories by looking at a new
+  perspective.​
 sections:
   - text_markdown: >-
       A high-minded approach, elevated aesthetics, and an unwavering dedication
       to a carefully crafted brand ethos are no longer purely the domain of
-      old-world heritage brands. The lines between luxury, prestige and mass have
-      been altered by a number of factors, allowing brands of all kinds to
+      old-world heritage brands. The lines between luxury, prestige and mass
+      have been altered by a number of factors, allowing brands of all kinds to
       successfully emulate luxury tactics. Chief among the learnings brands of
       all types can and should take from the realm of luxury is the development
       of an intense focus on the consumer.&nbsp;
@@ -37,15 +38,15 @@ sections:
       Through the creation of a strategic target persona, assumptions can be
       confirmed (if not formally tested) and brands begin to take shape. Along
       these same lines, it is crucial to consider both demographics and
-      psychographics in crafting a functional target profile. Brands have to know
-      their targets inside and out in order align themselves properly across
-      numerous touchpoints.​
+      psychographics in crafting a functional target profile. Brands have to
+      know their targets inside and out in order align themselves properly
+      across numerous touchpoints.​
     single_image:
     quote:
     video:
   - text_markdown:
     single_image:
-    quote: '2. Go Beyond "Just the Facts" – Nobody Wins Amenities Wars'
+    quote: 2. Go Beyond "Just the Facts" – Nobody Wins Amenities Wars
     video:
   - text_markdown: >-
       Focusing on the lifestyle benefits to consumers, rather than
@@ -60,10 +61,10 @@ sections:
       least the 1980’s. From Porsche’s, "Often Imitated but Never Duplicated,"
       and BMW’s, "The Ultimate Driving Machine," to Cadillac’s, "Dare Greatly,"
       and Lincoln’s, "The Feeling Stays," there is much to learn for other brand
-      categories. Luxury car brands don’t run window stickers as ad creative. And
-      they don’t just give the 0-60 times and MPG stats. They tell us how we’ll
-      feel, how we’ll be viewed by others or what they’ll make us believe we can
-      attain or have achieved. Focus on lifestyle benefits, not product
+      categories. Luxury car brands don’t run window stickers as ad creative.
+      And they don’t just give the 0-60 times and MPG stats. They tell us how
+      we’ll feel, how we’ll be viewed by others or what they’ll make us believe
+      we can attain or have achieved. Focus on lifestyle benefits, not product
       attributes, and you’re well on your way to communicating at a higher level
       and captivating a sophisticated consumer.​
     single_image:
@@ -88,14 +89,14 @@ sections:
 
       The key takeaway? It’s all about your consumer, all the time, no matter
       whether you’re mass or luxury or somewhere in-between. Brands who properly
-      balance rational and emotional elements, focus on lifestyle benefits versus
-      amenities and connect authentically on social media can create for
-      themselves the opportunity to be considered among the world’s elite brands,
-      regardless of their category or market position.​
+      balance rational and emotional elements, focus on lifestyle benefits
+      versus amenities and connect authentically on social media can create for
+      themselves the opportunity to be considered among the world’s elite
+      brands, regardless of their category or market position.​
     single_image:
     quote:
     video:
-contact_tagline: "Let's start a conversation about luxury."
+contact_tagline: Let's start a conversation about luxury.
 ---
 
 
