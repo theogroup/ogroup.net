@@ -31,13 +31,13 @@ sections:
 
 
       We get it. In fact, to a degree, we applaud it. Having worked with dozens
-      of entrepreneurs over the last 30 years, we know that they're passionate
-      about their ideas and live for the opportunity to share them with the
-      world. They want everything to happen fast. The temptation to come up with
-      names, logos, packaging and other elements is too strong to ignore. After
-      all, that's building the brand right? Yes it is, but it's also too soon.
-      As Gary Vaynerchuk, founder of Wine Library TV and VaynerMedia wrote in
-      his book, Crush It, "Patience is the secret sauce."
+      of entrepreneurs over the years, we know that they're passionate about
+      their ideas and live for the opportunity to share them with the world.
+      They want everything to happen fast. The temptation to come up with names,
+      logos, packaging and other elements is too strong to ignore. After all,
+      that's building the brand right? Yes it is, but it's also too soon. As
+      Gary Vaynerchuk, founder of Wine Library TV and VaynerMedia wrote in his
+      book, Crush It, "Patience is the secret sauce."
 
 
       The ‘Design First' approach might work in some mass categories, where
