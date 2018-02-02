@@ -1,6 +1,6 @@
 ---
 title: Patience is a Virtue During Luxury Brand Creation
-publish_date: 2018-02-02 00:00:00
+publish_date: 2018-02-01 00:00:00
 featured: true
 image: /uploads/blog-48-f.jpg
 intro_markdown: >-
