@@ -4,10 +4,10 @@ publish_date: 2018-02-01 00:00:00
 featured: true
 image: /uploads/blog-48-f.jpg
 intro_markdown: >-
-  Each morning I drink a cup of coffee, look at my calendar and email, check the
-  weather and then decide what to wear. You probably have some kind of similar
-  routine for getting ready, whether it's choosing your outfit or picking the
-  right accessories.​
+  Each morning you either drink a cup of coffee or a smoothie, look at your day
+  ahead and emails, check the weather and then decide what to wear. We probably
+  all have some kind of similar routine for getting ready, whether it's choosing
+  your outfit or picking the right accessories.​
 sections:
   - text_markdown: >-
       That's because how you present yourself and what you wear depends on what
@@ -19,25 +19,25 @@ sections:
     quote:
     video:
   - text_markdown: >-
-      **FIRST THINGS FIRST**
+      **First Things First**
 
 
-      Lately, I've had the same conversation multiple times with a number of
+      Lately, we've had the same conversation multiple times with a number of
       highly motivated, visionary and successful entrepreneurs launching new
-      Luxury brands. In each case, they've described to me how significant time
-      and money have been put toward creating elements like logos, graphics and
+      Luxury brands. In each case, they've described how significant time and
+      money have been put toward creating elements like logos, graphics and
       packaging design comps prior to conceptual brand development, and in some
       cases, even before the product itself exists.
 
 
-      I get it. In fact, to a degree, I applaud it. Having worked with dozens of
-      entrepreneurs over the last 30 years, I know that they're passionate about
-      their ideas and live for the opportunity to share them with the world.
-      They want everything to happen fast. The temptation to come up with names,
-      logos, packaging and other elements is too strong to ignore. After all,
-      that's building the brand right? Yes it is, but it's also too soon. As
-      Gary Vaynerchuk, founder of Wine Library TV and VaynerMedia wrote in his
-      book, Crush It, "Patience is the secret sauce."
+      We get it. In fact, to a degree, we applaud it. Having worked with dozens
+      of entrepreneurs over the last 30 years, we know that they're passionate
+      about their ideas and live for the opportunity to share them with the
+      world. They want everything to happen fast. The temptation to come up with
+      names, logos, packaging and other elements is too strong to ignore. After
+      all, that's building the brand right? Yes it is, but it's also too soon.
+      As Gary Vaynerchuk, founder of Wine Library TV and VaynerMedia wrote in
+      his book, Crush It, "Patience is the secret sauce."
 
 
       The ‘Design First' approach might work in some mass categories, where
@@ -49,11 +49,11 @@ sections:
       on to the Luxury brands who get it right faster than you can spell BMW.
 
 
-      **SO, WHAT DO YOU THINK?**
+      **So, What Do You Think?**
 
 
       Our agency is often asked to assess Design work commissioned before the
-      concept, and sometimes the product, has been developed. Trust me, there's
+      concept, and sometimes the product, has been developed. Trust us, there's
       no shortage of personal opinions at creative agencies, but how can designs
       be accurately evaluated if target audience, specific goals, positioning
       and the like haven't been established? The unfortunate answer is: they
@@ -69,7 +69,7 @@ sections:
       realize their potential. Not exactly the best way to launch.
 
 
-      **UNDERSTAND THE DIFFERENCE BETWEEN BRANDING AND DESIGN**
+      **Understand The Differance Between Branding And Design**
 
 
       It's important to develop a Luxury brand step-by-step in the proper order.
@@ -94,7 +94,7 @@ sections:
       the first consideration.
 
 
-      **NO MORE TA-DA MOMENTS**
+      **No More TA-DA Moments**
 
 
       Branding, when done properly, is a slow and steady build toward the
