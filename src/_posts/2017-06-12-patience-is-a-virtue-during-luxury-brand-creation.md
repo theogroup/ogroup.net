@@ -22,9 +22,6 @@ sections:
       **FIRST THINGS FIRST**
 
 
-
-
-
       Lately, I've had the same conversation multiple times with a number of
       highly motivated, visionary and successful entrepreneurs launching new
       Luxury brands. In each case, they've described to me how significant time
@@ -33,20 +30,14 @@ sections:
       cases, even before the product itself exists.
 
 
-
-
-
       I get it. In fact, to a degree, I applaud it. Having worked with dozens of
-      entrepreneurs over the last 17 years, I know that they're passionate about
+      entrepreneurs over the last 30 years, I know that they're passionate about
       their ideas and live for the opportunity to share them with the world.
       They want everything to happen fast. The temptation to come up with names,
       logos, packaging and other elements is too strong to ignore. After all,
       that's building the brand right? Yes it is, but it's also too soon. As
       Gary Vaynerchuk, founder of Wine Library TV and VaynerMedia wrote in his
       book, Crush It, "Patience is the secret sauce."
-
-
-
 
 
       The ‘Design First' approach might work in some mass categories, where
@@ -58,13 +49,7 @@ sections:
       on to the Luxury brands who get it right faster than you can spell BMW.
 
 
-
-
-
       **SO, WHAT DO YOU THINK?**
-
-
-
 
 
       Our agency is often asked to assess Design work commissioned before the
@@ -77,9 +62,6 @@ sections:
       good.
 
 
-
-
-
       When you pick the wrong clothes without the proper due diligence, you may
       end up without your favorite power tie for the important meeting or
       drenched and freezing on a rainy day. When brands execute Design before
@@ -87,13 +69,7 @@ sections:
       realize their potential. Not exactly the best way to launch.
 
 
-
-
-
       **UNDERSTAND THE DIFFERENCE BETWEEN BRANDING AND DESIGN**
-
-
-
 
 
       It's important to develop a Luxury brand step-by-step in the proper order.
@@ -118,13 +94,7 @@ sections:
       the first consideration.
 
 
-
-
-
       **NO MORE TA-DA MOMENTS**
-
-
-
 
 
       Branding, when done properly, is a slow and steady build toward the
