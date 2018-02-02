@@ -1,5 +1,5 @@
 ---
-title: Patience is a Virtue During Luxury Brand Creation
+title: Patience Is a Virtue During Luxury Brand Creation
 publish_date: 2018-02-01 00:00:00
 featured: true
 image: /uploads/blog-48-f.jpg
@@ -19,6 +19,9 @@ sections:
     quote:
     video:
   - text_markdown: >-
+      &nbsp;
+
+
       **First Things First**
 
 
@@ -47,6 +50,9 @@ sections:
       brand experience. Even the slightest misalignment between the branding and
       the offering will be detected by discerning Luxury consumers. They'll move
       on to the Luxury brands who get it right faster than you can spell BMW.
+
+
+      &nbsp;
 
 
       **So, What Do You Think?**
@@ -92,6 +98,15 @@ sections:
       It's the world's perception of a company and it's offering. Design (the
       look, feel and voice) is only one part of the brand and it shouldn't be
       the first consideration.
+
+
+      &nbsp;
+
+
+      &nbsp;
+
+
+      &nbsp;
 
 
       **No More TA-DA Moments**
