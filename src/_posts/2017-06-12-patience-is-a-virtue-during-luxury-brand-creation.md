@@ -1,7 +1,7 @@
 ---
 title: Patience is a Virtue During Luxury Brand Creation
 publish_date: 2018-02-02 00:00:00
-featured: false
+featured: true
 image: /uploads/blog-48-f.jpg
 intro_markdown: >-
   Each morning I drink a cup of coffee, look at my calendar and email, check the
