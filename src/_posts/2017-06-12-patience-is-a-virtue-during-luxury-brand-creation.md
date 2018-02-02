@@ -81,13 +81,13 @@ sections:
       **Understand the Differance Between Branding and Design**
 
 
-      It's important to develop a Luxury brand step-by-step in the proper order.
-      Start at the beginning. The thinking around category, target
-      audience/consumer, unique differentiators, and of course, the actual
-      offerings must be developed before deciding on the brand's look and feel.
-      In many cases, even the name should be decided upon later rather than
-      sooner. Who's the target? What do they respond to? Who else competes in
-      the space? What are they about?​
+      It's important to develop a brand step-by-step in the proper order. Start
+      at the beginning. The thinking around category, target audience/consumer,
+      unique differentiators, and of course, the actual offerings must be
+      developed before deciding on the brand's look and feel. In many cases,
+      even the name should be decided upon later rather than sooner. Who's the
+      target? What do they respond to? Who else competes in the space? What are
+      they about?​
     single_image:
     quote:
     video:
