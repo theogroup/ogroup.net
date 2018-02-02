@@ -4,8 +4,8 @@ publish_date: 2018-02-01 00:00:00
 featured: true
 image: /uploads/blog-48-f.jpg
 intro_markdown: >-
-  Each morning you either drink a cup of coffee or a smoothie, look at your day
-  ahead and emails, check the weather and then decide what to wear. We probably
+  Each morning you drink a cup of "something", look at your day ahead, check
+  your emails, weather, social media and then decide what to wear. We probably
   all have some kind of similar routine for getting ready, whether it's choosing
   your outfit or picking the right accessories.​
 sections:
