@@ -1,6 +1,6 @@
 ---
 title: Windsor Names The O Group Agency of Record
-publish_date: 2018-02-23 00:00:00
+publish_date:
 featured: false
 tags:
   - Design
