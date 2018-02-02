@@ -112,11 +112,11 @@ sections:
       Branding, when done properly, is a slow and steady build toward the
       alignment, cohesion and consistency of all brand touch points. Working
       with conceptual thinkers, avoiding the urge to move straight to visuals,
-      and making sure that the brand is built for its target will keep a Luxury
-      brand focused on developing the foundational thinking crucial to
-      successful Design execution and brand launch. The "Wow!" you'll get for a
-      flashy logo and package will wear off much sooner than the satisfaction
-      you'll experience after bringing an amazing idea to life.​
+      and making sure that the brand is built for its target will keep a brand
+      focused on developing the foundational thinking crucial to successful
+      Design execution and brand launch. The "Wow!" you'll get for a flashy logo
+      and package will wear off much sooner than the satisfaction you'll
+      experience after bringing an amazing idea to life.​
     single_image:
     quote:
     video:
