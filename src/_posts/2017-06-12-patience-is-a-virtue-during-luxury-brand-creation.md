@@ -75,6 +75,9 @@ sections:
       realize their potential. Not exactly the best way to launch.
 
 
+      &nbsp;
+
+
       **Understand The Differance Between Branding And Design**
 
 
@@ -98,12 +101,6 @@ sections:
       It's the world's perception of a company and it's offering. Design (the
       look, feel and voice) is only one part of the brand and it shouldn't be
       the first consideration.
-
-
-      &nbsp;
-
-
-      &nbsp;
 
 
       &nbsp;
