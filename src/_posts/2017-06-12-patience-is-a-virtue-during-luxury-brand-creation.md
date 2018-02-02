@@ -81,7 +81,7 @@ sections:
       &nbsp;
 
 
-      **Understand The Differance Between Branding And Design**
+      **Understand the Differance Between Branding and Design**
 
 
       It's important to develop a Luxury brand step-by-step in the proper order.
