@@ -73,11 +73,11 @@ sections:
       that are coveted for their rarity, potency or pedigree. As legalization
       continues, I think the high end opportunities are bountiful.”
     single_image:
-    quote:
-    video:
-  - text_markdown: >-
-      > The key to success appears to be the utilization of cues that connote
+    quote: >-
+      The key to success appears to be the utilization of cues that connote
       premium, but that don’t scream “reefer madness.”
+    video:
+  - text_markdown:
     single_image:
     quote:
     video:
