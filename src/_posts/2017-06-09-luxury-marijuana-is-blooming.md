@@ -1,6 +1,6 @@
 ---
 title: Luxury Marijuana is Blooming
-publish_date: 2018-02-14 00:00:00
+publish_date: 2018-02-13 00:00:00
 featured: false
 image: /uploads/blog-6-featured.jpg
 description: >-
