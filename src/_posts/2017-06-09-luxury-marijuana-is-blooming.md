@@ -53,29 +53,38 @@ sections:
       elevated as the smoker feels. Their flagship product is designed first and
       foremost to deliver a quality smoking experience – an experience that just
       so happens to be delivered in a sleek, modern and fantastic looking
-      vessel. And the list goes on. From marijuana-inspired designs gracing the
-      runways of world-famous fashion designers, to vaporizing devices that
-      appear to have been designed by Silicon Valley’s best and brightest,
-      affluent marijuana consumers have more options at their disposal than ever
-      before. “The cannabis industry is leading a soaring growth trajectory over
-      the next 10 years and I think it will find itself in a similar situation
-      as the beer business has recently,” says Lake. “Ultimately, I think the
-      luxury echelon of cannabis has a huge upside, as consumers seek new and
-      exclusive products in this emerging market. We’re already seeing limited
-      edition production runs, packaging and brand collaborations and even
-      specific genetics or strains that are coveted for their rarity, potency or
-      pedigree. As legalization continues, I think the high end opportunities
-      are bountiful.” The key to success appears to be the utilization of cues
-      that connote premium, but that don’t scream “reefer madness.” If the
-      marijuana industry is going to continue to grow, it has a responsibility
-      to demonstrate that these premium products help responsible consumers
-      indulge responsibly, without sacrificing design aesthetics.​
+      vessel. And the list goes on.
     single_image:
     quote: >-
       The key to success appears to be the utilization of cues that connote
       premium, but that don’t scream “reefer madness.
     video:
-  - text_markdown:
+  - text_markdown: >-
+      From marijuana-inspired designs gracing the runways of world-famous
+      fashion designers, to vaporizing devices that appear to have been designed
+      by Silicon Valley’s best and brightest, affluent marijuana consumers have
+      more options at their disposal than ever before. “The cannabis industry is
+      leading a soaring growth trajectory over the next 10 years and I think it
+      will find itself in a similar situation as the beer business has
+      recently,” says Lake. “Ultimately, I think the luxury echelon of cannabis
+      has a huge upside, as consumers seek new and exclusive products in this
+      emerging market. We’re already seeing limited edition production runs,
+      packaging and brand collaborations and even specific genetics or strains
+      that are coveted for their rarity, potency or pedigree. As legalization
+      continues, I think the high end opportunities are bountiful.”
+    single_image:
+    quote:
+    video:
+  - text_markdown: >-
+      > The key to success appears to be the utilization of cues that connote
+      premium, but that don’t scream “reefer madness.”
+    single_image:
+    quote:
+    video:
+  - text_markdown: >-
+      If the marijuana industry is going to continue to grow, it has a
+      responsibility to demonstrate that these premium products help responsible
+      consumers indulge responsibly, without sacrificing design aesthetics.​
     single_image:
     quote:
     video:
