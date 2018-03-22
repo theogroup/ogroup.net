@@ -1,7 +1,7 @@
 ---
 title: Rethinking Luxury
 publish_date: 2018-03-22 00:00:00
-featured: false
+featured: true
 tags:
   - rethink luxury
 image: /uploads/blog-31-f.jpg
