@@ -1,6 +1,6 @@
 ---
 title: Rethinking Luxury
-publish_date: 2016-01-19 00:00:00
+publish_date: 2017-03-23 00:00:00
 featured: false
 tags:
   - rethink luxury
