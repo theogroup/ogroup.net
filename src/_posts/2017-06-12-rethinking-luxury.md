@@ -4,6 +4,8 @@ publish_date: 2018-03-22 00:00:00
 featured: true
 tags:
   - rethink luxury
+  - Design
+  - Luxury Branding
 image: /uploads/blog-31-f.jpg
 intro_markdown: >-
   Change is constant. For 30 years in New York City we have experienced the ebb
