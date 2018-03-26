@@ -9,9 +9,9 @@ tags:
   - Culture
 image: /uploads/blog-31-f.jpg
 intro_markdown: >-
-  Change is constant. For 30 years in New York City we have experienced the ebb
-  and flow of economic, social and stylistic trends. Relevancy is about
-  evolution, so here we are.​
+  Change is constant. For 30 years we have experienced the ebb and flow of
+  economic, social and stylistic trends. Relevancy is about evolution, so here
+  we are.​
 sections:
   - text_markdown: >-
       Change has come to all forms of business, media, design and lifestyle. As
