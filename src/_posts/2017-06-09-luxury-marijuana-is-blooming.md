@@ -1,7 +1,7 @@
 ---
 title: Luxury Marijuana is Blooming
 publish_date: 2018-02-13 00:00:00
-featured: false
+featured: true
 image: /uploads/blog-6-featured.jpg
 description: >-
   The conversation around marijuana has changed dramatically over the last
@@ -85,6 +85,10 @@ sections:
       If the marijuana industry is going to continue to grow, it has a
       responsibility to demonstrate that these premium products help responsible
       consumers indulge responsibly, without sacrificing design aesthetics.​
+    single_image:
+    quote:
+    video:
+  - text_markdown:
     single_image:
     quote:
     video:
