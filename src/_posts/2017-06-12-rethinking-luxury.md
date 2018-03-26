@@ -9,7 +9,7 @@ tags:
   - Culture
 image: /uploads/blog-31-f.jpg
 intro_markdown: >-
-  Change is constant. For 30 years we have experienced the ebb and flow of
+  Change is constant. For over 30 years we have experienced the ebb and flow of
   economic, social and stylistic trends. Relevancy is about evolution, so here
   we are.​
 sections:
