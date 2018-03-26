@@ -60,7 +60,7 @@ sections:
       clients to shape where it’s headed: Luxury creative for real brands, with
       real results. And so, as we enter 2018 we plan to showcase what it can
       mean to rethink luxury across every medium - our client work, our own
-      brand and our interactions with the world. # &nbsp;
+      brand and our interactions with the world.&nbsp;
     single_image:
     quote:
     video:
