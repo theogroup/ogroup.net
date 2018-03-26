@@ -1,7 +1,7 @@
 ---
 title: Luxury Marijuana is Blooming
 publish_date: 2018-02-13 00:00:00
-featured: true
+featured: false
 image: /uploads/blog-6-featured.jpg
 description: >-
   The conversation around marijuana has changed dramatically over the last
