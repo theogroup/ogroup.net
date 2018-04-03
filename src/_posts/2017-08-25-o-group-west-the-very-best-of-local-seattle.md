@@ -1,7 +1,7 @@
 ---
 title: 'O Group West: The Very Best of Local Seattle'
 publish_date: 2017-08-31 00:00:00
-featured: true
+featured: false
 tags:
   - Culture
   - Dining
@@ -270,7 +270,6 @@ sections:
       video_height:
 contact_tagline: Let's start a conversation about luxury.
 ---
-
 
 DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
 
