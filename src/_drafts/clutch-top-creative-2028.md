@@ -45,7 +45,7 @@ sections:
       We could not be more thrilled about being included in Clutch’s press
       release, and we know it would not be possible without the great partners
       we collaborate with everyday.
-    single_image:
+    single_image: /uploads/app-cloudcannon-6.jpg
     quote:
     video:
       video_id:
