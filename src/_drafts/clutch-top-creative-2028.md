@@ -1,6 +1,6 @@
 ---
 title: Clutch Features The O Group as a Top NYC Creative Agency in 2018
-publish_date: 2018-04-04 00:00:00
+publish_date: Invalid date
 featured: false
 tags:
   - Design
