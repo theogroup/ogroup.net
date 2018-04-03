@@ -1,21 +1,18 @@
 ---
-title: >-
-  Clutch Announces Top Creative, Design, and Development Companies in New York
-  City for 2018
+title: Clutch Announces Top Creative and Design Companies in New York City for 2018
 publish_date: 2018-03-28 00:00:00
 featured: false
 tags:
 image: /uploads/default-image.jpg
-description: "Today, B2B research, ratings, and reviews company\_Clutch unveiled 204 companies that provide the best creative, design, and development services in New York."
+description: "Today, B2B research, ratings, and reviews company\_Clutch unveiled 204 companies that provide the best creative and design services in New York."
 intro_markdown: >-
   WASHINGTON, DC, March 28, 2018 – Today, B2B research, ratings, and reviews
-  company Clutch unveiled 204 companies that provide the best creative, design,
-  and development services in New York. Clutch analysts evaluated and ranked
-  each company based on market presence, work quality, services offered, and
-  client feedback.
+  company Clutch unveiled the companies that provide the best creative and
+  design services in New York. Clutch analysts evaluated and ranked each company
+  based on market presence, work quality, services offered, and client feedback.
 sections:
   - text_markdown: >-
-      The leading creative and design agencies in New York are as follows:
+      The leading agencies in New York are as follows:
 
 
       Creative Agencies: The Miller Group, Constructive, Your Majesty, The O
@@ -26,12 +23,7 @@ sections:
 
       Logo Designers: GreyBox Creative, OrangeYouGlad, LLC, Transfuture, Infinia
       Group, The O Group, SmartNet Solutions, Studio Simpatico, Studio
-      Sanderson, L+R, The Forest Studio, Forest Studio, Bionic Egg,
-      nextbracket,“The creative and development spaces are fast-moving fields,”
-      said Clutch Business Analyst Alaina Stevenson. “The ability to develop and
-      design digital products and please clients is impressive. Congratulations
-      to the 204 companies that have stayed on the cutting-edge of technology
-      and continue to deliver outstanding services to their clients.”
+      Sanderson, L+R, The Forest Studio, Forest Studio, Bionic Egg, nextbracket,
 
 
       &nbsp;
@@ -63,7 +55,12 @@ sections:
 
       &nbsp;
     single_image:
-    quote:
+    quote: >-
+      “The creative and development spaces are fast-moving fields,” said Clutch
+      Business Analyst Alaina Stevenson. “The ability to develop and design
+      digital products and please clients is impressive. Congratulations to the
+      204 companies that have stayed on the cutting-edge of technology and
+      continue to deliver outstanding services to their clients.”
     video:
       video_id:
       video_width:
