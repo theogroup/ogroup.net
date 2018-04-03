@@ -1,5 +1,5 @@
 ---
-title: Clutch Features The O Group as a Top NYC Logo & Creative Agency in 2018
+title: Clutch Features The O Group as a Top NYC Creative Agency in 2018
 publish_date: 2018-04-04 00:00:00
 featured: false
 tags:
@@ -21,10 +21,10 @@ intro_markdown: >-
 
 
   After their evaluation of hundreds of New York agencies, we are proud to
-  announce our inclusion among the elite. Part of the methodology Clutch uses to
-  determine its’ list is through verified client interviews. These interviews
-  give an honest look at the work we’ve done and the experience our clients have
-  had.
+  announce our inclusion among the elite creative & design firms. Part of the
+  methodology Clutch uses to determine its’ list is through verified client
+  interviews. These interviews give an honest look at the work we’ve done and
+  the experience our clients have had.
 
 
   We could not be more thrilled about being included in Clutch’s agency review,
