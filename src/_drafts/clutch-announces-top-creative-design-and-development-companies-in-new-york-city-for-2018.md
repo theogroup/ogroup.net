@@ -4,7 +4,11 @@ publish_date: 2018-03-28 00:00:00
 featured: false
 tags:
 image: /uploads/default-image.jpg
-description: "Today, B2B research, ratings, and reviews company\_Clutch unveiled 204 companies that provide the best creative and design services in New York."
+description: >-
+  Due to the sheer volume of agencies popping up in New York City, it can
+  sometimes be difficult to stand out among our peers. Because of this, we are
+  particularly thrilled to announce our inclusion in Top NYC Creative Agencies
+  and  Logo Designers of 2018 by Clutch.
 intro_markdown: >-
   WASHINGTON, DC, March 28, 2018 – Today, B2B research, ratings, and reviews
   company Clutch unveiled the companies that provide the best creative and
@@ -15,52 +19,37 @@ sections:
       The leading agencies in New York are as follows:
 
 
-      Creative Agencies: The Miller Group, Constructive, Your Majesty, The O
-      Group, Gigante, Vaz Partners, Tronvig Group, Piro, 3Q Digital, Definition
-      6, Jungle Communications, Inc., Greater Than One, Eventige Media Group,
-      The Byne Group
+      **Creative Agencies:** The Miller Group, Constructive, Your Majesty, **The
+      O Group**, Gigante, Vaz Partners, Tronvig Group, Piro, 3Q Digital,
+      Definition 6, Jungle Communications, Inc., Greater Than One, Eventige
+      Media Group, The Byne Group
 
 
-      Logo Designers: GreyBox Creative, OrangeYouGlad, LLC, Transfuture, Infinia
-      Group, The O Group, SmartNet Solutions, Studio Simpatico, Studio
-      Sanderson, L+R, The Forest Studio, Forest Studio, Bionic Egg, nextbracket,
-
-
-      &nbsp;
-
-
-      It’s free to get listed on Clutch. However, only the leading companies in
-      each industry are recognized as leaders. New companies and reviews are
-      added to Clutch daily.
+      **Logo Designers:** GreyBox Creative, OrangeYouGlad, LLC, Transfuture,
+      Infinia Group, **The O Group**, SmartNet Solutions, Studio Simpatico,
+      Studio Sanderson, L+R, The Forest Studio, Forest Studio, Bionic Egg,
+      nextbracket,
 
 
       &nbsp;
-
-
-      Clutch’s research is ongoing. For a chance to be featured as one of
-      Clutch’s 2019 New York Leaders, apply now. Getting listed is a simple,
-      two-step process that takes less than 20 minutes.
-
-
-      &nbsp;
-
-
-      These results are a snapshot of Clutch’s Leaders Matrices on March 19,
-      2018. These rankings may change daily and currently may not be reflected
-      on Clutch’s website.
-
-
-      See the full research below.
 
 
       &nbsp;
     single_image:
     quote: >-
-      “The creative and development spaces are fast-moving fields,” said Clutch
-      Business Analyst Alaina Stevenson. “The ability to develop and design
-      digital products and please clients is impressive. Congratulations to the
-      204 companies that have stayed on the cutting-edge of technology and
-      continue to deliver outstanding services to their clients.”
+      New York city is home to many of the world’s leading creative agencies. At
+      The O Group, we separate ourselves from the pack with the depth and
+      quality of our work. We help brands develop a clear point of view.
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown: >-
+      We could not be more thrilled about being included in Clutch’s press
+      release, and we know it would not be possible without the great partners
+      we collaborate with everyday.
+    single_image:
+    quote:
     video:
       video_id:
       video_width:
