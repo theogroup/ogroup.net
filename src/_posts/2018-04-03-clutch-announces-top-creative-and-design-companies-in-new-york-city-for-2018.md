@@ -52,10 +52,7 @@ sections:
 
       &nbsp;
     single_image:
-    quote: >-
-      New York city is home to many of the world’s leading creative agencies. At
-      The O Group, we separate ourselves from the pack with the depth and
-      quality of our work. We help brands develop a clear point of view.
+    quote:
     video:
       video_id:
       video_width:
