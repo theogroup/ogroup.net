@@ -1,7 +1,7 @@
 ---
 title: Clutch Features The O Group as a Top NYC Branding Agency in 2017
 publish_date: 2017-08-07 00:00:00
-featured: false
+featured: true
 tags:
   - Clients
   - Culture
@@ -70,7 +70,6 @@ sections:
       video_height:
 contact_tagline: Let's start a conversation about luxury.
 ---
-
 
 DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
 
