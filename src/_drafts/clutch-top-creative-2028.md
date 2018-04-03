@@ -1,5 +1,5 @@
 ---
-title: The O Group Lands on Top NYC Logo Design & Creative Firms of 2018 by Clutch
+title: Clutch Features The O Group as a Top NYC Logo & Creative Agency in 2018
 publish_date: 2018-04-04 00:00:00
 featured: false
 tags:
