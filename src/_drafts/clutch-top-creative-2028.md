@@ -16,8 +16,8 @@ intro_markdown: >-
   New York city is home to many of the world’s leading creative agencies. At The
   O Group, we separate ourselves from the pack with the depth and quality of our
   work. We help brands develop a clear point of view. For over 30 years, The O
-  Group has been creating campaigns for people and brands who value[aesthetic
-  and experience](https://www.ogroup.net/work/).
+  Group has been creating campaigns for people and brands who
+  value&nbsp;[aesthetic and experience](https://www.ogroup.net/work/).
 sections:
   - text_markdown: >-
       &nbsp;After their evaluation of hundreds of New York agencies, we are
@@ -27,27 +27,29 @@ sections:
       experience our clients have had. Curious to see what our past partners
       have said about us? Check out this excerpt from our most recent
       review:&nbsp;
+
+
+      *“I appreciate their personal service. The O Group has the ability to
+      offer big brand agency work despite having a smaller size. They aren’t as
+      costly as larger providers, but the service quality is the same. They’ve
+      been in this business for a long time, so they have most of the details
+      smoothed out. The O Group has been spot-on, even with challenges such as
+      ours…** They are meticulous, organized, and easy to work with.&nbsp; We’ve
+      set launch dates and they’ve stayed close to the schedule. Considering
+      that we are a startup company, we’ve had to start and stop the work, and
+      they’ve been flexible during these times.**The O Group is very much a part
+      of the team. Although we have a client relationship, it has evolved a
+      lot.” Alexandria Leibowitz, Botage Beauty*
     single_image:
-    quote: >-
-      “I appreciate their personal service. The O Group has the ability to offer
-      big brand agency work despite having a smaller size. They aren’t as costly
-      as larger providers, but the service quality is the same. They’ve been in
-      this business for a long time, so they have most of the details smoothed
-      out. The O Group has been spot-on, even with challenges such as ours… They
-      are meticulous, organized, and easy to work with.  We’ve set launch dates
-      and they’ve stayed close to the schedule. Considering that we are a
-      startup company, we’ve had to start and stop the work, and they’ve been
-      flexible during these times. The O Group is very much a part of the team.
-      Although we have a client relationship, it has evolved a lot.” Alexandria
-      Leibowitz, Botage Beauty
+    quote:
     video:
       video_id:
       video_width:
       video_height:
   - text_markdown: >-
-      We could not be more thrilled about being included in Clutch’s press
-      release, and we know it would not be possible without the great partners
-      we collaborate with everyday.
+      We could not be more thrilled about being included in Clutch’s agency
+      reviw, and we know it would not be possible without the great partners we
+      collaborate with everyday.
     single_image: /uploads/app-cloudcannon-6.jpg
     quote:
     video:
