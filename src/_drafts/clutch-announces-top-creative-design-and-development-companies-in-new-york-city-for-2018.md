@@ -3,7 +3,7 @@ title: Clutch Announces Top Creative and Design Companies in New York City for 2
 publish_date: 2018-03-28 00:00:00
 featured: false
 tags:
-image: /uploads/default-image.jpg
+image: /uploads/1dsc-3695-6-7-tonemapped-2.jpg
 description: >-
   Due to the sheer volume of agencies popping up in New York City, it can
   sometimes be difficult to stand out among our peers. Because of this, we are
