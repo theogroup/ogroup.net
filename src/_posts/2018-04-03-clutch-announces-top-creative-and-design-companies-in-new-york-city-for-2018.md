@@ -38,7 +38,7 @@ sections:
 
       After their evaluation of hundreds of New York agencies, we are proud to
       announce our inclusion among the elite. Part of the methodology Clutch
-      uses to determine its’ list is through verified client interviews. These
+      uses to determine its list is through verified client interviews. These
       interviews give an honest look at the work we’ve done and the experience
       our clients have had.
 
