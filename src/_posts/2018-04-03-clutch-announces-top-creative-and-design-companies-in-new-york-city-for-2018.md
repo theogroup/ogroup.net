@@ -40,7 +40,10 @@ sections:
       announce our inclusion among the elite. Part of the methodology Clutch
       uses to determine its list is through verified client interviews. These
       interviews give an honest look at the work we’ve done and the experience
-      our clients have had.
+      our clients have had.&nbsp;
+
+
+      https://clutch.co/profile/o-group
 
 
       We could not be more thrilled about being included and we know it would
