@@ -43,7 +43,7 @@ sections:
       our clients have had.&nbsp;
 
 
-      [https://clutch.co/profile/o-group](https://clutch.co/profile/o-group)
+      [clutch.co/profile/o-group](https://clutch.co/profile/o-group)
 
 
       We could not be more thrilled about being included and we know it would
