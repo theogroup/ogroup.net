@@ -18,7 +18,8 @@ intro_markdown: >-
   WASHINGTON, DC, March 28, 2018 – Today, B2B research, ratings, and reviews
   company Clutch unveiled the companies that provide the best creative and
   design services in New York. Clutch analysts evaluated and ranked each company
-  based on market presence, work quality, services offered, and client feedback.
+  based on market presence, work quality, services offered, as well as client
+  feedback.
 sections:
   - text_markdown: >-
       The leading agencies in New York are as follows:
