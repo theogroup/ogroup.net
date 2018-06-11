@@ -1,13 +1,13 @@
 ---
 title: Rethinking Luxury
-publish_date: 2018-03-22 00:00:00
+publish_date: 2018-05-22 00:00:00
 featured: false
 tags:
   - rethink luxury
   - Design
   - Luxury Branding
   - Culture
-image: /uploads/blog-31-f.jpg
+image: /uploads/OGroup_SkyView_NYC.jpg
 intro_markdown: >-
   Change is constant. For over 30 years we have experienced the ebb and flow of
   economic, social and stylistic trends. Relevancy is about evolution, so here
