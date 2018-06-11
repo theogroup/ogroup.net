@@ -59,9 +59,7 @@ sections:
       meaning of luxury is changing. We know because it’s been our mission to
       change it. Anyone can tell you where luxury came from. We work with
       clients to shape where it’s headed: Luxury creative for real brands, with
-      real results. We look forward to showcasing what it means to rethink
-      luxury across every medium - our client work, our own brand and our
-      interactions with the world.&nbsp;
+      real results.&nbsp;
     single_image:
     quote:
     video:
