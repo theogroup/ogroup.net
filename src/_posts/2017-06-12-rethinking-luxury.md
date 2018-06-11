@@ -7,7 +7,7 @@ tags:
   - Design
   - Luxury Branding
   - Culture
-image: /uploads/OGroup_SkyView_NYC.jpg
+image: /uploads/westfield-world-trade-center-new-york.jpg
 intro_markdown: >-
   Change is constant. For over 30 years we have experienced the ebb and flow of
   economic, social and stylistic trends. Relevancy is about evolution, so here
