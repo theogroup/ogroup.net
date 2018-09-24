@@ -7,7 +7,8 @@ tags:
   - Luxury Branding
   - News
   - rethink luxury
-image: /uploads/unnamed-10.jpg
+image: >-
+  /uploads/135253-smartwatches-news-apple-watch-hermes-first-fashion-partnership-creates-unique-offering-pictures-image1-voq5bwfipa.jpg
 description: "As a branding agency with over 30 years specializing in the Luxury sector, we often get asked:\_ “What does Luxury mean today?” and\_ “How do luxury brands today differ from heritage luxury brands?”."
 intro_markdown: >-
   As a branding agency with over 30 years specializing in the Luxury sector, we
