@@ -36,9 +36,6 @@ intro_markdown: >-
   enable individual and collective change.&nbsp;
 
 
-  &nbsp;
-
-
   The continued rise and pervasiveness of brand marketing concepts like
   Sustainability, Flexibility, Responsibility, Transparency, Integrity and
   Authenticity have become the elevated standards in many industries,&nbsp;
@@ -58,15 +55,15 @@ intro_markdown: >-
   the New Luxury landscape. &nbsp;
 
 
-  Collective / Shared&nbsp;
+  **Collective / Shared&nbsp;**
 
 
-  Definition: A group that shares in a brand experience, product or
+  *Definition: A group that shares in a brand experience, product or
   service&nbsp; and the bonding that comes from the collective interaction
-  before, during or after being shared. &nbsp;
+  before, during or after being shared. &nbsp;*
 
 
-  Brand Value: Belonging&nbsp;
+  **Brand Value: Belonging&nbsp;**
 
 
   Being part of something larger then yourself and participating in a movement
@@ -80,15 +77,14 @@ intro_markdown: >-
   resonance. &nbsp;
 
 
-  Access / Democratization&nbsp;
+  **Access / Democratization&nbsp;**
 
 
-  Definition: Making a product or service more widely available - making your
-  brand more accessible and obtainable for more people. &nbsp;<br>Brand Value:
-  Connectivity &nbsp;
+  *Definition: Making a product or service more widely available - making your
+  brand more accessible and obtainable for more people. &nbsp;*
 
 
-  &nbsp;
+  <br>**Brand Value: Connectivity &nbsp;**
 
 
   This strategy seems to be in direct opposition to the Luxury mentality - if
@@ -101,15 +97,15 @@ intro_markdown: >-
   by the association and alignment.&nbsp;
 
 
-  Ethical / Transparency&nbsp;
+  **Ethical / Transparency&nbsp;**
 
 
-  Definition: Being honest and forthcoming about how products and services are
+  *Definition: Being honest and forthcoming about how products and services are
   made, where materials and manufacturing comes from and adopting ethical and
-  sustainable business practices though the entire brand supply chain.&nbsp;
+  sustainable business practices though the entire brand supply chain.&nbsp;*
 
 
-  Brand Value: Authenticity&nbsp;
+  **Brand Value: Authenticity&nbsp;**
 
 
   One of the “oldest” and most established strategies for connecting with aware
