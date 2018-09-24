@@ -132,8 +132,13 @@ sections:
       services.&nbsp; DeBeers “Forever Mark” program has been wildly successful
       in addressing the ethical issues inside the diamond businesses problems
       with African sourcing and human rights issues. &nbsp;
-
-
+    single_image: /uploads/screen-shot-2018-09-21-at-3-19-19-pm.png
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown: >-
       **On-Demand&nbsp;**
 
 
@@ -153,8 +158,13 @@ sections:
       been building their business offering around this strategy with great
       success - like private aviation brand JetSmarter which makes luxury
       transportation fluid and provides ultimate travel freedom.
-
-
+    single_image: /uploads/screen-shot-2018-09-21-at-3-19-52-pm.png
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown: >-
       **Self-Actualization&nbsp;**
 
 
@@ -172,7 +182,7 @@ sections:
       has started to add more wellness programing to their with their trips with
       their Wellness Cruises - entire journeys dedicated to personal fulfillment
       and self-actualization.&nbsp;
-    single_image: /uploads/screen-shot-2018-09-21-at-3-19-19-pm.png
+    single_image: /uploads/screen-shot-2018-09-21-at-3-20-09-pm-2.png
     quote:
     video:
       video_id:
@@ -206,20 +216,6 @@ sections:
       Luxury, has been the core of our branding practice for the past twenty
       years and we are excited about helping our clients navigate this latest
       evolution of the industry.&nbsp;
-    single_image: /uploads/screen-shot-2018-09-21-at-3-19-52-pm.png
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown:
-    single_image: /uploads/screen-shot-2018-09-21-at-3-20-09-pm-2.png
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown:
     single_image:
     quote:
     video:
