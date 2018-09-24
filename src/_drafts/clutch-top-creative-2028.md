@@ -56,19 +56,6 @@ intro_markdown: >-
   the New Luxury landscape. &nbsp;
 sections:
   - text_markdown: >-
-      ***Collective / Shared&nbsp;***
-
-
-      ***Definition: A group that shares in a brand experience, product or
-      service&nbsp; and the bonding that comes from the collective interaction
-      before, during or after being shared. &nbsp;***
-    single_image: /uploads/screen-shot-2018-09-21-at-3-18-09-pm-1.png
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown: >-
       **Brand Value: Belonging&nbsp;**
 
 
@@ -82,6 +69,16 @@ sections:
       visuals, product development and copy which has reflects a distinct
       anti-establishment resonance. &nbsp;
     single_image: /uploads/screen-shot-2018-09-21-at-3-18-36-pm.png
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown: >-
+      ***Collective / Shared: A group that shares in a brand experience, product
+      or service &nbsp;and the bonding that comes from the collective
+      interaction before, during or after being shared. &nbsp;***
+    single_image: /uploads/screen-shot-2018-09-21-at-3-18-09-pm-1.png
     quote:
     video:
       video_id:
