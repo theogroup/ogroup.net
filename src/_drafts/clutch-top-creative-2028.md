@@ -10,12 +10,6 @@ tags:
 image: /uploads/unnamed-10.jpg
 description: "As a branding agency with over 30 years specializing in the Luxury sector, we often get asked:\_ “What does Luxury mean today?” and\_ “How do luxury brands today differ from heritage luxury brands?”."
 intro_markdown: >-
-  &nbsp;
-
-
-  &nbsp;
-
-
   As a branding agency with over 30 years specializing in the Luxury sector, we
   often get asked:&nbsp; “What does Luxury mean today?” and&nbsp; “How do luxury
   brands today differ from heritage luxury brands?”.&nbsp;
@@ -28,9 +22,6 @@ intro_markdown: >-
   is considered luxury has evolved with them.&nbsp; No longer is the luxury
   consumer driven by consumption alone and this outdated buying habit has even
   become distasteful in the eyes the “enlightened”.&nbsp;
-
-
-  &nbsp;
 
 
   We are in the middle of yet another economic and branding evolutionary shift:
@@ -60,20 +51,11 @@ intro_markdown: >-
   today.&nbsp;
 
 
-  &nbsp;
-
-
   Over the past few years, we have identified 6 specific strategies for Luxury
   business wishing to connect with an evolved consumer.&nbsp; Not all of these
   directions can be or should be adapted for every brand, but there are at least
   a few (for any business) that could be looked in an effort to participate in
   the New Luxury landscape. &nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
 
 
   Collective / Shared&nbsp;
@@ -87,9 +69,6 @@ intro_markdown: >-
   Brand Value: Belonging&nbsp;
 
 
-  &nbsp;
-
-
   Being part of something larger then yourself and participating in a movement
   or collective effort is a powerful motivator for brand adoption. SOULCYCLE has
   done a great job on evolving a long standing fitness activity (spinning) and
@@ -99,12 +78,6 @@ intro_markdown: >-
   recent campaign that recalls 1960’s counter-culture visuals, product
   development and copy which has reflects a distinct anti-establishment
   resonance. &nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
 
 
   Access / Democratization&nbsp;
@@ -128,12 +101,6 @@ intro_markdown: >-
   by the association and alignment.&nbsp;
 
 
-  &nbsp;
-
-
-  &nbsp;
-
-
   Ethical / Transparency&nbsp;
 
 
@@ -145,9 +112,6 @@ intro_markdown: >-
   Brand Value: Authenticity&nbsp;
 
 
-  &nbsp;
-
-
   One of the “oldest” and most established strategies for connecting with aware
   consumers is the area of ethical transparency and sustainability. There are
   many ways Luxury brands can be authentic with customers and improve the
@@ -155,12 +119,6 @@ intro_markdown: >-
   “Forever Mark” program has been wildly successful in addressing the ethical
   issues inside the diamond businesses problems with African sourcing and human
   rights issues. &nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
 
 
   On-Demand&nbsp;
@@ -174,9 +132,6 @@ intro_markdown: >-
   Brand Value: Freedom&nbsp;
 
 
-  &nbsp;
-
-
   There has been a growing cultural shit away from ownership and towards
   on-demand use has been one of the largest global transformations (Uber, Lyft,
   Airbnb, etc.) in the past few decades - being adopted by mass and luxury
@@ -184,13 +139,7 @@ intro_markdown: >-
   already have a fixed product offering, but start-ups have been building their
   business offering around this strategy with great success - like private
   aviation brand JetSmarter which makes luxury transportation fluid and provides
-  ultimate travel freedom.&nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
+  ultimate travel freedom.
 
 
   Self-Actualization&nbsp;
@@ -203,9 +152,6 @@ intro_markdown: >-
   Brand Value: Fulfillment &nbsp;
 
 
-  &nbsp;
-
-
   The self-improvement market has been on a steady climb for decades but the
   Luxury industry has recently become aware of how to leverage this trend within
   product and service offerings.&nbsp; Seabourn cruses have been offering some
@@ -213,12 +159,6 @@ intro_markdown: >-
   add more wellness programing to their with their trips with their Wellness
   Cruises - entire journeys dedicated to personal fulfillment and
   self-actualization.&nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
 
 
   Customization&nbsp;
@@ -232,9 +172,6 @@ intro_markdown: >-
   Brand Value: Recognition &nbsp;&nbsp;
 
 
-  &nbsp;
-
-
   Not a new strategy for luxury brands but one that has been increasing in
   popularity over the past decade is this ability for consumers to place their
   own “brand mark” onto an existing luxury product.&nbsp; Not only does this
@@ -243,12 +180,6 @@ intro_markdown: >-
   personal recognition to a visibility rarely seen in the luxury market.&nbsp;
   Louis Vuitton’s Mon Monogram program is a good example of how this is done
   well and for them, very much on brand. &nbsp;
-
-
-  &nbsp;
-
-
-  &nbsp;
 
 
   The O Group has helped both luxury start-ups and well established business
