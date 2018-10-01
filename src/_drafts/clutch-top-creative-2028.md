@@ -82,16 +82,16 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      #3 - ETHICAL / TRANSPARENCY
+      **#3 ETHICAL / TRANSPARENCY**
 
 
-      Definition: Being honest and forthcoming about how products and services
+      *Definition: Being honest and forthcoming about how products and services
       are made, where materials and manufacturing comes from and adopting
       ethical and sustainable business practices though the entire brand supply
-      chain.&nbsp;
+      chain.&nbsp;*
 
 
-      Brand Value: Authenticity&nbsp;
+      **Brand Value: Authenticity&nbsp;**
 
 
       One of the “oldest” and most established strategies for connecting with
