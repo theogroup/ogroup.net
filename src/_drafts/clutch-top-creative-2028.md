@@ -63,7 +63,7 @@ sections:
       or after being shared.&nbsp;*
 
 
-      Brand Value: Belonging&nbsp;
+      **Brand Value: Belonging&nbsp;**
 
 
       Being part of something larger then yourself and participating in a
@@ -108,15 +108,15 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      #4 - ON-DEMAND
+      **#4 ON-DEMAND**
 
 
-      Definition: Making your products or services available faster and more
+      *Definition: Making your products or services available faster and more
       readily than usual - allowing customers to come and go as they wish and
-      letting them drive brand adoption to meet their lifestyle choices.&nbsp;
+      letting them drive brand adoption to meet their lifestyle choices.&nbsp;*
 
 
-      Brand Value: Freedom&nbsp;
+      *Brand Value: Freedom&nbsp;*
 
 
       There has been a growing cultural shit away from ownership and towards
@@ -134,14 +134,14 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      #5 - SELF-ACTUALIZATION
+      **#5 SELF-ACTUALIZATION**
 
 
-      Definition: Helping to facilitate customers self-improvement goals:
-      physically, mentally, spiritually or professionally.&nbsp;
+      *Definition: Helping to facilitate customers self-improvement goals:
+      physically, mentally, spiritually or professionally.&nbsp;*
 
 
-      Brand Value: Fulfillment&nbsp;
+      **Brand Value: Fulfillment&nbsp;**
 
 
       The self-improvement market has been on a steady climb for decades but the
@@ -158,15 +158,15 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      #6 - CUSTOMIZATION
+      **#6 CUSTOMIZATION**
 
 
-      Definition: Allowing for customers to customize or personalize a product
+      *Definition: Allowing for customers to customize or personalize a product
       or service and add their own “mark” of individuality and identity to the
-      finished product or experience.&nbsp;
+      finished product or experience.&nbsp;*
 
 
-      Brand Value: Recognition &nbsp;&nbsp;
+      **Brand Value: Recognition** &nbsp;&nbsp;
 
 
       Not a new strategy for luxury brands but one that has been increasing in
@@ -184,6 +184,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       The O Group is in the middle of helping both luxury start-ups and well
       established business add, adjust or evolve their brand strategies and
       marketing creative assets - allowing them to maintain and realize their
