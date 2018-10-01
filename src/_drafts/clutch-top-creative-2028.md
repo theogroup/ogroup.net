@@ -55,6 +55,9 @@ intro_markdown: >-
   the New Luxury landscape.&nbsp;
 sections:
   - text_markdown: >-
+      &nbsp;
+
+
       **#1 COLLECTIVE / SHARED&nbsp;**
 
 
@@ -190,10 +193,12 @@ sections:
       The O Group is in the middle of helping both luxury start-ups and well
       established business add, adjust or evolve their brand strategies and
       marketing creative assets - allowing them to maintain and realize their
-      relevancy for a new luxury consumer. Our motto, Rethink Luxury, has been
-      at the core of our branding practice for the past twenty years and we are
-      excited about helping our clients navigate this latest evolution of the
-      industry.&nbsp;
+      relevancy for a new luxury consumer.
+
+
+      Our motto, Rethink Luxury, has been at the core of our branding practice
+      for the past thirty years and we are excited about helping our clients
+      navigate this latest evolution of the industry.&nbsp;
     single_image:
     quote:
     video:
