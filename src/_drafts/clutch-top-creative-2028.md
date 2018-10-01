@@ -55,7 +55,7 @@ intro_markdown: >-
   the New Luxury landscape.&nbsp;
 sections:
   - text_markdown: >-
-      **#1 - COLLECTIVE / SHARED&nbsp;**
+      **#1 COLLECTIVE / SHARED&nbsp;**
 
 
       *Definition: A group that shares in a brand experience, product or service
