@@ -85,6 +85,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       **#2 ACCESS / DEMOCRATIZATION**
 
 
@@ -103,6 +106,9 @@ sections:
       Herm&egrave;s / Apple collaboration. By introducing the Hermes brand to a
       new generation of potential brand advocates (at a much lower price point),
       both brands benefited by the association and alignment.&nbsp;
+
+
+      &nbsp;
 
 
       **#3 ETHICAL / TRANSPARENCY**
@@ -131,6 +137,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       **#4 ON-DEMAND**
 
 
@@ -157,6 +166,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       **#5 SELF-ACTUALIZATION**
 
 
@@ -181,6 +193,9 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      &nbsp;
+
+
       **#6 CUSTOMIZATION**
 
 
