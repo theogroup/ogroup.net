@@ -96,7 +96,7 @@ sections:
       your brand more accessible and obtainable for more people. &nbsp;*
 
 
-      Brand Value: Connectivity&nbsp;
+      **Brand Value: Connectivity&nbsp;**
 
 
       This strategy seems to be in direct opposition to the Luxury mentality -
@@ -149,7 +149,7 @@ sections:
       letting them drive brand adoption to meet their lifestyle choices.&nbsp;*
 
 
-      *Brand Value: Freedom&nbsp;*
+      **Brand Value: Freedom&nbsp;**
 
 
       There has been a growing cultural shit away from ownership and towards
