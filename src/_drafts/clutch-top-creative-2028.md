@@ -56,9 +56,6 @@ intro_markdown: >-
   the New Luxury landscape.&nbsp;
 sections:
   - text_markdown: >-
-      &nbsp;
-
-
       **#1 COLLECTIVE / SHARED&nbsp;**
 
 
@@ -86,9 +83,6 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      &nbsp;
-
-
       **#2 ACCESS / DEMOCRATIZATION**
 
 
@@ -107,9 +101,6 @@ sections:
       Herm&egrave;s / Apple collaboration. By introducing the Hermes brand to a
       new generation of potential brand advocates (at a much lower price point),
       both brands benefited by the association and alignment.&nbsp;
-
-
-      &nbsp;
 
 
       **#3 ETHICAL / TRANSPARENCY**
@@ -138,9 +129,6 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      &nbsp;
-
-
       **#4 ON-DEMAND**
 
 
@@ -167,9 +155,6 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      &nbsp;
-
-
       **#5 SELF-ACTUALIZATION**
 
 
@@ -194,9 +179,6 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      &nbsp;
-
-
       **#6 CUSTOMIZATION**
 
 
@@ -223,9 +205,6 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      &nbsp;
-
-
       The O Group is in the middle of helping both luxury start-ups and well
       established business add, adjust or evolve their brand strategies and
       marketing creative assets - allowing them to maintain and realize their
