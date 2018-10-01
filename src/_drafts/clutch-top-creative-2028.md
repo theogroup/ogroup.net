@@ -12,8 +12,8 @@ image: >-
 description: "As a branding agency with over 30 years specializing in the Luxury sector, we often get asked:\_ “What does Luxury mean today?” and\_ “How do luxury brands today differ from heritage luxury brands?”."
 intro_markdown: >-
   As a branding agency with over 30 years specializing in the Luxury sector, we
-  often get asked: “What does Luxury mean today?” and “How do luxury brands
-  today differ from heritage luxury brands?”.&nbsp;
+  often get asked: *“What does Luxury mean today?”* and *“How do luxury brands
+  today differ from heritage luxury brands?”.&nbsp;*
 
 
   What we have observed with our clients over the recent past (both start-ups
@@ -55,7 +55,7 @@ intro_markdown: >-
   the New Luxury landscape.&nbsp;
 sections:
   - text_markdown: >-
-      #1 - COLLECTIVE / SHARED&nbsp;
+      **#1 - COLLECTIVE / SHARED&nbsp;**
 
 
       *Definition: A group that shares in a brand experience, product or service
