@@ -85,6 +85,26 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
+      #2 - ACCESS / DEMOCRATIZATION
+
+
+      Definition: Making a product or service more widely available - making
+      your brand more accessible and obtainable for more people.&nbsp;&nbsp;
+
+
+      Brand Value: Connectivity&nbsp;
+
+
+      This strategy seems to be in direct opposition to the Luxury mentality -
+      if you create products that are widely available to everyone, can you be
+      considered a Luxury brand any longer? A great example of a thoughtful
+      implementation that increases a brand value of connectivity at the same
+      time as protecting a brand’s luxury credibility comes from the
+      Herm&egrave;s / Apple collaboration. By introducing the Hermes brand to a
+      new generation of potential brand advocates (at a much lower price point),
+      both brands benefited by the association and alignment.&nbsp;
+
+
       **#3 ETHICAL / TRANSPARENCY**
 
 
