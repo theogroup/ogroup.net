@@ -53,76 +53,14 @@ intro_markdown: >-
   directions can be or should be adapted for every brand, but there are at least
   a few (for any business) that could be looked in an effort to participate in
   the New Luxury landscape.&nbsp;
-
-
-  &nbsp;
-
-
-  What we have observed with our clients over the recent past (both start-ups
-  and successful businesses needing look at rebrand) is that traditional luxury
-  branding models are wearing thin (mostly) and are losing efficacy in today’s
-  marketplace. Why? The luxury audience has evolved and the definition for what
-  is considered luxury has evolved with them.&nbsp; No longer is the luxury
-  consumer driven by consumption alone and this outdated buying habit has even
-  become distasteful in the eyes the “enlightened”.&nbsp;
-
-
-  We are in the middle of yet another economic and branding evolutionary shift:
-  moving from an Experience Economy (where customers seek out and prefer
-  enjoyable experiences over products) and entering a Transformational Economy
-  (where experiences are elevated from mere enjoyment towards a preference for
-  personal transformation). In this new economy, the consumer becomes the expert
-  and authority - they are their own agents of change - their own brand that’s
-  in a constant state of becoming. Luxury brands who want to maintain relevancy
-  in this arena of transformation should consider exactly how their products and
-  services can become vehicles for supporting their customers personal brand and
-  enable individual and collective change.&nbsp;
-
-
-  The continued rise and pervasiveness of brand marketing concepts like
-  Sustainability, Flexibility, Responsibility, Transparency, Integrity and
-  Authenticity have become the elevated standards in many industries,&nbsp;
-  including Luxury. Through a wide variety of tactics and applications, New
-  Luxury employs these “elevated” concepts to help become part of a upgraded
-  brand landscape.&nbsp; Targeted and helpful programing and activations,
-  uncovering strategic alliances and sponsorships, producing new forms of
-  educational experiences and developing innovative product technologies are all
-  employed as effective means in illustrating credibility with consumers
-  today.&nbsp;
-
-
-  Over the past few years, we have identified 6 specific strategies for Luxury
-  business wishing to connect with an evolved consumer.&nbsp; Not all of these
-  directions can be or should be adapted for every brand, but there are at least
-  a few (for any business) that could be looked in an effort to participate in
-  the New Luxury landscape. &nbsp;
 sections:
-  - text_markdown: >-
-      **Brand Value: Belonging&nbsp;**
-
-
-      Being part of something larger then yourself and participating in a
-      movement or collective effort is a powerful motivator for brand adoption.
-      SOULCYCLE has done a great job on evolving a long standing fitness
-      activity (spinning) and transforming a standard membership into becoming
-      part of a tribe of like-minded participants - and sharing in the same
-      collective and shared experience together.&nbsp; Gucci has a nod towards
-      this strategy in their recent campaign that recalls 1960’s counter-culture
-      visuals, product development and copy which has reflects a distinct
-      anti-establishment resonance. &nbsp;
-    single_image: /uploads/screen-shot-2018-09-21-at-3-18-36-pm.png
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
   - text_markdown: >-
       #1 - COLLECTIVE / SHARED&nbsp;
 
 
-      Definition: A group that shares in a brand experience, product or service
+      *Definition: A group that shares in a brand experience, product or service
       and the bonding that comes from the collective interaction before, during
-      or after being shared.&nbsp;
+      or after being shared.&nbsp;*
 
 
       Brand Value: Belonging&nbsp;
@@ -138,31 +76,6 @@ sections:
       development and copy which has reflects a distinct anti-establishment
       resonance.&nbsp;&nbsp;
     single_image: /uploads/screen-shot-2018-09-21-at-3-18-09-pm-1.png
-    quote:
-    video:
-      video_id:
-      video_width:
-      video_height:
-  - text_markdown: >-
-      #2 - ACCESS / DEMOCRATIZATION
-
-
-      Definition: Making a product or service more widely available - making
-      your brand more accessible and obtainable for more people.&nbsp;&nbsp;
-
-
-      Brand Value: Connectivity&nbsp;
-
-
-      This strategy seems to be in direct opposition to the Luxury mentality -
-      if you create products that are widely available to everyone, can you be
-      considered a Luxury brand any longer? A great example of a thoughtful
-      implementation that increases a brand value of connectivity at the same
-      time as protecting a brand’s luxury credibility comes from the
-      Herm&egrave;s / Apple collaboration. By introducing the Hermes brand to a
-      new generation of potential brand advocates (at a much lower price point),
-      both brands benefited by the association and alignment.&nbsp;
-    single_image: /uploads/screen-shot-2018-09-21-at-3-18-53-pm.png
     quote:
     video:
       video_id:
