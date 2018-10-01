@@ -85,11 +85,11 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      #2 - ACCESS / DEMOCRATIZATION
+      **#2 ACCESS / DEMOCRATIZATION**
 
 
-      Definition: Making a product or service more widely available - making
-      your brand more accessible and obtainable for more people.&nbsp;&nbsp;
+      *Definition: Making a product or service more widely available - making
+      your brand more accessible and obtainable for more people. &nbsp;*
 
 
       Brand Value: Connectivity&nbsp;
