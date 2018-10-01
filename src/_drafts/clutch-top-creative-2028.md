@@ -1,12 +1,13 @@
 ---
 title: The Top 6 Strategies of New Luxury
-publish_date: 2018-10-23 00:00:00
+publish_date: 2018-10-01 00:00:00
 featured: false
 tags:
   - Design
   - Luxury Branding
   - News
   - rethink luxury
+  - Culture
 image: >-
   /uploads/135253-smartwatches-news-apple-watch-hermes-first-fashion-partnership-creates-unique-offering-pictures-image1-voq5bwfipa-1.jpg
 description: "As a branding agency with over 30 years specializing in the Luxury sector, we often get asked:\_ “What does Luxury mean today?” and\_ “How do luxury brands today differ from heritage luxury brands?”."
