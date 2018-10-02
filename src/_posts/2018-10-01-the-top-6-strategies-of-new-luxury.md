@@ -205,7 +205,7 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      The O Group is helping both luxury start-ups and well established business
+      The O Group is helping both luxury start-ups and well established brands
       add, adjust or evolve their brand strategies and marketing creative assets
       - allowing them to maintain and realize their relevancy for a new luxury
       consumer.
