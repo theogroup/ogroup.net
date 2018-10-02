@@ -205,10 +205,10 @@ sections:
       video_width:
       video_height:
   - text_markdown: >-
-      The O Group is in the middle of helping both luxury start-ups and well
-      established business add, adjust or evolve their brand strategies and
-      marketing creative assets - allowing them to maintain and realize their
-      relevancy for a new luxury consumer.
+      The O Group is helping both luxury start-ups and well established business
+      add, adjust or evolve their brand strategies and marketing creative assets
+      - allowing them to maintain and realize their relevancy for a new luxury
+      consumer.
 
 
       Our motto, Rethink Luxury, has been at the core of our branding practice
