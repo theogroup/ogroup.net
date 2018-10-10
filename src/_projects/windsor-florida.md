@@ -1,17 +1,20 @@
 ---
-title: Windsor Florida
-client:
+title: Windsor
+client: Windsor Florida
 show_on_homepage: false
 draft_project: true
-featured_image: /uploads/default-image.jpg
+featured_image: /uploads/screen-shot-2018-04-26-at-12-57-05-pm.png
 vimeo:
   vimeo_id:
   vimeo_width:
   vimeo_height:
-headline:
-headline_text_color: '#000000'
-overview:
-sort_order: 5
+headline: Where Leisure Becomes Legend
+headline_text_color: '#ffffff'
+overview: >-
+  Exclusive Vero beach real estate development and private sports club with 275
+  village-style homes and estates in a lush 425 acre setting complete with
+  luxury services and amenities.
+sort_order: '1'
 content_blocks:
   - text_banner:
       text_banner_text:
@@ -40,5 +43,5 @@ content_blocks:
       grid_image_image:
 contact_tagline: Let’s talk about the work we did for
 _comments:
-  draft_project: 'drafts are visible in the CMS, but are not visible on the live site'
+  draft_project:
 ---
