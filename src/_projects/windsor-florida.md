@@ -3,7 +3,7 @@ title: Windsor
 client: Windsor Florida
 show_on_homepage: false
 draft_project: true
-featured_image: /uploads/screen-shot-2018-04-26-at-12-57-05-pm.png
+featured_image: /uploads/180414-windsor-10125.jpg
 vimeo:
   vimeo_id:
   vimeo_width:
