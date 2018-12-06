@@ -30,7 +30,7 @@ sections:
       You got it all wrong because we aren’t dumb when you say you love China.
       you don’t love China, you love money. China is rich yes but China is rich
       in its values, its culture and its people and they won’t spend a penny on
-      a brand that does not respect that.” Ouch.
+      a brand that does not respect that.” *Ouch.*
     single_image: >-
       /uploads/http---cdn-cnn-com-cnnnext-dam-assets-181121164053-dolce-gabbana-shanghai-2.jpg
     quote:
@@ -44,7 +44,7 @@ sections:
       and in 2016 they offended the global LGBTQ community by stating that “The
       only family is the traditional one. No chemical offspring and
       rented<br>uterus,” claiming that “synthetic children” are created from
-      “semen chosen from a catalog.” These<br>statements prompted a backlash by
+      “semen chosen from a catalog.” These statements prompted a backlash by
       many including Sir Elton John who wrote: “How dare you refer to my
       beautiful children as ’synthetic and shame on you for wagging your
       judgmental little fingers at IVF—a miracle that has allowed legions of
