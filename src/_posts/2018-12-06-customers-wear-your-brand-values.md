@@ -1,6 +1,6 @@
 ---
 title: Customers Wear Your Brand Values
-publish_date: 2018-12-10 00:00:00
+publish_date: Invalid date
 featured: true
 tags:
   - Culture
