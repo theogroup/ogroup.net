@@ -1,7 +1,7 @@
 ---
 title: Customers Wear Your Brand Values
-publish_date: 2018-12-11 00:00:00
-featured: false
+publish_date: 2018-12-05 00:00:00
+featured: true
 tags:
   - Culture
   - Influencers
@@ -53,7 +53,10 @@ sections:
       lashed out with a<br>series of tweets labeling the singer a “fascist” and
       calling on people to #BoycottEltonJohn.
     single_image:
-    quote:
+    quote: >-
+      "Marketers should understand that an entire generation of enlightened
+      consumers operates with a philosophy that every brand they use, wear and
+      consume reflects on their own personal brand.”
     video:
       video_id:
       video_width:
