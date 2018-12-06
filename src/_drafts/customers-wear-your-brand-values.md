@@ -1,7 +1,7 @@
 ---
 title: Customers Wear Your Brand Values
 publish_date: 2018-12-11 00:00:00
-featured: false
+featured: true
 tags:
   - Culture
   - Influencers
@@ -115,7 +115,7 @@ sections:
 contact_tagline: Let's start a conversation about luxury.
 ---
 
-DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
+[...](https://www.youtube.com/watch?v=s6sumA9vd4k)DO NOT ADD CONTENT HERE. Instead, use the fields in the "Settings" sidebar, to the right.
 
 NOTE:
 
