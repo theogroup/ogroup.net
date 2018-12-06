@@ -68,9 +68,9 @@ sections:
       what a brand stands for is by tracking how it preforms and communicates
       across the available touchpoints (social media, advertising, in-store, web
       sites, etc.). It’s possible that Dolce and<br>Gabbana has a set of beliefs
-      but when the brand (especially the CEO) does not keep to those
-      beliefs<br>- you get a crisis that can have lasting or permanent damage to
-      the reputation and credibility for a brand.
+      but when the brand (especially the CEO) does not keep to those beliefs -
+      you get a crisis that can have lasting or permanent damage to the
+      reputation and credibility for a brand.
     single_image:
     quote:
     video:
