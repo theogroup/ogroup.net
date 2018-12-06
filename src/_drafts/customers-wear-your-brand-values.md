@@ -18,7 +18,7 @@ intro_markdown: >-
   of social media videos featuring a Chinese woman attempting to use chopsticks
   to eat 4 different types of Italian food titled “The Great Show”.<br>The
   overall effect was culturally insensitive at best and for many Chinese,
-  blatantly racist.<br>(https://www.youtube.com/watch?v=s6sumA9vd4k)
+  blatantly racist.
 sections:
   - text_markdown: >-
       One of the local models who backed out of the upcoming D&G show in China
@@ -67,7 +67,7 @@ sections:
       clearly understood and internalized by customers the only way to interpret
       what a brand stands for is by tracking how it preforms and communicates
       across the available touchpoints (social media, advertising, in-store, web
-      sites, etc.). It’s possible that Dolce and<br>Gabbana has a set of beliefs
+      sites, etc.). It’s possible that Dolce and Gabbana has a set of beliefs
       but when the brand (especially the CEO) does not keep to those beliefs -
       you get a crisis that can have lasting or permanent damage to the
       reputation and credibility for a brand.
