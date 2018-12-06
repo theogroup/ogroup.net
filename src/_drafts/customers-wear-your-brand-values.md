@@ -22,15 +22,15 @@ intro_markdown: >-
 sections:
   - text_markdown: >-
       One of the local models who backed out of the upcoming D&G show in China
-      posted on social media<br>after the brand came out with an apology (which
-      somehow never used the word “sorry”) saying “ Be<br>sure that from now on,
-      no one from China (and probably the whole world” will ever purchase
-      anything<br>from your brand. Sucks right? You thought you would make money
-      by coming to China and by<br>holding a show while being so disrespectful
-      and racist? You got it all wrong because we aren’t dumb<br>when you say
-      you love China. you don’t love China, you love money. China is rich yes
-      but China is<br>rich in its values, its culture and its people and they
-      won’t spend a penny on a brand that does not<br>respect that.” Ouch.
+      posted on social media after the brand came out with an apology (which
+      somehow never used the word “sorry”) saying “ Be sure that from now on, no
+      one from China (and probably the whole world” will ever purchase anything
+      from your brand. Sucks right? You thought you would make money by coming
+      to China and by holding a show while being so disrespectful and racist?
+      You got it all wrong because we aren’t dumb when you say you love China.
+      you don’t love China, you love money. China is rich yes but China is rich
+      in its values, its culture and its people and they won’t spend a penny on
+      a brand that does not respect that.” Ouch.
     single_image: >-
       /uploads/http---cdn-cnn-com-cnnnext-dam-assets-181121164053-dolce-gabbana-shanghai-2.jpg
     quote:
