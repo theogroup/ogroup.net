@@ -1,13 +1,13 @@
 ---
 title: Customers Wear Your Brand Values
 publish_date: 2018-12-11 00:00:00
-featured: true
+featured: false
 tags:
   - Culture
   - Influencers
   - Luxury Branding
   - News
-image: /uploads/default-image.jpg
+image: /uploads/dol-lb-ss17-092-1.jpg
 description: >-
   "Marketers should understand that an entire generation of enlightened
   consumers operates with a philosophy that every brand they use, wear and
@@ -31,7 +31,8 @@ sections:
       you love China. you don’t love China, you love money. China is rich yes
       but China is<br>rich in its values, its culture and its people and they
       won’t spend a penny on a brand that does not<br>respect that.” Ouch.
-    single_image:
+    single_image: >-
+      /uploads/http---cdn-cnn-com-cnnnext-dam-assets-181121164053-dolce-gabbana-shanghai-2.jpg
     quote:
     video:
       video_id:
@@ -81,7 +82,7 @@ sections:
       like this confirm our research findings that fashion and luxury
       companies<br>can no longer afford to ignore stakeholder expectations for
       transparency, openness, accountability<br>and dialogue.”
-    single_image:
+    single_image: /uploads/screen-shot-2018-11-28-at-2-24-52-pm.png
     quote:
     video:
       video_id:
