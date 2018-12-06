@@ -7,7 +7,7 @@ tags:
   - Influencers
   - Luxury Branding
   - News
-image: /uploads/dol-lb-ss17-092-2.jpg
+image: /uploads/181121164053-dolce-gabbana-shanghai-2-exlarge-169.jpg
 description: >-
   "Marketers should understand that an entire generation of enlightened
   consumers operates with a philosophy that every brand they use, wear and
