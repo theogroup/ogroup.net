@@ -79,7 +79,7 @@ sections:
       video_height:
   - text_markdown: >-
       Joakim Lundquist, CEO / Founder of Lundquist, a corporate Communications
-      firm in Milan said<br>about the issue: “The Dolce Gabbana crisis should be
+      firm in Milan said about the issue: “The Dolce Gabbana crisis should be
       seen as a wakeup call for companies in the fashion industry. Scandals like
       this confirm our research findings that fashion and luxury companies can
       no longer afford to ignore stakeholder expectations for transparency,
