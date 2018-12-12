@@ -7,7 +7,7 @@ tags:
   - Influencers
   - Luxury Branding
   - News
-image: /uploads/dscn0022.jpg
+image: /uploads/dol-lb-ss17-092-3.jpg
 description: >-
   "Marketers should understand that an entire generation of enlightened
   consumers operates with a philosophy that every brand they use, wear and
