@@ -52,7 +52,7 @@ sections:
       children…. I shall never wear Dolce and Gabbana ever again.” Gabbana
       lashed out with a series of tweets labeling the singer a “fascist” and
       calling on people to #BoycottEltonJohn.
-    single_image:
+    single_image: /uploads/dol-lb-ss17-092-2.jpg
     quote: >-
       "Marketers should understand that an entire generation of enlightened
       consumers operates with a philosophy that every brand they use, wear and
