@@ -1,13 +1,13 @@
 ---
 title: Customers Wear Your Brand Values
 publish_date: 2018-12-04 00:00:00
-featured: false
+featured: true
 tags:
   - Culture
   - Influencers
   - Luxury Branding
   - News
-image: /uploads/dol-lb-ss17-092-3.jpg
+image: /uploads/dol-lb-ss17-092-1.jpg
 description: >-
   "Marketers should understand that an entire generation of enlightened
   consumers operates with a philosophy that every brand they use, wear and
