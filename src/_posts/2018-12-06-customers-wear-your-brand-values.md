@@ -1,7 +1,7 @@
 ---
 title: Customers Wear Your Brand Values
-publish_date: 2018-12-10 00:00:00
-featured: true
+publish_date: 2018-12-04 00:00:00
+featured: false
 tags:
   - Culture
   - Influencers
