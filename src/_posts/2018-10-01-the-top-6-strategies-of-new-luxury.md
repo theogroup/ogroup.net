@@ -140,7 +140,7 @@ sections:
       **Brand Value: Freedom&nbsp;**
 
 
-      There has been a growing cultural shit away from ownership and towards
+      There has been a growing cultural shift away from ownership and towards
       on-demand use has been one of the largest global transformations (Uber,
       Lyft, Airbnb, etc.) in the past decade - adopted by mass and luxury brands
       alike. This approach is not easy to implement for many businesses that
@@ -214,6 +214,13 @@ sections:
       Our motto, Rethink Luxury, has been at the core of our branding practice
       for the past thirty years and we are excited about helping our clients
       navigate this latest evolution of the industry.&nbsp;
+    single_image:
+    quote:
+    video:
+      video_id:
+      video_width:
+      video_height:
+  - text_markdown:
     single_image:
     quote:
     video:
