@@ -33,7 +33,7 @@ intro_markdown: >-
   The O Group is proud to be recognized once again.
 sections:
   - text_markdown:
-    single_image: /uploads/b2b-companies-newyork-2019.png
+    single_image:
     quote:
     video:
       video_id:
