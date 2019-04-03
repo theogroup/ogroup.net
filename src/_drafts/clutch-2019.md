@@ -10,18 +10,18 @@ tags:
   - Press
 image: /uploads/app-cloudcannon-8.jpg
 description: >-
-  Clutch identified more than 400 business-to-business (B2B) service providers
-  as industry leaders in New York City, based on their portfolios of work and
-  past clientele, market presence, th
+  Clutch identified more than 400 agencies as industry leaders in New York City,
+  based on their portfolios of work and past clientele, market presence, thought
+  leadership, and client feedback.
 intro_markdown: >-
   **WASHINGTON, DC, February 25, 2019**&nbsp;– Clutch.co, the leading B2B
   ratings and reviews platform, released their annual list of the top agencies
   in New York City today.
 
 
-  The 401 companies included in the list excel in their respective fields by
-  providing outstanding customer service, communication, industry expertise, and
-  results.
+  Clutch identified agency industry leaders in New York City, based on their
+  portfolios of work and past clientele, market presence, thought leadership,
+  and client feedback.
 
 
   Clutch Senior Business Analyst Sara Philibotte noted the competitive nature of
