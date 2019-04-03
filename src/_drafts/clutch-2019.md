@@ -19,9 +19,8 @@ intro_markdown: >-
   in New York City today.
 
 
-  Clutch identified agency industry leaders in New York City, based on their
-  portfolios of work and past clientele, market presence, thought leadership,
-  and client feedback.
+  Clutch identified agency industry leaders based on their portfolios of work
+  and past clientele, market presence, thought leadership, and client feedback.
 
 
   Clutch Senior Business Analyst Sara Philibotte noted the competitive nature of
