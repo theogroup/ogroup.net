@@ -1,8 +1,13 @@
 ---
 title: Clutch Announces New York Industry Leaders for 2019
 publish_date: 2019-02-25 00:00:00
-featured: false
+featured: true
 tags:
+  - Design
+  - Influencers
+  - Luxury Branding
+  - News
+  - Press
 image: /uploads/app-cloudcannon-8.jpg
 description: >-
   Clutch identified more than 400 business-to-business (B2B) service providers
