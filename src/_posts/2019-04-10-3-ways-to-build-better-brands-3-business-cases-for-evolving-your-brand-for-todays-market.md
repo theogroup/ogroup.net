@@ -112,6 +112,50 @@ sections:
       video_id:
       video_width:
       video_height:
+  - text_markdown: >-
+      3. Help Consumers build their Personal Brands to maintain Relevancy
+      Challenge: The new Transformation Economy asks more from brands Benefit:
+      Establish Relevancy and Deeper Connection to Consumers
+
+
+      Consumers today are starting to seek and demand transformative products
+      and services - not settling for &nbsp;“lesser” experiences. These
+      “seeking” consum-ers are savvy, selective and informed, and want to be
+      understood on a deeper level by the brands they choose to embrace. Enter
+      the Transformational Economy where consumers are seeking more than mere
+      experience and where they have become their own authority, expert and
+      agents of change. The products and services they consume turn into
+      vehicles for supporting their own personal brand which is in a constant
+      state of becoming. Brands that can offer these consumers a more meaningful
+      route to their individual achievements will be ahead of the game and
+      forming meaningful and lasting relation-ships with their customers, not
+      just speaking with them. One brand that was born to take advantage of the
+      Transformational Economy is fitness lifestyle brand Peloton. The
+      6-year-old company’s business model is based on digital content and a
+      growing rider community—1 million at last count (celebs like Michael
+      Phelps and Neil Patrick Harris are fans)—connected through Wi-Fi and
+      social media that does the heavy brand lifting. One of the most talked
+      about startups, Peloton has gone through five funding rounds, most
+      recently tallying $325 million and, with its recent $1.25 billion
+      valuation, Peloton is now officially a unicorn. At the heart of every
+      brand touchpoint, Peleton enables their customers to succeed on their own
+      terms, from the comfort of their own homes and connected to a community of
+      like-minded trans-formational enthusiasts.&nbsp;
+
+
+      Brands like Peloton understand the consumers today who are looking for
+      products or services to provide transformational opportunities
+      and&nbsp;<br>will pay a premium for that possibility. &nbsp;A
+      transformational experience is differentiated from the conventional and
+      valued higher even than&nbsp;<br>a traditional experience. &nbsp;
+    single_image:
+    quote: >-
+      “Life is not about finding yourself.  Life is about creating yourself”  –
+      George Bernard Shaw
+    video:
+      video_id:
+      video_width:
+      video_height:
 contact_tagline: Let's start a conversation about luxury.
 ---
 
