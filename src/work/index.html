@@ -1,0 +1,236 @@
+---
+title: Our Work
+headline: A feeling. An aesthetic. A behavior. Exceeding all expectations.
+archive_intro: An archive collection of our finest work over the years.
+archive:
+  - image: /uploads/gallery-perrineidentity.jpg
+    caption: Perrine—Identity
+  - image: /uploads/gallery-robert-marcadvertising.jpg
+    caption: Robert Marc—Advertising
+  - image: /uploads/gallery-rubyetviolettepackaging.jpg
+    caption: Ruby et Violette—Packaging
+  - image: /uploads/gallery-hennessyasianamericankeyart.jpg
+    caption: Hennessy—Asian American Key Art
+  - image: /uploads/gallery-captainmorganblackbrand-book.jpg
+    caption: Captain Morgan Black—Brand Book
+  - image: /uploads/gallery-ferragamo.jpg
+    caption: Salvatore Ferragamo—Holiday Catalog
+  - image: /uploads/gallery-ritz-carltonresidencesmiamibeach.jpg
+    caption: The Ritz-Carlton Residences Miami Beach—Ad Campaign
+  - image: /uploads/gallery-razza.jpg
+    caption: Razza—Identity
+  - image: /uploads/gallery-leong.jpg
+    caption: Sandy Leong—Brand Campaign
+  - image: /uploads/gallery-crown-royal.jpg
+    caption: Crown Royal—Bartending Kit
+  - image: /uploads/gallery-hennessy-lunar.jpg
+    caption: Hennessy—Lunar New Year Key Art
+  - image: /uploads/gallery-ruby-identity.jpg
+    caption: Ruby et Violette—Identity
+  - image: /uploads/gallery-lbd.jpg
+    caption: Little Black Dress Wine—Packaging
+  - image: /uploads/gallery-ferragamo-catalog.jpg
+    caption: Salvatore Ferragamo—Holiday Catalog
+  - image: /uploads/gallery-altamarea.jpg
+    caption: Altamarea Group—Gift Cards
+  - image: /uploads/gallery-artistic-ad.jpg
+    caption: Artistic Tile—Ad Campaign
+  - image: /uploads/gallery-demours.jpg
+    caption: Demours—Identity
+  - image: /uploads/gallery-effyadvertising.jpg
+    caption: Effy—Advertising
+  - image: /uploads/gallery-robert-marc-ad.jpg
+    caption: Robert Marc—Advertising
+  - image: /uploads/gallery-ferragamo-event.jpg
+    caption: Salvatore Ferragamo—Event Collateral
+  - image: /uploads/gallery-demours-brand.jpg
+    caption: Demours—Brand Campaign
+  - image: /uploads/gallery-robert-marc-packaging.jpg
+    caption: Robert Marc—Packaging
+  - image: /uploads/gallery-lbd-bottle.jpg
+    caption: Little Black Dress Wine—Identity
+  - image: /uploads/gallery-piagetevent.jpg
+    caption: Piaget—Event Design
+  - image: /uploads/gallery-djp.jpg
+    caption: Donald J Pliner—Brand Campaign
+  - image: /uploads/gallery-aifiori.jpg
+    caption: Ai Fiori—Menus
+  - image: /uploads/gallery-demourspackaging.jpg
+    caption: Demours—Packaging
+  - image: /uploads/gallery-djp-woman.jpg
+    caption: Donald J Pliner—Brand Campaign
+  - image: /uploads/gallery-godiva.jpg
+    caption: Godiva—Retail Graphics
+  - image: /uploads/gallery-kiyume.jpg
+    caption: Kiyume—Campaign Images
+  - image: /uploads/gallery-ritz-dock.jpg
+    caption: The Ritz-Carlton Residences Miami Beach—Ad Campaign
+  - image: /uploads/gallery-carol-brodiepackaging.jpg
+    caption: Carol Brodie—Packaging
+  - image: /uploads/gallery-aifiori-window.jpg
+    caption: Ai Fiori—Identity
+  - image: /uploads/gallery-chandon-minkoff.png
+    caption: Chandon—Rebecca Minkoff Packaging
+  - image: /uploads/gallery-robert-marc-pos.jpg
+    caption: Robert Marc—Point-of-Sale Display
+  - image: /uploads/gallery-garrardcatalog.jpg
+    caption: Garrard—Catalog
+  - image: /uploads/gallery-effy-elbow.jpg
+    caption: Effy Jewelry—Advertising
+  - image: /uploads/gallery-chandon-bottles.png
+    caption: Chandon—Rebecca Minkoff Packaging
+  - image: /uploads/gallery-hilatcatalog.jpg
+    caption: Hilat—Catalog
+  - image: /uploads/gallery-km-sand.jpg
+    caption: Kimberly McDonald—Advertising
+  - image: /uploads/gallery-magnumbrand.jpg
+    caption: Magnum—Brand Campaign
+  - image: /uploads/gallery-measureidentity.jpg
+    caption: Measure—Identity
+  - image: /uploads/gallery-leongbrand.jpg
+    caption: Sandy Leong—Brand Campaign
+  - image: /uploads/gallery-lbd-lifestyle.jpg
+    caption: Little Black Dress Wine—Lifestyle Photography
+  - image: /uploads/gallery-ferragamoenvironmental.jpg
+    caption: Salvatore Ferragamo—Environmental Graphics
+  - image: /uploads/gallery-osteriamorinimenu.jpg
+    caption: Osteria Morini—Menu
+  - image: /uploads/gallery-bigbambu.jpg
+    caption: Big Bambu—Packaging
+  - image: /uploads/gallery-zacapabrand.jpg
+    caption: Ron Zacapa—Brand Book
+  - image: /uploads/gallery-vaucluse.jpg
+    caption: Vaucluse—Identity
+  - image: /uploads/gallery-km-stone.jpg
+    caption: Kimberly McDonald—Brand Campaign
+  - image: /uploads/gallery-lacoste.jpg
+    caption: Lacoste—Retail Graphics
+  - image: /uploads/gallery-artistic-chocolate.jpg
+    caption: Artistic Tile—Ad Campaign
+  - image: /uploads/gallery-kiyume-store.jpg
+    caption: Kiyume—Identity
+  - image: /uploads/gallery-hennessy-box.jpg
+    caption: 'Hennessy Cognac—Gift Box & Recipe Book'
+  - image: /uploads/gallery-djp-bags.jpg
+    caption: Donald J Pliner—Packaging
+  - image: /uploads/gallery-kiyumecampaign.jpg
+    caption: Kiyume—Campaign Images
+  - image: /uploads/gallery-hennessy-brand-book.jpg
+    caption: Hennessy Cognac—Brand Book
+description: Examples of our finest work for luxury clients.
+contact_tagline: Let’s start a conversation about luxury.
+agency_tagline: 'Who we are, and what we do.'
+---
+<section class="grid">
+  <div class="intro hero">
+    <div class="tagline-wrapper">
+      <h2>{{ page.headline }}</h2>
+    </div>
+  </div>
+</section>
+
+<section class="full">
+  {% if jekyll.environment == 'production' %}
+    <!-- for previewing drafts on cloudcannon -->
+    {% assign work = site.projects %}
+  {% else %}
+    {% assign work = site.projects | where:'draft_project','false' %}
+  {% endif %}
+  {% assign work = work | where:'show_on_homepage','false' | sort:'sort_order' %}
+  {% for project in work %}
+  <div class="showcase" style="background-position: center center">
+  <img ix-path="{% if project.featured_image %}{{ project.featured_image | replace: '/uploads/', ''}}{% endif %}"
+       alt=""
+       ix-params='{
+         "auto": "compress"
+       }'
+       class="js-img"
+       sizes="100vw">
+   <a href="{{ project.url }}">
+    <div class="inner-wrapper">
+      <div class="inner">
+        {% if project.client %}<h5>{{ project.client }}</h5>{% endif %}
+        {% if project.overview %}<h2>{{ project.overview }}</h2>{% endif %}
+        <!-- <div class="arrow-wrapper">  -->
+          <img src="/assets/images/white-arrow.png" alt="" class="arrow">
+        <!-- </div> -->
+      </div>
+    </div>
+   </a>
+  </div>
+ {% endfor %}
+</section>
+
+<section class="grid">
+  <div class="past hero">
+    <div class="square">
+      <div class="headline-wrapper">
+        <h5>luxury is</h5>
+        <h1 class="headline">timeless</h1>
+      </div>
+    </div>
+    <div class="tagline-wrapper">
+      <h2>{{ page.archive_intro }}</h2>
+    </div>
+  </div>
+</section>
+
+<section class="full">
+  <div class="grid">
+    <div id-"archive" class="grid-sizer"></div>
+    {% for item in page.archive %}
+      <div class="grid-item">
+        <img ix-path="{{ item.image | replace: '/uploads/', ''}}"
+             alt=""
+             ix-params='{
+               "auto": "compress"
+             }'
+             sizes="(min-width: 1000px) 25vw, 50vw">
+        <div class="modal">
+          <label for="modal-{{ forloop.index }}">
+            <!-- <div class="modal-trigger">Click for Modal</div> -->
+            <p class="modal-content">{{ item.caption }}</p>
+          </label>
+          <input class="modal-state" id="modal-{{ forloop.index }}" type="checkbox" />
+          <div class="modal-fade-screen">
+            <div class="modal-wrapper">
+              <div class="modal-inner">
+                <div class="modal-close" for="modal-{{ forloop.index }}"></div>
+                <img ix-path="{{ item.image | replace: '/uploads/', ''}}"
+                     alt=""
+                     ix-params='{
+                       "auto": "compress"
+                     }'
+                     sizes="(min-width: 1000px) 45vw, 80vw">
+                <p class="modal-content">{{ item.caption }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="split full">
+  <div class="split banner">
+    <div class="split split-left">
+    <a href="/contact">
+      <h5>Contact</h5>
+      {% if page.contact_tagline %}<h3>{{ page.contact_tagline }}</h3>{% endif %}
+      <div class="arrow-wrapper">
+        <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+      </div>
+    </a>
+    </div>
+    <div class="split-right">
+      <a href="/agency">
+        <h5>Agency</h5>
+        <h3>{{ page.agency_tagline }}</h3>
+        <div class="arrow-wrapper">
+          <img src="/assets/images/red-arrow.png" alt="" class="arrow">
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
