@@ -1,0 +1,123 @@
+# Title, decription, tagline and URL for your site
+# Can be used in your theme by calling 'site.title' and so on
+title: The O Group
+description: A New York & Seattle based creative agency focused on rethinking luxury.
+url: https://www.ogroup.net
+twitter: theogroup
+social:
+  links:
+    - https://twitter.com/theogroup
+    - https://www.facebook.com/theogroup
+    - https://www.linkedin.com/company/the-o-group
+logo: https://www.ogroup.net/assets/images/footer-logo.svg
+
+
+# CloudCannon uses these:
+source: src
+destination: dist
+include: ["_pages"]
+exclude:
+
+header_logo: '/assets/images/header_logo.svg'
+
+collections:
+  projects:
+    output: true
+  # authors:
+  #   output: false
+
+defaults:
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+      class: "home"
+      permalink: "/"
+      pagination:
+        enabled: false
+  -
+    scope:
+      path: "work/index.html"
+    values:
+      class: "work"
+      layout: "default"
+      permalink: "/work/"
+  -
+    scope:
+      path: "agency/index.html"
+    values:
+      class: "agency"
+      layout: "default"
+      permalink: "/agency/"
+  -
+    scope:
+      path: "blog/index.html"
+    values:
+      layout: "blog"
+      permalink: "/blog/"
+      pagination:
+        enabled: true
+  -
+    scope:
+      path: "contact/index.html"
+    values:
+      class: "contact"
+      layout: "default"
+      permalink: "/contact/"
+  -
+    scope:
+      path: "cms.md"
+    values:
+      layout: cms
+      permalink: "/cms/"
+      sitemap: false
+      _hide_content: true
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      class: "project"
+      layout: "project"
+      permalink: "/work/:slug/"
+      _hide_content: true
+  -
+    scope:
+      type: posts
+    values:
+      layout: "post"
+      class: "blog"
+      sharethis: true
+      permalink: "/blog/:title/"
+
+_comments:
+  image: The image used for FB/Twitter sharing
+  description: For SEO (not visible on the page)
+  show_on_homepage: lists the project on the HOME page, but not the WORK page
+  published: unless true, the proect will not be visible on the site
+
+# Extending Jekyll
+gems:
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
+  # - jekyll/tagging
+  # - jekyll-redirect-from
+  # - jekyll-polyglot
+  # - jekyll-paginate-v2
+  # - jekyll-archives
+  # - jekyll-feed
+
+tag_page_layout: tag
+tag_page_dir: blog/tags
+tag_permalink_style: pretty
+
+pagination:
+  enabled: true
+  per_page: 8
+  permalink: './page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'publish_date'
+  sort_reverse: true
+
