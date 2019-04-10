@@ -1,0 +1,204 @@
+$output-bourbon-deprecation-warnings: false !default;
+
+// visual grid
+$visual-grid: true;
+$visual-grid-color: yellow;
+$visual-grid-index: front;
+$visual-grid-opacity: 0.2;
+
+// base
+@import
+  "node_modules/normalize.scss/normalize",
+  "node_modules/normalize-opentype.css/normalize-opentype.scss",
+  "bourbon",
+  "base/base", // includes grid-settings, which must be imported before neat
+  "neat",
+  "base/layouts";
+
+// .millertextbold {
+//   font-family: "Miller Text";
+//   font-style: normal;
+//   font-weight: bold;
+// }
+
+// .millertextitalic {
+//   font-family: "Miller Text";
+//   font-style: italic;
+//   font-weight: normal;
+// }
+
+// .millertextroman {
+//   font-family: "Miller Text";
+//   font-style: normal;
+//   font-weight: normal;
+// }
+
+// .millerdisplayitalic {
+//   font-family: MillerDisplay;
+//   font-style: italic;
+//   font-weight: normal;
+// }
+
+// ."MillerDisplay Light" {
+//   font-family: "MillerDisplay Light";
+//   font-style: normal;
+//   font-weight: normal;
+// }
+
+// ."MillerDisplay Light"italic {
+//   font-family: "MillerDisplay Light";
+//   font-style: italic;
+//   font-weight: normal;
+// }
+
+// .millerdisplayroman {
+//   font-family: MillerDisplay;
+//   font-style: normal;
+//   font-weight: normal;
+// }
+
+
+// modules
+@import
+  "modules/visual-grid",
+  "modules/articles",
+  "modules/footer",
+  "modules/header",
+  "modules/hamburger",
+  "modules/flickity",
+  "modules/overlay",
+  "modules/index",
+  "modules/agency",
+  "modules/project",
+  "modules/work",
+  "modules/contact",
+  "modules/blog",
+  "modules/fontawesome",
+  "modules/webfonts",
+  "modules/modal",
+  "modules/utilities-accessibility",
+  "modules/utilities-iframes",
+  "modules/utilities";
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-top: rem(50);
+}
+
+body:before {
+  display: none;
+}
+
+body.grid:before {
+  display: block;
+}
+
+.js-img {
+  display: none;
+}
+
+main {
+  min-height: 100vh;
+  section.grid {
+    @include outer-container();
+    @include pad(0 20px);
+  }
+  section.full {
+    clear: both;
+  }
+}
+
+h1 {
+  font-family: "Miller Text";
+  font-size: rem(42);
+  letter-spacing: .03em;
+  font-weight: 100;
+  font-style: italic;
+  color: $text;
+}
+
+h2 {
+  font-family: "MillerDisplay Light";
+  @include media($mobile-down) {
+    font-size: 2rem;
+  }
+  @include media($desktop-up) {
+    font-size: rem(48);
+  }
+  font-weight: 100;
+  color: $text;
+}
+
+h3 {
+  font-family: MillerDisplay;
+  font-size: rem(30);
+  font-weight: normal;
+  font-style: normal;
+  color: $text;
+  line-height: 1.25;
+}
+
+h5 {
+  font-family: FranklinGothicURW-Boo;
+  font-size: rem(14);
+  color: #d2aa64;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.mobile {
+  @include media($mobile-down) {
+    display: block;
+  }
+  @include media($desktop-up) {
+     display: none;
+  }
+}
+
+.desktop {
+  @include media($mobile-down) {
+     display: none;
+  }
+  @include media($desktop-up) {
+     display: block;
+  }
+}
+
+button:focus {
+    outline:none;
+}
+
+body.guide {
+  main {
+    margin: 5rem 3rem;
+  }
+}
+
+.wh-search-paginate {
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  li {
+    display: inline;
+    a {
+      font-family: MillerDisplay;
+      font-size: 1.2rem;
+      color: $text;
+      margin-left: .15rem;
+      margin-right: .15rem;
+    }
+  }
+  li.active a {
+    color: #ccc;
+  }
+}
+
+.previous {
+  margin-right: 1rem;
+}
+.next {
+  margin-left: 1rem;
+}
+
