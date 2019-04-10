@@ -5,7 +5,7 @@ title: >-
 publish_date: 2019-04-12 00:00:00
 featured: false
 tags:
-image: /uploads/default-image.jpg
+image:
 description:
 intro_markdown: >-
   “What exactly is a brand and why does branding matter?” Even though very few
