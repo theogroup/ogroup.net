@@ -1,6 +1,6 @@
 ---
 title: The Top 6 Strategies of New Luxury
-publish_date: 2018-10-01 00:00:00
+publish_date: 2019-02-04 00:00:00
 featured: false
 tags:
   - Design
